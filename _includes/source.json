@@ -106,11 +106,6 @@
       ],
       "releaseChannels": [
         {
-        "track": "alpha",
-        "releases": [
-        ]
-        },
-        {
         "track": "beta",
         "releases": [
           {
