@@ -220,15 +220,15 @@
       "appPermissions": {
         "privacy": [
           {
-            "type": "local-network",
+            "name": "local-network",
             "usageDescription": "SideStore requires access to the local network to communicate with nearby devices."
           },
           {
-            "type": "background-fetch",
+            "name": "background-fetch",
             "usageDescription": "SideStore periodically refreshes apps in the background to prevent them from expiring."
           },
           {
-            "type": "background-audio",
+            "name": "background-audio",
             "usageDescription": "Allows SideStore to run longer than 30 seconds when refreshing apps in background."
           }
         ]
