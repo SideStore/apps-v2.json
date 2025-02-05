@@ -216,9 +216,7 @@
           "type": "background-audio",
           "usageDescription": "Allows SideStore to run longer than 30 seconds when refreshing apps in background."
         }
-      ]
-    }
-  ],
+      ],
   "appPermissions": {
       "entitlements":[
         
