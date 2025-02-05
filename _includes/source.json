@@ -110,12 +110,12 @@
           "releases": [
             {
               "version": "0.6.0",
-              "date": "2025-02-05T04:36:35Z",
-              "localizedDescription": "This is nightly release for revision: ea3e6796622917ff7bc934fc4181ffff053f666f",
+              "date": "2025-02-05T06:21:13Z",
+              "localizedDescription": "This is nightly release for revision: a91740d68af84d6ad3827c95e5b262ac1d4f7ed5",
               "downloadURL": "https://github.com/SideStore/SideStore/releases/download/nightly/SideStore.ipa",
-              "size": 26523639,
-              "sha256": "2ca26811a2d9bab11e5fcef2a4743faeb27a3d2085f092d35098859c867681d0",
-              "commitID": "ea3e679"
+              "size": 26524226,
+              "sha256": "65ec2c6470cd5d6e8de9d54a74e3bb6368825395c97e025629ecda365c188f6f",
+              "commitID": "a91740d"
             }
           ]
         },
@@ -220,16 +220,16 @@
       "appPermissions": {
         "entitlements": [
           {
-            "name": "com.apple.security.application-groups"            
+            "name": "com.apple.security.application-groups"
           },
           {
-            "name": "aps-environment"            
+            "name": "aps-environment"
           },
           {
-            "name": "com.apple.developer.siri"            
+            "name": "com.apple.developer.siri"
           },
           {
-            "name": "get-task-allow"            
+            "name": "get-task-allow"
           }
         ],
         "privacy": [
