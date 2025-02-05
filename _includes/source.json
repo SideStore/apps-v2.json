@@ -218,6 +218,20 @@
         }
       ],
       "appPermissions": {
+        "entitlements": [
+          {
+            "name": "com.apple.security.application-groups"            
+          },
+          {
+            "name": "aps-environment"            
+          },
+          {
+            "name": "com.apple.developer.siri"            
+          },
+          {
+            "name": "get-task-allow"            
+          }
+        ],
         "privacy": [
           {
             "name": "LocalNetwork",
