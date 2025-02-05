@@ -217,11 +217,8 @@
           "usageDescription": "Allows SideStore to run longer than 30 seconds when refreshing apps in background."
         }
       ],
-  "appPermissions": {
-      "entitlements":[
-        
-      ],
-      "privacy": [
+      "appPermissions": {
+        "privacy": [
           {
             "type": "local-network",
             "usageDescription": "SideStore requires access to the local network to communicate with nearby devices."
