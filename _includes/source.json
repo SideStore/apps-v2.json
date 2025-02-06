@@ -106,6 +106,20 @@
       ],
       "releaseChannels": [
         {
+          "track": "alpha",
+          "releases": [
+            {
+              "version": "0.6.0-20250206.1",
+              "date": "2025-02-06T04:02:13Z",
+              "localizedDescription": "This is release for:\n  - version: \"0.6.0-alpha.2025.02.06.1+81f64b7\"\n  - revision: \"81f64b7\"\n  - track: \"alpha\"",
+              "downloadURL": "https://github.com/SideStore/SideStore/releases/download/alpha/SideStore.ipa",
+              "size": 26518366,
+              "sha256": "8c2eeea0afe2437d7fd1018f89ff2e8c40e370d00ce00edf0a513b97fdcfbcc3",
+              "commitID": "81f64b7"
+            }
+          ]
+        },
+        {
           "track": "beta",
           "releases": [
             {
