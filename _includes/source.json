@@ -109,13 +109,13 @@
           "track": "beta",
           "releases": [
             {
-              "version": "0.6.0-20250206.1",
-              "date": "2025-02-06T01:24:28Z",
-              "localizedDescription": "This is release for:\n  - version: \"0.6.0-nightly.2025.02.06.1+5c32e27\"\n  - revision: \"5c32e27\"\n  - track: \"nightly\"",
+              "version": "-.",
+              "date": "2025-02-06T01:37:04Z",
+              "localizedDescription": "This is release for:\n  - version: \"\"\n  - revision: \"70c5814\"\n  - track: \"nightly\"",
               "downloadURL": "https://github.com/SideStore/SideStore/releases/download/nightly/SideStore.ipa",
-              "size": 26518220,
-              "sha256": "fc8696bc22ab067ad849d8416ead0108c6a86103af12ef07f3678e428f28194a",
-              "commitID": "5c32e27"
+              "size": 26518232,
+              "sha256": "65afa15bf5d857e1b33b855d3c0cf2b9a1578b8d3b8c5c94edafabf669236cf6",
+              "commitID": "70c5814"
             }
           ]
         },
