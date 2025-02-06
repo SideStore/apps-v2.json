@@ -110,12 +110,12 @@
           "releases": [
             {
               "version": "0.6.0-20250206.2",
-              "date": "2025-02-06T07:20:06Z",
-              "localizedDescription": "This is release for:\n  - version: \"0.6.0-alpha.2025.02.06.2+72534ed\"\n  - revision: \"72534ed\"          track: \"alpha\" \n  - timestamp: \"Thu Feb  6 07:19:43 2025\"",
+              "date": "2025-02-06T07:43:12Z",
+              "localizedDescription": "This is release for:\n  - version: \"0.6.0-alpha.2025.02.06.2+7a7f29e\"\n  - revision: \"7a7f29e\"          track: \"alpha\" \n  - timestamp: \"Thu Feb  6 07:42:53 2025\"",
               "downloadURL": "https://github.com/SideStore/SideStore/releases/download/alpha/SideStore.ipa",
-              "size": 26516709,
-              "sha256": "657df06cd20535bac903a41e005bb1b263031725c4d4e94bdedb673c227c181f",
-              "commitID": "72534ed"
+              "size": 26516727,
+              "sha256": "1a7215c0b7ea505576c907a5947e08a6006cd71f39baf9dfff5d4c86c28488ba",
+              "commitID": "7a7f29e"
             }
           ]
         },
