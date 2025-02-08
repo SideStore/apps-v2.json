@@ -154,7 +154,16 @@
         "https://sidestore.io/apps-v2.json/apps/sidestore/apps-light.png",
         "https://sidestore.io/apps-v2.json/apps/sidestore/news-light.png"
       ],
-      "versions": [],
+      "versions": [
+        {
+          "version": "0.6.0-20250208.11+500dc1e",
+          "date": "2025-02-08T05:43:25Z",
+          "localizedDescription": "This is release for:\n  - version: \"0.6.0-beta.2025.02.08.11+500dc1e\"\n  - revision: \"500dc1e\"\n  - timestamp: \"Sat Feb  8 05:43:07 2025\"",
+          "downloadURL": "https://github.com/SideStore/SideStore/releases/download/alpha/SideStore.ipa",
+          "size": 26494800,
+          "sha256": "fe15e39584bb83ca6a82310ff8348064de24682e316a1c2528f5075ec7db910c"
+        }
+      ],
       "permissions": [
         {
           "type": "local-network",
@@ -190,7 +199,8 @@
             "usageDescription": "SideStore requires access to the local network to communicate with nearby devices."
           }
         ]
-      }
+      },
+      "beta": "true"
     }
   ],
   "news": [
