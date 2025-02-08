@@ -233,6 +233,14 @@
         "https://sidestore.io/apps-v2.json/apps/sidestore/news-light.png"
       ],
       "versions": [
+        {
+          "version": "0.6.0-20250208.6+e5144d1",
+          "date": "2025-02-08T06:21:47Z",
+          "localizedDescription": "This is release for:\n  - version: \"0.6.0-beta.2025.02.08.6+e5144d1\"\n  - revision: \"e5144d1\"\n  - timestamp: \"Sat Feb  8 06:21:29 2025\"",
+          "downloadURL": "https://github.com/SideStore/SideStore/releases/download/nightly/SideStore.ipa",
+          "size": 26494988,
+          "sha256": "3ac6f327d484837a63bb1b649262cf2cf191e54a6a135faa77001c6d3873abc9"
+        }
       ],
       "permissions": [
         {
