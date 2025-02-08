@@ -200,7 +200,7 @@
           }
         ]
       },
-      "beta": "true"
+      "beta": true
     }
   ],
   "news": [
