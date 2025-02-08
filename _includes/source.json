@@ -156,6 +156,14 @@
       ],
       "versions": [
         {
+          "version": "0.6.0-20250208.13+32cf9b0",
+          "date": "2025-02-08T06:14:15Z",
+          "localizedDescription": "This is release for:\n  - version: \"0.6.0-beta.2025.02.08.13+32cf9b0\"\n  - revision: \"32cf9b0\"\n  - timestamp: \"Sat Feb  8 06:13:57 2025\"",
+          "downloadURL": "https://github.com/SideStore/SideStore/releases/download/alpha/SideStore.ipa",
+          "size": 26495018,
+          "sha256": "f6cab686dc31d06a1a974ffcf11a7c8795240b8762da507262f3a42fbb868dde"
+        },
+        {
           "version": "0.6.0-20250208.12+8591733",
           "date": "2025-02-08T06:01:52Z",
           "localizedDescription": "This is release for:\n  - version: \"0.6.0-beta.2025.02.08.12+8591733\"\n  - revision: \"8591733\"\n  - timestamp: \"Sat Feb  8 06:01:33 2025\"",
