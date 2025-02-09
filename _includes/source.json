@@ -221,12 +221,12 @@
       ],
       "versions": [
         {
-          "version": "0.6.0-20250208.13+533655c",
-          "date": "2025-02-08T15:01:58Z",
-          "localizedDescription": "This is release for:\n  - version: \"0.6.0-nightly.2025.02.08.13+533655c\"\n  - revision: \"533655c\"\n  - timestamp: \"Sat Feb  8 15:01:38 2025\"",
+          "version": "0.6.0-20250209.14+7b61316",
+          "date": "2025-02-09T12:08:38Z",
+          "localizedDescription": "This is release for:\n  - version: \"0.6.0-nightly.2025.02.09.14+7b61316\"\n  - revision: \"7b61316\"\n  - timestamp: \"Sun Feb  9 12:08:20 2025\"",
           "downloadURL": "https://github.com/SideStore/SideStore/releases/download/nightly/SideStore.ipa",
-          "size": 26495840,
-          "sha256": "1aaf850d256b8226ff9e1d314f1b3562bafb8567921b12bd98ed09424fb7413f"
+          "size": 26475733,
+          "sha256": "7ed6d3cbab19a2dc547afcd907c4a3c7f13db30035df16f83402251978dfbff4"
         }
       ],
       "permissions": [
