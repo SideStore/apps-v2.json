@@ -103,12 +103,12 @@
           "track": "nightly",
           "releases": [
             {
-              "version": "0.6.0-20250210.20+47c89f9",
-              "date": "2025-02-10T08:23:46Z",
-              "localizedDescription": "This is release for:\n  - version: \"0.6.0-nightly.2025.02.10.20+47c89f9\"\n  - revision: \"47c89f9\"\n  - timestamp: \"Mon Feb 10 08:23:28 2025\"",
+              "version": "0.6.0-20250210.21+eb0e132",
+              "date": "2025-02-10T08:28:11Z",
+              "localizedDescription": "This is release for:\n  - version: \"0.6.0-nightly.2025.02.10.21+eb0e132\"\n  - revision: \"eb0e132\"\n  - timestamp: \"Mon Feb 10 08:27:53 2025\"",
               "downloadURL": "https://github.com/SideStore/SideStore/releases/download/nightly/SideStore.ipa",
-              "size": 26491571,
-              "sha256": "2f67023b4345304fb70ccf7d5c13921f67157421283a388f17059192217b9912"
+              "size": 26491440,
+              "sha256": "d10560f55c6e82a5500c12b627f32223e5f937f7c85acfdfe9b146f658dc8457"
             }
           ]
         },
