@@ -100,7 +100,7 @@
       ],
       "releaseChannels": [
         {
-          "track": "beta",
+          "track": "nightly",
           "releases": [
             {
               "version": "0.6.0",
