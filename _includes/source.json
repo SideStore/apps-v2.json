@@ -107,12 +107,12 @@
           "track": "nightly",
           "releases": [
             {
-              "version": "0.6.0-20250216.24+c040044",
-              "date": "2025-02-16T16:06:09Z",
-              "localizedDescription": "This is release for:\n  - version: \"0.6.0-nightly.2025.02.16.24+c040044\"\n  - revision: \"c040044\"\n  - timestamp: \"Sun Feb 16 16:05:50 2025\"",
+              "version": "0.6.0-20250226.25+8cb3de9",
+              "date": "2025-02-26T23:46:26Z",
+              "localizedDescription": "This is release for:\n  - version: \"0.6.0-nightly.2025.02.26.25+8cb3de9a\"\n  - revision: \"8cb3de9\"\n  - timestamp: \"Wed Feb 26 23:46:15 2025\"\n\nRelease Notes:\n#### What's Changed\n- CI: enable build on push for nightly temporarily\n- CI: fix: deploy errors\n- CI: fix: deploy must run if tests were sccessful or skipped\n- Makefile: build-tests need destination param same as run-tests\n- CI: Try composite build\n- UITests: Fix issue with UITests bundleID causing test failures in CI\n- CI: replaced irgaly/xcode-cache with gh-actions-cache - CI: serialization bug fix - reverted concurrency lock to workflow level instead of job level which was causing issues due to incorrect cache at expected jobs - CI: Boot simulator in async instead of doing in a blocking step - CI: integrate publishing release notes - CI: moved posting to beta-build-num repo into build-job instead of deploy coz we want to roll the beta-build-num for each success of build-job even if the workflow failed.\n\n#### Full Changelog: [05ccccde...8cb3de9a](https://github.com/SideStore/SideStore/compare/05ccccded8145e3912d76b6048d4a31a7e421bed...8cb3de9ab5cc56a0d22b5c6947ee74af5d22b939)",
               "downloadURL": "https://github.com/SideStore/SideStore/releases/download/nightly/SideStore.ipa",
-              "size": 26492370,
-              "sha256": "12c972ee940cfdce30f210cd1a0fad8b9411c208e7f14adc17124f7d057602ac"
+              "size": 26323284,
+              "sha256": "6cceedef1032cdea0e335bed0307e15be824d8517303c8bb8c077d7a5a8f1b12"
             }
           ]
         },
