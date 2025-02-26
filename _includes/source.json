@@ -120,12 +120,12 @@
           "track": "alpha",
           "releases": [
             {
-              "version": "0.6.0-20250226.25+f3de3ee",
-              "date": "2025-02-26T12:59:30Z",
-              "localizedDescription": "This is release for:\n  - version: \"0.6.0-alpha.2025.02.26.25+f3de3eeb\"\n  - revision: \"f3de3ee\"\n  - timestamp: \"Wed Feb 26 12:59:18 2025\"\n\nRelease Notes:\nTag 'alpha' not found in release.md",
+              "version": "0.6.0-20250226.25+1f37daf",
+              "date": "2025-02-26T13:34:08Z",
+              "localizedDescription": "This is release for:\n  - version: \"0.6.0-alpha.2025.02.26.25+1f37daff\"\n  - revision: \"1f37daf\"\n  - timestamp: \"Wed Feb 26 13:33:55 2025\"\n\nRelease Notes:\n#### What's Changed\n- ReleaseNotes: fixes for release-notes updater py script\n\n#### Full Changelog: [f3de3eeb...1f37daff](https://github.com/SideStore/SideStore/compare/f3de3eebd813daadc646872f0665de77b3650d86...1f37daff0bf827b7ca0bd75b947ec8b08af2597c)",
               "downloadURL": "https://github.com/SideStore/SideStore/releases/download/alpha/SideStore.ipa",
-              "size": 26323337,
-              "sha256": "47434e60a3b233009421959c721bf1775742f01135afe4945bf996a48bcbb19b"
+              "size": 26323338,
+              "sha256": "d6966676775d7cfe8873c4aa6753d6be44bf9f3bfe9ef9bd1988b1e3692f785e"
             }
           ]
         },
