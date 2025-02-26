@@ -8,7 +8,7 @@
       "name": "SideStore",
       "bundleIdentifier": "com.SideStore.SideStore",
       "developerName": "SideStore Team",
-      "localizedDescription": "SideStore is an alternative app store for non-jailbroken devices. \n\nSideStore allows you to sideload other .ipa files and apps from the Files app or via the SideStore Library",
+      "localizedDescription": "Hey there side commmunity. This is a patch to improve stability of sidestore. more specifically for sources.",
       "iconURL": "https://sidestore.io/apps-v2.json/apps/sidestore/icon.png",
       "tintColor": "A405FA",
       "screenshotURLs": [
@@ -19,13 +19,10 @@
         "https://sidestore.io/apps-v2.json/apps/sidestore/apps-light.png",
         "https://sidestore.io/apps-v2.json/apps/sidestore/news-light.png"
       ],
-
       "version": "0.5.10",
       "date": "2024-12-27T01:01:50Z",
-      "localizedDescription": "Hey there side commmunity. This is a patch to improve stability of sidestore. more specifically for sources.",
       "downloadURL": "https://github.com/SideStore/SideStore/releases/download/0.5.10/SideStore.ipa",
       "size": 9300000,
-  
       "versions": [
         {
           "version": "0.5.10",
@@ -123,12 +120,12 @@
           "track": "alpha",
           "releases": [
             {
-              "version": "0.6.0-20250224.25+84bb1f7",
-              "date": "2025-02-24T14:54:33Z",
-              "localizedDescription": "This is release for:\n  - version: \"0.6.0-alpha.2025.02.24.25+84bb1f7\"\n  - revision: \"84bb1f7\"\n  - timestamp: \"Mon Feb 24 14:54:20 2025\"",
+              "version": "0.6.0-20250226.25+136f07e",
+              "date": "2025-02-26T07:43:35Z",
+              "localizedDescription": "This is release for:\n  - version: \"0.6.0-alpha.2025.02.26.25+136f07e\"\n  - revision: \"136f07e\"\n  - timestamp: \"Wed Feb 26 07:43:24 2025\"",
               "downloadURL": "https://github.com/SideStore/SideStore/releases/download/alpha/SideStore.ipa",
-              "size": 26511192,
-              "sha256": "2db58a8bba9640f0acaffe24e35e104683da1ced453aa5ff91c69fee7dec8cf4"
+              "size": 26323356,
+              "sha256": "f6625aa45ae3d5372f0fff6c6f34f9eeddf5c66ec191d8b8472002c37bd017bd"
             }
           ]
         },
