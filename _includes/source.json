@@ -120,12 +120,12 @@
           "track": "alpha",
           "releases": [
             {
-              "version": "0.6.0-20250226.25+1f37daf",
-              "date": "2025-02-26T13:34:08Z",
-              "localizedDescription": "This is release for:\n  - version: \"0.6.0-alpha.2025.02.26.25+1f37daff\"\n  - revision: \"1f37daf\"\n  - timestamp: \"Wed Feb 26 13:33:55 2025\"\n\nRelease Notes:\n#### What's Changed\n- ReleaseNotes: fixes for release-notes updater py script\n\n#### Full Changelog: [f3de3eeb...1f37daff](https://github.com/SideStore/SideStore/compare/f3de3eebd813daadc646872f0665de77b3650d86...1f37daff0bf827b7ca0bd75b947ec8b08af2597c)",
+              "version": "0.6.0-20250226.25+4668f84",
+              "date": "2025-02-27T00:03:53Z",
+              "localizedDescription": "This is release for:\n  - version: \"0.6.0-alpha.2025.02.26.25+4668f849\"\n  - revision: \"4668f84\"\n  - timestamp: \"Thu Feb 27 00:03:41 2025\"\n\nRelease Notes:\n#### What's Changed\n- CI: fix release notes updater for invalid revision as input\n- CI: fix: deploy errors\n- CI: fix: deploy must run if tests were sccessful or skipped\n- Makefile: build-tests need destination param same as run-tests\n- CI: Try composite build\n\n#### Full Changelog: [7243d796...4668f849](https://github.com/SideStore/SideStore/compare/7243d79646410ce62f52574aa003428e2ac10949...4668f8499bbceea8fced695ee482b5998d0b602c)",
               "downloadURL": "https://github.com/SideStore/SideStore/releases/download/alpha/SideStore.ipa",
-              "size": 26323338,
-              "sha256": "d6966676775d7cfe8873c4aa6753d6be44bf9f3bfe9ef9bd1988b1e3692f785e"
+              "size": 26323265,
+              "sha256": "303ac33378dacaeb39922790e4487e471733c402dd4049587dc3b4c70b21b4e3"
             }
           ]
         },
