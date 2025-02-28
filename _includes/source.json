@@ -120,12 +120,12 @@
           "track": "alpha",
           "releases": [
             {
-              "version": "0.6.0-20250228.25+729fca9",
-              "date": "2025-02-28T04:08:08Z",
-              "localizedDescription": "This is release for:\n  - version: \"0.6.0-alpha.2025.02.28.25+729fca91\"\n  - revision: \"729fca9\"\n  - timestamp: \"Fri Feb 28 04:07:56 2025\"\n\nRelease Notes:\n#### What's Changed\n- Merge pull request #897 from SideStore/markdown-for-update-description\n- Feature: Markdown view integration complete (if issues arrise can fix it asap)\n- Fix: CollapsingMarkdownView was not reloading properly during layoutSubviews phase\n- Fixes: disabled animations for the CollapsingMarkdownView when expanding/collapsing due to visual glitches\n- Feature: Added markdown rendering for in-app update description field\n- CI: serialize on whole workflow instead of individual jobs\n- CI: fix release notes updater for invalid revision as input\n- CI: enable build on push for nightly temporarily\n\n#### Full Changelog: [b316e84f...729fca91](https://github.com/SideStore/SideStore/compare/b316e84f0debd944ff7b2d37b7f4918fabf4df4b...729fca9100c1dd8717d34e9a8bdb08f4781a4328)",
+              "version": "0.6.0-20250228.25+c8127fb",
+              "date": "2025-02-28T19:33:01Z",
+              "localizedDescription": "This is release for:\n  - version: \"0.6.0-alpha.2025.02.28.25+c8127fb3\"\n  - revision: \"c8127fb\"\n  - timestamp: \"Fri Feb 28 19:32:49 2025\"\n\nRelease Notes:\n#### What's Changed\n- CI: updated stable.yml for recent fixes\n\n#### Full Changelog: [729fca91...c8127fb3](https://github.com/SideStore/SideStore/compare/729fca9100c1dd8717d34e9a8bdb08f4781a4328...c8127fb3b9042d89bef59c2007d6fda68c3b91b8)",
               "downloadURL": "https://github.com/SideStore/SideStore/releases/download/alpha/SideStore.ipa",
-              "size": 26349593,
-              "sha256": "da7956612edf3372d4dd47805dee01c33bc2c458a167de7bb53395b85de440cf"
+              "size": 26349606,
+              "sha256": "813fbc858783f3dceaa1d8a1c1dac31f7a315f00256e050ec255d8b86e585b82"
             }
           ]
         },
