@@ -107,12 +107,12 @@
           "track": "nightly",
           "releases": [
             {
-              "version": "0.6.0-20250227.25+729fca9",
-              "date": "2025-02-28T00:07:52Z",
-              "localizedDescription": "This is release for:\n  - version: \"0.6.0-nightly.2025.02.27.25+729fca91\"\n  - revision: \"729fca9\"\n  - timestamp: \"Fri Feb 28 00:07:41 2025\"\n\nRelease Notes:\n#### What's Changed\n- Merge pull request #897 from SideStore/markdown-for-update-description\n- Feature: Markdown view integration complete (if issues arrise can fix it asap)\n- Fix: CollapsingMarkdownView was not reloading properly during layoutSubviews phase\n- Fixes: disabled animations for the CollapsingMarkdownView when expanding/collapsing due to visual glitches\n- Feature: Added markdown rendering for in-app update description field\n- CI: serialize on whole workflow instead of individual jobs\n- CI: fix release notes updater for invalid revision as input\n\n#### Full Changelog: [f11e27c7...729fca91](https://github.com/SideStore/SideStore/compare/f11e27c712c1cce0852b3a495a8115081f86eb5e...729fca9100c1dd8717d34e9a8bdb08f4781a4328)",
+              "version": "0.6.0-20250302.25+39d0835",
+              "date": "2025-03-02T00:50:33Z",
+              "localizedDescription": "This is release for:\n  - version: \"0.6.0-nightly.2025.03.02.25+39d0835f\"\n  - revision: \"39d0835\"\n  - timestamp: \"Sun Mar  2 00:50:22 2025\"\n\nRelease Notes:\n#### What's Changed\n- Nothing...",
               "downloadURL": "https://github.com/SideStore/SideStore/releases/download/nightly/SideStore.ipa",
-              "size": 26349591,
-              "sha256": "7ceee00d05087df0fbd23234162b7d3ed61a6339e35ef88f3c9ae67e3ebf7b62"
+              "size": 26349577,
+              "sha256": "f9829d36de5d924cb40eb136f277d5ee170312686d9848271cd28b95d26f5a83"
             }
           ]
         },
