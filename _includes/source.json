@@ -8,7 +8,7 @@
       "name": "SideStore",
       "bundleIdentifier": "com.SideStore.SideStore",
       "developerName": "SideStore Team",
-      "localizedDescription": "Hey there side commmunity. This is a patch to improve stability of sidestore. more specifically for sources.",
+      "localizedDescription": "It’s March and we have some big changes. We’ve finally included altstore 2.0 changes into SideStore. So you will get all the benefits of that and also some fixes in SideStore. Enjoy!\n\n What's Changed: - Altstore 2.0 changes in https://github.com/SideStore/SideStore/pull/794 \n\n - [Refresh]: Remove install stuffs from refresh since in refresh should only renew provisioning profiles by @mahee96 in https://github.com/SideStore/SideStore/pull/ \n\n - [Settings]: Fix: DisableAppLimit switch reverting back to off state even if on iOS where sparseRestore is not patched yet by @mahee96 in https://github.com/SideStore/SideStore/pull/850 \n\n - [Backup]: Fix: update logic during install missed since override keyword was missing by @mahee96 in https://github.com/SideStore/SideStore/pull/857 \n\n - Feature: Bulk sources-add in sources screen with capability to stage them before persisting into database by @mahee96 in https://github.com/SideStore/SideStore/pull/888 \n\n - Feature: Render in-app update description as (full) markdown by @mahee96 in https://github.com/SideStore/SideStore/pull/897",
       "iconURL": "https://sidestore.io/apps-v2.json/apps/sidestore/icon.png",
       "tintColor": "A405FA",
       "screenshotURLs": [
@@ -19,11 +19,18 @@
         "https://sidestore.io/apps-v2.json/apps/sidestore/apps-light.png",
         "https://sidestore.io/apps-v2.json/apps/sidestore/news-light.png"
       ],
-      "version": "0.5.10",
-      "date": "2024-12-27T01:01:50Z",
-      "downloadURL": "https://github.com/SideStore/SideStore/releases/download/0.5.10/SideStore.ipa",
-      "size": 9300000,
+      "version": "0.6.0",
+      "date": "2025-3-08T01:01:50Z",
+      "downloadURL": "https://github.com/SideStore/SideStore/releases/download/0.6.0/SideStore.ipa",
+      "size": 26300000,
       "versions": [
+        {
+          "version": "0.6.0",
+          "date": "2025-3-08T01:01:50Z",
+          "localizedDescription": "It’s March and we have some big changes. We’ve finally included altstore 2.0 changes into SideStore. So you will get all the benefits of that and also some fixes in SideStore. Enjoy!\n\n What's Changed: - Altstore 2.0 changes in https://github.com/SideStore/SideStore/pull/794 \n\n - [Refresh]: Remove install stuffs from refresh since in refresh should only renew provisioning profiles by @mahee96 in https://github.com/SideStore/SideStore/pull/ \n\n - [Settings]: Fix: DisableAppLimit switch reverting back to off state even if on iOS where sparseRestore is not patched yet by @mahee96 in https://github.com/SideStore/SideStore/pull/850 \n\n - [Backup]: Fix: update logic during install missed since override keyword was missing by @mahee96 in https://github.com/SideStore/SideStore/pull/857 \n\n - Feature: Bulk sources-add in sources screen with capability to stage them before persisting into database by @mahee96 in https://github.com/SideStore/SideStore/pull/888 \n\n - Feature: Render in-app update description as (full) markdown by @mahee96 in https://github.com/SideStore/SideStore/pull/897",
+          "downloadURL": "https://github.com/SideStore/SideStore/releases/download/0.6.0/SideStore.ipa",
+          "size": 26300000
+        },
         {
           "version": "0.5.10",
           "date": "2024-12-27T01:01:50Z",
