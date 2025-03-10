@@ -114,12 +114,12 @@
           "track": "nightly",
           "releases": [
             {
-              "version": "0.6.0-20250303.25+3785891",
-              "date": "2025-03-03T22:18:10Z",
-              "localizedDescription": "This is release for:\n  - version: \"0.6.0-nightly.2025.03.03.25+37858919\"\n  - revision: \"3785891\"\n  - timestamp: \"Mon Mar  3 22:17:57 2025\"\n\nRelease Notes:\n#### What's Changed\n- Merge pull request #900 from l2dy/patch-1\n- fix: typo in hasUpdate comparison\n\n#### Full Changelog: [39d0835f...37858919](https://github.com/SideStore/SideStore/compare/39d0835f5b64ce33b32dc59fe4742bbcb741b4e0...3785891923b69ee1654c384e9d96d63096078170)",
+              "version": "0.6.0-20250310.25+ae8e9a3",
+              "date": "2025-03-10T23:30:50Z",
+              "localizedDescription": "This is release for:\n  - version: \"0.6.0-nightly.2025.03.10.25+ae8e9a35\"\n  - revision: \"ae8e9a3\"\n  - timestamp: \"Mon Mar 10 23:30:39 2025\"\n\nRelease Notes:\n#### What's Changed\n- Fixed: attempt migrations fix from 0.5.10 to 0.6.0\n\n#### Full Changelog: [37858919...ae8e9a35](https://github.com/SideStore/SideStore/compare/3785891923b69ee1654c384e9d96d63096078170...ae8e9a3506a881b864157c104b04ac106688225c)",
               "downloadURL": "https://github.com/SideStore/SideStore/releases/download/nightly/SideStore.ipa",
-              "size": 26349643,
-              "sha256": "6ed4cd0e709949898e3443da998c5cf78be0adee6cd70bdcb4e9113ba778d4da"
+              "size": 26353124,
+              "sha256": "113ff5ca41be99d5da9440744dbc16663dbdd6bcef33b0f39826f6af2efe56a6"
             }
           ]
         },
