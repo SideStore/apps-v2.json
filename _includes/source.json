@@ -114,12 +114,12 @@
           "track": "nightly",
           "releases": [
             {
-              "version": "0.6.0-20250310.25+ae8e9a3",
-              "date": "2025-03-10T23:30:50Z",
-              "localizedDescription": "This is release for:\n  - version: \"0.6.0-nightly.2025.03.10.25+ae8e9a35\"\n  - revision: \"ae8e9a3\"\n  - timestamp: \"Mon Mar 10 23:30:39 2025\"\n\nRelease Notes:\n#### What's Changed\n- Fixed: attempt migrations fix from 0.5.10 to 0.6.0\n\n#### Full Changelog: [37858919...ae8e9a35](https://github.com/SideStore/SideStore/compare/3785891923b69ee1654c384e9d96d63096078170...ae8e9a3506a881b864157c104b04ac106688225c)",
+              "version": "0.6.0-20250315.25+117f31e",
+              "date": "2025-03-15T19:36:49Z",
+              "localizedDescription": "This is release for:\n  - version: \"0.6.0-nightly.2025.03.15.25+117f31e1\"\n  - revision: \"117f31e\"\n  - timestamp: \"Sat Mar 15 19:36:39 2025\"\n\nRelease Notes:\n#### What's Changed\n- Merge pull request #915 from neoarz/patch-3\n- Update SettingsViewController.swift\n\n#### Full Changelog: [ae8e9a35...117f31e1](https://github.com/SideStore/SideStore/compare/ae8e9a3506a881b864157c104b04ac106688225c...117f31e1583d2f9a16d586d1a4a9186142701e32)",
               "downloadURL": "https://github.com/SideStore/SideStore/releases/download/nightly/SideStore.ipa",
-              "size": 26353124,
-              "sha256": "113ff5ca41be99d5da9440744dbc16663dbdd6bcef33b0f39826f6af2efe56a6"
+              "size": 26353221,
+              "sha256": "597e2ff13e692608dcc583e358ee7806105d5512e36fe44ed746fa9039b57bb0"
             }
           ]
         },
