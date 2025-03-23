@@ -127,12 +127,12 @@
           "track": "alpha",
           "releases": [
             {
-              "version": "0.6.0-20250312.25+5e90716",
-              "date": "2025-03-13T06:25:04Z",
-              "localizedDescription": "This is release for:\n  - version: \"0.6.0-alpha.2025.03.12.25+5e907167\"\n  - revision: \"5e90716\"\n  - timestamp: \"Thu Mar 13 06:24:55 2025\"\n\nRelease Notes:\n#### What's Changed\n- fix: attempt to fix \"app no longer available\" issues due to fetch profiles not updating appFeatures and appGroups (possible regression from PR#846)\n- Fixed: attempt migrations fix from 0.5.10 to 0.6.0\n- fix: typo in hasUpdate comparison\n\n#### Full Changelog: [c8127fb3...5e907167](https://github.com/SideStore/SideStore/compare/c8127fb3b9042d89bef59c2007d6fda68c3b91b8...5e907167af5a41ddecdd99c1cd69ecfad3db6cec)",
+              "version": "0.6.0-20250323.25+dc29b65",
+              "date": "2025-03-23T19:03:33Z",
+              "localizedDescription": "This is release for:\n  - version: \"0.6.0-alpha.2025.03.23.25+dc29b65b\"\n  - revision: \"dc29b65\"\n  - timestamp: \"Sun Mar 23 19:03:23 2025\"\n\nRelease Notes:\n#### What's Changed\n- fix: attempt to fix \"app no longer available\" issues due to fetch profiles not updating appFeatures and appGroups (possible regression from PR#846)\n\n#### Full Changelog: [5e907167...dc29b65b](https://github.com/SideStore/SideStore/compare/5e907167af5a41ddecdd99c1cd69ecfad3db6cec...dc29b65bd58e88854678d3199f805083f2760221)",
               "downloadURL": "https://github.com/SideStore/SideStore/releases/download/alpha/SideStore.ipa",
-              "size": 26353147,
-              "sha256": "c55d7976a228be9bb20157d7e43e9408bddd4e597a8480dd5f9745346308cd67"
+              "size": 26349606,
+              "sha256": "de06945bba0b66c0cf9512cf3473e11b080f0ebebfe7c65b6e381a5ae78e9b3b"
             }
           ]
         },
