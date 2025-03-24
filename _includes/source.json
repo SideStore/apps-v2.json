@@ -114,12 +114,12 @@
           "track": "nightly",
           "releases": [
             {
-              "version": "0.6.0-20250323.25+cbde3e6",
-              "date": "2025-03-23T19:14:57Z",
-              "localizedDescription": "This is release for:\n  - version: \"0.6.0-nightly.2025.03.23.25+cbde3e64\"\n  - revision: \"cbde3e6\"\n  - timestamp: \"Sun Mar 23 19:14:46 2025\"\n\nRelease Notes:\n#### What's Changed\n- Revert \"- Fixed: attempt migrations fix from 0.5.10 to 0.6.0\"\n\n#### Full Changelog: [117f31e1...cbde3e64](https://github.com/SideStore/SideStore/compare/117f31e1583d2f9a16d586d1a4a9186142701e32...cbde3e6495e9226a60723c15dc307a52784b58e6)",
+              "version": "0.6.0-20250324.25+2f3be07",
+              "date": "2025-03-24T00:50:44Z",
+              "localizedDescription": "This is release for:\n  - version: \"0.6.0-nightly.2025.03.24.25+2f3be07b\"\n  - revision: \"2f3be07\"\n  - timestamp: \"Mon Mar 24 00:50:35 2025\"\n\nRelease Notes:\n#### What's Changed\n- Nothing...",
               "downloadURL": "https://github.com/SideStore/SideStore/releases/download/nightly/SideStore.ipa",
-              "size": 26349752,
-              "sha256": "54864b7e73cde0024db85ab2aec250c2393b70ba7d962736ec9eff3a9df38d9f"
+              "size": 26349505,
+              "sha256": "6eb808b9701717ed93987fc93560f7d46917946474fdc5775d5466530fafd67e"
             }
           ]
         },
