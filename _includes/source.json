@@ -114,12 +114,12 @@
           "track": "nightly",
           "releases": [
             {
-              "version": "0.6.0-20250324.25+2f3be07",
-              "date": "2025-03-24T00:50:44Z",
-              "localizedDescription": "This is release for:\n  - version: \"0.6.0-nightly.2025.03.24.25+2f3be07b\"\n  - revision: \"2f3be07\"\n  - timestamp: \"Mon Mar 24 00:50:35 2025\"\n\nRelease Notes:\n#### What's Changed\n- Nothing...",
+              "version": "0.6.0-20250323.25+2f3be07",
+              "date": "2025-03-24T03:56:39Z",
+              "localizedDescription": "This is release for:\n  - version: \"0.6.0-nightly.2025.03.23.25+2f3be07b\"\n  - revision: \"2f3be07\"\n  - timestamp: \"Mon Mar 24 03:56:29 2025\"\n\nRelease Notes:\n#### What's Changed\n- fix: attempt to fix \"app no longer available\" issues due to fetch profiles not updating appFeatures and appGroups (possible regression from PR#846)\n- Revert \"- Fixed: attempt migrations fix from 0.5.10 to 0.6.0\"\n- Merge pull request #915 from neoarz/patch-3\n- Update SettingsViewController.swift\n- Fixed: attempt migrations fix from 0.5.10 to 0.6.0\n- Merge pull request #900 from l2dy/patch-1\n- fix: typo in hasUpdate comparison\n\n#### Full Changelog: [39d0835f...2f3be07b](https://github.com/SideStore/SideStore/compare/39d0835f5b64ce33b32dc59fe4742bbcb741b4e0...2f3be07b5d565a644472f821536164c348b82b2c)",
               "downloadURL": "https://github.com/SideStore/SideStore/releases/download/nightly/SideStore.ipa",
-              "size": 26349505,
-              "sha256": "6eb808b9701717ed93987fc93560f7d46917946474fdc5775d5466530fafd67e"
+              "size": 26349504,
+              "sha256": "a3899a36944b1c5064fb063e566843808c494b23c5009cd6b99a07a22fbe5cbd"
             }
           ]
         },
