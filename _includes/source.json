@@ -114,12 +114,12 @@
           "track": "nightly",
           "releases": [
             {
-              "version": "0.6.0-20250323.25+2f3be07",
-              "date": "2025-03-24T03:56:39Z",
-              "localizedDescription": "This is release for:\n  - version: \"0.6.0-nightly.2025.03.23.25+2f3be07b\"\n  - revision: \"2f3be07\"\n  - timestamp: \"Mon Mar 24 03:56:29 2025\"\n\nRelease Notes:\n#### What's Changed\n- fix: attempt to fix \"app no longer available\" issues due to fetch profiles not updating appFeatures and appGroups (possible regression from PR#846)\n- Revert \"- Fixed: attempt migrations fix from 0.5.10 to 0.6.0\"\n- Merge pull request #915 from neoarz/patch-3\n- Update SettingsViewController.swift\n- Fixed: attempt migrations fix from 0.5.10 to 0.6.0\n- Merge pull request #900 from l2dy/patch-1\n- fix: typo in hasUpdate comparison\n\n#### Full Changelog: [39d0835f...2f3be07b](https://github.com/SideStore/SideStore/compare/39d0835f5b64ce33b32dc59fe4742bbcb741b4e0...2f3be07b5d565a644472f821536164c348b82b2c)",
+              "version": "0.6.1-20250401.25+0cd62d3",
+              "date": "2025-04-01T00:56:48Z",
+              "localizedDescription": "This is release for:\n  - version: \"0.6.1-nightly.2025.04.01.25+0cd62d37\"\n  - revision: \"0cd62d3\"\n  - timestamp: \"Tue Apr  1 00:56:36 2025\"\n\nRelease Notes:\n#### What's Changed\n- Nothing...",
               "downloadURL": "https://github.com/SideStore/SideStore/releases/download/nightly/SideStore.ipa",
-              "size": 26349504,
-              "sha256": "a3899a36944b1c5064fb063e566843808c494b23c5009cd6b99a07a22fbe5cbd"
+              "size": 26437083,
+              "sha256": "3929138d701283cb24f0de4f2d11464d11c7af2704a94505b92f698994cf27c5"
             }
           ]
         },
@@ -139,7 +139,7 @@
         {
           "track": "stable",
           "releases": [
-             {
+            {
               "version": "0.6.0",
               "date": "2025-3-08T01:01:50Z",
               "localizedDescription": "It’s March and we have some big changes. We’ve finally included altstore 2.0 changes into SideStore. So you will get all the benefits of that and also some fixes in SideStore. Enjoy!\n\n What's Changed: - Altstore 2.0 changes in https://github.com/SideStore/SideStore/pull/794 \n\n - [Refresh]: Remove install stuffs from refresh since in refresh should only renew provisioning profiles by @mahee96 in https://github.com/SideStore/SideStore/pull/ \n\n - [Settings]: Fix: DisableAppLimit switch reverting back to off state even if on iOS where sparseRestore is not patched yet by @mahee96 in https://github.com/SideStore/SideStore/pull/850 \n\n - [Backup]: Fix: update logic during install missed since override keyword was missing by @mahee96 in https://github.com/SideStore/SideStore/pull/857 \n\n - Feature: Bulk sources-add in sources screen with capability to stage them before persisting into database by @mahee96 in https://github.com/SideStore/SideStore/pull/888 \n\n - Feature: Render in-app update description as (full) markdown by @mahee96 in https://github.com/SideStore/SideStore/pull/897",
