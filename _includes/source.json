@@ -114,12 +114,12 @@
           "track": "nightly",
           "releases": [
             {
-              "version": "0.6.1-20250401.25+0cd62d3",
-              "date": "2025-04-01T00:56:48Z",
-              "localizedDescription": "This is release for:\n  - version: \"0.6.1-nightly.2025.04.01.25+0cd62d37\"\n  - revision: \"0cd62d3\"\n  - timestamp: \"Tue Apr  1 00:56:36 2025\"\n\nRelease Notes:\n#### What's Changed\n- Nothing...",
+              "version": "0.6.1-20250406.25+5919137",
+              "date": "2025-04-06T02:53:20Z",
+              "localizedDescription": "This is release for:\n  - version: \"0.6.1-nightly.2025.04.06.25+59191374\"\n  - revision: \"5919137\"\n  - timestamp: \"Sun Apr  6 02:53:10 2025\"\n\nRelease Notes:\n#### What's Changed\n- Merge pull request #940 from Br0des/develop\n- Added StosVPN to the EM Proxy part.\n\n#### Full Changelog: [0cd62d37...59191374](https://github.com/SideStore/SideStore/compare/0cd62d371a0340d203790592e03641a02989eb60...591913743eab0747d987dc0cfb68c7b3c63cd119)",
               "downloadURL": "https://github.com/SideStore/SideStore/releases/download/nightly/SideStore.ipa",
-              "size": 26437083,
-              "sha256": "3929138d701283cb24f0de4f2d11464d11c7af2704a94505b92f698994cf27c5"
+              "size": 26437101,
+              "sha256": "e602c6e32ba5fb43955ef7037bca966e708fdb8b54419f60fff336f22e2cb781"
             }
           ]
         },
