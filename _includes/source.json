@@ -124,12 +124,12 @@
           "track": "nightly",
           "releases": [
             {
-              "version": "0.6.2-20250409.25+e519389",
-              "date": "2025-04-09T06:55:03Z",
-              "localizedDescription": "This is release for:\n  - version: \"0.6.2-nightly.2025.04.09.25+e5193897\"\n  - revision: \"e519389\"\n  - timestamp: \"Wed Apr  9 06:54:53 2025\"\n\nRelease Notes:\n#### What's Changed\n- bump version to 0.6.2 for next release cycle\n\n#### Full Changelog: [59191374...e5193897](https://github.com/SideStore/SideStore/compare/591913743eab0747d987dc0cfb68c7b3c63cd119...e519389780edc28fbf7e3db18f6d85b2b63a9c6e)",
+              "version": "0.6.2-20250416.25+7415fe6",
+              "date": "2025-04-16T19:30:48Z",
+              "localizedDescription": "This is release for:\n  - version: \"0.6.2-nightly.2025.04.16.25+7415fe62\"\n  - revision: \"7415fe6\"\n  - timestamp: \"Wed Apr 16 19:30:38 2025\"\n\nRelease Notes:\n#### What's Changed\n- Bump minimuxer\n- Update SideStore for new minimuxer\n\n#### Full Changelog: [131a0289...7415fe62](https://github.com/SideStore/SideStore/compare/131a0289a2cd5f96f0af3a4d15a8d82fe60d276f...7415fe62046b2da64f38b5030026a58bc7275faf)",
               "downloadURL": "https://github.com/SideStore/SideStore/releases/download/nightly/SideStore.ipa",
-              "size": 26437056,
-              "sha256": "3d7bc4b698003d72a3f3dbf55ac7c57ee245177a9b058b9378b157d3794c1eeb"
+              "size": 28858735,
+              "sha256": "61742f2c7e8cb4b0f1152f5ff401e10bc1b1fdc24e0a70b202a6cb6df3ae0191"
             }
           ]
         },
