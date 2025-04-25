@@ -124,12 +124,12 @@
           "track": "nightly",
           "releases": [
             {
-              "version": "0.6.2-20250420.25+0e3c3dd",
-              "date": "2025-04-20T01:03:25Z",
-              "localizedDescription": "This is release for:\n  - version: \"0.6.2-nightly.2025.04.20.25+0e3c3ddd\"\n  - revision: \"0e3c3dd\"\n  - timestamp: \"Sun Apr 20 01:03:16 2025\"\n\nRelease Notes:\n#### What's Changed\n- Add export certificate feature (#959)\n\n#### Full Changelog: [7415fe62...0e3c3ddd](https://github.com/SideStore/SideStore/compare/7415fe62046b2da64f38b5030026a58bc7275faf...0e3c3dddfe7984e5ed277784ed53e6cea7961fcd)",
+              "version": "0.6.2-20250425.25+4ff6438",
+              "date": "2025-04-25T00:54:03Z",
+              "localizedDescription": "This is release for:\n  - version: \"0.6.2-nightly.2025.04.25.25+4ff64380\"\n  - revision: \"4ff6438\"\n  - timestamp: \"Fri Apr 25 00:53:54 2025\"\n\nRelease Notes:\n#### What's Changed\n- Feat: Add Pairing File Export URL callback and replace Wireguard with StosVPN (#962)\n\n#### Full Changelog: [0e3c3ddd...4ff64380](https://github.com/SideStore/SideStore/compare/0e3c3dddfe7984e5ed277784ed53e6cea7961fcd...4ff643805bedcff46b6c9a233434b7a9c9124964)",
               "downloadURL": "https://github.com/SideStore/SideStore/releases/download/nightly/SideStore.ipa",
-              "size": 28859124,
-              "sha256": "4345d5820cf25bad6804d67e15d3a9cdcbcb53826374a33e4c123bf02b6f7a05"
+              "size": 28866123,
+              "sha256": "b00b07f106f7053c12f02434294cc9a6bf2cc9d8ad27cdbfa4d99fbe2a429de7"
             }
           ]
         },
