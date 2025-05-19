@@ -124,12 +124,12 @@
           "track": "nightly",
           "releases": [
             {
-              "version": "0.6.2-20250425.25+4ff6438",
-              "date": "2025-04-25T00:54:03Z",
-              "localizedDescription": "This is release for:\n  - version: \"0.6.2-nightly.2025.04.25.25+4ff64380\"\n  - revision: \"4ff6438\"\n  - timestamp: \"Fri Apr 25 00:53:54 2025\"\n\nRelease Notes:\n#### What's Changed\n- Feat: Add Pairing File Export URL callback and replace Wireguard with StosVPN (#962)\n\n#### Full Changelog: [0e3c3ddd...4ff64380](https://github.com/SideStore/SideStore/compare/0e3c3dddfe7984e5ed277784ed53e6cea7961fcd...4ff643805bedcff46b6c9a233434b7a9c9124964)",
+              "version": "0.6.2-20250519.25+1b754e1",
+              "date": "2025-05-19T23:10:44Z",
+              "localizedDescription": "This is release for:\n  - version: \"0.6.2-nightly.2025.05.19.25+1b754e13\"\n  - revision: \"1b754e1\"\n  - timestamp: \"Mon May 19 23:10:33 2025\"\n\nRelease Notes:\n#### What's Changed\n- Merge pull request #987 from owoellen/patch-1\n- Update LockScreenWidget.swift\n- Update Authentication.storyboard\n\n#### Full Changelog: [4ff64380...1b754e13](https://github.com/SideStore/SideStore/compare/4ff643805bedcff46b6c9a233434b7a9c9124964...1b754e137ab3b4b99c114511baf6a1dd44c329b4)",
               "downloadURL": "https://github.com/SideStore/SideStore/releases/download/nightly/SideStore.ipa",
-              "size": 28866123,
-              "sha256": "b00b07f106f7053c12f02434294cc9a6bf2cc9d8ad27cdbfa4d99fbe2a429de7"
+              "size": 28866141,
+              "sha256": "b0b06d4be4526c5ed9d65a99a1fbeef6c7467b62d095266640855f265f85c98c"
             }
           ]
         },
