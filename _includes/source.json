@@ -124,12 +124,12 @@
           "track": "nightly",
           "releases": [
             {
-              "version": "0.6.2-20250519.25+1b754e1",
-              "date": "2025-05-19T23:10:44Z",
-              "localizedDescription": "This is release for:\n  - version: \"0.6.2-nightly.2025.05.19.25+1b754e13\"\n  - revision: \"1b754e1\"\n  - timestamp: \"Mon May 19 23:10:33 2025\"\n\nRelease Notes:\n#### What's Changed\n- Merge pull request #987 from owoellen/patch-1\n- Update LockScreenWidget.swift\n- Update Authentication.storyboard\n\n#### Full Changelog: [4ff64380...1b754e13](https://github.com/SideStore/SideStore/compare/4ff643805bedcff46b6c9a233434b7a9c9124964...1b754e137ab3b4b99c114511baf6a1dd44c329b4)",
+              "version": "0.6.2-20250525.25+4b6ffa5",
+              "date": "2025-05-25T01:21:14Z",
+              "localizedDescription": "This is release for:\n  - version: \"0.6.2-nightly.2025.05.25.25+4b6ffa5d\"\n  - revision: \"4b6ffa5\"\n  - timestamp: \"Sun May 25 01:21:04 2025\"\n\nRelease Notes:\n#### What's Changed\n- Merge pull request #995 from CelloSerenity/develop\n\n#### Full Changelog: [728b12d0...4b6ffa5d](https://github.com/SideStore/SideStore/compare/728b12d0040aae0d0c5834384963bee1d1d2812b...4b6ffa5d4ae2669a647d749ee161380c65542dc4)",
               "downloadURL": "https://github.com/SideStore/SideStore/releases/download/nightly/SideStore.ipa",
-              "size": 28866141,
-              "sha256": "b0b06d4be4526c5ed9d65a99a1fbeef6c7467b62d095266640855f265f85c98c"
+              "size": 28866138,
+              "sha256": "7d26e5a79054bb729ea4d40146dee94b738fc54b31fb17c97d342046acdc089a"
             }
           ]
         },
