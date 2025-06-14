@@ -124,12 +124,12 @@
           "track": "nightly",
           "releases": [
             {
-              "version": "0.6.2-20250612.25+6c45eb0",
-              "date": "2025-06-12T05:04:51Z",
-              "localizedDescription": "This is release for:\n  - version: \"0.6.2-nightly.2025.06.12.25+6c45eb09\"\n  - revision: \"6c45eb0\"\n  - timestamp: \"Thu Jun 12 05:04:39 2025\"\n\nRelease Notes:\n#### What's Changed\n- Add import/export certificate feature (#1008)\n\n#### Full Changelog: [4b6ffa5d...6c45eb09](https://github.com/SideStore/SideStore/compare/4b6ffa5d4ae2669a647d749ee161380c65542dc4...6c45eb096f6f46724bc671a74af8881d68212ebc)",
+              "version": "0.6.2-20250614.25+7057d59",
+              "date": "2025-06-14T22:09:19Z",
+              "localizedDescription": "This is release for:\n  - version: \"0.6.2-nightly.2025.06.14.25+7057d599\"\n  - revision: \"7057d59\"\n  - timestamp: \"Sat Jun 14 22:09:08 2025\"\n\nRelease Notes:\n#### What's Changed\n- Merge pull request #1011 from CelloSerenity/develop\n- Update LaunchViewController.swift\n\n#### Full Changelog: [6c45eb09...7057d599](https://github.com/SideStore/SideStore/compare/6c45eb096f6f46724bc671a74af8881d68212ebc...7057d59992c607985fb42579bb9fb986171d695e)",
               "downloadURL": "https://github.com/SideStore/SideStore/releases/download/nightly/SideStore.ipa",
-              "size": 28870167,
-              "sha256": "145723ba30d9e649034aea0915e5d18e538f0960be37037611b542e66f78f573"
+              "size": 28870206,
+              "sha256": "a102461aa7552a5c17f091013c4a000dc66f16e58f427493e0d3b9059bda92cd"
             }
           ]
         },
