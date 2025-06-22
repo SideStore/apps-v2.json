@@ -124,12 +124,12 @@
           "track": "nightly",
           "releases": [
             {
-              "version": "0.6.2-20250614.25+7057d59",
-              "date": "2025-06-14T22:09:19Z",
-              "localizedDescription": "This is release for:\n  - version: \"0.6.2-nightly.2025.06.14.25+7057d599\"\n  - revision: \"7057d59\"\n  - timestamp: \"Sat Jun 14 22:09:08 2025\"\n\nRelease Notes:\n#### What's Changed\n- Merge pull request #1011 from CelloSerenity/develop\n- Update LaunchViewController.swift\n\n#### Full Changelog: [6c45eb09...7057d599](https://github.com/SideStore/SideStore/compare/6c45eb096f6f46724bc671a74af8881d68212ebc...7057d59992c607985fb42579bb9fb986171d695e)",
+              "version": "0.6.2-20250622.25+685d956",
+              "date": "2025-06-22T12:44:58Z",
+              "localizedDescription": "This is release for:\n  - version: \"0.6.2-nightly.2025.06.22.25+685d9567\"\n  - revision: \"685d956\"\n  - timestamp: \"Sun Jun 22 12:44:48 2025\"\n\nRelease Notes:\n#### What's Changed\n- Use main profile when refreshing (#1013)\n\n#### Full Changelog: [00ed6e61...685d9567](https://github.com/SideStore/SideStore/compare/00ed6e61bec300aada33fda48d975c13997333d1...685d9567752c6b7396304f8b64f0f713f52cf936)",
               "downloadURL": "https://github.com/SideStore/SideStore/releases/download/nightly/SideStore.ipa",
-              "size": 28870206,
-              "sha256": "a102461aa7552a5c17f091013c4a000dc66f16e58f427493e0d3b9059bda92cd"
+              "size": 28873500,
+              "sha256": "e4456b34fab0a5bd61f183a697605c443e5635ea31226151ed7bd8e5382ba8df"
             }
           ]
         },
