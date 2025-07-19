@@ -132,12 +132,12 @@
           "track": "nightly",
           "releases": [
             {
-              "version": "0.6.2-20250622.25+685d956",
-              "date": "2025-06-22T12:44:58Z",
-              "localizedDescription": "This is release for:\n  - version: \"0.6.2-nightly.2025.06.22.25+685d9567\"\n  - revision: \"685d956\"\n  - timestamp: \"Sun Jun 22 12:44:48 2025\"\n\nRelease Notes:\n#### What's Changed\n- Use main profile when refreshing (#1013)\n\n#### Full Changelog: [00ed6e61...685d9567](https://github.com/SideStore/SideStore/compare/00ed6e61bec300aada33fda48d975c13997333d1...685d9567752c6b7396304f8b64f0f713f52cf936)",
+              "version": "0.6.3-20250719.25+a12b6cd",
+              "date": "2025-07-19T01:54:05Z",
+              "localizedDescription": "This is release for:\n  - version: \"0.6.3-nightly.2025.07.19.25+a12b6cd6\"\n  - revision: \"a12b6cd\"\n  - timestamp: \"Sat Jul 19 01:53:54 2025\"\n\nRelease Notes:\n#### What's Changed\n- Small fixes (#1020)\n\n#### Full Changelog: [685d9567...a12b6cd6](https://github.com/SideStore/SideStore/compare/685d9567752c6b7396304f8b64f0f713f52cf936...a12b6cd62b712274f4473eb83d3775d39c8ba512)",
               "downloadURL": "https://github.com/SideStore/SideStore/releases/download/nightly/SideStore.ipa",
-              "size": 28873500,
-              "sha256": "e4456b34fab0a5bd61f183a697605c443e5635ea31226151ed7bd8e5382ba8df"
+              "size": 28873322,
+              "sha256": "745aa37867ee9a67324bb823db40b2c2426040d8fbbee43cf1a02b5ec2ebc0c6"
             }
           ]
         },
