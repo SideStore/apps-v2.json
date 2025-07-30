@@ -132,12 +132,12 @@
           "track": "nightly",
           "releases": [
             {
-              "version": "0.6.3-20250719.25+a12b6cd",
-              "date": "2025-07-19T01:54:05Z",
-              "localizedDescription": "This is release for:\n  - version: \"0.6.3-nightly.2025.07.19.25+a12b6cd6\"\n  - revision: \"a12b6cd\"\n  - timestamp: \"Sat Jul 19 01:53:54 2025\"\n\nRelease Notes:\n#### What's Changed\n- Small fixes (#1020)\n\n#### Full Changelog: [685d9567...a12b6cd6](https://github.com/SideStore/SideStore/compare/685d9567752c6b7396304f8b64f0f713f52cf936...a12b6cd62b712274f4473eb83d3775d39c8ba512)",
+              "version": "0.6.3-20250730.25+669d331",
+              "date": "2025-07-30T18:29:20Z",
+              "localizedDescription": "This is release for:\n  - version: \"0.6.3-nightly.2025.07.30.25+669d3318\"\n  - revision: \"669d331\"\n  - timestamp: \"Wed Jul 30 18:29:09 2025\"\n\nRelease Notes:\n#### What's Changed\n- [ConsoleLogger]: Fix race conditions during shutdown and possible crashes by writing to closed stream handler\n\n#### Full Changelog: [a12b6cd6...669d3318](https://github.com/SideStore/SideStore/compare/a12b6cd62b712274f4473eb83d3775d39c8ba512...669d33183e3ea5b2d8f1258d7dcffd44fc4e4842)",
               "downloadURL": "https://github.com/SideStore/SideStore/releases/download/nightly/SideStore.ipa",
-              "size": 28873322,
-              "sha256": "745aa37867ee9a67324bb823db40b2c2426040d8fbbee43cf1a02b5ec2ebc0c6"
+              "size": 28873531,
+              "sha256": "0970356593736b6854ca8562c288809214ab593d315cf7fc2bb795f543f128ad"
             }
           ]
         },
