@@ -132,12 +132,12 @@
           "track": "nightly",
           "releases": [
             {
-              "version": "0.6.3-20250730.25+669d331",
-              "date": "2025-07-30T18:29:20Z",
-              "localizedDescription": "This is release for:\n  - version: \"0.6.3-nightly.2025.07.30.25+669d3318\"\n  - revision: \"669d331\"\n  - timestamp: \"Wed Jul 30 18:29:09 2025\"\n\nRelease Notes:\n#### What's Changed\n- [ConsoleLogger]: Fix race conditions during shutdown and possible crashes by writing to closed stream handler\n\n#### Full Changelog: [a12b6cd6...669d3318](https://github.com/SideStore/SideStore/compare/a12b6cd62b712274f4473eb83d3775d39c8ba512...669d33183e3ea5b2d8f1258d7dcffd44fc4e4842)",
+              "version": "0.6.3-20250806.25+724e8db",
+              "date": "2025-08-06T00:22:50Z",
+              "localizedDescription": "This is release for:\n  - version: \"0.6.3-nightly.2025.08.06.25+724e8db9\"\n  - revision: \"724e8db\"\n  - timestamp: \"Wed Aug  6 00:22:40 2025\"\n\nRelease Notes:\n#### What's Changed\n- [ConsoleLogger]: Fix writing large data by chunking + stale handle capture\n\n#### Full Changelog: [669d3318...724e8db9](https://github.com/SideStore/SideStore/compare/669d33183e3ea5b2d8f1258d7dcffd44fc4e4842...724e8db9803e68bd1bcddb822d93521d362de9a2)",
               "downloadURL": "https://github.com/SideStore/SideStore/releases/download/nightly/SideStore.ipa",
-              "size": 28873531,
-              "sha256": "0970356593736b6854ca8562c288809214ab593d315cf7fc2bb795f543f128ad"
+              "size": 28873550,
+              "sha256": "a0b28d9bc320e4c2d7dd692a0902c3c2f38a5c6c735a868f3f56cf0c48bf7415"
             }
           ]
         },
