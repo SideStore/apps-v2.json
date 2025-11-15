@@ -132,12 +132,12 @@
           "track": "nightly",
           "releases": [
             {
-              "version": "0.6.3-20251115.25+4e6756d",
-              "date": "2025-11-15T21:45:44Z",
-              "localizedDescription": "This is release for:\n  - version: \"0.6.3-nightly.2025.11.15.25+4e6756d4\"\n  - revision: \"4e6756d\"\n  - timestamp: \"Sat Nov 15 21:45:36 2025\"\n\nRelease Notes:\n#### What's Changed\n- EMP-toggle: UI corner radius fix\n- EMP: added back EMP entry/exit points as it was in 0.6.1 but with option to enable/disable it via settings\n- EMP: added back em_proxy as it was in 0.6.1\n\n#### Full Changelog: [85427ecb...4e6756d4](https://github.com/SideStore/SideStore/compare/85427ecbc64c06e39630cb7af004c8e75bdfe470...4e6756d4d52c8abc0914bc8c8c56965a8099da6b)",
+              "version": "0.6.3-20251115.25+5576102",
+              "date": "2025-11-15T22:00:58Z",
+              "localizedDescription": "This is release for:\n  - version: \"0.6.3-nightly.2025.11.15.25+55761029\"\n  - revision: \"5576102\"\n  - timestamp: \"Sat Nov 15 22:00:51 2025\"\n\nRelease Notes:\n#### What's Changed\n- Fix: removed forced entry of libem_proxy-sim.a from depenencies which would otherwise cause build failure when targeting iOS device\n\n#### Full Changelog: [4e6756d4...55761029](https://github.com/SideStore/SideStore/compare/4e6756d4d52c8abc0914bc8c8c56965a8099da6b...55761029a3771f4f23f88ffb47d2ffe8d488ed3e)",
               "downloadURL": "https://github.com/SideStore/SideStore/releases/download/nightly/SideStore.ipa",
-              "size": 28994370,
-              "sha256": "7a8e8a756d3fcc04ca4dc21a4dc64f56a93c429169e22bee4257e413b2a1af51"
+              "size": 28994390,
+              "sha256": "e43ba1ff6c12858cb263b469243b960e5fa29843aac3db78be2b37c45ad803fc"
             }
           ]
         },
