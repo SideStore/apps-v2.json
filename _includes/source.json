@@ -132,12 +132,12 @@
           "track": "nightly",
           "releases": [
             {
-              "version": "0.6.3-20251115.25+85427ec",
-              "date": "2025-11-15T20:00:36Z",
-              "localizedDescription": "This is release for:\n  - version: \"0.6.3-nightly.2025.11.15.25+85427ecb\"\n  - revision: \"85427ec\"\n  - timestamp: \"Sat Nov 15 20:00:28 2025\"\n\nRelease Notes:\n#### What's Changed\n- CI: deploy - added filtering to upload only available files\n- CI: delete obsoleted scripts\n- CI: refine upload list in deploy job based on test enablement\n- CI: remove pod related steps\n- Pods: removed pods entirely and replace pod dependencies with swift packages\n- Fix expired Discord link in README.md (#1101)\n\n#### Full Changelog: [cfd9247f...85427ecb](https://github.com/SideStore/SideStore/compare/cfd9247fddb610e6a53806f5c2a2b880ffd16614...85427ecbc64c06e39630cb7af004c8e75bdfe470)",
+              "version": "0.6.3-20251115.25+4e6756d",
+              "date": "2025-11-15T21:45:44Z",
+              "localizedDescription": "This is release for:\n  - version: \"0.6.3-nightly.2025.11.15.25+4e6756d4\"\n  - revision: \"4e6756d\"\n  - timestamp: \"Sat Nov 15 21:45:36 2025\"\n\nRelease Notes:\n#### What's Changed\n- EMP-toggle: UI corner radius fix\n- EMP: added back EMP entry/exit points as it was in 0.6.1 but with option to enable/disable it via settings\n- EMP: added back em_proxy as it was in 0.6.1\n\n#### Full Changelog: [85427ecb...4e6756d4](https://github.com/SideStore/SideStore/compare/85427ecbc64c06e39630cb7af004c8e75bdfe470...4e6756d4d52c8abc0914bc8c8c56965a8099da6b)",
               "downloadURL": "https://github.com/SideStore/SideStore/releases/download/nightly/SideStore.ipa",
-              "size": 28770529,
-              "sha256": "ced3a7ca082b4dd43c351806f8bbb045760656a07b7c2d9d1200d2527c53c975"
+              "size": 28994370,
+              "sha256": "7a8e8a756d3fcc04ca4dc21a4dc64f56a93c429169e22bee4257e413b2a1af51"
             }
           ]
         },
