@@ -132,12 +132,12 @@
           "track": "nightly",
           "releases": [
             {
-              "version": "0.6.3-20251115.25+5576102",
-              "date": "2025-11-15T22:00:58Z",
-              "localizedDescription": "This is release for:\n  - version: \"0.6.3-nightly.2025.11.15.25+55761029\"\n  - revision: \"5576102\"\n  - timestamp: \"Sat Nov 15 22:00:51 2025\"\n\nRelease Notes:\n#### What's Changed\n- Fix: removed forced entry of libem_proxy-sim.a from depenencies which would otherwise cause build failure when targeting iOS device\n\n#### Full Changelog: [4e6756d4...55761029](https://github.com/SideStore/SideStore/compare/4e6756d4d52c8abc0914bc8c8c56965a8099da6b...55761029a3771f4f23f88ffb47d2ffe8d488ed3e)",
+              "version": "0.6.3-20251115.25+606140a",
+              "date": "2025-11-15T23:18:45Z",
+              "localizedDescription": "This is release for:\n  - version: \"0.6.3-nightly.2025.11.15.25+606140a7\"\n  - revision: \"606140a\"\n  - timestamp: \"Sat Nov 15 23:18:37 2025\"\n\nRelease Notes:\n#### What's Changed\n- entitlements: code_sign_entitlements declaration was missing in AltStore.debug/release modes causing AppGroups access failure (nil in getPreviousBackupURL) when long pressing app entry in MyApps list\n\n#### Full Changelog: [55761029...606140a7](https://github.com/SideStore/SideStore/compare/55761029a3771f4f23f88ffb47d2ffe8d488ed3e...606140a7be508728dafafed9ea7bba1915c5de9d)",
               "downloadURL": "https://github.com/SideStore/SideStore/releases/download/nightly/SideStore.ipa",
-              "size": 28994390,
-              "sha256": "e43ba1ff6c12858cb263b469243b960e5fa29843aac3db78be2b37c45ad803fc"
+              "size": 28994384,
+              "sha256": "0329cf772304c00564fad01e3f7eb420f57fd5adb9b5c36cfac3d3d2a3026360"
             }
           ]
         },
