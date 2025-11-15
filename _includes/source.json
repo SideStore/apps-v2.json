@@ -132,12 +132,12 @@
           "track": "nightly",
           "releases": [
             {
-              "version": "0.6.3-20251015.25+dc53f19",
-              "date": "2025-10-15T19:08:18Z",
-              "localizedDescription": "This is release for:\n  - version: \"0.6.3-nightly.2025.10.15.25+dc53f199\"\n  - revision: \"dc53f19\"\n  - timestamp: \"Wed Oct 15 19:08:06 2025\"\n\nRelease Notes:\n#### What's Changed\n- UITests: disable spotlight dismiss which is causing failures in test\n- UITests: added more idling waits since we removed(mocked) quiescent idling wait from testing framework at runtime.\n- UITests: fixes for iOS 26 compatibility\n- CI: updated to macOS 26 + xcode 26 for runners\n- iOS26: added support for iOS 26 deployment target + CI (fixed layout issues, added splash screen, fixed nav title insets).\n\n#### Full Changelog: [c319524d...dc53f199](https://github.com/SideStore/SideStore/compare/c319524df695543e6ade911fa2182a8f109d2e03...dc53f19947c4f4fe02f99dd8e4dddb310d07c79b)",
+              "version": "0.6.3-20251115.25+85427ec",
+              "date": "2025-11-15T20:00:36Z",
+              "localizedDescription": "This is release for:\n  - version: \"0.6.3-nightly.2025.11.15.25+85427ecb\"\n  - revision: \"85427ec\"\n  - timestamp: \"Sat Nov 15 20:00:28 2025\"\n\nRelease Notes:\n#### What's Changed\n- CI: deploy - added filtering to upload only available files\n- CI: delete obsoleted scripts\n- CI: refine upload list in deploy job based on test enablement\n- CI: remove pod related steps\n- Pods: removed pods entirely and replace pod dependencies with swift packages\n- Fix expired Discord link in README.md (#1101)\n\n#### Full Changelog: [cfd9247f...85427ecb](https://github.com/SideStore/SideStore/compare/cfd9247fddb610e6a53806f5c2a2b880ffd16614...85427ecbc64c06e39630cb7af004c8e75bdfe470)",
               "downloadURL": "https://github.com/SideStore/SideStore/releases/download/nightly/SideStore.ipa",
-              "size": 28800992,
-              "sha256": "f33dee33f765b8c8a986c15a73cc20b333bd8b9c26181dd4ccedb6e7f5ef7bae"
+              "size": 28770529,
+              "sha256": "ced3a7ca082b4dd43c351806f8bbb045760656a07b7c2d9d1200d2527c53c975"
             }
           ]
         },
