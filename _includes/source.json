@@ -132,12 +132,12 @@
           "track": "nightly",
           "releases": [
             {
-              "version": "0.6.3-20251124.25+bedda8c",
-              "date": "2025-11-24T21:18:32Z",
-              "localizedDescription": "This is release for:\n  - version: \"0.6.3-nightly.2025.11.24.25+bedda8c6\"\n  - revision: \"bedda8c\"\n  - timestamp: \"Mon Nov 24 21:18:25 2025\"\n\nRelease Notes:\n#### What's Changed\n- Merge pull request #1078 from CelloSerenity/csdev\n- Update error messages to reference iloader\n- Merge branch 'SideStore:develop' into csdev\n- Merge branch 'SideStore:develop' into csdev\n- Update README.md\n- Fix version numbering\n- Update OperationError.swift\n- Enhance error messages for UDID and SideJIT issues\n- Update error messages for clarity and detail\n\n#### Full Changelog: [606140a7...bedda8c6](https://github.com/SideStore/SideStore/compare/606140a7be508728dafafed9ea7bba1915c5de9d...bedda8c6a40bc2851ddd9d8cb798ec41e4d550e5)",
+              "version": "0.6.3-20251207.25+4f8a70d",
+              "date": "2025-12-07T00:07:19Z",
+              "localizedDescription": "This is release for:\n  - version: \"0.6.3-nightly.2025.12.07.25+4f8a70d3\"\n  - revision: \"4f8a70d\"\n  - timestamp: \"Sun Dec  7 00:07:12 2025\"\n\nRelease Notes:\n#### What's Changed\n- LocalDevVPN (#1126)\n\n#### Full Changelog: [bedda8c6...4f8a70d3](https://github.com/SideStore/SideStore/compare/bedda8c6a40bc2851ddd9d8cb798ec41e4d550e5...4f8a70d31e661467dc0f1df1a4fc236d220a0bd2)",
               "downloadURL": "https://github.com/SideStore/SideStore/releases/download/nightly/SideStore.ipa",
-              "size": 28994723,
-              "sha256": "a99703cd0c19c837bdc30e4886c1104cf60eb9c7ae72126ba8bd1ba9cd86cfb2"
+              "size": 28994557,
+              "sha256": "9195f91436bfe65a36e5c114e4652caa19d0782264c1b23d126282783babccad"
             }
           ]
         },
