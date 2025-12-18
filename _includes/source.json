@@ -132,12 +132,12 @@
           "track": "nightly",
           "releases": [
             {
-              "version": "0.6.3-20251207.25+4f8a70d",
-              "date": "2025-12-07T00:07:19Z",
-              "localizedDescription": "This is release for:\n  - version: \"0.6.3-nightly.2025.12.07.25+4f8a70d3\"\n  - revision: \"4f8a70d\"\n  - timestamp: \"Sun Dec  7 00:07:12 2025\"\n\nRelease Notes:\n#### What's Changed\n- LocalDevVPN (#1126)\n\n#### Full Changelog: [bedda8c6...4f8a70d3](https://github.com/SideStore/SideStore/compare/bedda8c6a40bc2851ddd9d8cb798ec41e4d550e5...4f8a70d31e661467dc0f1df1a4fc236d220a0bd2)",
+              "version": "0.6.3-20251218.25+decf21f",
+              "date": "2025-12-18T04:29:27Z",
+              "localizedDescription": "This is release for:\n  - version: \"0.6.3-nightly.2025.12.18.25+decf21f1\"\n  - revision: \"decf21f\"\n  - timestamp: \"Thu Dec 18 04:29:20 2025\"\n\nRelease Notes:\n#### What's Changed\n- Update trusted apps identifiers and source URLs\n\n#### Full Changelog: [b2f42160...decf21f1](https://github.com/SideStore/SideStore/compare/b2f42160f9fe2462d5ae694064b0d628442760c8...decf21f177392476fabb01c47ac3395a4bcbb2ae)",
               "downloadURL": "https://github.com/SideStore/SideStore/releases/download/nightly/SideStore.ipa",
-              "size": 28994557,
-              "sha256": "9195f91436bfe65a36e5c114e4652caa19d0782264c1b23d126282783babccad"
+              "size": 28994587,
+              "sha256": "52af49d598c276279511e20b588c6857432f450e07169b85991b342047f0f453"
             }
           ]
         },
