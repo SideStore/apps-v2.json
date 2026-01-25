@@ -132,12 +132,12 @@
           "track": "nightly",
           "releases": [
             {
-              "version": "0.6.3-20260110.25+1d642e2",
-              "date": "2026-01-10T19:40:01Z",
-              "localizedDescription": "This is release for:\n  - version: \"0.6.3-nightly.2026.01.10.25+1d642e2f\"\n  - revision: \"1d642e2\"\n  - timestamp: \"Sat Jan 10 19:39:52 2026\"\n\nRelease Notes:\n#### What's Changed\n- Update pairing file help link in alert (#1147)\n\n#### Full Changelog: [decf21f1...1d642e2f](https://github.com/SideStore/SideStore/compare/decf21f177392476fabb01c47ac3395a4bcbb2ae...1d642e2ffa0b6d8e21253ede1b42fb519a2f3170)",
+              "version": "0.6.3-20260125.25+6397531",
+              "date": "2026-01-25T04:50:31Z",
+              "localizedDescription": "This is release for:\n  - version: \"0.6.3-nightly.2026.01.25.25+63975314\"\n  - revision: \"6397531\"\n  - timestamp: \"Sun Jan 25 04:50:24 2026\"\n\nRelease Notes:\n#### What's Changed\n- fix typo & log token login error\n- Authentication rework, cache session, save and login with adsid and xcodeToken to alleviate GSA connection issue in some regions. Fix a timezone issue when extracting anisette data\n\n#### Full Changelog: [1d642e2f...63975314](https://github.com/SideStore/SideStore/compare/1d642e2ffa0b6d8e21253ede1b42fb519a2f3170...639753149f3682c304986c9eafc5795c8b19f5ef)",
               "downloadURL": "https://github.com/SideStore/SideStore/releases/download/nightly/SideStore.ipa",
-              "size": 28994556,
-              "sha256": "7f8436682a9f81eb157c4dde309de4a647cd1881fe9cc8e26db813bc5559041b"
+              "size": 29002919,
+              "sha256": "8928eba596bd37e16f9cf76c2688d77ae3999e7b564f5afdaf754ef2862db55f"
             }
           ]
         },
