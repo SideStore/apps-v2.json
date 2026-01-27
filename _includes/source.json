@@ -132,12 +132,12 @@
           "track": "nightly",
           "releases": [
             {
-              "version": "0.6.3-20260126.25+7d7a44b",
-              "date": "2026-01-26T19:25:01Z",
-              "localizedDescription": "This is release for:\n  - version: \"0.6.3-nightly.2026.01.26.25+7d7a44bc\"\n  - revision: \"7d7a44b\"\n  - timestamp: \"Mon Jan 26 19:24:52 2026\"\n\nRelease Notes:\n#### What's Changed\n- Update trustedapps.json\n\n#### Full Changelog: [63975314...7d7a44bc](https://github.com/SideStore/SideStore/compare/639753149f3682c304986c9eafc5795c8b19f5ef...7d7a44bc610163b1e5187386527502b8247c4b8e)",
+              "version": "0.6.3-20260127.25+8730ae4",
+              "date": "2026-01-27T04:21:53Z",
+              "localizedDescription": "This is release for:\n  - version: \"0.6.3-nightly.2026.01.27.25+8730ae42\"\n  - revision: \"8730ae4\"\n  - timestamp: \"Tue Jan 27 04:21:45 2026\"\n\nRelease Notes:\n#### What's Changed\n- Update trustedapps.json\n\n#### Full Changelog: [7d7a44bc...8730ae42](https://github.com/SideStore/SideStore/compare/7d7a44bc610163b1e5187386527502b8247c4b8e...8730ae42c6a1739a754979a1e39b6a83b36435fb)",
               "downloadURL": "https://github.com/SideStore/SideStore/releases/download/nightly/SideStore.ipa",
-              "size": 29002944,
-              "sha256": "5ca303c5e314f144c39b7c6055e345f3ea70d7dadaa5a2e61f3a31e2ad91c4b2"
+              "size": 29002917,
+              "sha256": "37aff8c2fed652fb642d788dc2f6c8db3444e9fec88679c186ca8e20f1d3c1b0"
             }
           ]
         },
