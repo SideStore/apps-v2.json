@@ -132,12 +132,12 @@
           "track": "nightly",
           "releases": [
             {
-              "version": "0.6.3-20260205.25+e155081",
-              "date": "2026-02-05T00:09:25Z",
-              "localizedDescription": "This is release for:\n  - version: \"0.6.3-nightly.2026.02.05.25+e1550811\"\n  - revision: \"e155081\"\n  - timestamp: \"Thu Feb  5 00:09:17 2026\"\n\nRelease Notes:\n#### What's Changed\n- feat: Add UntitledCharts to Trusted Sources (#1160)\n\n#### Full Changelog: [8730ae42...e1550811](https://github.com/SideStore/SideStore/compare/8730ae42c6a1739a754979a1e39b6a83b36435fb...e1550811eb781cc788c6b31ceee2629f73b3312a)",
+              "version": "0.6.3-20260219.25+fabe093",
+              "date": "2026-02-19T00:10:17Z",
+              "localizedDescription": "This is release for:\n  - version: \"0.6.3-nightly.2026.02.19.25+fabe093b\"\n  - revision: \"fabe093\"\n  - timestamp: \"Thu Feb 19 00:10:09 2026\"\n\nRelease Notes:\n#### What's Changed\n- fix: remove pointless error toasts\n\n#### Full Changelog: [e1550811...fabe093b](https://github.com/SideStore/SideStore/compare/e1550811eb781cc788c6b31ceee2629f73b3312a...fabe093b1d62719b01d55b2e605e7a55ffec6ff8)",
               "downloadURL": "https://github.com/SideStore/SideStore/releases/download/nightly/SideStore.ipa",
-              "size": 29002935,
-              "sha256": "4f80ce3581c316dd6bf7a402733b46c0bcc7bfea1e7646037463f42ffa6400a8"
+              "size": 29004637,
+              "sha256": "1b2b5a8d434b4393d726d7bece1d4b364f7d9f8ee674d032fa17829e236abc50"
             }
           ]
         },
