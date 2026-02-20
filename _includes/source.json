@@ -132,12 +132,12 @@
           "track": "nightly",
           "releases": [
             {
-              "version": "0.6.3-20260219.25+fabe093",
-              "date": "2026-02-19T00:10:17Z",
-              "localizedDescription": "This is release for:\n  - version: \"0.6.3-nightly.2026.02.19.25+fabe093b\"\n  - revision: \"fabe093\"\n  - timestamp: \"Thu Feb 19 00:10:09 2026\"\n\nRelease Notes:\n#### What's Changed\n- fix: remove pointless error toasts\n\n#### Full Changelog: [e1550811...fabe093b](https://github.com/SideStore/SideStore/compare/e1550811eb781cc788c6b31ceee2629f73b3312a...fabe093b1d62719b01d55b2e605e7a55ffec6ff8)",
+              "version": "0.6.3-20260220.25+dbc2039",
+              "date": "2026-02-20T00:13:59Z",
+              "localizedDescription": "This is release for:\n  - version: \"0.6.3-nightly.2026.02.20.25+dbc20391\"\n  - revision: \"dbc2039\"\n  - timestamp: \"Fri Feb 20 00:13:49 2026\"\n\nRelease Notes:\n#### What's Changed\n- Merge pull request #1158 from SideStore/appId-customization\n- Merge branch 'develop' into appId-customization\n- settings: added new switch to allow enabling appId customization (which will be shown during install)\n- fix: cached app after download was not respecting overriden appId/bundleId\n- feature: added a prompt before installing to customize appId\n- cleanup - removed unused commented code (already validated in 0.6.2 that refresh path doesnt need reinstalls since it only resigns the app)\n- added gitignore for minimuxer submodule\n- Fix: base bundleID for AltBackup debug config was incorrect\n\n#### Full Changelog: [fabe093b...dbc20391](https://github.com/SideStore/SideStore/compare/fabe093b1d62719b01d55b2e605e7a55ffec6ff8...dbc20391e591e2d89f95c7f62c15ed82ef814635)",
               "downloadURL": "https://github.com/SideStore/SideStore/releases/download/nightly/SideStore.ipa",
-              "size": 29004637,
-              "sha256": "1b2b5a8d434b4393d726d7bece1d4b364f7d9f8ee674d032fa17829e236abc50"
+              "size": 29012234,
+              "sha256": "5762f458e4cce33da9f88ae712ae24036689edb02c253d40fa5874a7f2dbf519"
             }
           ]
         },
