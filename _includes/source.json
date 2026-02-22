@@ -132,12 +132,12 @@
           "track": "nightly",
           "releases": [
             {
-              "version": "0.6.3-20260222.25+83ed17c",
-              "date": "2026-02-22T00:14:42Z",
-              "localizedDescription": "This is release for:\n  - version: \"0.6.3-nightly.2026.02.22.25+83ed17c4\"\n  - revision: \"83ed17c\"\n  - timestamp: \"Sun Feb 22 00:14:33 2026\"\n\nRelease Notes:\n#### What's Changed\n- cleanup: improved messaging for appID customization\n- bug-fix: customizeAppId key should be used from UserDefaults.standard instead of UserDefaults.shared\n- bug-fix: main-profile processing should account for the effective AppID which is in context.bundleIdentifier\n- bug-fix: switch toggle handler shouldn't disable the switch itself\n- cleanup: updated strings and variables to reflect appExBundleID\n- bug-fix: appEx bundleID when bundleID is overridden, wasn't handled correctly in PR #1158\n\n#### Full Changelog: [dbc20391...83ed17c4](https://github.com/SideStore/SideStore/compare/dbc20391e591e2d89f95c7f62c15ed82ef814635...83ed17c443713d565a1b48f06af9842bd54421ed)",
+              "version": "0.6.3-20260222.25+661fda4",
+              "date": "2026-02-22T00:58:41Z",
+              "localizedDescription": "This is release for:\n  - version: \"0.6.3-nightly.2026.02.22.25+661fda49\"\n  - revision: \"661fda4\"\n  - timestamp: \"Sun Feb 22 00:58:32 2026\"\n\nRelease Notes:\n#### What's Changed\n- CI: fixed the heredoc parsing issues when single quotes are present in the notes by using a local function in shell script\n\n#### Full Changelog: [83ed17c4...661fda49](https://github.com/SideStore/SideStore/compare/83ed17c443713d565a1b48f06af9842bd54421ed...661fda4988eae9d6ba40d871506104bbb477fe16)",
               "downloadURL": "https://github.com/SideStore/SideStore/releases/download/nightly/SideStore.ipa",
-              "size": 29013444,
-              "sha256": "51a9da79ba802de72bdb92217d463248e6e5e293853abd6e8c16cc841974413b"
+              "size": 29013410,
+              "sha256": "833c18db579823c08a2324dc462e17aabe6b01a9ed24aee6721309057dbb27bb"
             }
           ]
         },
