@@ -132,12 +132,12 @@
           "track": "nightly",
           "releases": [
             {
-              "version": "0.6.3-20260222.25+661fda4",
-              "date": "2026-02-22T00:58:41Z",
-              "localizedDescription": "This is release for:\n  - version: \"0.6.3-nightly.2026.02.22.25+661fda49\"\n  - revision: \"661fda4\"\n  - timestamp: \"Sun Feb 22 00:58:32 2026\"\n\nRelease Notes:\n#### What's Changed\n- CI: fixed the heredoc parsing issues when single quotes are present in the notes by using a local function in shell script\n\n#### Full Changelog: [83ed17c4...661fda49](https://github.com/SideStore/SideStore/compare/83ed17c443713d565a1b48f06af9842bd54421ed...661fda4988eae9d6ba40d871506104bbb477fe16)",
+              "version": "0.6.3-20260222.25+d45803a",
+              "date": "2026-02-22T02:01:44Z",
+              "localizedDescription": "This is release for:\n  - version: \"0.6.3-nightly.2026.02.22.25+d45803a7\"\n  - revision: \"d45803a\"\n  - timestamp: \"Sun Feb 22 02:01:35 2026\"\n\nRelease Notes:\n#### What's Changed\n- settings: split out beta testing section so that users can enable it confidently as they see\n\n#### Full Changelog: [661fda49...d45803a7](https://github.com/SideStore/SideStore/compare/661fda4988eae9d6ba40d871506104bbb477fe16...d45803a7cc72c357ad3832d8acd6b62374fe4066)",
               "downloadURL": "https://github.com/SideStore/SideStore/releases/download/nightly/SideStore.ipa",
-              "size": 29013410,
-              "sha256": "833c18db579823c08a2324dc462e17aabe6b01a9ed24aee6721309057dbb27bb"
+              "size": 29013590,
+              "sha256": "6a14b4aad478676b2451411c5f39f3b56b751dfd03729f885b8e7c2f0c700ff8"
             }
           ]
         },
