@@ -132,12 +132,12 @@
           "track": "nightly",
           "releases": [
             {
-              "version": "0.6.3-nightly.2026.02.24.31+85ff9b09",
-              "date": "2026-02-24T04:57:15Z",
-              "localizedDescription": "This is release for:\n          - version: \"0.6.3-nightly.2026.02.24.31+85ff9b09\"\n          - revision: \"85ff9b09\"\n          - timestamp: \"Tue Feb 24 04:57:15 2026\"\n\n        Release Notes:\n        #### What's Changed\n- ci: more fixes\n- ci: more fixes\n- ci: more fixes\n- ci: more fixes\n- ci: more fixes\n- CI: improve more ci worflow\n- CI: improve more ci worflow\n- CI: improve more ci worflow\n- CI: improve more ci worflow\n- CI: improve more ci worflow\n\n#### Full Changelog: [ea86b986...85ff9b09](https://github.com/SideStore/SideStore/compare/ea86b98674b16bdebd8783838e68583ccf7b627d...85ff9b09cabe2e4813c3fd9e57b768370b037773)",
+              "version": "0.6.3-nightly.2026.02.24.33+6810d045",
+              "date": "2026-02-24T05:16:19Z",
+              "localizedDescription": "This is release for:\n          - version: \"0.6.3-nightly.2026.02.24.33+6810d045\"\n          - revision: \"6810d045\"\n          - timestamp: \"Tue Feb 24 05:16:19 2026\"\n\n        Release Notes:\n        #### What's Changed\n- ci: more fixes\n- ci: more fixes\n- ci: more fixes\n- ci: more fixes\n- ci: more fixes\n- ci: more fixes\n- ci: more fixes\n- ci: more fixes\n- CI: improve more ci worflow\n- CI: improve more ci worflow\n\n#### Full Changelog: [0e72a33a...6810d045](https://github.com/SideStore/SideStore/compare/0e72a33af88aca9864920bda14ca3f6c8b993c79...6810d0455df9ae071cb1bf729da0af6d2b338e5f)",
               "downloadURL": "https://github.com/SideStore/SideStore/releases/download/nightly/SideStore.ipa",
-              "size": 27279497,
-              "sha256": "419ab0fbfe77a92e3424eed330ae41baca998f6dabd7fff54c700c7ec9a9051f"
+              "size": 27279505,
+              "sha256": "f0d9d2b83f15e2d6402a9695cd9b558c62f0f00dcb9f9ba2f160df5b86f42773"
             }
           ]
         },
