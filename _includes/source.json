@@ -145,12 +145,12 @@
           "track": "alpha",
           "releases": [
             {
-              "version": "0.6.3-20260224.260+7f8f4fa9",
-              "date": "2026-02-24T19:17:05Z",
-              "localizedDescription": "This is release for:\n  - version: \"0.6.3-20260224.260+7f8f4fa9\"\n  - revision: \"7f8f4fa9\"\n  - timestamp: \"Tue Feb 24 19:17:05 2026\"\n\nRelease Notes:\n#### What's Changed\n- ci: fixes for yml\n- ci: fixes for yml\n- ci: fixes for yml\n- ci: use runner number as build number\n- ci: fixes in workflow.py\n- ci: fix - tag was not pushed\n- ci: fix - version number was inconsistent across deployment of beta channels\n- ci: updated stable workflow as per workflow.py and other workflows\n- ci: updated PR workflow to reflect latest\n- ci: use proper messaging for upstream tag\n\n#### Full Changelog: [bf5b1c93...7f8f4fa9](https://github.com/SideStore/SideStore/compare/bf5b1c935cb08955a3989d0776520eb43907b7ba...7f8f4fa9a7fac73bd94c3baf0d79bb26c2647bb6)\n",
+              "version": "0.6.3-20260224.261+191ce15d",
+              "date": "2026-02-24T19:25:03Z",
+              "localizedDescription": "This is release for:\n  - version: \"0.6.3-20260224.261+191ce15d\"\n  - revision: \"191ce15d\"\n  - timestamp: \"Tue Feb 24 19:25:03 2026\"\n\nRelease Notes:\n#### What's Changed\n- Merge branch 'staging' into develop\n- ci: fixes for yml\n- ci: fixes for yml\n- ci: fixes for yml\n- ci: use runner number as build number\n- ci: fixes in workflow.py\n- ci: fix - tag was not pushed\n- ci: fix - version number was inconsistent across deployment of beta channels\n- ci: updated stable workflow as per workflow.py and other workflows\n- ci: updated PR workflow to reflect latest\n- ci: use proper messaging for upstream tag\n- ci: cleanup - removed obsolete stuffs\n- ci: moved cache maintenance script into obsolete\n- Merge pull request #1183 from LiveContainer/develop\n- ci: fix typo in brew command\n- ci: removed caching for ldid and xcbeautify coz they take much more time to restore than install\n- ci: added some names to few steps\n- ci: added back the nightly schedule checking for new commits and only then build\n- ci: improve speed by caching brew install step and reading project settings from dumped xcodebuild -showProjectSettings instead of invoking each time.\n- ci: fix indentation in release notes\n- ci: fix indentation in release notes\n- bug-fix: fix crash when viewing app ids\n- bug-fix: fix profile not installed\n- fix build issue\n- bug-fix: fix useMainProfile not saved / not set during initialization\n- bug-fix: Fix crash when installing apps\n- ci: fix indentation in release notes\n- staging: added some redundant files to gitignore\n- staging: prepare new branch for alpha release channels and high velocity development\n- ci: more fixes\n- ci: more fixes\n- ci: more fixes\n- ci: more fixes\n- CI: improve more ci worflow\n- CI: improve more ci worflow\n- CI: improve more ci worflow\n- CI: improve more ci worflow\n\n#### Full Changelog: [b0bfbf55...191ce15d](https://github.com/SideStore/SideStore/compare/b0bfbf55136e3d2dd321160abb8f268d9e9ccb74...191ce15d55951f94185e3437d8ad203187cb5f5b)\n",
               "downloadURL": "https://github.com/SideStore/SideStore/releases/download/alpha/SideStore.ipa",
-              "size": 27279457,
-              "sha256": "a4837d5fa45c601627899c6c786aac8f25da1d1dabd9536f35d69da3df515ba2"
+              "size": 27287321,
+              "sha256": "f1d1d72f09f4858c65e22c458465079ec718e38337b85f740e46cb5a03a54879"
             }
           ]
         },
