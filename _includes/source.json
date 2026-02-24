@@ -132,12 +132,12 @@
           "track": "nightly",
           "releases": [
             {
-              "version": "0.6.3-nightly.2026.02.24.33+6810d045",
-              "date": "2026-02-24T05:16:19Z",
-              "localizedDescription": "This is release for:\n          - version: \"0.6.3-nightly.2026.02.24.33+6810d045\"\n          - revision: \"6810d045\"\n          - timestamp: \"Tue Feb 24 05:16:19 2026\"\n\n        Release Notes:\n        #### What's Changed\n- ci: more fixes\n- ci: more fixes\n- ci: more fixes\n- ci: more fixes\n- ci: more fixes\n- ci: more fixes\n- ci: more fixes\n- ci: more fixes\n- CI: improve more ci worflow\n- CI: improve more ci worflow\n\n#### Full Changelog: [0e72a33a...6810d045](https://github.com/SideStore/SideStore/compare/0e72a33af88aca9864920bda14ca3f6c8b993c79...6810d0455df9ae071cb1bf729da0af6d2b338e5f)",
+              "version": "0.6.3-nightly.2026.02.24.34+64d5ed1b",
+              "date": "2026-02-24T06:41:40Z",
+              "localizedDescription": "This is release for:\n          - version: \"0.6.3-nightly.2026.02.24.34+64d5ed1b\"\n          - revision: \"64d5ed1b\"\n          - timestamp: \"Tue Feb 24 06:41:40 2026\"\n\n        Release Notes:\n        #### What's Changed\n- Merge pull request #1182 from LiveContainer/develop\n- fix build issue\n- bug-fix: fix useMainProfile not saved / not set during initialization\n- bug-fix: Fix crash when installing apps\n- ci: more fixes\n- ci: more fixes\n- ci: more fixes\n- ci: more fixes\n- ci: more fixes\n- ci: more fixes\n- ci: more fixes\n- ci: more fixes\n- CI: improve more ci worflow\n\n#### Full Changelog: [bce38c87...64d5ed1b](https://github.com/SideStore/SideStore/compare/bce38c874324ef3d46827f81f804afd69a8ff4ed...64d5ed1ba5f64667a0caf463a72d5d4d05143481)",
               "downloadURL": "https://github.com/SideStore/SideStore/releases/download/nightly/SideStore.ipa",
-              "size": 27279505,
-              "sha256": "f0d9d2b83f15e2d6402a9695cd9b558c62f0f00dcb9f9ba2f160df5b86f42773"
+              "size": 27279410,
+              "sha256": "10abe2afab3a4bb394933738a7e8f8c9d534650d1c1eab452cd01c582b32b3c1"
             }
           ]
         },
