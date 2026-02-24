@@ -145,12 +145,12 @@
           "track": "alpha",
           "releases": [
             {
-              "version": "0.6.3-alpha.2026.02.24.5+b7085aae",
-              "date": "2026-02-24T13:29:34Z",
-              "localizedDescription": "This is release for:\n  - version: \"0.6.3-alpha.2026.02.24.5+b7085aae\"\n  - revision: \"b7085aae\"\n  - timestamp: \"Tue Feb 24 13:29:34 2026\"\n\nRelease Notes:\n#### What's Changed\n- ci: improve speed by caching brew install step and reading project settings from dumped xcodebuild -showProjectSettings instead of invoking each time.\n- ci: fix indentation in release notes\n- ci: fix indentation in release notes\n- ci: fix indentation in release notes\n- staging: added some redundant files to gitignore\n- staging: prepare new branch for alpha release channels and high velocity development\n- ci: more fixes\n- ci: more fixes\n- ci: more fixes\n- ci: more fixes\n\n#### Full Changelog: [226f0dcc...b7085aae](https://github.com/SideStore/SideStore/compare/226f0dcc6b92a28449c185af3e88d08390a2a455...b7085aaecaf623c4beb6c49ea61d5bbb60324215)\n",
+              "version": "0.6.3-alpha.2026.02.24.9+47db2c3d",
+              "date": "2026-02-24T15:11:46Z",
+              "localizedDescription": "This is release for:\n  - version: \"0.6.3-alpha.2026.02.24.9+47db2c3d\"\n  - revision: \"47db2c3d\"\n  - timestamp: \"Tue Feb 24 15:11:46 2026\"\n\nRelease Notes:\n#### What's Changed\n- ci: fix typo in brew command\n- ci: removed caching for ldid and xcbeautify coz they take much more time to restore than install\n- ci: added some names to few steps\n- ci: added back the nightly schedule checking for new commits and only then build\n- ci: improve speed by caching brew install step and reading project settings from dumped xcodebuild -showProjectSettings instead of invoking each time.\n- ci: fix indentation in release notes\n- ci: fix indentation in release notes\n- ci: fix indentation in release notes\n- staging: added some redundant files to gitignore\n- staging: prepare new branch for alpha release channels and high velocity development\n\n#### Full Changelog: [3961688b...47db2c3d](https://github.com/SideStore/SideStore/compare/3961688b73df3d2faab0b11e9c7617e5bd71ceb9...47db2c3d5d4e4b5c91ef736baf5231952c991e5b)\n",
               "downloadURL": "https://github.com/SideStore/SideStore/releases/download/alpha/SideStore.ipa",
-              "size": 27279488,
-              "sha256": "ff596366660f079aa6b45375bb0ca8ee1ccc55991dafc8a697372b44e844d9a6"
+              "size": 27279465,
+              "sha256": "06d5ecae9532eccc7ff45c5bcbb3764d14b4199fc55434422e9a5a0af9662bfa"
             }
           ]
         },
