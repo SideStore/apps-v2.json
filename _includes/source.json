@@ -132,12 +132,12 @@
           "track": "nightly",
           "releases": [
             {
-              "version": "0.6.3-nightly.2026.02.24.36+3961688b",
-              "date": "2026-02-24T07:41:18Z",
-              "localizedDescription": "This is release for:\n          - version: \"0.6.3-nightly.2026.02.24.36+3961688b\"\n          - revision: \"3961688b\"\n          - timestamp: \"Tue Feb 24 07:41:18 2026\"\n\n        Release Notes:\n        #### What's Changed\n- ci: more fixes\n- ci: more fixes\n- ci: more fixes\n- ci: more fixes\n- CI: improve more ci worflow\n- CI: improve more ci worflow\n- CI: improve more ci worflow\n- CI: improve more ci worflow\n- CI: improve more ci worflow\n- CI: improve more ci worflow\n\n#### Full Changelog: [3d47d486...3961688b](https://github.com/SideStore/SideStore/compare/3d47d486ef4f94c5dab61ec23e5c93377884d805...3961688b73df3d2faab0b11e9c7617e5bd71ceb9)",
+              "version": "0.6.3-nightly.2026.02.24.37+31e8eb79",
+              "date": "2026-02-24T15:20:51Z",
+              "localizedDescription": "This is release for:\n          - version: \"0.6.3-nightly.2026.02.24.37+31e8eb79\"\n          - revision: \"31e8eb79\"\n          - timestamp: \"Tue Feb 24 15:20:51 2026\"\n\n        Release Notes:\n        #### What's Changed\n- Merge pull request #1183 from LiveContainer/develop\n- bug-fix: fix crash when viewing app ids\n- bug-fix: fix profile not installed\n- fix build issue\n- bug-fix: fix useMainProfile not saved / not set during initialization\n- bug-fix: Fix crash when installing apps\n- ci: more fixes\n- ci: more fixes\n- ci: more fixes\n- ci: more fixes\n- CI: improve more ci worflow\n- CI: improve more ci worflow\n- CI: improve more ci worflow\n- CI: improve more ci worflow\n- CI: improve more ci worflow\n\n#### Full Changelog: [ea86b986...31e8eb79](https://github.com/SideStore/SideStore/compare/ea86b98674b16bdebd8783838e68583ccf7b627d...31e8eb79965804ef36a2e0165b05495f31cb1032)",
               "downloadURL": "https://github.com/SideStore/SideStore/releases/download/nightly/SideStore.ipa",
-              "size": 27279521,
-              "sha256": "1699c44308338f4ef7c3aa73581615fdb42de65e4bf8f3509f56ef47fcd19700"
+              "size": 27287355,
+              "sha256": "037c2b01c6a2606cd55e041ae2c2c6064993b8b855ee8fad37c43beb1dec39f7"
             }
           ]
         },
