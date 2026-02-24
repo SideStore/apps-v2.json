@@ -132,12 +132,12 @@
           "track": "nightly",
           "releases": [
             {
-              "version": "0.6.3-nightly.2026.02.24.35+9a5b9c4b",
-              "date": "2026-02-24T07:00:52Z",
-              "localizedDescription": "This is release for:\n          - version: \"0.6.3-nightly.2026.02.24.35+9a5b9c4b\"\n          - revision: \"9a5b9c4b\"\n          - timestamp: \"Tue Feb 24 07:00:52 2026\"\n\n        Release Notes:\n        #### What's Changed\n- Merge branch 'refs/heads/alpha' into develop\n- ci: more fixes\n- ci: more fixes\n- ci: more fixes\n- ci: more fixes\n- ci: more fixes\n- ci: more fixes\n- ci: more fixes\n- ci: more fixes\n- ci: more fixes\n- ci: more fixes\n- ci: more fixes\n- ci: more fixes\n- CI: improve more ci worflow\n\n#### Full Changelog: [bce38c87...9a5b9c4b](https://github.com/SideStore/SideStore/compare/bce38c874324ef3d46827f81f804afd69a8ff4ed...9a5b9c4b7fd288d064cec2dd4ebe18a080d0d915)",
+              "version": "0.6.3-nightly.2026.02.24.36+3961688b",
+              "date": "2026-02-24T07:41:18Z",
+              "localizedDescription": "This is release for:\n          - version: \"0.6.3-nightly.2026.02.24.36+3961688b\"\n          - revision: \"3961688b\"\n          - timestamp: \"Tue Feb 24 07:41:18 2026\"\n\n        Release Notes:\n        #### What's Changed\n- ci: more fixes\n- ci: more fixes\n- ci: more fixes\n- ci: more fixes\n- CI: improve more ci worflow\n- CI: improve more ci worflow\n- CI: improve more ci worflow\n- CI: improve more ci worflow\n- CI: improve more ci worflow\n- CI: improve more ci worflow\n\n#### Full Changelog: [3d47d486...3961688b](https://github.com/SideStore/SideStore/compare/3d47d486ef4f94c5dab61ec23e5c93377884d805...3961688b73df3d2faab0b11e9c7617e5bd71ceb9)",
               "downloadURL": "https://github.com/SideStore/SideStore/releases/download/nightly/SideStore.ipa",
-              "size": 27279513,
-              "sha256": "0c39718dd7d6c2a9661636b71624014a8586f8fbf55be8450b25a49bdb4599cf"
+              "size": 27279521,
+              "sha256": "1699c44308338f4ef7c3aa73581615fdb42de65e4bf8f3509f56ef47fcd19700"
             }
           ]
         },
