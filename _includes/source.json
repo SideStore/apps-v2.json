@@ -145,12 +145,12 @@
           "track": "alpha",
           "releases": [
             {
-              "version": "0.6.0-20250323.25+dc29b65",
-              "date": "2025-03-23T19:03:33Z",
-              "localizedDescription": "This is release for:\n  - version: \"0.6.0-alpha.2025.03.23.25+dc29b65b\"\n  - revision: \"dc29b65\"\n  - timestamp: \"Sun Mar 23 19:03:23 2025\"\n\nRelease Notes:\n#### What's Changed\n- fix: attempt to fix \"app no longer available\" issues due to fetch profiles not updating appFeatures and appGroups (possible regression from PR#846)\n\n#### Full Changelog: [5e907167...dc29b65b](https://github.com/SideStore/SideStore/compare/5e907167af5a41ddecdd99c1cd69ecfad3db6cec...dc29b65bd58e88854678d3199f805083f2760221)",
+              "version": "0.6.3-alpha.2026.02.24.1+f7e30b1a",
+              "date": "2026-02-24T05:43:29Z",
+              "localizedDescription": "This is release for:\n          - version: \"0.6.3-alpha.2026.02.24.1+f7e30b1a\"\n          - revision: \"f7e30b1a\"\n          - timestamp: \"Tue Feb 24 05:43:29 2026\"\n\n        Release Notes:\n        #### What's Changed\n- ci: more fixes\n- ci: more fixes\n- ci: more fixes\n- ci: more fixes\n- ci: more fixes\n- ci: more fixes\n- ci: more fixes\n- ci: more fixes\n- CI: improve more ci worflow\n- CI: improve more ci worflow\n\n#### Full Changelog: [0e72a33a...f7e30b1a](https://github.com/SideStore/SideStore/compare/0e72a33af88aca9864920bda14ca3f6c8b993c79...f7e30b1a485df460e85eb22846c3c268d4483018)",
               "downloadURL": "https://github.com/SideStore/SideStore/releases/download/alpha/SideStore.ipa",
-              "size": 26349606,
-              "sha256": "de06945bba0b66c0cf9512cf3473e11b080f0ebebfe7c65b6e381a5ae78e9b3b"
+              "size": 27279461,
+              "sha256": "fd0d89869c1424b3a5bde771d779159b5c5d6495f646247a62176cc1b96474b1"
             }
           ]
         },
