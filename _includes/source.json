@@ -145,12 +145,12 @@
           "track": "alpha",
           "releases": [
             {
-              "version": "0.6.3-alpha.2026.02.24.10+16bb57c8",
-              "date": "2026-02-24T15:30:19Z",
-              "localizedDescription": "This is release for:\n  - version: \"0.6.3-alpha.2026.02.24.10+16bb57c8\"\n  - revision: \"16bb57c8\"\n  - timestamp: \"Tue Feb 24 15:30:19 2026\"\n\nRelease Notes:\n#### What's Changed\n- ci: use proper messaging for upstream tag\n- ci: cleanup - removed obsolete stuffs\n- ci: moved cache maintenance script into obsolete\n- ci: fix typo in brew command\n- ci: removed caching for ldid and xcbeautify coz they take much more time to restore than install\n- ci: added some names to few steps\n- ci: added back the nightly schedule checking for new commits and only then build\n- ci: improve speed by caching brew install step and reading project settings from dumped xcodebuild -showProjectSettings instead of invoking each time.\n- ci: fix indentation in release notes\n- ci: fix indentation in release notes\n\n#### Full Changelog: [efbb4098...16bb57c8](https://github.com/SideStore/SideStore/compare/efbb40982e8c1cd1ebdeeb78f1245eafe0a38375...16bb57c82510fb959e02481c325868f2cc950489)\n",
+              "version": "0.6.3-alpha.2026.02.24.11+fd920be3",
+              "date": "2026-02-24T15:50:22Z",
+              "localizedDescription": "This is release for:\n  - version: \"0.6.3-alpha.2026.02.24.11+fd920be3\"\n  - revision: \"fd920be3\"\n  - timestamp: \"Tue Feb 24 15:50:22 2026\"\n\nRelease Notes:\n#### What's Changed\n- ci: updated PR workflow to reflect latest\n- ci: use proper messaging for upstream tag\n- ci: cleanup - removed obsolete stuffs\n- ci: moved cache maintenance script into obsolete\n- ci: fix typo in brew command\n- ci: removed caching for ldid and xcbeautify coz they take much more time to restore than install\n- ci: added some names to few steps\n- ci: added back the nightly schedule checking for new commits and only then build\n- ci: improve speed by caching brew install step and reading project settings from dumped xcodebuild -showProjectSettings instead of invoking each time.\n- ci: fix indentation in release notes\n\n#### Full Changelog: [f44ed0a9...fd920be3](https://github.com/SideStore/SideStore/compare/f44ed0a94790000c4c5f7c6383fd970eedb6b742...fd920be3bf1cffcceda8cd5957369d33c24a2d82)\n",
               "downloadURL": "https://github.com/SideStore/SideStore/releases/download/alpha/SideStore.ipa",
-              "size": 27279483,
-              "sha256": "18ddd0ba2fbf5849d6a0366bae3f6ea2c91cc4f6bc32ff2c393bfd994de535ab"
+              "size": 27279492,
+              "sha256": "3c8d739cf08b4bfc5921efdefea996423a3e165e8e728fd4b4671144eb42a3f1"
             }
           ]
         },
