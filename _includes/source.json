@@ -132,12 +132,12 @@
           "track": "nightly",
           "releases": [
             {
-              "version": "0.6.3-nightly.2026.02.24.34+64d5ed1b",
-              "date": "2026-02-24T06:41:40Z",
-              "localizedDescription": "This is release for:\n          - version: \"0.6.3-nightly.2026.02.24.34+64d5ed1b\"\n          - revision: \"64d5ed1b\"\n          - timestamp: \"Tue Feb 24 06:41:40 2026\"\n\n        Release Notes:\n        #### What's Changed\n- Merge pull request #1182 from LiveContainer/develop\n- fix build issue\n- bug-fix: fix useMainProfile not saved / not set during initialization\n- bug-fix: Fix crash when installing apps\n- ci: more fixes\n- ci: more fixes\n- ci: more fixes\n- ci: more fixes\n- ci: more fixes\n- ci: more fixes\n- ci: more fixes\n- ci: more fixes\n- CI: improve more ci worflow\n\n#### Full Changelog: [bce38c87...64d5ed1b](https://github.com/SideStore/SideStore/compare/bce38c874324ef3d46827f81f804afd69a8ff4ed...64d5ed1ba5f64667a0caf463a72d5d4d05143481)",
+              "version": "0.6.3-nightly.2026.02.24.35+9a5b9c4b",
+              "date": "2026-02-24T07:00:52Z",
+              "localizedDescription": "This is release for:\n          - version: \"0.6.3-nightly.2026.02.24.35+9a5b9c4b\"\n          - revision: \"9a5b9c4b\"\n          - timestamp: \"Tue Feb 24 07:00:52 2026\"\n\n        Release Notes:\n        #### What's Changed\n- Merge branch 'refs/heads/alpha' into develop\n- ci: more fixes\n- ci: more fixes\n- ci: more fixes\n- ci: more fixes\n- ci: more fixes\n- ci: more fixes\n- ci: more fixes\n- ci: more fixes\n- ci: more fixes\n- ci: more fixes\n- ci: more fixes\n- ci: more fixes\n- CI: improve more ci worflow\n\n#### Full Changelog: [bce38c87...9a5b9c4b](https://github.com/SideStore/SideStore/compare/bce38c874324ef3d46827f81f804afd69a8ff4ed...9a5b9c4b7fd288d064cec2dd4ebe18a080d0d915)",
               "downloadURL": "https://github.com/SideStore/SideStore/releases/download/nightly/SideStore.ipa",
-              "size": 27279410,
-              "sha256": "10abe2afab3a4bb394933738a7e8f8c9d534650d1c1eab452cd01c582b32b3c1"
+              "size": 27279513,
+              "sha256": "0c39718dd7d6c2a9661636b71624014a8586f8fbf55be8450b25a49bdb4599cf"
             }
           ]
         },
