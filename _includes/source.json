@@ -145,12 +145,12 @@
           "track": "alpha",
           "releases": [
             {
-              "version": "0.6.3-alpha.2026.02.24.11+fd920be3",
-              "date": "2026-02-24T15:50:22Z",
-              "localizedDescription": "This is release for:\n  - version: \"0.6.3-alpha.2026.02.24.11+fd920be3\"\n  - revision: \"fd920be3\"\n  - timestamp: \"Tue Feb 24 15:50:22 2026\"\n\nRelease Notes:\n#### What's Changed\n- ci: updated PR workflow to reflect latest\n- ci: use proper messaging for upstream tag\n- ci: cleanup - removed obsolete stuffs\n- ci: moved cache maintenance script into obsolete\n- ci: fix typo in brew command\n- ci: removed caching for ldid and xcbeautify coz they take much more time to restore than install\n- ci: added some names to few steps\n- ci: added back the nightly schedule checking for new commits and only then build\n- ci: improve speed by caching brew install step and reading project settings from dumped xcodebuild -showProjectSettings instead of invoking each time.\n- ci: fix indentation in release notes\n\n#### Full Changelog: [f44ed0a9...fd920be3](https://github.com/SideStore/SideStore/compare/f44ed0a94790000c4c5f7c6383fd970eedb6b742...fd920be3bf1cffcceda8cd5957369d33c24a2d82)\n",
+              "version": "0.6.3-alpha.2026.02.24.12+21bbcd69",
+              "date": "2026-02-24T16:44:14Z",
+              "localizedDescription": "This is release for:\n  - version: \"0.6.3-alpha.2026.02.24.12+21bbcd69\"\n  - revision: \"21bbcd69\"\n  - timestamp: \"Tue Feb 24 16:44:14 2026\"\n\nRelease Notes:\n#### What's Changed\n- ci: updated stable workflow as per workflow.py and other workflows\n- ci: updated PR workflow to reflect latest\n- ci: use proper messaging for upstream tag\n- ci: cleanup - removed obsolete stuffs\n- ci: moved cache maintenance script into obsolete\n- ci: fix typo in brew command\n- ci: removed caching for ldid and xcbeautify coz they take much more time to restore than install\n- ci: added some names to few steps\n- ci: added back the nightly schedule checking for new commits and only then build\n- ci: improve speed by caching brew install step and reading project settings from dumped xcodebuild -showProjectSettings instead of invoking each time.\n\n#### Full Changelog: [046d2788...21bbcd69](https://github.com/SideStore/SideStore/compare/046d2788b99e7e352b3d5bf5b20cef60d96ddeed...21bbcd69f851acfd4aba341b1371cbdf30c21248)\n",
               "downloadURL": "https://github.com/SideStore/SideStore/releases/download/alpha/SideStore.ipa",
-              "size": 27279492,
-              "sha256": "3c8d739cf08b4bfc5921efdefea996423a3e165e8e728fd4b4671144eb42a3f1"
+              "size": 27279494,
+              "sha256": "1b8037606e126de0cbdb03ffa225ee2ad62b6ae5aea0f2fbdbf711f02ab63c37"
             }
           ]
         },
