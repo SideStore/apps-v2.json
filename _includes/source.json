@@ -132,12 +132,12 @@
           "track": "nightly",
           "releases": [
             {
-              "version": "0.6.3-nightly.2026.02.24.29+42fae569",
-              "date": "2026-02-24T04:38:41Z",
-              "localizedDescription": "This is release for:\n          - version: \"0.6.3-nightly.2026.02.24.29+42fae569\"\n          - revision: \"42fae569\"\n          - timestamp: \"Tue Feb 24 04:38:41 2026\"\n\n        Release Notes:\n        #### What's Changed\n- ci: more fixes\n- ci: more fixes\n- ci: more fixes\n- CI: improve more ci worflow\n- CI: improve more ci worflow\n- CI: improve more ci worflow\n- CI: improve more ci worflow\n- CI: improve more ci worflow\n- CI: improve more ci worflow\n- CI: improve more ci worflow\n\n#### Full Changelog: [3a05485c...42fae569](https://github.com/SideStore/SideStore/compare/3a05485c400e8be7eaf97150834683f48db62439...42fae569caf0892392e795c752029d34e9bca1b6)",
+              "version": "0.6.3-nightly.2026.02.24.30+4100e8b1",
+              "date": "2026-02-24T04:44:35Z",
+              "localizedDescription": "This is release for:\n          - version: \"0.6.3-nightly.2026.02.24.30+4100e8b1\"\n          - revision: \"4100e8b1\"\n          - timestamp: \"Tue Feb 24 04:44:35 2026\"\n\n        Release Notes:\n        #### What's Changed\n- ci: more fixes\n- ci: more fixes\n- ci: more fixes\n- ci: more fixes\n- CI: improve more ci worflow\n- CI: improve more ci worflow\n- CI: improve more ci worflow\n- CI: improve more ci worflow\n- CI: improve more ci worflow\n- CI: improve more ci worflow\n\n#### Full Changelog: [3d47d486...4100e8b1](https://github.com/SideStore/SideStore/compare/3d47d486ef4f94c5dab61ec23e5c93377884d805...4100e8b1b973666b0a99c54b43f906469cc77262)",
               "downloadURL": "https://github.com/SideStore/SideStore/releases/download/nightly/SideStore.ipa",
-              "size": 27279486,
-              "sha256": "bba880178ad8216e098448fa93cc8d3462be82501d9a1cdb5319ec762bec1ad0"
+              "size": 27279518,
+              "sha256": "29f8149c26d4f6872b60f5506704ba4f7c6c79842329830011b340bc37b121e4"
             }
           ]
         },
