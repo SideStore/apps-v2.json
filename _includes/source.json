@@ -145,12 +145,12 @@
           "track": "alpha",
           "releases": [
             {
-              "version": "0.6.3-alpha.2026.02.24.4+046d2788",
-              "date": "2026-02-24T12:57:55Z",
-              "localizedDescription": "This is release for:\n  - version: \"0.6.3-alpha.2026.02.24.4+046d2788\"\n  - revision: \"046d2788\"\n  - timestamp: \"Tue Feb 24 12:57:55 2026\"\n\nRelease Notes:\n#### What's Changed\n- ci: fix indentation in release notes\n- ci: fix indentation in release notes\n- ci: fix indentation in release notes\n- staging: added some redundant files to gitignore\n- staging: prepare new branch for alpha release channels and high velocity development\n- ci: more fixes\n- ci: more fixes\n- ci: more fixes\n- ci: more fixes\n- CI: improve more ci worflow\n\n#### Full Changelog: [bce38c87...046d2788](https://github.com/SideStore/SideStore/compare/bce38c874324ef3d46827f81f804afd69a8ff4ed...046d2788b99e7e352b3d5bf5b20cef60d96ddeed)\n",
+              "version": "0.6.3-alpha.2026.02.24.5+b7085aae",
+              "date": "2026-02-24T13:29:34Z",
+              "localizedDescription": "This is release for:\n  - version: \"0.6.3-alpha.2026.02.24.5+b7085aae\"\n  - revision: \"b7085aae\"\n  - timestamp: \"Tue Feb 24 13:29:34 2026\"\n\nRelease Notes:\n#### What's Changed\n- ci: improve speed by caching brew install step and reading project settings from dumped xcodebuild -showProjectSettings instead of invoking each time.\n- ci: fix indentation in release notes\n- ci: fix indentation in release notes\n- ci: fix indentation in release notes\n- staging: added some redundant files to gitignore\n- staging: prepare new branch for alpha release channels and high velocity development\n- ci: more fixes\n- ci: more fixes\n- ci: more fixes\n- ci: more fixes\n\n#### Full Changelog: [226f0dcc...b7085aae](https://github.com/SideStore/SideStore/compare/226f0dcc6b92a28449c185af3e88d08390a2a455...b7085aaecaf623c4beb6c49ea61d5bbb60324215)\n",
               "downloadURL": "https://github.com/SideStore/SideStore/releases/download/alpha/SideStore.ipa",
-              "size": 27279486,
-              "sha256": "58f6724755ecc2aadfc6bcda6f06253a0963bc849d1e717b825140261e2929ce"
+              "size": 27279488,
+              "sha256": "ff596366660f079aa6b45375bb0ca8ee1ccc55991dafc8a697372b44e844d9a6"
             }
           ]
         },
