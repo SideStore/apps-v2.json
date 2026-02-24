@@ -145,12 +145,12 @@
           "track": "alpha",
           "releases": [
             {
-              "version": "0.6.3-alpha.2026.02.24.2+1449f8c7",
-              "date": "2026-02-24T07:39:08Z",
-              "localizedDescription": "This is release for:\n          - version: \"0.6.3-alpha.2026.02.24.2+1449f8c7\"\n          - revision: \"1449f8c7\"\n          - timestamp: \"Tue Feb 24 07:39:08 2026\"\n\n        Release Notes:\n        #### What's Changed\n- staging: prepare new branch for alpha release channels and high velocity development\n- ci: more fixes\n- ci: more fixes\n\n#### Full Changelog: [f7e30b1a...1449f8c7](https://github.com/SideStore/SideStore/compare/f7e30b1a485df460e85eb22846c3c268d4483018...1449f8c74f7d542757382d783ed0d6a836e5797c)",
+              "version": "0.6.3-alpha.2026.02.24.3+efbb4098",
+              "date": "2026-02-24T07:54:05Z",
+              "localizedDescription": "This is release for:\n          - version: \"0.6.3-alpha.2026.02.24.3+efbb4098\"\n          - revision: \"efbb4098\"\n          - timestamp: \"Tue Feb 24 07:54:05 2026\"\n\n        Release Notes:\n        #### What's Changed\n- ci: fix indentation in release notes\n- staging: added some redundant files to gitignore\n- staging: prepare new branch for alpha release channels and high velocity development\n- ci: more fixes\n- ci: more fixes\n- ci: more fixes\n- ci: more fixes\n- CI: improve more ci worflow\n- CI: improve more ci worflow\n- CI: improve more ci worflow\n\n#### Full Changelog: [0677cc28...efbb4098](https://github.com/SideStore/SideStore/compare/0677cc287e7f9d7b955a72ee3e17cef54cd6c6a3...efbb40982e8c1cd1ebdeeb78f1245eafe0a38375)",
               "downloadURL": "https://github.com/SideStore/SideStore/releases/download/alpha/SideStore.ipa",
-              "size": 27279493,
-              "sha256": "003c827ccd9c2adb8c24c4baaeacfc93aec925c70b607c8603602bfd61df9ac5"
+              "size": 27279483,
+              "sha256": "844e07419fc6d19d60b2f4fe4fbfbd076d97cd71c4b59d9a988c9d9ca41c3967"
             }
           ]
         },
