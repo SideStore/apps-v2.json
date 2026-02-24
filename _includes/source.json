@@ -132,12 +132,12 @@
           "track": "nightly",
           "releases": [
             {
-              "version": "0.6.3-nightly.2026.02.24.30+4100e8b1",
-              "date": "2026-02-24T04:44:35Z",
-              "localizedDescription": "This is release for:\n          - version: \"0.6.3-nightly.2026.02.24.30+4100e8b1\"\n          - revision: \"4100e8b1\"\n          - timestamp: \"Tue Feb 24 04:44:35 2026\"\n\n        Release Notes:\n        #### What's Changed\n- ci: more fixes\n- ci: more fixes\n- ci: more fixes\n- ci: more fixes\n- CI: improve more ci worflow\n- CI: improve more ci worflow\n- CI: improve more ci worflow\n- CI: improve more ci worflow\n- CI: improve more ci worflow\n- CI: improve more ci worflow\n\n#### Full Changelog: [3d47d486...4100e8b1](https://github.com/SideStore/SideStore/compare/3d47d486ef4f94c5dab61ec23e5c93377884d805...4100e8b1b973666b0a99c54b43f906469cc77262)",
+              "version": "0.6.3-nightly.2026.02.24.31+85ff9b09",
+              "date": "2026-02-24T04:57:15Z",
+              "localizedDescription": "This is release for:\n          - version: \"0.6.3-nightly.2026.02.24.31+85ff9b09\"\n          - revision: \"85ff9b09\"\n          - timestamp: \"Tue Feb 24 04:57:15 2026\"\n\n        Release Notes:\n        #### What's Changed\n- ci: more fixes\n- ci: more fixes\n- ci: more fixes\n- ci: more fixes\n- ci: more fixes\n- CI: improve more ci worflow\n- CI: improve more ci worflow\n- CI: improve more ci worflow\n- CI: improve more ci worflow\n- CI: improve more ci worflow\n\n#### Full Changelog: [ea86b986...85ff9b09](https://github.com/SideStore/SideStore/compare/ea86b98674b16bdebd8783838e68583ccf7b627d...85ff9b09cabe2e4813c3fd9e57b768370b037773)",
               "downloadURL": "https://github.com/SideStore/SideStore/releases/download/nightly/SideStore.ipa",
-              "size": 27279518,
-              "sha256": "29f8149c26d4f6872b60f5506704ba4f7c6c79842329830011b340bc37b121e4"
+              "size": 27279497,
+              "sha256": "419ab0fbfe77a92e3424eed330ae41baca998f6dabd7fff54c700c7ec9a9051f"
             }
           ]
         },
