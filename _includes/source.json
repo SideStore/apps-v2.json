@@ -145,12 +145,12 @@
           "track": "alpha",
           "releases": [
             {
-              "version": "0.6.3-alpha.2026.02.24.1+f7e30b1a",
-              "date": "2026-02-24T05:43:29Z",
-              "localizedDescription": "This is release for:\n          - version: \"0.6.3-alpha.2026.02.24.1+f7e30b1a\"\n          - revision: \"f7e30b1a\"\n          - timestamp: \"Tue Feb 24 05:43:29 2026\"\n\n        Release Notes:\n        #### What's Changed\n- ci: more fixes\n- ci: more fixes\n- ci: more fixes\n- ci: more fixes\n- ci: more fixes\n- ci: more fixes\n- ci: more fixes\n- ci: more fixes\n- CI: improve more ci worflow\n- CI: improve more ci worflow\n\n#### Full Changelog: [0e72a33a...f7e30b1a](https://github.com/SideStore/SideStore/compare/0e72a33af88aca9864920bda14ca3f6c8b993c79...f7e30b1a485df460e85eb22846c3c268d4483018)",
+              "version": "0.6.3-alpha.2026.02.24.2+1449f8c7",
+              "date": "2026-02-24T07:39:08Z",
+              "localizedDescription": "This is release for:\n          - version: \"0.6.3-alpha.2026.02.24.2+1449f8c7\"\n          - revision: \"1449f8c7\"\n          - timestamp: \"Tue Feb 24 07:39:08 2026\"\n\n        Release Notes:\n        #### What's Changed\n- staging: prepare new branch for alpha release channels and high velocity development\n- ci: more fixes\n- ci: more fixes\n\n#### Full Changelog: [f7e30b1a...1449f8c7](https://github.com/SideStore/SideStore/compare/f7e30b1a485df460e85eb22846c3c268d4483018...1449f8c74f7d542757382d783ed0d6a836e5797c)",
               "downloadURL": "https://github.com/SideStore/SideStore/releases/download/alpha/SideStore.ipa",
-              "size": 27279461,
-              "sha256": "fd0d89869c1424b3a5bde771d779159b5c5d6495f646247a62176cc1b96474b1"
+              "size": 27279493,
+              "sha256": "003c827ccd9c2adb8c24c4baaeacfc93aec925c70b607c8603602bfd61df9ac5"
             }
           ]
         },
