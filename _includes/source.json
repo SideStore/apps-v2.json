@@ -133,11 +133,11 @@
           "releases": [
             {
               "version": "0.6.3",
-              "date": "2026-02-24T02:53:54Z",
-              "localizedDescription": "This is release for:\n          - version: \"0.6.3-nightly.2026.02.24.26+226f0dcc\"\n          - revision: \"226f0dcc\"\n          - timestamp: \"Tue Feb 24 02:53:54 2026\"\n\n        Release Notes:\n        #### What's Changed\n- CI: improve more ci worflow\n- CI: improve more ci worflow\n- CI: improve more ci worflow\n- CI: improve more ci worflow\n- CI: improve more ci worflow\n- CI: improve more ci worflow\n- CI: improve more ci worflow\n- CI: improve more ci worflow\n- CI: improve more ci worflow\n- CI: improve more ci worflow\n\n#### Full Changelog: [c5394be8...226f0dcc](https://github.com/SideStore/SideStore/compare/c5394be883c9bdda3be654264f98b9a3c992b932...226f0dcc6b92a28449c185af3e88d08390a2a455)",
+              "date": "2026-02-24T03:20:31Z",
+              "localizedDescription": "This is release for:\n          - version: \"0.6.3-nightly.2026.02.24.27+a02d1c49\"\n          - revision: \"a02d1c49\"\n          - timestamp: \"Tue Feb 24 03:20:31 2026\"\n\n        Release Notes:\n        #### What's Changed\n- ci: more fixes\n- CI: improve more ci worflow\n- CI: improve more ci worflow\n- CI: improve more ci worflow\n- CI: improve more ci worflow\n- CI: improve more ci worflow\n- CI: improve more ci worflow\n- CI: improve more ci worflow\n- CI: improve more ci worflow\n- CI: improve more ci worflow\n\n#### Full Changelog: [99712f00...a02d1c49](https://github.com/SideStore/SideStore/compare/99712f0020a4f2ae57d8d781514fa735f893c23a...a02d1c49e8b8fb66c1fd8a0027c6e4bae96bb9e2)",
               "downloadURL": "https://github.com/SideStore/SideStore/releases/download/nightly/SideStore.ipa",
-              "size": 27279324,
-              "sha256": "a18143a548dfca114d3eb429bbcd7810036781fbdf53d393e5888b83e25a0e84"
+              "size": 27279311,
+              "sha256": "57431822aac05c1ce0b02b7f439b1eb79d00a67c85e98264da2657f21a45670a"
             }
           ]
         },
