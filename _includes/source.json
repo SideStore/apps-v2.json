@@ -145,12 +145,12 @@
           "track": "alpha",
           "releases": [
             {
-              "version": "0.6.3-20260225.269+12f84b23",
-              "date": "2026-02-25T02:23:06Z",
-              "localizedDescription": "This is release for:\n  - version: \"0.6.3-20260225.269+12f84b23\"\n  - revision: \"12f84b23\"\n  - timestamp: \"Wed Feb 25 02:23:06 2026\"\n\nRelease Notes:\n#### What's Changed\n- CI: fixes for author\n- CI: multiple fixes\n\n#### Full Changelog: [alpha...12f84b23](https://github.com/SideStore/SideStore/compare/555bb3d985bd8bdfa2ed9f014f8af52829d5808f...12f84b23658cae73e19ab923ecc5a820b661144b)\n",
+              "version": "0.6.3-20260225.270+06ad6488",
+              "date": "2026-02-25T02:42:40Z",
+              "localizedDescription": "This is release for:\n  - version: \"0.6.3-20260225.270+06ad6488\"\n  - revision: \"06ad6488\"\n  - timestamp: \"Wed Feb 25 02:42:40 2026\"\n\nRelease Notes:\n#### What's Changed\n- CI: changelog in md was incorrect in release notes\n\n#### Full Changelog: [12f84b23...06ad6488](https://github.com/SideStore/SideStore/compare/12f84b23658cae73e19ab923ecc5a820b661144b...06ad6488cc3709860bdb4b6dbb146d43171753cc)\n",
               "downloadURL": "https://github.com/SideStore/SideStore/releases/download/alpha/SideStore.ipa",
-              "size": 27287970,
-              "sha256": "79e92e57f3d2bd647292125fc5c360375f562a6d5fd4cbb4f0f16a7c2c6fea97"
+              "size": 27287985,
+              "sha256": "1371205334abc111af7abbbc1372673a1252343c16b7ab985487addfc749a432"
             }
           ]
         },
