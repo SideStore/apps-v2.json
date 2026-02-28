@@ -132,12 +132,12 @@
           "track": "nightly",
           "releases": [
             {
-              "version": "0.6.3-20260227.944+3b9b45a0",
-              "date": "2026-02-27T23:17:39Z",
-              "localizedDescription": "This is release for:\n  - version: \"0.6.3-20260227.944+3b9b45a0\"\n  - revision: \"3b9b45a0\"\n  - timestamp: \"Fri Feb 27 23:17:39 2026\"\n\nRelease Notes:\n#### What's Changed\n- pbxproj: was missing references to IfManager.swift\n- minimuxer: added @nythepegasus's patch as-is\n- minimuxer: added @nythepegasus's patch as-is\n- minimuxer: updated submodule to latest\n\n#### Full Changelog: [bff192be...3b9b45a0](https://github.com/SideStore/SideStore/compare/bff192be4e2b99e0e7cd717ba3d1871d3a7b2136...3b9b45a06f041aaeee2663bf56cf604f5a1825f1)\n",
+              "version": "0.6.3-20260228.946+95953ca0",
+              "date": "2026-02-28T01:19:18Z",
+              "localizedDescription": "This is release for:\n  - version: \"0.6.3-20260228.946+95953ca0\"\n  - revision: \"95953ca0\"\n  - timestamp: \"Sat Feb 28 01:19:18 2026\"\n\nRelease Notes:\n#### What's Changed\n- IfManager: added String representation for readability\n\n#### Full Changelog: [3b9b45a0...95953ca0](https://github.com/SideStore/SideStore/compare/3b9b45a06f041aaeee2663bf56cf604f5a1825f1...95953ca0e9ad50dffe7110ed40522fb85be17364)\n",
               "downloadURL": "https://github.com/SideStore/SideStore/releases/download/nightly/SideStore.ipa",
-              "size": 27047194,
-              "sha256": "66279b0de901aab7e62ca560be26ac2f958769de6a8c0826781fe0659f335341"
+              "size": 27051155,
+              "sha256": "5469db18713375fed07e48b53a78d1fb2da3dcd7496fe4401e19323c030b5ac0"
             }
           ]
         },
