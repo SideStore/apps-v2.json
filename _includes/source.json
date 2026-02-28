@@ -132,12 +132,12 @@
           "track": "nightly",
           "releases": [
             {
-              "version": "0.6.3-20260228.947+a505d042",
-              "date": "2026-02-28T03:27:26Z",
-              "localizedDescription": "This is release for:\n  - version: \"0.6.3-20260228.947+a505d042\"\n  - revision: \"a505d042\"\n  - timestamp: \"Sat Feb 28 03:27:26 2026\"\n\nRelease Notes:\n#### What's Changed\n- fix: 26.4 patch, add correct dest\n\n#### Full Changelog: [95953ca0...a505d042](https://github.com/SideStore/SideStore/compare/95953ca0e9ad50dffe7110ed40522fb85be17364...a505d042152e8a929db57433616cfe5f4582f051)\n",
+              "version": "0.6.3-20260228.948+6e9e0aee",
+              "date": "2026-02-28T23:08:04Z",
+              "localizedDescription": "This is release for:\n  - version: \"0.6.3-20260228.948+6e9e0aee\"\n  - revision: \"6e9e0aee\"\n  - timestamp: \"Sat Feb 28 23:08:04 2026\"\n\nRelease Notes:\n#### What's Changed\n- fix: revert 26.4 fix partially to fix everywhere\n\n#### Full Changelog: [a505d042...6e9e0aee](https://github.com/SideStore/SideStore/compare/a505d042152e8a929db57433616cfe5f4582f051...6e9e0aee0a9a493cd9b86d1a7c50b5b68d2c6fe3)\n",
               "downloadURL": "https://github.com/SideStore/SideStore/releases/download/nightly/SideStore.ipa",
-              "size": 27047531,
-              "sha256": "b75c95aa57ae6915442c3242b5f42d16381aaf9dd0632bbba7049cb016e9d73b"
+              "size": 27047368,
+              "sha256": "3668df98140db2c7f4d118191febc58b43af1674b25d5b6a4bd3e14b585a01d6"
             }
           ]
         },
