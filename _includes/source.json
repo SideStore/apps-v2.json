@@ -132,12 +132,12 @@
           "track": "nightly",
           "releases": [
             {
-              "version": "0.6.3-20260228.946+95953ca0",
-              "date": "2026-02-28T01:19:18Z",
-              "localizedDescription": "This is release for:\n  - version: \"0.6.3-20260228.946+95953ca0\"\n  - revision: \"95953ca0\"\n  - timestamp: \"Sat Feb 28 01:19:18 2026\"\n\nRelease Notes:\n#### What's Changed\n- IfManager: added String representation for readability\n\n#### Full Changelog: [3b9b45a0...95953ca0](https://github.com/SideStore/SideStore/compare/3b9b45a06f041aaeee2663bf56cf604f5a1825f1...95953ca0e9ad50dffe7110ed40522fb85be17364)\n",
+              "version": "0.6.3-20260228.947+a505d042",
+              "date": "2026-02-28T03:27:26Z",
+              "localizedDescription": "This is release for:\n  - version: \"0.6.3-20260228.947+a505d042\"\n  - revision: \"a505d042\"\n  - timestamp: \"Sat Feb 28 03:27:26 2026\"\n\nRelease Notes:\n#### What's Changed\n- fix: 26.4 patch, add correct dest\n\n#### Full Changelog: [95953ca0...a505d042](https://github.com/SideStore/SideStore/compare/95953ca0e9ad50dffe7110ed40522fb85be17364...a505d042152e8a929db57433616cfe5f4582f051)\n",
               "downloadURL": "https://github.com/SideStore/SideStore/releases/download/nightly/SideStore.ipa",
-              "size": 27051155,
-              "sha256": "5469db18713375fed07e48b53a78d1fb2da3dcd7496fe4401e19323c030b5ac0"
+              "size": 27047531,
+              "sha256": "b75c95aa57ae6915442c3242b5f42d16381aaf9dd0632bbba7049cb016e9d73b"
             }
           ]
         },
