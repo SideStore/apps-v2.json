@@ -145,12 +145,12 @@
           "track": "alpha",
           "releases": [
             {
-              "version": "0.6.3-20260302.275+dd4c0be7",
-              "date": "2026-03-02T11:33:08Z",
-              "localizedDescription": "This is release for:\n  - version: \"0.6.3-20260302.275+dd4c0be7\"\n  - revision: \"dd4c0be7\"\n  - timestamp: \"Mon Mar  2 11:33:08 2026\"\n\nRelease Notes:\n#### What's Changed\n- minimuxer: match API name\n- minimuxer: usbmuxer was not handling socket kill or death properly when app was backgrounded and came into foreground\n\n#### Full Changelog: [dba84ed0...dd4c0be7](https://github.com/SideStore/SideStore/compare/dba84ed015549b494cbda4093a65339a41e9e0bc...dd4c0be75dce8fb84261792dc6ef9a816a985c12)\n",
+              "version": "0.6.3-20260302.276+0e81515a",
+              "date": "2026-03-02T11:41:16Z",
+              "localizedDescription": "This is release for:\n  - version: \"0.6.3-20260302.276+0e81515a\"\n  - revision: \"0e81515a\"\n  - timestamp: \"Mon Mar  2 11:41:16 2026\"\n\nRelease Notes:\n#### What's Changed\n- minimuxer: fix usbmuxd socket error handling - restart on first error and dont wait for 5 lol\n\n#### Full Changelog: [dd4c0be7...0e81515a](https://github.com/SideStore/SideStore/compare/dd4c0be75dce8fb84261792dc6ef9a816a985c12...0e81515af957b9ab86a86cac3675f46933a79049)\n",
               "downloadURL": "https://github.com/SideStore/SideStore/releases/download/alpha/SideStore.ipa",
-              "size": 24745671,
-              "sha256": "0888a8aa8def22f7ef965b4d0c54d93713a95e57ccbab85d46ac98c09947748b"
+              "size": 24744908,
+              "sha256": "77e5fa31a25e021582f91003fe98b6c4bd0b3969a16b75aec992f9f1c640fc1f"
             }
           ]
         },
