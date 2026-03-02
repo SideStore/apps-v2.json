@@ -145,12 +145,12 @@
           "track": "alpha",
           "releases": [
             {
-              "version": "0.6.3-20260302.274+dba84ed0",
-              "date": "2026-03-02T09:35:05Z",
-              "localizedDescription": "This is release for:\n  - version: \"0.6.3-20260302.274+dba84ed0\"\n  - revision: \"dba84ed0\"\n  - timestamp: \"Mon Mar  2 09:35:05 2026\"\n\nRelease Notes:\n#### What's Changed\n- minimuxer: IfaceScanner - updated to skim thru kernel routing tables and find the included routes of our uTun\n\n#### Full Changelog: [dbb1e0ff...dba84ed0](https://github.com/SideStore/SideStore/compare/dbb1e0ff3e48b6ff3f80a0ee2eb603e05d1104ac...dba84ed015549b494cbda4093a65339a41e9e0bc)\n",
+              "version": "0.6.3-20260302.275+dd4c0be7",
+              "date": "2026-03-02T11:33:08Z",
+              "localizedDescription": "This is release for:\n  - version: \"0.6.3-20260302.275+dd4c0be7\"\n  - revision: \"dd4c0be7\"\n  - timestamp: \"Mon Mar  2 11:33:08 2026\"\n\nRelease Notes:\n#### What's Changed\n- minimuxer: match API name\n- minimuxer: usbmuxer was not handling socket kill or death properly when app was backgrounded and came into foreground\n\n#### Full Changelog: [dba84ed0...dd4c0be7](https://github.com/SideStore/SideStore/compare/dba84ed015549b494cbda4093a65339a41e9e0bc...dd4c0be75dce8fb84261792dc6ef9a816a985c12)\n",
               "downloadURL": "https://github.com/SideStore/SideStore/releases/download/alpha/SideStore.ipa",
-              "size": 24740203,
-              "sha256": "286153be096101afa02a78259643a79a127e278728f5d03d7aef7190800b6174"
+              "size": 24745671,
+              "sha256": "0888a8aa8def22f7ef965b4d0c54d93713a95e57ccbab85d46ac98c09947748b"
             }
           ]
         },
