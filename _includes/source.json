@@ -145,12 +145,12 @@
           "track": "alpha",
           "releases": [
             {
-              "version": "0.6.3-20260302.276+0e81515a",
-              "date": "2026-03-02T11:41:16Z",
-              "localizedDescription": "This is release for:\n  - version: \"0.6.3-20260302.276+0e81515a\"\n  - revision: \"0e81515a\"\n  - timestamp: \"Mon Mar  2 11:41:16 2026\"\n\nRelease Notes:\n#### What's Changed\n- minimuxer: fix usbmuxd socket error handling - restart on first error and dont wait for 5 lol\n\n#### Full Changelog: [dd4c0be7...0e81515a](https://github.com/SideStore/SideStore/compare/dd4c0be75dce8fb84261792dc6ef9a816a985c12...0e81515af957b9ab86a86cac3675f46933a79049)\n",
+              "version": "0.6.3-20260302.277+c4139473",
+              "date": "2026-03-02T21:57:22Z",
+              "localizedDescription": "This is release for:\n  - version: \"0.6.3-20260302.277+c4139473\"\n  - revision: \"c4139473\"\n  - timestamp: \"Mon Mar  2 21:57:22 2026\"\n\nRelease Notes:\n#### What's Changed\n- IfaceScanner: used the user specified IP to directly test if device is available there instead of assuming it to be under the subnet of tunnel coz it is fake endpoint interceptable by the tunnel's included routes\n- minimuxer: added binding for the cached tunnel config values so that application layer can provide and listen to updates.\n- vpn-configuration: added new swiftUI view to settings to view discovered vpn settings and provide an override for deviceIP (if required) by user.\n\n#### Full Changelog: [0e81515a...c4139473](https://github.com/SideStore/SideStore/compare/0e81515af957b9ab86a86cac3675f46933a79049...c4139473fa2486f0e98607a8b2e693bd00f4b408)\n",
               "downloadURL": "https://github.com/SideStore/SideStore/releases/download/alpha/SideStore.ipa",
-              "size": 24744908,
-              "sha256": "77e5fa31a25e021582f91003fe98b6c4bd0b3969a16b75aec992f9f1c640fc1f"
+              "size": 24760054,
+              "sha256": "b61ceadf3db6ed16b3391df858ae4f70d3731c2bad9e7595138d906c5a310db4"
             }
           ]
         },
