@@ -145,12 +145,12 @@
           "track": "alpha",
           "releases": [
             {
-              "version": "0.6.3-20260302.273+dbb1e0ff",
-              "date": "2026-03-02T04:53:29Z",
-              "localizedDescription": "This is release for:\n  - version: \"0.6.3-20260302.273+dbb1e0ff\"\n  - revision: \"dbb1e0ff\"\n  - timestamp: \"Mon Mar  2 04:53:29 2026\"\n\nRelease Notes:\n#### What's Changed\n- minimuxer: gut checks for allowRange/whitelist since we control it on the VPN side\n\n#### Full Changelog: [43190036...dbb1e0ff](https://github.com/SideStore/SideStore/compare/431900368a0b7423db80ece2c1c563975943e903...dbb1e0ff3e48b6ff3f80a0ee2eb603e05d1104ac)\n",
+              "version": "0.6.3-20260302.274+dba84ed0",
+              "date": "2026-03-02T09:35:05Z",
+              "localizedDescription": "This is release for:\n  - version: \"0.6.3-20260302.274+dba84ed0\"\n  - revision: \"dba84ed0\"\n  - timestamp: \"Mon Mar  2 09:35:05 2026\"\n\nRelease Notes:\n#### What's Changed\n- minimuxer: IfaceScanner - updated to skim thru kernel routing tables and find the included routes of our uTun\n\n#### Full Changelog: [dbb1e0ff...dba84ed0](https://github.com/SideStore/SideStore/compare/dbb1e0ff3e48b6ff3f80a0ee2eb603e05d1104ac...dba84ed015549b494cbda4093a65339a41e9e0bc)\n",
               "downloadURL": "https://github.com/SideStore/SideStore/releases/download/alpha/SideStore.ipa",
-              "size": 24739990,
-              "sha256": "5678eef796dbe89d6ab1ddd627aef03a741f74ce41ae5e34ace7ee522a76cc25"
+              "size": 24740203,
+              "sha256": "286153be096101afa02a78259643a79a127e278728f5d03d7aef7190800b6174"
             }
           ]
         },
