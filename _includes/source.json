@@ -145,12 +145,12 @@
           "track": "alpha",
           "releases": [
             {
-              "version": "0.6.3-20260302.277+c4139473",
-              "date": "2026-03-02T21:57:22Z",
-              "localizedDescription": "This is release for:\n  - version: \"0.6.3-20260302.277+c4139473\"\n  - revision: \"c4139473\"\n  - timestamp: \"Mon Mar  2 21:57:22 2026\"\n\nRelease Notes:\n#### What's Changed\n- IfaceScanner: used the user specified IP to directly test if device is available there instead of assuming it to be under the subnet of tunnel coz it is fake endpoint interceptable by the tunnel's included routes\n- minimuxer: added binding for the cached tunnel config values so that application layer can provide and listen to updates.\n- vpn-configuration: added new swiftUI view to settings to view discovered vpn settings and provide an override for deviceIP (if required) by user.\n\n#### Full Changelog: [0e81515a...c4139473](https://github.com/SideStore/SideStore/compare/0e81515af957b9ab86a86cac3675f46933a79049...c4139473fa2486f0e98607a8b2e693bd00f4b408)\n",
+              "version": "0.6.3-20260302.278+1c8541fd",
+              "date": "2026-03-02T23:10:54Z",
+              "localizedDescription": "This is release for:\n  - version: \"0.6.3-20260302.278+1c8541fd\"\n  - revision: \"1c8541fd\"\n  - timestamp: \"Mon Mar  2 23:10:54 2026\"\n\nRelease Notes:\n#### What's Changed\n- MinimuxerWrapper: remove spam logs\n- Heartbeat: improved logging intent\n- IfaceScanner: fix some state update issues\n\n#### Full Changelog: [c4139473...1c8541fd](https://github.com/SideStore/SideStore/compare/c4139473fa2486f0e98607a8b2e693bd00f4b408...1c8541fdd49069fa02987c296308955ab787b034)\n",
               "downloadURL": "https://github.com/SideStore/SideStore/releases/download/alpha/SideStore.ipa",
-              "size": 24760054,
-              "sha256": "b61ceadf3db6ed16b3391df858ae4f70d3731c2bad9e7595138d906c5a310db4"
+              "size": 24757325,
+              "sha256": "c5dd5ee835813eda751c3cb6937d2f05bfcbf87e51476400cc9a77cf603dd30a"
             }
           ]
         },
