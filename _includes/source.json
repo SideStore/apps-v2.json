@@ -145,12 +145,12 @@
           "track": "alpha",
           "releases": [
             {
-              "version": "0.6.3-20260303.279+0f90f9bf",
-              "date": "2026-03-03T03:59:09Z",
-              "localizedDescription": "This is release for:\n  - version: \"0.6.3-20260303.279+0f90f9bf\"\n  - revision: \"0f90f9bf\"\n  - timestamp: \"Tue Mar  3 03:59:09 2026\"\n\nRelease Notes:\n#### What's Changed\n- DeviceEndpoint: fix all minimuxer woes by properly handling usbmuxd signals for listdevices and listen\n\n#### Full Changelog: [1c8541fd...0f90f9bf](https://github.com/SideStore/SideStore/compare/1c8541fdd49069fa02987c296308955ab787b034...0f90f9bf2dac3e117a98dbce5bdcca2b482f6a15)\n",
+              "version": "0.6.3-20260303.280+2f0fb3cb",
+              "date": "2026-03-03T04:34:59Z",
+              "localizedDescription": "This is release for:\n  - version: \"0.6.3-20260303.280+2f0fb3cb\"\n  - revision: \"2f0fb3cb\"\n  - timestamp: \"Tue Mar  3 04:34:59 2026\"\n\nRelease Notes:\n#### What's Changed\n- minimuxer: added back file headers info about authors\n\n#### Full Changelog: [0f90f9bf...2f0fb3cb](https://github.com/SideStore/SideStore/compare/0f90f9bf2dac3e117a98dbce5bdcca2b482f6a15...2f0fb3cb71c2b2feb1b0149c78ac8ec5d2a160c3)\n",
               "downloadURL": "https://github.com/SideStore/SideStore/releases/download/alpha/SideStore.ipa",
-              "size": 24760394,
-              "sha256": "e68ea5f908a0bf28de27128a93a9b9bb4dce77b53cb03146aec6e1cbbaa499b5"
+              "size": 24760380,
+              "sha256": "f8237dc02cc428ba4c041a5f43ad9295b6c3c3d0ce655a516703454de8b9f59d"
             }
           ]
         },
