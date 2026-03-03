@@ -145,12 +145,12 @@
           "track": "alpha",
           "releases": [
             {
-              "version": "0.6.3-20260303.285+62ad7559",
-              "date": "2026-03-03T07:04:47Z",
-              "localizedDescription": "This is release for:\n  - version: \"0.6.3-20260303.285+62ad7559\"\n  - revision: \"62ad7559\"\n  - timestamp: \"Tue Mar  3 07:04:47 2026\"\n\nRelease Notes:\n#### What's Changed\n- vpn-configuration: fix typo in sentence\n- vpn-configuration: updated to reflect actual implementation\n\n#### Full Changelog: [395d2bb6...62ad7559](https://github.com/SideStore/SideStore/compare/395d2bb657c2c1186d652ce2737f926009d39651...62ad7559200b333b28b8343e675747ea6b7bf234)\n",
+              "version": "0.6.3-20260303.286+dfdac41a",
+              "date": "2026-03-03T08:14:40Z",
+              "localizedDescription": "This is release for:\n  - version: \"0.6.3-20260303.286+dfdac41a\"\n  - revision: \"dfdac41a\"\n  - timestamp: \"Tue Mar  3 08:14:40 2026\"\n\nRelease Notes:\n#### What's Changed\n- vpn-configuration: fix - properly report active status\n\n#### Full Changelog: [62ad7559...dfdac41a](https://github.com/SideStore/SideStore/compare/62ad7559200b333b28b8343e675747ea6b7bf234...dfdac41a704b697510ddc02dcb322efbe60758d1)\n",
               "downloadURL": "https://github.com/SideStore/SideStore/releases/download/alpha/SideStore.ipa",
-              "size": 24760525,
-              "sha256": "1b090a3f4aefb6b772e655d58b117b16954ce180d02f81504c2a25fbf4c78c5b"
+              "size": 24760006,
+              "sha256": "cfe36174e562b7f0e839ad6bc77aef9329a5a0a5d28bb67dd3b8918f4bdda1a9"
             }
           ]
         },
