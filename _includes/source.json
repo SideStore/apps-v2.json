@@ -145,12 +145,12 @@
           "track": "alpha",
           "releases": [
             {
-              "version": "0.6.3-20260303.280+2f0fb3cb",
-              "date": "2026-03-03T04:34:59Z",
-              "localizedDescription": "This is release for:\n  - version: \"0.6.3-20260303.280+2f0fb3cb\"\n  - revision: \"2f0fb3cb\"\n  - timestamp: \"Tue Mar  3 04:34:59 2026\"\n\nRelease Notes:\n#### What's Changed\n- minimuxer: added back file headers info about authors\n\n#### Full Changelog: [0f90f9bf...2f0fb3cb](https://github.com/SideStore/SideStore/compare/0f90f9bf2dac3e117a98dbce5bdcca2b482f6a15...2f0fb3cb71c2b2feb1b0149c78ac8ec5d2a160c3)\n",
+              "version": "0.6.3-20260303.281+b643f6ae",
+              "date": "2026-03-03T05:25:38Z",
+              "localizedDescription": "This is release for:\n  - version: \"0.6.3-20260303.281+b643f6ae\"\n  - revision: \"b643f6ae\"\n  - timestamp: \"Tue Mar  3 05:25:38 2026\"\n\nRelease Notes:\n#### What's Changed\n- minimuxer: fix some stale state issues during VPN up/down cycles or changing config\n\n#### Full Changelog: [2f0fb3cb...b643f6ae](https://github.com/SideStore/SideStore/compare/2f0fb3cb71c2b2feb1b0149c78ac8ec5d2a160c3...b643f6ae01837a6a5e59be90f6c1bc6e6f82c48e)\n",
               "downloadURL": "https://github.com/SideStore/SideStore/releases/download/alpha/SideStore.ipa",
-              "size": 24760380,
-              "sha256": "f8237dc02cc428ba4c041a5f43ad9295b6c3c3d0ce655a516703454de8b9f59d"
+              "size": 24760562,
+              "sha256": "4c5c19cf1f68aedfa373ab58b4f551ac164a0c582ee7c07b4e9f38d9b4b10e09"
             }
           ]
         },
