@@ -145,12 +145,12 @@
           "track": "alpha",
           "releases": [
             {
-              "version": "0.6.3-20260302.278+1c8541fd",
-              "date": "2026-03-02T23:10:54Z",
-              "localizedDescription": "This is release for:\n  - version: \"0.6.3-20260302.278+1c8541fd\"\n  - revision: \"1c8541fd\"\n  - timestamp: \"Mon Mar  2 23:10:54 2026\"\n\nRelease Notes:\n#### What's Changed\n- MinimuxerWrapper: remove spam logs\n- Heartbeat: improved logging intent\n- IfaceScanner: fix some state update issues\n\n#### Full Changelog: [c4139473...1c8541fd](https://github.com/SideStore/SideStore/compare/c4139473fa2486f0e98607a8b2e693bd00f4b408...1c8541fdd49069fa02987c296308955ab787b034)\n",
+              "version": "0.6.3-20260303.279+0f90f9bf",
+              "date": "2026-03-03T03:59:09Z",
+              "localizedDescription": "This is release for:\n  - version: \"0.6.3-20260303.279+0f90f9bf\"\n  - revision: \"0f90f9bf\"\n  - timestamp: \"Tue Mar  3 03:59:09 2026\"\n\nRelease Notes:\n#### What's Changed\n- DeviceEndpoint: fix all minimuxer woes by properly handling usbmuxd signals for listdevices and listen\n\n#### Full Changelog: [1c8541fd...0f90f9bf](https://github.com/SideStore/SideStore/compare/1c8541fdd49069fa02987c296308955ab787b034...0f90f9bf2dac3e117a98dbce5bdcca2b482f6a15)\n",
               "downloadURL": "https://github.com/SideStore/SideStore/releases/download/alpha/SideStore.ipa",
-              "size": 24757325,
-              "sha256": "c5dd5ee835813eda751c3cb6937d2f05bfcbf87e51476400cc9a77cf603dd30a"
+              "size": 24760394,
+              "sha256": "e68ea5f908a0bf28de27128a93a9b9bb4dce77b53cb03146aec6e1cbbaa499b5"
             }
           ]
         },
