@@ -145,12 +145,12 @@
           "track": "alpha",
           "releases": [
             {
-              "version": "0.6.3-20260303.281+b643f6ae",
-              "date": "2026-03-03T05:25:38Z",
-              "localizedDescription": "This is release for:\n  - version: \"0.6.3-20260303.281+b643f6ae\"\n  - revision: \"b643f6ae\"\n  - timestamp: \"Tue Mar  3 05:25:38 2026\"\n\nRelease Notes:\n#### What's Changed\n- minimuxer: fix some stale state issues during VPN up/down cycles or changing config\n\n#### Full Changelog: [2f0fb3cb...b643f6ae](https://github.com/SideStore/SideStore/compare/2f0fb3cb71c2b2feb1b0149c78ac8ec5d2a160c3...b643f6ae01837a6a5e59be90f6c1bc6e6f82c48e)\n",
+              "version": "0.6.3-20260303.282+e32f4fbe",
+              "date": "2026-03-03T05:33:07Z",
+              "localizedDescription": "This is release for:\n  - version: \"0.6.3-20260303.282+e32f4fbe\"\n  - revision: \"e32f4fbe\"\n  - timestamp: \"Tue Mar  3 05:33:07 2026\"\n\nRelease Notes:\n#### What's Changed\n- vpn-configuration: removed UI updating state despite bindTunnelConfig() driving it just behind\n\n#### Full Changelog: [b643f6ae...e32f4fbe](https://github.com/SideStore/SideStore/compare/b643f6ae01837a6a5e59be90f6c1bc6e6f82c48e...e32f4fbeae5e1f43cb30393dd35e871ebdedeb8d)\n",
               "downloadURL": "https://github.com/SideStore/SideStore/releases/download/alpha/SideStore.ipa",
-              "size": 24760562,
-              "sha256": "4c5c19cf1f68aedfa373ab58b4f551ac164a0c582ee7c07b4e9f38d9b4b10e09"
+              "size": 24759840,
+              "sha256": "a596e11fed92cfa43dce04cb9f2592f508c10fd6aea7b2c83a5caf480bb2109e"
             }
           ]
         },
