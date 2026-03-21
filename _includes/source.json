@@ -132,12 +132,12 @@
           "track": "nightly",
           "releases": [
             {
-              "version": "0.6.3-20260321.971+84c5bf40",
-              "date": "2026-03-21T04:13:07Z",
-              "localizedDescription": "This is release for:\n  - version: \"0.6.3-20260321.971+84c5bf40\"\n  - revision: \"84c5bf40\"\n  - timestamp: \"Sat Mar 21 04:13:07 2026\"\n\nRelease Notes:\n#### What's Changed\n- Merge pull request #1218 from LiveContainer/develop-lc\n- Only run turn off data shortcut when minimuxer is not ready and below 26.4\n- Fix widget not working\n\n#### Full Changelog: [8624a8e9...84c5bf40](https://github.com/SideStore/SideStore/compare/8624a8e9198218dbeb20ab82a7f5b920b6bf59f6...84c5bf40cacf3ac2d12cada9c9855257fc08f417)\n",
+              "version": "0.6.3-20260321.972+75edfad1",
+              "date": "2026-03-21T07:37:42Z",
+              "localizedDescription": "This is release for:\n  - version: \"0.6.3-20260321.972+75edfad1\"\n  - revision: \"75edfad1\"\n  - timestamp: \"Sat Mar 21 07:37:42 2026\"\n\nRelease Notes:\n#### What's Changed\n- Fix AltBackup.ipa is not included\n\n#### Full Changelog: [84c5bf40...75edfad1](https://github.com/SideStore/SideStore/compare/84c5bf40cacf3ac2d12cada9c9855257fc08f417...75edfad1322fb9dc3752ef6b0e2ded74154acbed)\n",
               "downloadURL": "https://github.com/SideStore/SideStore/releases/download/nightly/SideStore.ipa",
-              "size": 27049764,
-              "sha256": "b6728117fdbf833a67454e2dd501ae7c25902f3d9b585f049834d1c2639e7562"
+              "size": 29084849,
+              "sha256": "5dc3f55a70766d8964da6b5f13100835627291539060fb820f84588ed6d06a0d"
             }
           ]
         },
