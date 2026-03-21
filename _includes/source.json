@@ -132,12 +132,12 @@
           "track": "nightly",
           "releases": [
             {
-              "version": "0.6.3-20260317.966+8624a8e9",
-              "date": "2026-03-17T16:35:27Z",
-              "localizedDescription": "This is release for:\n  - version: \"0.6.3-20260317.966+8624a8e9\"\n  - revision: \"8624a8e9\"\n  - timestamp: \"Tue Mar 17 16:35:27 2026\"\n\nRelease Notes:\n#### What's Changed\n- feat: add Mona to Trusted Sources (#1210)\n\n#### Full Changelog: [6e9e0aee...8624a8e9](https://github.com/SideStore/SideStore/compare/6e9e0aee0a9a493cd9b86d1a7c50b5b68d2c6fe3...8624a8e9198218dbeb20ab82a7f5b920b6bf59f6)\n",
+              "version": "0.6.3-20260321.971+84c5bf40",
+              "date": "2026-03-21T04:13:07Z",
+              "localizedDescription": "This is release for:\n  - version: \"0.6.3-20260321.971+84c5bf40\"\n  - revision: \"84c5bf40\"\n  - timestamp: \"Sat Mar 21 04:13:07 2026\"\n\nRelease Notes:\n#### What's Changed\n- Merge pull request #1218 from LiveContainer/develop-lc\n- Only run turn off data shortcut when minimuxer is not ready and below 26.4\n- Fix widget not working\n\n#### Full Changelog: [8624a8e9...84c5bf40](https://github.com/SideStore/SideStore/compare/8624a8e9198218dbeb20ab82a7f5b920b6bf59f6...84c5bf40cacf3ac2d12cada9c9855257fc08f417)\n",
               "downloadURL": "https://github.com/SideStore/SideStore/releases/download/nightly/SideStore.ipa",
-              "size": 27047394,
-              "sha256": "06d36031d0d5b70accdd169695732a4cb380589e64cffa087196eff14d015ce5"
+              "size": 27049764,
+              "sha256": "b6728117fdbf833a67454e2dd501ae7c25902f3d9b585f049834d1c2639e7562"
             }
           ]
         },
