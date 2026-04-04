@@ -132,12 +132,12 @@
           "track": "nightly",
           "releases": [
             {
-              "version": "0.6.3-20260404.990+d0324a20",
-              "date": "2026-04-04T04:02:00Z",
-              "localizedDescription": "This is release for:\n  - version: \"0.6.3-20260404.990+d0324a20\"\n  - revision: \"d0324a20\"\n  - timestamp: \"Sat Apr  4 04:02:00 2026\"\n\nRelease Notes:\n#### What's Changed\n- update minimuxer to fix build issue\n- Fix build issue by upgrading xcode?\n- Update minimuxer to support RPPairing & add back NSAttributedString again\n\n#### Full Changelog: [0b072e35...d0324a20](https://github.com/SideStore/SideStore/compare/0b072e358a7ae146bda692b0d3b931b682a3e8d9...d0324a20210ed822cf6d30c089c7091aa5637be2)\n",
+              "version": "0.6.3-20260404.991+ae380e48",
+              "date": "2026-04-04T08:48:32Z",
+              "localizedDescription": "This is release for:\n  - version: \"0.6.3-20260404.991+ae380e48\"\n  - revision: \"ae380e48\"\n  - timestamp: \"Sat Apr  4 08:48:32 2026\"\n\nRelease Notes:\n#### What's Changed\n- change build to use .xcodeproj instead of workspace\n- remove xcworkspace - obsolete now\n\n#### Full Changelog: [d0324a20...ae380e48](https://github.com/SideStore/SideStore/compare/d0324a20210ed822cf6d30c089c7091aa5637be2...ae380e48dd485e497cf72d500987cb9e13a335f1)\n",
               "downloadURL": "https://github.com/SideStore/SideStore/releases/download/nightly/SideStore.ipa",
-              "size": 26980864,
-              "sha256": "62dfd19bc8035977d4b29141e3bdda1af7e0b60c92d0ad1cbee2f7240c49b9ff"
+              "size": 26980902,
+              "sha256": "fec9d07a7c6da6940ee585ae1e1b031824e4e8e95c572c7ad783dd5af87f3653"
             }
           ]
         },
