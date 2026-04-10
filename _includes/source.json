@@ -132,12 +132,12 @@
           "track": "nightly",
           "releases": [
             {
-              "version": "0.6.3-20260404.991+ae380e48",
-              "date": "2026-04-04T08:48:32Z",
-              "localizedDescription": "This is release for:\n  - version: \"0.6.3-20260404.991+ae380e48\"\n  - revision: \"ae380e48\"\n  - timestamp: \"Sat Apr  4 08:48:32 2026\"\n\nRelease Notes:\n#### What's Changed\n- change build to use .xcodeproj instead of workspace\n- remove xcworkspace - obsolete now\n\n#### Full Changelog: [d0324a20...ae380e48](https://github.com/SideStore/SideStore/compare/d0324a20210ed822cf6d30c089c7091aa5637be2...ae380e48dd485e497cf72d500987cb9e13a335f1)\n",
+              "version": "0.6.3-20260410.998+5efed9df",
+              "date": "2026-04-10T00:39:50Z",
+              "localizedDescription": "This is release for:\n  - version: \"0.6.3-20260410.998+5efed9df\"\n  - revision: \"5efed9df\"\n  - timestamp: \"Fri Apr 10 00:39:50 2026\"\n\nRelease Notes:\n#### What's Changed\n- feat: extend range of exploit check\n\n#### Full Changelog: [ae380e48...5efed9df](https://github.com/SideStore/SideStore/compare/ae380e48dd485e497cf72d500987cb9e13a335f1...5efed9df089a757577f8c4276d9a72956d28a382)\n",
               "downloadURL": "https://github.com/SideStore/SideStore/releases/download/nightly/SideStore.ipa",
-              "size": 26980902,
-              "sha256": "fec9d07a7c6da6940ee585ae1e1b031824e4e8e95c572c7ad783dd5af87f3653"
+              "size": 26978033,
+              "sha256": "dfd021223e4fe08c574e87644ef77f6d9bde69a352e68c1b29ab84bbc7657510"
             }
           ]
         },
