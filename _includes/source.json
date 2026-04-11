@@ -132,12 +132,12 @@
           "track": "nightly",
           "releases": [
             {
-              "version": "0.6.3-20260410.998+5efed9df",
-              "date": "2026-04-10T00:39:50Z",
-              "localizedDescription": "This is release for:\n  - version: \"0.6.3-20260410.998+5efed9df\"\n  - revision: \"5efed9df\"\n  - timestamp: \"Fri Apr 10 00:39:50 2026\"\n\nRelease Notes:\n#### What's Changed\n- feat: extend range of exploit check\n\n#### Full Changelog: [ae380e48...5efed9df](https://github.com/SideStore/SideStore/compare/ae380e48dd485e497cf72d500987cb9e13a335f1...5efed9df089a757577f8c4276d9a72956d28a382)\n",
+              "version": "0.6.3-20260411.1000+f8e199b3",
+              "date": "2026-04-11T03:34:57Z",
+              "localizedDescription": "This is release for:\n  - version: \"0.6.3-20260411.1000+f8e199b3\"\n  - revision: \"f8e199b3\"\n  - timestamp: \"Sat Apr 11 03:34:57 2026\"\n\nRelease Notes:\n#### What's Changed\n- feat: LC Source Update (#1253)\n\n#### Full Changelog: [5efed9df...f8e199b3](https://github.com/SideStore/SideStore/compare/5efed9df089a757577f8c4276d9a72956d28a382...f8e199b3d41f723d93053162fef6b8c72be38214)\n",
               "downloadURL": "https://github.com/SideStore/SideStore/releases/download/nightly/SideStore.ipa",
-              "size": 26978033,
-              "sha256": "dfd021223e4fe08c574e87644ef77f6d9bde69a352e68c1b29ab84bbc7657510"
+              "size": 26978055,
+              "sha256": "f78f9c72edd86b7fd38dd552187883273c26520f4e32dc4e54fcbdaa284acb21"
             }
           ]
         },
