@@ -132,12 +132,12 @@
           "track": "nightly",
           "releases": [
             {
-              "version": "0.6.3-20260411.1000+f8e199b3",
-              "date": "2026-04-11T03:34:57Z",
-              "localizedDescription": "This is release for:\n  - version: \"0.6.3-20260411.1000+f8e199b3\"\n  - revision: \"f8e199b3\"\n  - timestamp: \"Sat Apr 11 03:34:57 2026\"\n\nRelease Notes:\n#### What's Changed\n- feat: LC Source Update (#1253)\n\n#### Full Changelog: [5efed9df...f8e199b3](https://github.com/SideStore/SideStore/compare/5efed9df089a757577f8c4276d9a72956d28a382...f8e199b3d41f723d93053162fef6b8c72be38214)\n",
+              "version": "0.6.3-20260412.1002+4deda922",
+              "date": "2026-04-12T06:30:21Z",
+              "localizedDescription": "This is release for:\n  - version: \"0.6.3-20260412.1002+4deda922\"\n  - revision: \"4deda922\"\n  - timestamp: \"Sun Apr 12 06:30:21 2026\"\n\nRelease Notes:\n#### What's Changed\n- fix: fix crash in source detail view\n- fix: fix widget issue once again. PLEASE INCLUDE ViewApp.intentdefinition OTHERWISE WIDGET WILL NOT WORK\n\n#### Full Changelog: [f8e199b3...4deda922](https://github.com/SideStore/SideStore/compare/f8e199b3d41f723d93053162fef6b8c72be38214...4deda9229c6746234f1ace7df16eb9af9e19f3fd)\n",
               "downloadURL": "https://github.com/SideStore/SideStore/releases/download/nightly/SideStore.ipa",
-              "size": 26978055,
-              "sha256": "f78f9c72edd86b7fd38dd552187883273c26520f4e32dc4e54fcbdaa284acb21"
+              "size": 26978836,
+              "sha256": "0fb6f7d7475d0785b1dec19729b993b317c2f3c187a8872980c115fe1b64d9dc"
             }
           ]
         },
