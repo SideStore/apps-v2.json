@@ -140,12 +140,12 @@
           "track": "nightly",
           "releases": [
             {
-              "version": "0.6.4-20260508.1034+9223da75",
-              "date": "2026-05-08T23:37:20Z",
-              "localizedDescription": "This is release for:\n  - version: \"0.6.4-20260508.1034+9223da75\"\n  - revision: \"9223da75\"\n  - timestamp: \"Fri May  8 23:37:20 2026\"\n\nRelease Notes:\n#### What's Changed\n- Update actions (#1280)\n\n#### Full Changelog: [0.6.4...9223da75](https://github.com/SideStore/SideStore/compare/e744ed8b6779b6f1ab29f43237c2a684764f9264...9223da751d3dc2cbd0c79c049ed4a10c0c39570a)\n",
+              "version": "0.6.4-20260509.1037+a0d3c5ed",
+              "date": "2026-05-09T19:51:14Z",
+              "localizedDescription": "This is release for:\n  - version: \"0.6.4-20260509.1037+a0d3c5ed\"\n  - revision: \"a0d3c5ed\"\n  - timestamp: \"Sat May  9 19:51:14 2026\"\n\nRelease Notes:\n#### What's Changed\n- fix(#703): Allow `mobiledevicepair` extension for pairing\n- fix(widget): blank app icons\n\n#### Full Changelog: [9223da75...a0d3c5ed](https://github.com/SideStore/SideStore/compare/9223da751d3dc2cbd0c79c049ed4a10c0c39570a...a0d3c5ed4a3be4e873ce98ff95e25f35a6a1c11e)\n",
               "downloadURL": "https://github.com/SideStore/SideStore/releases/download/nightly/SideStore.ipa",
-              "size": 26978686,
-              "sha256": "f5f1625f7b96fceb8baf6a087cbd9ac96c5c7d6cbba26739cecc8c630ba24ae8"
+              "size": 26996236,
+              "sha256": "484f1063400f18547b5b857426529ba7963da49d9eff298ab86c4f633c625fd8"
             }
           ]
         },
