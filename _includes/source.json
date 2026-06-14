@@ -140,12 +140,12 @@
           "track": "nightly",
           "releases": [
             {
-              "version": "0.6.4-20260614.1083+466b8fa6",
-              "date": "2026-06-14T00:15:32Z",
-              "localizedDescription": "This is release for:\n  - version: \"0.6.4-20260614.1083+466b8fa6\"\n  - revision: \"466b8fa6\"\n  - timestamp: \"Sun Jun 14 00:15:32 2026\"\n\nRelease Notes:\n#### What's Changed\n- fix CI - deploy account for apps-v2\n\n#### Full Changelog: [46eae1cb...466b8fa6](https://github.com/SideStore/SideStore/compare/46eae1cb9faa3d368c5af3c38e98d9018cad28bd...466b8fa658d79fb8f30fd02d08eebfe44ad5f20b)\n",
+              "version": "0.6.4-20260614.1084+bc617b47",
+              "date": "2026-06-14T00:20:48Z",
+              "localizedDescription": "This is release for:\n  - version: \"0.6.4-20260614.1084+bc617b47\"\n  - revision: \"bc617b47\"\n  - timestamp: \"Sun Jun 14 00:20:48 2026\"\n\nRelease Notes:\n#### What's Changed\n- updated submodule\n- updated submodule\n\n#### Full Changelog: [466b8fa6...bc617b47](https://github.com/SideStore/SideStore/compare/466b8fa658d79fb8f30fd02d08eebfe44ad5f20b...bc617b476d69638fadb755e1ba9641e101768aa1)\n",
               "downloadURL": "https://github.com/SideStore/SideStore/releases/download/nightly/SideStore.ipa",
-              "size": 26977790,
-              "sha256": "0c7f225c30df70a0d8106bf4668ee22bbe80a957b35cab1c434b2651fa92f96c"
+              "size": 26977797,
+              "sha256": "6ba94d7450da59ecdd81c93867e542f1a715af36b299a6f1478ffdce5e01ad97"
             }
           ]
         },
