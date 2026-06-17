@@ -140,12 +140,12 @@
           "track": "nightly",
           "releases": [
             {
-              "version": "0.6.4-20260617.1091+1fa9b16b",
-              "date": "2026-06-17T12:05:50Z",
-              "localizedDescription": "This is release for:\n  - version: \"0.6.4-20260617.1091+1fa9b16b\"\n  - revision: \"1fa9b16b\"\n  - timestamp: \"Wed Jun 17 12:05:50 2026\"\n\nRelease Notes:\n#### What's Changed\n- updated submodules to latest\n- updated submodules to latest\n- updated gitignore\n\n#### Full Changelog: [4c68362a...1fa9b16b](https://github.com/SideStore/SideStore/compare/4c68362a0eb1b1740d8a5dda7a744f368cad3313...1fa9b16b610652d1b78e36a760f42c073d3cc496)\n",
+              "version": "0.6.4-20260617.1092+f05ce46a",
+              "date": "2026-06-17T12:19:14Z",
+              "localizedDescription": "This is release for:\n  - version: \"0.6.4-20260617.1092+f05ce46a\"\n  - revision: \"f05ce46a\"\n  - timestamp: \"Wed Jun 17 12:19:14 2026\"\n\nRelease Notes:\n#### What's Changed\n- updated submodules to latest\n- updated submodules to latest\n- updated gitignore\n- updated submodules to latest\n- make pairing file error handling robust\n- more improvements in error handling\n- fix: minimuxer pairing file woes and improved error handling (probably solves UDID error being incorrectly reported to end user causing confusion)\n\n#### Full Changelog: [1fa9b16b...f05ce46a](https://github.com/SideStore/SideStore/compare/1fa9b16b610652d1b78e36a760f42c073d3cc496...f05ce46aea442e4c0dd4e3ee901f5607f34ce32e)\n",
               "downloadURL": "https://github.com/SideStore/SideStore/releases/download/nightly/SideStore.ipa",
-              "size": 27005068,
-              "sha256": "3002d109694a940cda735953665b2729704db89b17235f3c20fd646f7959aeaf"
+              "size": 27005046,
+              "sha256": "549bb034386fe3ef250d1d9086cd5867a54039d463cf211ecf25eefa7d792e71"
             }
           ]
         },
