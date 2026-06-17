@@ -140,12 +140,12 @@
           "track": "nightly",
           "releases": [
             {
-              "version": "0.6.4-20260617.1089+4c68362a",
-              "date": "2026-06-17T09:38:52Z",
-              "localizedDescription": "This is release for:\n  - version: \"0.6.4-20260617.1089+4c68362a\"\n  - revision: \"4c68362a\"\n  - timestamp: \"Wed Jun 17 09:38:52 2026\"\n\nRelease Notes:\n#### What's Changed\n- updated submodules to latest\n- make pairing file error handling robust\n- more improvements in error handling\n- fix: minimuxer pairing file woes and improved error handling (probably solves UDID error being incorrectly reported to end user causing confusion)\n- fix: bundleId override was not applied on extensions\n- forked for SideStore and updated all submodules to latest remote (libplist, libmobiledevice etc)\n\n#### Full Changelog: [bc617b47...4c68362a](https://github.com/SideStore/SideStore/compare/bc617b476d69638fadb755e1ba9641e101768aa1...4c68362a0eb1b1740d8a5dda7a744f368cad3313)\n",
+              "version": "0.6.4-20260617.1091+1fa9b16b",
+              "date": "2026-06-17T12:05:50Z",
+              "localizedDescription": "This is release for:\n  - version: \"0.6.4-20260617.1091+1fa9b16b\"\n  - revision: \"1fa9b16b\"\n  - timestamp: \"Wed Jun 17 12:05:50 2026\"\n\nRelease Notes:\n#### What's Changed\n- updated submodules to latest\n- updated submodules to latest\n- updated gitignore\n\n#### Full Changelog: [4c68362a...1fa9b16b](https://github.com/SideStore/SideStore/compare/4c68362a0eb1b1740d8a5dda7a744f368cad3313...1fa9b16b610652d1b78e36a760f42c073d3cc496)\n",
               "downloadURL": "https://github.com/SideStore/SideStore/releases/download/nightly/SideStore.ipa",
-              "size": 26755764,
-              "sha256": "c491d87a485e351b24d96ba58fa9fa892b03b949e7bc77b4f2c75b1130db891d"
+              "size": 27005068,
+              "sha256": "3002d109694a940cda735953665b2729704db89b17235f3c20fd646f7959aeaf"
             }
           ]
         },
