@@ -140,12 +140,12 @@
           "track": "nightly",
           "releases": [
             {
-              "version": "0.6.4-20260617.1094+21754e16",
-              "date": "2026-06-17T13:47:40Z",
-              "localizedDescription": "This is release for:\n  - version: \"0.6.4-20260617.1094+21754e16\"\n  - revision: \"21754e16\"\n  - timestamp: \"Wed Jun 17 13:47:40 2026\"\n\nRelease Notes:\n#### What's Changed\n- fix: added missing import that was dropped\n- minimuxer logs are now part of console log - removed its button\n\n#### Full Changelog: [f05ce46a...21754e16](https://github.com/SideStore/SideStore/compare/f05ce46aea442e4c0dd4e3ee901f5607f34ce32e...21754e1615d9aab8a5594dac59063a6042e65cba)\n",
+              "version": "0.6.4-20260620.1098+f6858c10",
+              "date": "2026-06-20T17:13:35Z",
+              "localizedDescription": "This is release for:\n  - version: \"0.6.4-20260620.1098+f6858c10\"\n  - revision: \"f6858c10\"\n  - timestamp: \"Sat Jun 20 17:13:35 2026\"\n\nRelease Notes:\n#### What's Changed\n- fix: robust shared .ipa import (copy out of security scope + cold-launch defer) (#1342)\n\n#### Full Changelog: [21754e16...f6858c10](https://github.com/SideStore/SideStore/compare/21754e1615d9aab8a5594dac59063a6042e65cba...f6858c101b565c517b63042ea4ad5b628f1482e8)\n",
               "downloadURL": "https://github.com/SideStore/SideStore/releases/download/nightly/SideStore.ipa",
-              "size": 27005086,
-              "sha256": "8782c7e972d79bfaf533ac9a8a1184eb1ff474454eaeb6a8c5bb171ddae05f45"
+              "size": 27005247,
+              "sha256": "5df18e755cfa0a06102069e6207b47194259d3e10811a13a92febb3c73a90b18"
             }
           ]
         },
