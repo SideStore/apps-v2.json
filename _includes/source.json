@@ -153,12 +153,12 @@
           "track": "alpha",
           "releases": [
             {
-              "version": "0.6.4-20260621.294+3fe7b67c",
-              "date": "2026-06-21T00:18:44Z",
-              "localizedDescription": "This is release for:\n  - version: \"0.6.4-20260621.294+3fe7b67c\"\n  - revision: \"3fe7b67c\"\n  - timestamp: \"Sun Jun 21 00:18:44 2026\"\n\nRelease Notes:\n#### What's Changed\n- Merge branch 'develop' into staging\n- fix: sources view was showing placeholder even when sources count > 1\n- fix: addSource: do not show errors until user hits enter/return key\n- fix: clicking on source in recommended sources caused crash\n- fix: progress indicator was missing in add Source, when loading sources list\n- fix: search was broken in browse screen\n- fix: error log delete action wasn't on main\n- fix: pill button wasn't showing the text\n- more fixes for my apps screen\n- more fixes for Error log screen and Change App icon screens\n- revert to 1:1 file names\n- fix: Widget and add app icon to tinted/clear instead of white icon (#1343)\n- fix: robust shared .ipa import (copy out of security scope + cold-launch defer) (#1342)\n\n#### Full Changelog: [df19acbd...3fe7b67c](https://github.com/SideStore/SideStore/compare/df19acbd4e03d5a0f11c732e532133bad784c288...3fe7b67cfecc7694a35939ada1cc429ef561297f)\n",
+              "version": "0.6.4-20260621.295+c8d8d39a",
+              "date": "2026-06-21T02:58:22Z",
+              "localizedDescription": "This is release for:\n  - version: \"0.6.4-20260621.295+c8d8d39a\"\n  - revision: \"c8d8d39a\"\n  - timestamp: \"Sun Jun 21 02:58:22 2026\"\n\nRelease Notes:\n#### What's Changed\n- updated trusted-sources to its own gh pages url\n- removed apps-v2.json repo since it is used for deployment only\n- cleanup\n\n#### Full Changelog: [3fe7b67c...c8d8d39a](https://github.com/SideStore/SideStore/compare/3fe7b67cfecc7694a35939ada1cc429ef561297f...c8d8d39a22f91ee3edd4f2ea1619038ca28bc9e6)\n",
               "downloadURL": "https://github.com/SideStore/SideStore/releases/download/alpha/SideStore.ipa",
-              "size": 27123106,
-              "sha256": "d27c0ad11247b7bd2ae20144949d3b16e4e5e2ccd2c7349fe04222d05cf3f403"
+              "size": 27123117,
+              "sha256": "d2585e65aa937c9c4fa9909b58daad8a2d29f796083017fbc6b6479323962739"
             }
           ]
         },
