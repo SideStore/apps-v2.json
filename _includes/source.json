@@ -153,12 +153,12 @@
           "track": "alpha",
           "releases": [
             {
-              "version": "0.6.4-20260621.296+1dc7fed5",
-              "date": "2026-06-21T03:42:03Z",
-              "localizedDescription": "This is release for:\n  - version: \"0.6.4-20260621.296+1dc7fed5\"\n  - revision: \"1dc7fed5\"\n  - timestamp: \"Sun Jun 21 03:42:03 2026\"\n\nRelease Notes:\n#### What's Changed\n- use local packages for altsign and minimuxer\n- update submodule to latest\n- Package.resolved was ignored but shouldn't be\n\n#### Full Changelog: [c8d8d39a...1dc7fed5](https://github.com/SideStore/SideStore/compare/c8d8d39a22f91ee3edd4f2ea1619038ca28bc9e6...1dc7fed55898aaa6e2feacadb187ac75bb8a905f)\n",
+              "version": "0.6.4-20260621.297+25f88c57",
+              "date": "2026-06-21T13:56:58Z",
+              "localizedDescription": "This is release for:\n  - version: \"0.6.4-20260621.297+25f88c57\"\n  - revision: \"25f88c57\"\n  - timestamp: \"Sun Jun 21 13:56:58 2026\"\n\nRelease Notes:\n#### What's Changed\n- improve for maintenance\n- move back userdefaults into extensions\n\n#### Full Changelog: [1dc7fed5...25f88c57](https://github.com/SideStore/SideStore/compare/1dc7fed55898aaa6e2feacadb187ac75bb8a905f...25f88c57588a09f6b0ed1ccc12186e1c957fb96f)\n",
               "downloadURL": "https://github.com/SideStore/SideStore/releases/download/alpha/SideStore.ipa",
-              "size": 27125094,
-              "sha256": "e2eafb5b8da2dfabf3f906522bbe7d72ba968769853bc2dbcd6959ab3ce2cacc"
+              "size": 27125090,
+              "sha256": "ee118318b8b5573006e32379e20d81ed36cfa222e3bc85c9267865f1a8cbd21b"
             }
           ]
         },
