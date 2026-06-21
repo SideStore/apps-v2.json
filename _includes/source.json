@@ -153,12 +153,12 @@
           "track": "alpha",
           "releases": [
             {
-              "version": "0.6.4-20260621.300+55a02822",
-              "date": "2026-06-21T15:05:15Z",
-              "localizedDescription": "## This is release for:\n  - version: \"0.6.4-20260621.300+55a02822\"\n  - revision: \"55a02822\"\n  - timestamp: \"Sun Jun 21 15:05:15 2026\"\n\n#### What's Changed\n- updated CI note generator\n\n#### Full Changelog: [ac3c1f72...55a02822](https://github.com/SideStore/SideStore/compare/ac3c1f72c77ebc24aad75ae989c78926d28199cf...55a028227b59a6d1050f10c9d61558ba02e5f575)\n",
+              "version": "0.6.4-20260621.301+0e256110",
+              "date": "2026-06-21T15:23:57Z",
+              "localizedDescription": "### This is release for:\n  - version: \"0.6.4-20260621.301+0e256110\"\n  - revision: \"0e256110\"\n  - timestamp: \"Sun Jun 21 15:23:57 2026\"\n\n#### What's Changed\n- updated CI note generator\n\n#### Full Changelog: [55a02822...0e256110](https://github.com/SideStore/SideStore/compare/55a028227b59a6d1050f10c9d61558ba02e5f575...0e2561106772720cee69ed51f251d8802e63b029)\n",
               "downloadURL": "https://github.com/SideStore/SideStore/releases/download/alpha/SideStore.ipa",
-              "size": 27124174,
-              "sha256": "6e8f915bdc50cd3b9e9c6006d7b7d06461882cad937c108796c857d923afa52b"
+              "size": 27124182,
+              "sha256": "1c0ebe16f04dbba283f6b2d735adb4bcc125f2250a67b17ae9e63b79c484b3a0"
             }
           ]
         },
