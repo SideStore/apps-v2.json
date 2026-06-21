@@ -153,12 +153,12 @@
           "track": "alpha",
           "releases": [
             {
-              "version": "0.6.4-20260621.299+ac3c1f72",
-              "date": "2026-06-21T14:48:59Z",
-              "localizedDescription": "This is release for:\n  - version: \"0.6.4-20260621.299+ac3c1f72\"\n  - revision: \"ac3c1f72\"\n  - timestamp: \"Sun Jun 21 14:48:59 2026\"\n\nRelease Notes:\n#### What's Changed\n- remove unnecesary repos checked-in\n- disable context menu when an action is already in progress\n- re-activate was leaving Inactive section header intact even if no apps present in that section\n- activate and inactivate should move apps to respective sections only on completion\n\n#### Full Changelog: [25f88c57...ac3c1f72](https://github.com/SideStore/SideStore/compare/25f88c57588a09f6b0ed1ccc12186e1c957fb96f...ac3c1f72c77ebc24aad75ae989c78926d28199cf)\n",
+              "version": "0.6.4-20260621.300+55a02822",
+              "date": "2026-06-21T15:05:15Z",
+              "localizedDescription": "## This is release for:\n  - version: \"0.6.4-20260621.300+55a02822\"\n  - revision: \"55a02822\"\n  - timestamp: \"Sun Jun 21 15:05:15 2026\"\n\n#### What's Changed\n- updated CI note generator\n\n#### Full Changelog: [ac3c1f72...55a02822](https://github.com/SideStore/SideStore/compare/ac3c1f72c77ebc24aad75ae989c78926d28199cf...55a028227b59a6d1050f10c9d61558ba02e5f575)\n",
               "downloadURL": "https://github.com/SideStore/SideStore/releases/download/alpha/SideStore.ipa",
-              "size": 27124206,
-              "sha256": "8d876cc4d6dbf5f85f32e573489dfafa6e50aa7d0b0438f0e5ac399fe0d77e45"
+              "size": 27124174,
+              "sha256": "6e8f915bdc50cd3b9e9c6006d7b7d06461882cad937c108796c857d923afa52b"
             }
           ]
         },
