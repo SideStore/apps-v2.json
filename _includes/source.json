@@ -153,12 +153,12 @@
           "track": "alpha",
           "releases": [
             {
-              "version": "0.6.4-20260621.304+ef592d76",
-              "date": "2026-06-21T17:52:07Z",
-              "localizedDescription": "#### This is release for:\n  - version: \"0.6.4-20260621.304+ef592d76\"\n  - revision: \"ef592d76\"\n  - timestamp: \"Sun Jun 21 17:52:07 2026\"\n\n#### What's Changed:\n- pill progress wasn't updating properly\n- sources view doesn't need to show error on update cancelled\n- increase update banner lines to show from 2 to 3\n- fix inactivate stale header issue again using cached variable instead of reloading entire screen\n- my apps screen improvements for UI rendering and flickering\n\n#### Full Changelog: [993606eb...ef592d76](https://github.com/SideStore/SideStore/compare/993606ebe18e3e3d88c8c1e213bd79667e9aa58d...ef592d76b3fc14e3de2be1cf82fd1e8d563fddd4)\n",
+              "version": "0.6.4-20260621.305+d09f6c9d",
+              "date": "2026-06-21T18:52:47Z",
+              "localizedDescription": "#### This is release for:\n  - version: \"0.6.4-20260621.305+d09f6c9d\"\n  - revision: \"d09f6c9d\"\n  - timestamp: \"Sun Jun 21 18:52:47 2026\"\n\n#### What's Changed:\n- source screen nav bar fixes - right pill button fixes\n- nav bar fixes - more refinements\n- nav bar fixes - removed custom back button\n\n#### Full Changelog: [ef592d76...d09f6c9d](https://github.com/SideStore/SideStore/compare/ef592d76b3fc14e3de2be1cf82fd1e8d563fddd4...d09f6c9d8c58c9787f0ea07ce892ad4addf70184)\n",
               "downloadURL": "https://github.com/SideStore/SideStore/releases/download/alpha/SideStore.ipa",
-              "size": 27125200,
-              "sha256": "1511afd7902baa537566a242e04800b505e2c725f6863c01939c4222fb52ca8e"
+              "size": 27126132,
+              "sha256": "ea4054ebb6552e406c1cabbec6ab7907b5d106f1d738f4f86844bf574a3b847c"
             }
           ]
         },
