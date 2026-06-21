@@ -153,12 +153,12 @@
           "track": "alpha",
           "releases": [
             {
-              "version": "0.6.4-20260621.305+d09f6c9d",
-              "date": "2026-06-21T18:52:47Z",
-              "localizedDescription": "#### This is release for:\n  - version: \"0.6.4-20260621.305+d09f6c9d\"\n  - revision: \"d09f6c9d\"\n  - timestamp: \"Sun Jun 21 18:52:47 2026\"\n\n#### What's Changed:\n- source screen nav bar fixes - right pill button fixes\n- nav bar fixes - more refinements\n- nav bar fixes - removed custom back button\n\n#### Full Changelog: [ef592d76...d09f6c9d](https://github.com/SideStore/SideStore/compare/ef592d76b3fc14e3de2be1cf82fd1e8d563fddd4...d09f6c9d8c58c9787f0ea07ce892ad4addf70184)\n",
+              "version": "0.6.4-20260621.306+955ea923",
+              "date": "2026-06-21T19:46:03Z",
+              "localizedDescription": "#### This is release for:\n  - version: \"0.6.4-20260621.306+955ea923\"\n  - revision: \"955ea923\"\n  - timestamp: \"Sun Jun 21 19:46:03 2026\"\n\n#### What's Changed:\n- app detail view cleanup - remove unwanted\n- app detail view right nav button padding fix\n- source detail view right nav button padding fix\n- pill button in detail view - needs to be shown only on scroll\n\n#### Full Changelog: [d09f6c9d...955ea923](https://github.com/SideStore/SideStore/compare/d09f6c9d8c58c9787f0ea07ce892ad4addf70184...955ea923d62a4fc4eb6320df1ba2ef5c45499925)\n",
               "downloadURL": "https://github.com/SideStore/SideStore/releases/download/alpha/SideStore.ipa",
-              "size": 27126132,
-              "sha256": "ea4054ebb6552e406c1cabbec6ab7907b5d106f1d738f4f86844bf574a3b847c"
+              "size": 27125834,
+              "sha256": "48b75bdff17be32b9bf4949ce61e3d41126b3ecba8930a2a40e657e7ba58d040"
             }
           ]
         },
