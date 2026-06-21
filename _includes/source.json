@@ -153,12 +153,12 @@
           "track": "alpha",
           "releases": [
             {
-              "version": "0.6.4-20260621.303+993606eb",
-              "date": "2026-06-21T15:59:33Z",
-              "localizedDescription": "#### This is release for:\n  - version: \"0.6.4-20260621.303+993606eb\"\n  - revision: \"993606eb\"\n  - timestamp: \"Sun Jun 21 15:59:33 2026\"\n\n#### What's Changed:\n- updated CI note generator\n\n#### Full Changelog: [bd864daf...993606eb](https://github.com/SideStore/SideStore/compare/bd864daff7fbc3ac556976e2ec0d094b63255344...993606ebe18e3e3d88c8c1e213bd79667e9aa58d)\n",
+              "version": "0.6.4-20260621.304+ef592d76",
+              "date": "2026-06-21T17:52:07Z",
+              "localizedDescription": "#### This is release for:\n  - version: \"0.6.4-20260621.304+ef592d76\"\n  - revision: \"ef592d76\"\n  - timestamp: \"Sun Jun 21 17:52:07 2026\"\n\n#### What's Changed:\n- pill progress wasn't updating properly\n- sources view doesn't need to show error on update cancelled\n- increase update banner lines to show from 2 to 3\n- fix inactivate stale header issue again using cached variable instead of reloading entire screen\n- my apps screen improvements for UI rendering and flickering\n\n#### Full Changelog: [993606eb...ef592d76](https://github.com/SideStore/SideStore/compare/993606ebe18e3e3d88c8c1e213bd79667e9aa58d...ef592d76b3fc14e3de2be1cf82fd1e8d563fddd4)\n",
               "downloadURL": "https://github.com/SideStore/SideStore/releases/download/alpha/SideStore.ipa",
-              "size": 27124190,
-              "sha256": "b6a5ec50064e3a8620251017567e9943c1e4ab4a4ff4153accf45a133567fa35"
+              "size": 27125200,
+              "sha256": "1511afd7902baa537566a242e04800b505e2c725f6863c01939c4222fb52ca8e"
             }
           ]
         },
