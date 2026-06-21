@@ -153,12 +153,12 @@
           "track": "alpha",
           "releases": [
             {
-              "version": "0.6.4-20260621.295+c8d8d39a",
-              "date": "2026-06-21T02:58:22Z",
-              "localizedDescription": "This is release for:\n  - version: \"0.6.4-20260621.295+c8d8d39a\"\n  - revision: \"c8d8d39a\"\n  - timestamp: \"Sun Jun 21 02:58:22 2026\"\n\nRelease Notes:\n#### What's Changed\n- updated trusted-sources to its own gh pages url\n- removed apps-v2.json repo since it is used for deployment only\n- cleanup\n\n#### Full Changelog: [3fe7b67c...c8d8d39a](https://github.com/SideStore/SideStore/compare/3fe7b67cfecc7694a35939ada1cc429ef561297f...c8d8d39a22f91ee3edd4f2ea1619038ca28bc9e6)\n",
+              "version": "0.6.4-20260621.296+1dc7fed5",
+              "date": "2026-06-21T03:42:03Z",
+              "localizedDescription": "This is release for:\n  - version: \"0.6.4-20260621.296+1dc7fed5\"\n  - revision: \"1dc7fed5\"\n  - timestamp: \"Sun Jun 21 03:42:03 2026\"\n\nRelease Notes:\n#### What's Changed\n- use local packages for altsign and minimuxer\n- update submodule to latest\n- Package.resolved was ignored but shouldn't be\n\n#### Full Changelog: [c8d8d39a...1dc7fed5](https://github.com/SideStore/SideStore/compare/c8d8d39a22f91ee3edd4f2ea1619038ca28bc9e6...1dc7fed55898aaa6e2feacadb187ac75bb8a905f)\n",
               "downloadURL": "https://github.com/SideStore/SideStore/releases/download/alpha/SideStore.ipa",
-              "size": 27123117,
-              "sha256": "d2585e65aa937c9c4fa9909b58daad8a2d29f796083017fbc6b6479323962739"
+              "size": 27125094,
+              "sha256": "e2eafb5b8da2dfabf3f906522bbe7d72ba968769853bc2dbcd6959ab3ce2cacc"
             }
           ]
         },
