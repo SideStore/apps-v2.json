@@ -140,12 +140,12 @@
           "track": "nightly",
           "releases": [
             {
-              "version": "0.6.4-20260621.1102+1a29d54f",
-              "date": "2026-06-21T23:06:20Z",
-              "localizedDescription": "This is release for:\n  - version: \"0.6.4-20260621.1102+1a29d54f\"\n  - revision: \"1a29d54f\"\n  - timestamp: \"Sun Jun 21 23:06:20 2026\"\n\nRelease Notes:\n#### What's Changed\n- feat: Add Shortcuts action to install IPA files (#1345)\n- feat(GitHub): add triage workflow and labeler config (#1346)\n\n#### Full Changelog: [682a7972...1a29d54f](https://github.com/SideStore/SideStore/compare/682a797250f18f55943cfe5620bc63e7df6bf816...1a29d54fc192d88147222047878e601eed56c905)\n",
+              "version": "0.6.4-20260623.1104+30dd1d91",
+              "date": "2026-06-23T00:25:15Z",
+              "localizedDescription": "This is release for:\n  - version: \"0.6.4-20260623.1104+30dd1d91\"\n  - revision: \"30dd1d91\"\n  - timestamp: \"Tue Jun 23 00:25:15 2026\"\n\nRelease Notes:\n#### What's Changed\n- fix(CI): first-interaction inputs and permissions (#1348)\n\n#### Full Changelog: [1a29d54f...30dd1d91](https://github.com/SideStore/SideStore/compare/1a29d54fc192d88147222047878e601eed56c905...30dd1d915011ee9e900054d77c039565939ca0a1)\n",
               "downloadURL": "https://github.com/SideStore/SideStore/releases/download/nightly/SideStore.ipa",
-              "size": 27029588,
-              "sha256": "3cafa7de6bba8c16a35d23a0bced4de67f16bf9231b1e7ef3cf94873f2b58ff1"
+              "size": 27029594,
+              "sha256": "67803b9d8e51691777b5854c8a0a00c60a2e1712fec7e994f68493e8aa39cfdd"
             }
           ]
         },
