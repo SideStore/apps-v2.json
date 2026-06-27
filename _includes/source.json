@@ -153,12 +153,12 @@
           "track": "alpha",
           "releases": [
             {
-              "version": "0.6.4-20260627.307+c8f4bac2",
-              "date": "2026-06-27T23:04:20Z",
-              "localizedDescription": "#### This is release for:\n  - version: \"0.6.4-20260627.307+c8f4bac2\"\n  - revision: \"c8f4bac2\"\n  - timestamp: \"Sat Jun 27 23:04:20 2026\"\n\n#### What's Changed:\n- fix crash on clearing error log\n- try to fix the iPhone mirroring memleak/cpu spinloop in sources screen\n- fix the header gap below nav bar in sources detail screen\n- fix crash when adding source from web via url redirect ex: iTorrent -> download from sidestore\n\n#### Full Changelog: [955ea923...c8f4bac2](https://github.com/SideStore/SideStore/compare/955ea923d62a4fc4eb6320df1ba2ef5c45499925...c8f4bac2595d61be26b6ef7ef3c0ad595ccc86fd)\n",
+              "version": "0.6.4-20260627.308+831cc99c",
+              "date": "2026-06-27T23:15:23Z",
+              "localizedDescription": "#### This is release for:\n  - version: \"0.6.4-20260627.308+831cc99c\"\n  - revision: \"831cc99c\"\n  - timestamp: \"Sat Jun 27 23:15:23 2026\"\n\n#### What's Changed:\n- appID screen left nav button cleanup\n- Merge branch 'develop' into staging\n- fix(CI): first-interaction inputs and permissions (#1348)\n- feat: Add Shortcuts action to install IPA files (#1345)\n- feat(GitHub): add triage workflow and labeler config (#1346)\n\n#### Full Changelog: [c8f4bac2...831cc99c](https://github.com/SideStore/SideStore/compare/c8f4bac2595d61be26b6ef7ef3c0ad595ccc86fd...831cc99cdc2c8b1a1088fea793e9e388e0491061)\n",
               "downloadURL": "https://github.com/SideStore/SideStore/releases/download/alpha/SideStore.ipa",
-              "size": 27126299,
-              "sha256": "09dc917c032bf46973ca9dae5a7e9fd48e03f5929386f2838891ea8f57fbe448"
+              "size": 27132266,
+              "sha256": "7f3499af2e68bbc0528c51f439d90d9a35e3cba795a7204bc0f098806ca2da4b"
             }
           ]
         },
