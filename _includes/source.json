@@ -153,12 +153,12 @@
           "track": "alpha",
           "releases": [
             {
-              "version": "0.6.4-20260621.306+955ea923",
-              "date": "2026-06-21T19:46:03Z",
-              "localizedDescription": "#### This is release for:\n  - version: \"0.6.4-20260621.306+955ea923\"\n  - revision: \"955ea923\"\n  - timestamp: \"Sun Jun 21 19:46:03 2026\"\n\n#### What's Changed:\n- app detail view cleanup - remove unwanted\n- app detail view right nav button padding fix\n- source detail view right nav button padding fix\n- pill button in detail view - needs to be shown only on scroll\n\n#### Full Changelog: [d09f6c9d...955ea923](https://github.com/SideStore/SideStore/compare/d09f6c9d8c58c9787f0ea07ce892ad4addf70184...955ea923d62a4fc4eb6320df1ba2ef5c45499925)\n",
+              "version": "0.6.4-20260627.307+c8f4bac2",
+              "date": "2026-06-27T23:04:20Z",
+              "localizedDescription": "#### This is release for:\n  - version: \"0.6.4-20260627.307+c8f4bac2\"\n  - revision: \"c8f4bac2\"\n  - timestamp: \"Sat Jun 27 23:04:20 2026\"\n\n#### What's Changed:\n- fix crash on clearing error log\n- try to fix the iPhone mirroring memleak/cpu spinloop in sources screen\n- fix the header gap below nav bar in sources detail screen\n- fix crash when adding source from web via url redirect ex: iTorrent -> download from sidestore\n\n#### Full Changelog: [955ea923...c8f4bac2](https://github.com/SideStore/SideStore/compare/955ea923d62a4fc4eb6320df1ba2ef5c45499925...c8f4bac2595d61be26b6ef7ef3c0ad595ccc86fd)\n",
               "downloadURL": "https://github.com/SideStore/SideStore/releases/download/alpha/SideStore.ipa",
-              "size": 27125834,
-              "sha256": "48b75bdff17be32b9bf4949ce61e3d41126b3ecba8930a2a40e657e7ba58d040"
+              "size": 27126299,
+              "sha256": "09dc917c032bf46973ca9dae5a7e9fd48e03f5929386f2838891ea8f57fbe448"
             }
           ]
         },
