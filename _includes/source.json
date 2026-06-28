@@ -153,12 +153,12 @@
           "track": "alpha",
           "releases": [
             {
-              "version": "0.6.4-20260628.315+11a1a7eb",
-              "date": "2026-06-28T14:59:15Z",
-              "localizedDescription": "#### This is release for:\n  - version: \"0.6.4-20260628.315+11a1a7eb\"\n  - revision: \"11a1a7eb\"\n  - timestamp: \"Sun Jun 28 14:59:15 2026\"\n\n#### What's Changed:\n- revert the time tweak coz install IPA seems to be still doing things, and reducing to 1 sec causes bundle to be removed before it is fully installed\n- Revert \"tweak sidestore reinstall timings - tighten a a bit\"\n\n#### Full Changelog: [fc6a9fdc...11a1a7eb](https://github.com/SideStore/SideStore/compare/fc6a9fdcf0442f63e9c722a37e37516e25e9791b...11a1a7eb8b314164097894a2951324b5a05a670f)\n",
+              "version": "0.6.4-20260628.316+1dd7bcf2",
+              "date": "2026-06-28T15:11:33Z",
+              "localizedDescription": "#### This is release for:\n  - version: \"0.6.4-20260628.316+1dd7bcf2\"\n  - revision: \"1dd7bcf2\"\n  - timestamp: \"Sun Jun 28 15:11:33 2026\"\n\n#### What's Changed:\n- minimuxer separate out logging from start\n\n#### Full Changelog: [11a1a7eb...1dd7bcf2](https://github.com/SideStore/SideStore/compare/11a1a7eb8b314164097894a2951324b5a05a670f...1dd7bcf23be053ef2ad9acb47e6ba34c0b22f8d1)\n",
               "downloadURL": "https://github.com/SideStore/SideStore/releases/download/alpha/SideStore.ipa",
-              "size": 27073555,
-              "sha256": "2e53d89dcfa53ea69d2300b3b5fdc8d8b2927839958c0f96e7f7bb9a706ec7f1"
+              "size": 27073037,
+              "sha256": "bcceaf946724823c99bb09126b8754dad3c64b4f247b819ee1e3622eef0882c0"
             }
           ]
         },
