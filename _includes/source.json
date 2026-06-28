@@ -153,12 +153,12 @@
           "track": "alpha",
           "releases": [
             {
-              "version": "0.6.4-20260628.312+365ae8d6",
-              "date": "2026-06-28T13:28:44Z",
-              "localizedDescription": "#### This is release for:\n  - version: \"0.6.4-20260628.312+365ae8d6\"\n  - revision: \"365ae8d6\"\n  - timestamp: \"Sun Jun 28 13:28:44 2026\"\n\n#### What's Changed:\n- refine cache size display in clear cache context menu\n- added cache size display to clear cache context menu\n\n#### Full Changelog: [b53c9743...365ae8d6](https://github.com/SideStore/SideStore/compare/b53c9743c338be4dedb0d330f028f224865c3756...365ae8d6135a9e9aafb4fe4e78cdd395f0ec92da)\n",
+              "version": "0.6.4-20260628.313+fc6a9fdc",
+              "date": "2026-06-28T14:33:00Z",
+              "localizedDescription": "#### This is release for:\n  - version: \"0.6.4-20260628.313+fc6a9fdc\"\n  - revision: \"fc6a9fdc\"\n  - timestamp: \"Sun Jun 28 14:33:00 2026\"\n\n#### What's Changed:\n- tweak sidestore reinstall timings - tighten a a bit\n- reduce waiting time for sidestore re-install\n- fixed appIds footer refresh issue\n- updated ldid to walk the app bundle and sign all binaries as before\n\n#### Full Changelog: [365ae8d6...fc6a9fdc](https://github.com/SideStore/SideStore/compare/365ae8d6135a9e9aafb4fe4e78cdd395f0ec92da...fc6a9fdcf0442f63e9c722a37e37516e25e9791b)\n",
               "downloadURL": "https://github.com/SideStore/SideStore/releases/download/alpha/SideStore.ipa",
-              "size": 27048306,
-              "sha256": "c124042e60f920c23bd5aa563cb0b0b18b3f3c654ae6589c595f3cd50a993ec8"
+              "size": 27073566,
+              "sha256": "7f6700b8bb3af5e468e2ac1f09f2f78ca7f9a44e46fd5778fd64db2599bb2b2f"
             }
           ]
         },
