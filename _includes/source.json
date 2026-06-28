@@ -153,12 +153,12 @@
           "track": "alpha",
           "releases": [
             {
-              "version": "0.6.4-20260628.313+fc6a9fdc",
-              "date": "2026-06-28T14:33:00Z",
-              "localizedDescription": "#### This is release for:\n  - version: \"0.6.4-20260628.313+fc6a9fdc\"\n  - revision: \"fc6a9fdc\"\n  - timestamp: \"Sun Jun 28 14:33:00 2026\"\n\n#### What's Changed:\n- tweak sidestore reinstall timings - tighten a a bit\n- reduce waiting time for sidestore re-install\n- fixed appIds footer refresh issue\n- updated ldid to walk the app bundle and sign all binaries as before\n\n#### Full Changelog: [365ae8d6...fc6a9fdc](https://github.com/SideStore/SideStore/compare/365ae8d6135a9e9aafb4fe4e78cdd395f0ec92da...fc6a9fdcf0442f63e9c722a37e37516e25e9791b)\n",
+              "version": "0.6.4-20260628.315+11a1a7eb",
+              "date": "2026-06-28T14:59:15Z",
+              "localizedDescription": "#### This is release for:\n  - version: \"0.6.4-20260628.315+11a1a7eb\"\n  - revision: \"11a1a7eb\"\n  - timestamp: \"Sun Jun 28 14:59:15 2026\"\n\n#### What's Changed:\n- revert the time tweak coz install IPA seems to be still doing things, and reducing to 1 sec causes bundle to be removed before it is fully installed\n- Revert \"tweak sidestore reinstall timings - tighten a a bit\"\n\n#### Full Changelog: [fc6a9fdc...11a1a7eb](https://github.com/SideStore/SideStore/compare/fc6a9fdcf0442f63e9c722a37e37516e25e9791b...11a1a7eb8b314164097894a2951324b5a05a670f)\n",
               "downloadURL": "https://github.com/SideStore/SideStore/releases/download/alpha/SideStore.ipa",
-              "size": 27073566,
-              "sha256": "7f6700b8bb3af5e468e2ac1f09f2f78ca7f9a44e46fd5778fd64db2599bb2b2f"
+              "size": 27073555,
+              "sha256": "2e53d89dcfa53ea69d2300b3b5fdc8d8b2927839958c0f96e7f7bb9a706ec7f1"
             }
           ]
         },
