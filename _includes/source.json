@@ -153,12 +153,12 @@
           "track": "alpha",
           "releases": [
             {
-              "version": "0.6.4-20260628.316+1dd7bcf2",
-              "date": "2026-06-28T15:11:33Z",
-              "localizedDescription": "#### This is release for:\n  - version: \"0.6.4-20260628.316+1dd7bcf2\"\n  - revision: \"1dd7bcf2\"\n  - timestamp: \"Sun Jun 28 15:11:33 2026\"\n\n#### What's Changed:\n- minimuxer separate out logging from start\n\n#### Full Changelog: [11a1a7eb...1dd7bcf2](https://github.com/SideStore/SideStore/compare/11a1a7eb8b314164097894a2951324b5a05a670f...1dd7bcf23be053ef2ad9acb47e6ba34c0b22f8d1)\n",
+              "version": "0.6.4-20260628.317+395d5818",
+              "date": "2026-06-28T16:49:53Z",
+              "localizedDescription": "#### This is release for:\n  - version: \"0.6.4-20260628.317+395d5818\"\n  - revision: \"395d5818\"\n  - timestamp: \"Sun Jun 28 16:49:53 2026\"\n\n#### What's Changed:\n- Refine error message\n- logging changes\n- updated minimuxer submodule to latest\n- minimuxer ready check\n- minimuxer is ready check\n- updated minimuxer status checks to be enabled back to show first instead of UDID error\n\n#### Full Changelog: [1dd7bcf2...395d5818](https://github.com/SideStore/SideStore/compare/1dd7bcf23be053ef2ad9acb47e6ba34c0b22f8d1...395d5818ec937cba76fb45f8f60607e485fbef5f)\n",
               "downloadURL": "https://github.com/SideStore/SideStore/releases/download/alpha/SideStore.ipa",
-              "size": 27073037,
-              "sha256": "bcceaf946724823c99bb09126b8754dad3c64b4f247b819ee1e3622eef0882c0"
+              "size": 27078496,
+              "sha256": "814cbd7321bbbc11259695ad852207fe1f416df0d216820e747cb7e105ad94a3"
             }
           ]
         },
