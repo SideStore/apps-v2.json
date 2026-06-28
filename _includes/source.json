@@ -153,12 +153,12 @@
           "track": "alpha",
           "releases": [
             {
-              "version": "0.6.4-20260628.310+42167dcd",
-              "date": "2026-06-28T01:02:18Z",
-              "localizedDescription": "#### This is release for:\n  - version: \"0.6.4-20260628.310+42167dcd\"\n  - revision: \"42167dcd\"\n  - timestamp: \"Sun Jun 28 01:02:18 2026\"\n\n#### What's Changed:\n- vpn-configuration: improve readability on note\n- fixed operation error message by filling in placeholders\n- added confirmation dialog on clicking 'confirm'\n\n#### Full Changelog: [831cc99c...42167dcd](https://github.com/SideStore/SideStore/compare/831cc99cdc2c8b1a1088fea793e9e388e0491061...42167dcd95cbfba180bf2a923cf6405fda684772)\n",
+              "version": "0.6.4-20260628.311+b53c9743",
+              "date": "2026-06-28T13:06:42Z",
+              "localizedDescription": "#### This is release for:\n  - version: \"0.6.4-20260628.311+b53c9743\"\n  - revision: \"b53c9743\"\n  - timestamp: \"Sun Jun 28 13:06:42 2026\"\n\n#### What's Changed:\n- gate logging behind flags for privacy\n- revisit logging - plan to log only when enabled\n- prefer bg color based on icon luminosity strength\n- use drop shadow for appIcon when an icon has alpha layer (transparency) - appstore apps cannot have alpha layer icon though\n- more UI improvements - remove done button when in edit mode, retain the selections when still in edit mode\n- AppIds: added animation for editing\n- feature: enable deletion in AppIds screen for paid accounts\n- validate certs and session before using them from cache\n- improve robustness of siging cert validation\n- major: fix all certificate revocation issues and do proper validation after auth\n- bug-fix: keychain wasn't clearing signingCert when logging out\n- Fix annoying sidestore refresh prompt hapenning when cert mismatch detected\n- resolved openSSL issue\n- Logger: updated all calls to print() statements for now (TODO: need to revisit to use proper logger infra)\n- cleanup altsign and openssl references\n- altsign swift port + port all objc files to swift\n- Merge branch 'develop' into staging\n- Merge pull request #1339 from SideStore/staging\n\n#### Full Changelog: [42167dcd...b53c9743](https://github.com/SideStore/SideStore/compare/42167dcd95cbfba180bf2a923cf6405fda684772...b53c9743c338be4dedb0d330f028f224865c3756)\n",
               "downloadURL": "https://github.com/SideStore/SideStore/releases/download/alpha/SideStore.ipa",
-              "size": 27143613,
-              "sha256": "f73180fc6fb87c718f085610dd91d615ad17a684061e4d7629c4e13e750570a7"
+              "size": 27053275,
+              "sha256": "56f33254b419dfda913a597ac8156b17a2767b9bc8ece7db0a23d338cd793867"
             }
           ]
         },
