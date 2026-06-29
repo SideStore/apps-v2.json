@@ -140,12 +140,12 @@
           "track": "nightly",
           "releases": [
             {
-              "version": "0.6.4-20260629.1113+7c2f7528",
-              "date": "2026-06-29T08:32:26Z",
-              "localizedDescription": "#### This is release for:\n  - version: \"0.6.4-20260629.1113+7c2f7528\"\n  - revision: \"7c2f7528\"\n  - timestamp: \"Mon Jun 29 08:32:26 2026\"\n\n#### What's Changed:\n- added minimuxer status check guards\n- use async api\n\n#### Full Changelog: [cf2eba80...7c2f7528](https://github.com/SideStore/SideStore/compare/cf2eba806e55d7c9d25501f7c4ab0e389061715c...7c2f7528729c09df6604963405c972377494890f)\n",
+              "version": "0.6.4-20260629.1114+03c112af",
+              "date": "2026-06-29T09:08:30Z",
+              "localizedDescription": "#### This is release for:\n  - version: \"0.6.4-20260629.1114+03c112af\"\n  - revision: \"03c112af\"\n  - timestamp: \"Mon Jun 29 09:08:30 2026\"\n\n#### What's Changed:\n- fix altsign sign-in issues\n\n#### Full Changelog: [7c2f7528...03c112af](https://github.com/SideStore/SideStore/compare/7c2f7528729c09df6604963405c972377494890f...03c112afa53ba84ba3494e964d1103c62571aac0)\n",
               "downloadURL": "https://github.com/SideStore/SideStore/releases/download/nightly/SideStore.ipa",
-              "size": 27039148,
-              "sha256": "961b8c5ca944cdc9a821f6b5125ea96af807cb1c3878d5b9916453938be94a84"
+              "size": 27032587,
+              "sha256": "6fdbc79b74df4fcd9395edde8e9a35186a20bdefa82ce39e03f8df2e9a4f614a"
             }
           ]
         },
