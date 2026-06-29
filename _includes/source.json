@@ -140,12 +140,12 @@
           "track": "nightly",
           "releases": [
             {
-              "version": "0.6.4-20260629.1117+357c953f",
-              "date": "2026-06-29T16:27:59Z",
-              "localizedDescription": "#### This is release for:\n  - version: \"0.6.4-20260629.1117+357c953f\"\n  - revision: \"357c953f\"\n  - timestamp: \"Mon Jun 29 16:27:59 2026\"\n\n#### What's Changed:\n- cache management - show loading spinner if not ready\n- altbackup - try to fix the copy errors during restore (clear target with retries)\n- rearrange entries in advance settings for coherency\n- Cache Management feature\n- Altbackup: Snapshot restore has some issues rarely due to existing snapshots, will come back to this in a while\n- fix: refresh(provision only update) should be disallowed if remote's profile's certificates are now different from what is being used in the appbundle locally (prevents apps not able to launch after a while when cert was revoked/deleted etc scenarios)\n\n#### Full Changelog: [b3dd3b80...357c953f](https://github.com/SideStore/SideStore/compare/b3dd3b8097d1192b96b9395599702d03d8ef3f22...357c953f1d5adbb9a918d871be4e3aa97ac3304d)\n",
+              "version": "0.6.4-20260629.1118+905fe5b4",
+              "date": "2026-06-29T19:24:32Z",
+              "localizedDescription": "#### This is release for:\n  - version: \"0.6.4-20260629.1118+905fe5b4\"\n  - revision: \"905fe5b4\"\n  - timestamp: \"Mon Jun 29 19:24:32 2026\"\n\n#### What's Changed:\n- do not reveal sensitive contents in certs management screen in release builds\n- auth should now kick in when refresh prompt if provisioning isn't requested\n- added ability to hide certificates sensitive details\n- skip showing middle spinner when doing pull-to-refresh\n- added skipCertificateProvisioning to skip for cert management screen open\n- key access was caught up in threading\n- updated submodule to latest\n- remove all usages of stale legacy keys - migration would have eaten them by now\n- refresh: fix broken error propagation chain\n- submodule: updated to latest\n- refresh-checks: ignore refresh request if stored app cert serial mismatches with cert being used by sidestore to fetch provisioning profiles (usually in case when cert got revoked - user needs to manually re-intall in this case)\n\n#### Full Changelog: [357c953f...905fe5b4](https://github.com/SideStore/SideStore/compare/357c953f1d5adbb9a918d871be4e3aa97ac3304d...905fe5b4d544c275825b9b933be442d170fb7c53)\n",
               "downloadURL": "https://github.com/SideStore/SideStore/releases/download/nightly/SideStore.ipa",
-              "size": 27170838,
-              "sha256": "9c5613325162e2440fb362d11aea93708055d5d9dc91b4f6dc2c2ff380e7e36d"
+              "size": 27198302,
+              "sha256": "3ced27d1aa2e926d004f79e91a967e0b545bf53884d37a42d1d12c727cafa128"
             }
           ]
         },
