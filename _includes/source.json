@@ -140,12 +140,12 @@
           "track": "nightly",
           "releases": [
             {
-              "version": "0.6.4-20260629.1114+03c112af",
-              "date": "2026-06-29T09:08:30Z",
-              "localizedDescription": "#### This is release for:\n  - version: \"0.6.4-20260629.1114+03c112af\"\n  - revision: \"03c112af\"\n  - timestamp: \"Mon Jun 29 09:08:30 2026\"\n\n#### What's Changed:\n- fix altsign sign-in issues\n\n#### Full Changelog: [7c2f7528...03c112af](https://github.com/SideStore/SideStore/compare/7c2f7528729c09df6604963405c972377494890f...03c112afa53ba84ba3494e964d1103c62571aac0)\n",
+              "version": "0.6.4-20260629.1116+b3dd3b80",
+              "date": "2026-06-29T14:35:49Z",
+              "localizedDescription": "#### This is release for:\n  - version: \"0.6.4-20260629.1116+b3dd3b80\"\n  - revision: \"b3dd3b80\"\n  - timestamp: \"Mon Jun 29 14:35:49 2026\"\n\n#### What's Changed:\n- remove stale link checked in mistakenly\n- certs-management feature complete (split into multiple small files for maintenance)\n- added exporting pem, der types and importing any types bin, txt\n- fix certs view UI alignment of rows\n- amended auth api to skip device registration by default\n- certs: added detail screen support\n- refine error messages\n- distinguish between local and remote registered certs\n- removed upload coz apple obviously doesn't accept thirdparty created certs, well we still have create though!\n- added export and copy to certs\n- added certificates management section\n- added setting to keep certificate before signing out\n\n#### Full Changelog: [03c112af...b3dd3b80](https://github.com/SideStore/SideStore/compare/03c112afa53ba84ba3494e964d1103c62571aac0...b3dd3b8097d1192b96b9395599702d03d8ef3f22)\n",
               "downloadURL": "https://github.com/SideStore/SideStore/releases/download/nightly/SideStore.ipa",
-              "size": 27032587,
-              "sha256": "6fdbc79b74df4fcd9395edde8e9a35186a20bdefa82ce39e03f8df2e9a4f614a"
+              "size": 27131983,
+              "sha256": "a1a61ef121c3c78b019530899238e72a48bb1167a85ad9a05958ca8a49cbd007"
             }
           ]
         },
