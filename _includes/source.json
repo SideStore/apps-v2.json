@@ -140,12 +140,12 @@
           "track": "nightly",
           "releases": [
             {
-              "version": "0.6.4-20260629.1118+905fe5b4",
-              "date": "2026-06-29T19:24:32Z",
-              "localizedDescription": "#### This is release for:\n  - version: \"0.6.4-20260629.1118+905fe5b4\"\n  - revision: \"905fe5b4\"\n  - timestamp: \"Mon Jun 29 19:24:32 2026\"\n\n#### What's Changed:\n- do not reveal sensitive contents in certs management screen in release builds\n- auth should now kick in when refresh prompt if provisioning isn't requested\n- added ability to hide certificates sensitive details\n- skip showing middle spinner when doing pull-to-refresh\n- added skipCertificateProvisioning to skip for cert management screen open\n- key access was caught up in threading\n- updated submodule to latest\n- remove all usages of stale legacy keys - migration would have eaten them by now\n- refresh: fix broken error propagation chain\n- submodule: updated to latest\n- refresh-checks: ignore refresh request if stored app cert serial mismatches with cert being used by sidestore to fetch provisioning profiles (usually in case when cert got revoked - user needs to manually re-intall in this case)\n\n#### Full Changelog: [357c953f...905fe5b4](https://github.com/SideStore/SideStore/compare/357c953f1d5adbb9a918d871be4e3aa97ac3304d...905fe5b4d544c275825b9b933be442d170fb7c53)\n",
+              "version": "0.6.4-20260701.1121+5c992aa8",
+              "date": "2026-07-01T17:25:27Z",
+              "localizedDescription": "#### This is release for:\n  - version: \"0.6.4-20260701.1121+5c992aa8\"\n  - revision: \"5c992aa8\"\n  - timestamp: \"Wed Jul  1 17:25:27 2026\"\n\n#### What's Changed:\n- Merge branch 'staging' into develop\n- fix warnings\n- refactor: rewrite operations into async model instead of callback hell\n- cleanup remove Task<T, R> qualifier from Task\n- updated minimuxer to latest\n- revert back to make things working for bundleId\n- backup to cached app with replace if debug mode (xcode installed)\n- cleanup\n- use operation error as is and fallback if required\n- cached Apps/ must stay unadulterated\n- refine provisioning profiles flow\n- make refresh fallback to resign if cert is mismatching\n- added resign option in my apps screen\n- install app restrictions for free accounts should count apps free certs signed apps only\n- cert handling, display and storing had multiple issues\n- kep error on pull to refresh\n- rearrange things in advance settings\n\n#### Full Changelog: [905fe5b4...5c992aa8](https://github.com/SideStore/SideStore/compare/905fe5b4d544c275825b9b933be442d170fb7c53...5c992aa88ed5482964d8a28dfe523e04ec318a50)\n",
               "downloadURL": "https://github.com/SideStore/SideStore/releases/download/nightly/SideStore.ipa",
-              "size": 27198302,
-              "sha256": "3ced27d1aa2e926d004f79e91a967e0b545bf53884d37a42d1d12c727cafa128"
+              "size": 27227427,
+              "sha256": "59b31acd57238af138728d2abde7652f1c1ef96e076ccb4d5b9928215df3e938"
             }
           ]
         },
