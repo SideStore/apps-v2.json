@@ -140,12 +140,12 @@
           "track": "nightly",
           "releases": [
             {
-              "version": "0.6.4-20260703.1127+fec75fdf",
-              "date": "2026-07-03T16:35:51Z",
-              "localizedDescription": "#### This is release for:\n  - version: \"0.6.4-20260703.1127+fec75fdf\"\n  - revision: \"fec75fdf\"\n  - timestamp: \"Fri Jul  3 16:35:51 2026\"\n\n#### What's Changed:\n- onTap should just nav not reveal/hide\n- fix the pem data vertical size in cert detail view - do not use fixed size\n\n#### Full Changelog: [4dfc8ecb...fec75fdf](https://github.com/SideStore/SideStore/compare/4dfc8ecbb3a1dd0b5e3f8669718d5e5d7ee6bcb6...fec75fdf88eb65c7e9305a5e3f479bdbd9fedb0e)\n",
+              "version": "0.6.4-20260703.1128+7b4b10db",
+              "date": "2026-07-03T18:52:10Z",
+              "localizedDescription": "#### This is release for:\n  - version: \"0.6.4-20260703.1128+7b4b10db\"\n  - revision: \"7b4b10db\"\n  - timestamp: \"Fri Jul  3 18:52:10 2026\"\n\n#### What's Changed:\n- fix: removed a reference cycle and updated to use Task based and efficient append only by taking new content from file\n\n#### Full Changelog: [fec75fdf...7b4b10db](https://github.com/SideStore/SideStore/compare/fec75fdf88eb65c7e9305a5e3f479bdbd9fedb0e...7b4b10db763e86032a1414f3bb8994e4c5ae19f9)\n",
               "downloadURL": "https://github.com/SideStore/SideStore/releases/download/nightly/SideStore.ipa",
-              "size": 27459279,
-              "sha256": "bd037f788a5b24174d048a4303376e2f2f626ca88265663eecb30804168d19bc"
+              "size": 27465050,
+              "sha256": "bdc806e8aec1d738b6b0ac1c99ee649f98e791b8a4b0b4c00c7085e9cbdd384e"
             }
           ]
         },
