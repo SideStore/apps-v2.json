@@ -153,12 +153,12 @@
           "track": "alpha",
           "releases": [
             {
-              "version": "0.6.4-20260701.320+8c6ab74a",
-              "date": "2026-07-01T23:18:25Z",
-              "localizedDescription": "#### This is release for:\n  - version: \"0.6.4-20260701.320+8c6ab74a\"\n  - revision: \"8c6ab74a\"\n  - timestamp: \"Wed Jul  1 23:18:25 2026\"\n\n#### What's Changed:\n- rewrite into structured code for maintenance - all existing logic preserved and tested\n- added async code serializers since await can yield current task\n- Merge branch 'staging' into develop\n\n#### Full Changelog: [c4bdb9ed...8c6ab74a](https://github.com/SideStore/SideStore/compare/c4bdb9edc60795801fae92527e5a691631c52dda...8c6ab74a77769f412891d4e35b92f4f191a62d79)\n",
+              "version": "0.6.4-20260703.322+f841749a",
+              "date": "2026-07-03T05:16:45Z",
+              "localizedDescription": "#### This is release for:\n  - version: \"0.6.4-20260703.322+f841749a\"\n  - revision: \"f841749a\"\n  - timestamp: \"Fri Jul  3 05:16:45 2026\"\n\n#### What's Changed:\n- buildIfTrue unavailable at ios < 16.0 for toolbar items\n- Merge branch 'staging' into develop\n- fix the selection mode title display for exporting resources\n- fix navigation when recursively browsing an ipa from resources\n- feature: browse app bundle and selectively export resources - power to user!\n- use InsetGroupedListStyle for the AppInfoView\n- include long press to copy by key, value\n- refine font size\n- revert to plain text for faster loading\n- more refinements to info.plist viewer\n- added word wrap for info.plist viewer\n- added raw XML view for info.plist viewer\n- added app info viewer for my apps entries (bundle, info.plist, provision, certs etc)\n- make developer metadata optional for detail view\n- url wake and response schemes for sidebackup to sidestore communication should use bundleId qualified scheme coz 2 sidestore may co exist\n- fix context save bug\n- SideBackup.ipa must be a symlink\n- reverted removal of codesign for sidebackup since installing on real device even for testing requires codesign - and since resigner gonna resign the bundleid anyway so this is ok.\n- errors are not to be shown in SideBackup app - they will be streamed to caller app\n- extract common logic for app wake url handler\n- stream sidebackup log into sidestore's own log for consistency\n- updated resources reference from AltBackup.ipa to SideBackup.ipa\n- rewrite the backupEngine to be more coherent and maintainable\n- updated submodules to latest + ensure altStoreCore ie Framework doesnt use any codesigning on its own\n- rewrite AltBackup in SwiftUI - easier for maintenence + rename AltBackup to SideBackup\n- ensure progress is updated once at last, since this is small action\n\n#### Full Changelog: [8c6ab74a...f841749a](https://github.com/SideStore/SideStore/compare/8c6ab74a77769f412891d4e35b92f4f191a62d79...f841749af1b510f0767ff9fba1d42d04b5d061ce)\n",
               "downloadURL": "https://github.com/SideStore/SideStore/releases/download/alpha/SideStore.ipa",
-              "size": 27283764,
-              "sha256": "8642912e8164139ff9a0e7172baf7832d4c4298ae3d49513081e2a3cc694bb24"
+              "size": 27453678,
+              "sha256": "5997e0722a275bb8888d9ebc5deaebcf65dcab67bba5dc208508a469c14b0976"
             }
           ]
         },
