@@ -140,12 +140,12 @@
           "track": "nightly",
           "releases": [
             {
-              "version": "0.6.4-20260703.1128+7b4b10db",
-              "date": "2026-07-03T18:52:10Z",
-              "localizedDescription": "#### This is release for:\n  - version: \"0.6.4-20260703.1128+7b4b10db\"\n  - revision: \"7b4b10db\"\n  - timestamp: \"Fri Jul  3 18:52:10 2026\"\n\n#### What's Changed:\n- fix: removed a reference cycle and updated to use Task based and efficient append only by taking new content from file\n\n#### Full Changelog: [fec75fdf...7b4b10db](https://github.com/SideStore/SideStore/compare/fec75fdf88eb65c7e9305a5e3f479bdbd9fedb0e...7b4b10db763e86032a1414f3bb8994e4c5ae19f9)\n",
+              "version": "0.6.4-20260703.1129+15a58c83",
+              "date": "2026-07-03T21:10:10Z",
+              "localizedDescription": "#### This is release for:\n  - version: \"0.6.4-20260703.1129+15a58c83\"\n  - revision: \"15a58c83\"\n  - timestamp: \"Fri Jul  3 21:10:10 2026\"\n\n#### What's Changed:\n- pill button shouldn't mistakenly use cached state\n- use proper error for invalid pairing!\n- integrate wireless pairing for ios 27+ using idevice crate's RSD and rppairing ways\n- fix: pairing prompt ignore was not cancelling operations\n- updated submodule to latest\n- updated submodule to latest\n\n#### Full Changelog: [7b4b10db...15a58c83](https://github.com/SideStore/SideStore/compare/7b4b10db763e86032a1414f3bb8994e4c5ae19f9...15a58c83d33294859af7b438da18dab5708aa5d5)\n",
               "downloadURL": "https://github.com/SideStore/SideStore/releases/download/nightly/SideStore.ipa",
-              "size": 27465050,
-              "sha256": "bdc806e8aec1d738b6b0ac1c99ee649f98e791b8a4b0b4c00c7085e9cbdd384e"
+              "size": 27581748,
+              "sha256": "6994986658ff1713dda6f369e736315f4f80bdf80ce0d24d6c8ae7f00a08fa9e"
             }
           ]
         },
