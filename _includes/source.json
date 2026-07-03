@@ -140,12 +140,12 @@
           "track": "nightly",
           "releases": [
             {
-              "version": "0.6.4-20260703.1126+4dfc8ecb",
-              "date": "2026-07-03T16:29:12Z",
-              "localizedDescription": "#### This is release for:\n  - version: \"0.6.4-20260703.1126+4dfc8ecb\"\n  - revision: \"4dfc8ecb\"\n  - timestamp: \"Fri Jul  3 16:29:12 2026\"\n\n#### What's Changed:\n- password prompt should show filename lol\n- if a cert got its priv key later during import, count previous import as dupl type failure\n- fix: if a 2 certs with pub only and pub+priv is imported keep pub+priv ie upgrade it\n- hide/reveal in cert mgmt had issues\n- shorten menu names coz can't fit on 1 row\n- added capability to export cert as pk12 irrespective of if it contains private key\n- fix bulk cert import issues\n- break the cert management view into smaller files - keep modular\n- added private key import feature\n\n#### Full Changelog: [f841749a...4dfc8ecb](https://github.com/SideStore/SideStore/compare/f841749af1b510f0767ff9fba1d42d04b5d061ce...4dfc8ecbb3a1dd0b5e3f8669718d5e5d7ee6bcb6)\n",
+              "version": "0.6.4-20260703.1127+fec75fdf",
+              "date": "2026-07-03T16:35:51Z",
+              "localizedDescription": "#### This is release for:\n  - version: \"0.6.4-20260703.1127+fec75fdf\"\n  - revision: \"fec75fdf\"\n  - timestamp: \"Fri Jul  3 16:35:51 2026\"\n\n#### What's Changed:\n- onTap should just nav not reveal/hide\n- fix the pem data vertical size in cert detail view - do not use fixed size\n\n#### Full Changelog: [4dfc8ecb...fec75fdf](https://github.com/SideStore/SideStore/compare/4dfc8ecbb3a1dd0b5e3f8669718d5e5d7ee6bcb6...fec75fdf88eb65c7e9305a5e3f479bdbd9fedb0e)\n",
               "downloadURL": "https://github.com/SideStore/SideStore/releases/download/nightly/SideStore.ipa",
-              "size": 27461359,
-              "sha256": "e05010a2fce9f5726976fd7a08389f228c9c8468eb3e5dccd3b76435c0eee0c7"
+              "size": 27459279,
+              "sha256": "bd037f788a5b24174d048a4303376e2f2f626ca88265663eecb30804168d19bc"
             }
           ]
         },
