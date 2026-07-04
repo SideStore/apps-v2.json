@@ -140,12 +140,12 @@
           "track": "nightly",
           "releases": [
             {
-              "version": "0.6.4-20260704.1132+18aecfaa",
-              "date": "2026-07-04T02:53:20Z",
-              "localizedDescription": "#### This is release for:\n  - version: \"0.6.4-20260704.1132+18aecfaa\"\n  - revision: \"18aecfaa\"\n  - timestamp: \"Sat Jul  4 02:53:20 2026\"\n\n#### What's Changed:\n- minimuxer woes, pairing was invalid still it didnt reload pairing data...fixed it now\n- refreshing sometimes leaves progress state in-progress\n- ensure local network access is turned on for this feature to work\n- clean up - accidentally checked in local copy as submodules\n- wireless pair manager wasn't retaining state properly\n- extract common DNS-based Service Discovery ids into  own file\n- refine v1 to make it work and show bonjour services locally\n- local bonjour services v2 using network framework\n- local dns services discovery screen - v1\n- use bezierPath to draw rounded corners ourselves and use colors and effects distinctly for each row instead of wrapping in a VStack\n- fix UI issues with wireless pair screen\n- more refinements and fixed bug where the minimuxer wasnt exposing cancel/stop to kill listen\n\n#### Full Changelog: [15a58c83...18aecfaa](https://github.com/SideStore/SideStore/compare/15a58c83d33294859af7b438da18dab5708aa5d5...18aecfaa68830d9adffe642a61d3062bca15c9c6)\n",
+              "version": "0.6.4-20260704.1133+9c19f1f1",
+              "date": "2026-07-04T03:27:09Z",
+              "localizedDescription": "#### This is release for:\n  - version: \"0.6.4-20260704.1133+9c19f1f1\"\n  - revision: \"9c19f1f1\"\n  - timestamp: \"Sat Jul  4 03:27:09 2026\"\n\n#### What's Changed:\n- network observation should be independent of muxer start\n\n#### Full Changelog: [18aecfaa...9c19f1f1](https://github.com/SideStore/SideStore/compare/18aecfaa68830d9adffe642a61d3062bca15c9c6...9c19f1f13c0b40de2a99381b2027bc824e66f318)\n",
               "downloadURL": "https://github.com/SideStore/SideStore/releases/download/nightly/SideStore.ipa",
-              "size": 27696186,
-              "sha256": "b60cf061775f1c807383c2ca94b730977a9f3a8b566df781ee731edaa53c6267"
+              "size": 27696414,
+              "sha256": "4e49d8bc707283305b21132622d89173125e2286dbf8b6eb5c084665348ade64"
             }
           ]
         },
