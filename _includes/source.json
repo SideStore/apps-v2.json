@@ -140,12 +140,12 @@
           "track": "nightly",
           "releases": [
             {
-              "version": "0.6.4-20260704.1134+e54efc59",
-              "date": "2026-07-04T03:41:05Z",
-              "localizedDescription": "#### This is release for:\n  - version: \"0.6.4-20260704.1134+e54efc59\"\n  - revision: \"e54efc59\"\n  - timestamp: \"Sat Jul  4 03:41:05 2026\"\n\n#### What's Changed:\n- fix crash due to non thread based system ex: swift 6\n- updated submodules to latest\n\n#### Full Changelog: [9c19f1f1...e54efc59](https://github.com/SideStore/SideStore/compare/9c19f1f13c0b40de2a99381b2027bc824e66f318...e54efc59e5595676b0318cfb656c5c67201afb4d)\n",
+              "version": "0.6.4-20260705.1137+c5a32993",
+              "date": "2026-07-05T09:55:00Z",
+              "localizedDescription": "#### This is release for:\n  - version: \"0.6.4-20260705.1137+c5a32993\"\n  - revision: \"c5a32993\"\n  - timestamp: \"Sun Jul  5 09:55:00 2026\"\n\n#### What's Changed:\n- keep idevice logging in mimimuxer to minimal for now\n- streamline new full-idevice based minimuxer access and new ideviceGateway. need to cleanup further and define boundaries properly\n\n#### Full Changelog: [e54efc59...c5a32993](https://github.com/SideStore/SideStore/compare/e54efc59e5595676b0318cfb656c5c67201afb4d...c5a32993235fb95410937040da0b91b3ae7e5ff5)\n",
               "downloadURL": "https://github.com/SideStore/SideStore/releases/download/nightly/SideStore.ipa",
-              "size": 27693765,
-              "sha256": "7eb5fb45d8c52d76c9ddb0706e9ca35e8ddca1df80a27b40c8202f4700003a9e"
+              "size": 26610454,
+              "sha256": "360392a90eb8626e01b97ba31b0f1b95c4f9f920b6ad35e5e6ec2c7afc19c7f9"
             }
           ]
         },
