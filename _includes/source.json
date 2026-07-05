@@ -140,12 +140,12 @@
           "track": "nightly",
           "releases": [
             {
-              "version": "0.6.4-20260705.1137+c5a32993",
-              "date": "2026-07-05T09:55:00Z",
-              "localizedDescription": "#### This is release for:\n  - version: \"0.6.4-20260705.1137+c5a32993\"\n  - revision: \"c5a32993\"\n  - timestamp: \"Sun Jul  5 09:55:00 2026\"\n\n#### What's Changed:\n- keep idevice logging in mimimuxer to minimal for now\n- streamline new full-idevice based minimuxer access and new ideviceGateway. need to cleanup further and define boundaries properly\n\n#### Full Changelog: [e54efc59...c5a32993](https://github.com/SideStore/SideStore/compare/e54efc59e5595676b0318cfb656c5c67201afb4d...c5a32993235fb95410937040da0b91b3ae7e5ff5)\n",
+              "version": "0.6.4-20260705.1138+53da8074",
+              "date": "2026-07-05T11:30:39Z",
+              "localizedDescription": "#### This is release for:\n  - version: \"0.6.4-20260705.1138+53da8074\"\n  - revision: \"53da8074\"\n  - timestamp: \"Sun Jul  5 11:30:39 2026\"\n\n#### What's Changed:\n- make pairing file validations robust at boot. TODO: make them robust during in-app operations too\n\n#### Full Changelog: [c5a32993...53da8074](https://github.com/SideStore/SideStore/compare/c5a32993235fb95410937040da0b91b3ae7e5ff5...53da8074e1a9e97bc59851a4d0f5beced6874e08)\n",
               "downloadURL": "https://github.com/SideStore/SideStore/releases/download/nightly/SideStore.ipa",
-              "size": 26610454,
-              "sha256": "360392a90eb8626e01b97ba31b0f1b95c4f9f920b6ad35e5e6ec2c7afc19c7f9"
+              "size": 26612809,
+              "sha256": "e29def6702f8b4630afe2748a541959de49b5e6691ddd5d30820978432261941"
             }
           ]
         },
