@@ -140,12 +140,12 @@
           "track": "nightly",
           "releases": [
             {
-              "version": "0.6.4-20260709.1144+c2293058",
-              "date": "2026-07-09T23:07:11Z",
-              "localizedDescription": "#### This is release for:\n  - version: \"0.6.4-20260709.1144+c2293058\"\n  - revision: \"c2293058\"\n  - timestamp: \"Thu Jul  9 23:07:11 2026\"\n\n#### What's Changed:\n- fix broken download operation chain\n\n#### Full Changelog: [4e66dead...c2293058](https://github.com/SideStore/SideStore/compare/4e66deadb83078539eca560ad685a9c4c32b1ac2...c2293058e65f513ba44ddcb6cae6ed5c3be3f74d)\n",
+              "version": "0.6.4-20260710.1146+9b58ed49",
+              "date": "2026-07-10T04:43:42Z",
+              "localizedDescription": "#### This is release for:\n  - version: \"0.6.4-20260710.1146+9b58ed49\"\n  - revision: \"9b58ed49\"\n  - timestamp: \"Fri Jul 10 04:43:42 2026\"\n\n#### What's Changed:\n- removed unnecessay short circuit in path monitor callback\n\n#### Full Changelog: [c2293058...9b58ed49](https://github.com/SideStore/SideStore/compare/c2293058e65f513ba44ddcb6cae6ed5c3be3f74d...9b58ed498d06cdd7e43a1737ea31567666a9efb9)\n",
               "downloadURL": "https://github.com/SideStore/SideStore/releases/download/nightly/SideStore.ipa",
-              "size": 27197747,
-              "sha256": "24406444e4f48cc294e30d3d00e226ba5849c77b15da5d72a8469a50d46fb00e"
+              "size": 27200930,
+              "sha256": "61d45d83c50631d0cfd4d8f2a7f56a1e534731df69950e2971dc442ee1918a8b"
             }
           ]
         },
