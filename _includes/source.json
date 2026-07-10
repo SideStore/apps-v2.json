@@ -140,12 +140,12 @@
           "track": "nightly",
           "releases": [
             {
-              "version": "0.6.4-20260710.1146+9b58ed49",
-              "date": "2026-07-10T04:43:42Z",
-              "localizedDescription": "#### This is release for:\n  - version: \"0.6.4-20260710.1146+9b58ed49\"\n  - revision: \"9b58ed49\"\n  - timestamp: \"Fri Jul 10 04:43:42 2026\"\n\n#### What's Changed:\n- removed unnecessay short circuit in path monitor callback\n\n#### Full Changelog: [c2293058...9b58ed49](https://github.com/SideStore/SideStore/compare/c2293058e65f513ba44ddcb6cae6ed5c3be3f74d...9b58ed498d06cdd7e43a1737ea31567666a9efb9)\n",
+              "version": "0.6.4-20260710.1147+e7fccd36",
+              "date": "2026-07-10T05:00:37Z",
+              "localizedDescription": "#### This is release for:\n  - version: \"0.6.4-20260710.1147+e7fccd36\"\n  - revision: \"e7fccd36\"\n  - timestamp: \"Fri Jul 10 05:00:37 2026\"\n\n#### What's Changed:\n- fix: make ip updates and connection clearing robust\n\n#### Full Changelog: [9b58ed49...e7fccd36](https://github.com/SideStore/SideStore/compare/9b58ed498d06cdd7e43a1737ea31567666a9efb9...e7fccd36b5881d617481e81ceed3cd146fa48a90)\n",
               "downloadURL": "https://github.com/SideStore/SideStore/releases/download/nightly/SideStore.ipa",
-              "size": 27200930,
-              "sha256": "61d45d83c50631d0cfd4d8f2a7f56a1e534731df69950e2971dc442ee1918a8b"
+              "size": 27199533,
+              "sha256": "cf8cef28c256f694c37da2eb682ab04f31075784ba6915e2d21a828af77f7c5b"
             }
           ]
         },
