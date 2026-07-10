@@ -140,12 +140,12 @@
           "track": "nightly",
           "releases": [
             {
-              "version": "0.6.4-20260710.1149+b958f22a",
-              "date": "2026-07-10T20:54:40Z",
-              "localizedDescription": "#### This is release for:\n  - version: \"0.6.4-20260710.1149+b958f22a\"\n  - revision: \"b958f22a\"\n  - timestamp: \"Fri Jul 10 20:54:40 2026\"\n\n#### What's Changed:\n- console log: added size adjustments and show/hide timestamp with timestamp hidden by default\n- lets use short tag for logging levels\n\n#### Full Changelog: [d3768e2f...b958f22a](https://github.com/SideStore/SideStore/compare/d3768e2fa4ad3fd38e2fe037bba975607d9bf0e2...b958f22a1cdbd961194de83edc4450656d68de56)\n",
+              "version": "0.6.4-20260710.1150+2f62e689",
+              "date": "2026-07-10T22:05:01Z",
+              "localizedDescription": "#### This is release for:\n  - version: \"0.6.4-20260710.1150+2f62e689\"\n  - revision: \"2f62e689\"\n  - timestamp: \"Fri Jul 10 22:05:01 2026\"\n\n#### What's Changed:\n- feature: okay now we got health check!\n\n#### Full Changelog: [b958f22a...2f62e689](https://github.com/SideStore/SideStore/compare/b958f22a1cdbd961194de83edc4450656d68de56...2f62e68968e6d937904be58c220d24f47d041c29)\n",
               "downloadURL": "https://github.com/SideStore/SideStore/releases/download/nightly/SideStore.ipa",
-              "size": 27198471,
-              "sha256": "657415bd02d8d24fb99eeded3a91f81c0cb1c46b67a8150bd07699ad5b881c12"
+              "size": 27226059,
+              "sha256": "82dfa9dc083e41690e1199ad0e67eaf1575c3f66a0690502f022c76f97bd55c0"
             }
           ]
         },
