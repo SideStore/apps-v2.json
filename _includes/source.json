@@ -140,12 +140,12 @@
           "track": "nightly",
           "releases": [
             {
-              "version": "0.6.4-20260710.1147+e7fccd36",
-              "date": "2026-07-10T05:00:37Z",
-              "localizedDescription": "#### This is release for:\n  - version: \"0.6.4-20260710.1147+e7fccd36\"\n  - revision: \"e7fccd36\"\n  - timestamp: \"Fri Jul 10 05:00:37 2026\"\n\n#### What's Changed:\n- fix: make ip updates and connection clearing robust\n\n#### Full Changelog: [9b58ed49...e7fccd36](https://github.com/SideStore/SideStore/compare/9b58ed498d06cdd7e43a1737ea31567666a9efb9...e7fccd36b5881d617481e81ceed3cd146fa48a90)\n",
+              "version": "0.6.4-20260710.1148+d3768e2f",
+              "date": "2026-07-10T05:36:19Z",
+              "localizedDescription": "#### This is release for:\n  - version: \"0.6.4-20260710.1148+d3768e2f\"\n  - revision: \"d3768e2f\"\n  - timestamp: \"Fri Jul 10 05:36:19 2026\"\n\n#### What's Changed:\n- cleanup: extract out constants in iDeviceGateway into MinimuxerConstants\n\n#### Full Changelog: [e7fccd36...d3768e2f](https://github.com/SideStore/SideStore/compare/e7fccd36b5881d617481e81ceed3cd146fa48a90...d3768e2fa4ad3fd38e2fe037bba975607d9bf0e2)\n",
               "downloadURL": "https://github.com/SideStore/SideStore/releases/download/nightly/SideStore.ipa",
-              "size": 27199533,
-              "sha256": "cf8cef28c256f694c37da2eb682ab04f31075784ba6915e2d21a828af77f7c5b"
+              "size": 27199852,
+              "sha256": "d38e87e6a3bcb57d9d7168928db2f72131b9623df3bfeda10ff6c4bf30787bf1"
             }
           ]
         },
