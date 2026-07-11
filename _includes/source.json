@@ -140,12 +140,12 @@
           "track": "nightly",
           "releases": [
             {
-              "version": "0.6.4-20260711.1155+8032d90e",
-              "date": "2026-07-11T11:47:52Z",
-              "localizedDescription": "#### This is release for:\n  - version: \"0.6.4-20260711.1155+8032d90e\"\n  - revision: \"8032d90e\"\n  - timestamp: \"Sat Jul 11 11:47:52 2026\"\n\n#### What's Changed:\n- well lets try USB too\n- rework health check to detect states properly\n\n#### Full Changelog: [c0f4af70...8032d90e](https://github.com/SideStore/SideStore/compare/c0f4af70ad0e7beee44172ff18c03ef6f38e934f...8032d90e91a526edcbb939c2ec6a860b29deae85)\n",
+              "version": "0.6.4-20260711.1156+8bf38a30",
+              "date": "2026-07-11T12:50:53Z",
+              "localizedDescription": "#### This is release for:\n  - version: \"0.6.4-20260711.1156+8bf38a30\"\n  - revision: \"8bf38a30\"\n  - timestamp: \"Sat Jul 11 12:50:53 2026\"\n\n#### What's Changed:\n- rename ip of tunnel iface and peer for what it is\n\n#### Full Changelog: [8032d90e...8bf38a30](https://github.com/SideStore/SideStore/compare/8032d90e91a526edcbb939c2ec6a860b29deae85...8bf38a304f00fabbe809a8e82dabe14041c0d0a9)\n",
               "downloadURL": "https://github.com/SideStore/SideStore/releases/download/nightly/SideStore.ipa",
-              "size": 27230030,
-              "sha256": "907942c35767808d8032f3a2da04f1a082e45f0b6e6414a95749548330b5ebea"
+              "size": 27228679,
+              "sha256": "0ede4ae5a4df97f5f4dcaca87248e149154b7912097da0236c81644098d04fd4"
             }
           ]
         },
