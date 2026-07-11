@@ -140,12 +140,12 @@
           "track": "nightly",
           "releases": [
             {
-              "version": "0.6.4-20260711.1153+81abc562",
-              "date": "2026-07-11T10:13:22Z",
-              "localizedDescription": "#### This is release for:\n  - version: \"0.6.4-20260711.1153+81abc562\"\n  - revision: \"81abc562\"\n  - timestamp: \"Sat Jul 11 10:13:22 2026\"\n\n#### What's Changed:\n- fix: fallback to actual error\n- change widget color to sidestore purple\n\n#### Full Changelog: [2f62e689...81abc562](https://github.com/SideStore/SideStore/compare/2f62e68968e6d937904be58c220d24f47d041c29...81abc5624e1e2c8c322ef73123655c5c80dbb9ca)\n",
+              "version": "0.6.4-20260711.1154+c0f4af70",
+              "date": "2026-07-11T11:17:46Z",
+              "localizedDescription": "#### This is release for:\n  - version: \"0.6.4-20260711.1154+c0f4af70\"\n  - revision: \"c0f4af70\"\n  - timestamp: \"Sat Jul 11 11:17:46 2026\"\n\n#### What's Changed:\n- make health check detection robust\n\n#### Full Changelog: [81abc562...c0f4af70](https://github.com/SideStore/SideStore/compare/81abc5624e1e2c8c322ef73123655c5c80dbb9ca...c0f4af70ad0e7beee44172ff18c03ef6f38e934f)\n",
               "downloadURL": "https://github.com/SideStore/SideStore/releases/download/nightly/SideStore.ipa",
-              "size": 27225986,
-              "sha256": "63bc348efd14dc2805cb8ce005565a1e83f8350ce1b23daaa2a170651038116b"
+              "size": 27228809,
+              "sha256": "b30100eb333e57c701f35fc5eb5b129d411e43cc4123e2d9319bc47759234d57"
             }
           ]
         },
