@@ -140,12 +140,12 @@
           "track": "nightly",
           "releases": [
             {
-              "version": "0.6.4-20260711.1158+2f2189b0",
-              "date": "2026-07-11T15:09:39Z",
-              "localizedDescription": "#### This is release for:\n  - version: \"0.6.4-20260711.1158+2f2189b0\"\n  - revision: \"2f2189b0\"\n  - timestamp: \"Sat Jul 11 15:09:39 2026\"\n\n#### What's Changed:\n- stop polling when screen not active\n- remove retain cycle\n\n#### Full Changelog: [ac52da7d...2f2189b0](https://github.com/SideStore/SideStore/compare/ac52da7d1fb75564dd5fe4ea39c81a3212e4b36d...2f2189b0be981aad1fa018d2550c2fcd3dc986e8)\n",
+              "version": "0.6.4-20260713.1161+805025e8",
+              "date": "2026-07-13T13:51:56Z",
+              "localizedDescription": "#### This is release for:\n  - version: \"0.6.4-20260713.1161+805025e8\"\n  - revision: \"805025e8\"\n  - timestamp: \"Mon Jul 13 13:51:56 2026\"\n\n#### What's Changed:\n- fix ldid assert crashes on parsing mach-o binaries with padding before string segment by doing conditional validation and not using assert\n- improve pairing file check logic - by Huge_Black\n\n#### Full Changelog: [2f2189b0...805025e8](https://github.com/SideStore/SideStore/compare/2f2189b0be981aad1fa018d2550c2fcd3dc986e8...805025e806878a8ebb34cb455c571ff7e3b0e9fe)\n",
               "downloadURL": "https://github.com/SideStore/SideStore/releases/download/nightly/SideStore.ipa",
-              "size": 27212406,
-              "sha256": "ccfe44676d4fb179d5d9cbddc575d7d2951ee292cd953de29ed90a3fb4d177b1"
+              "size": 27239880,
+              "sha256": "51a6c3004ffb83a8c9ad21c5d07849d5b5cd6579c94c4750f6361eb31298e734"
             }
           ]
         },
