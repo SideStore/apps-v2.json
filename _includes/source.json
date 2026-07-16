@@ -140,12 +140,12 @@
           "track": "nightly",
           "releases": [
             {
-              "version": "0.6.4-20260716.1166+81c1ff67",
-              "date": "2026-07-16T21:16:56Z",
-              "localizedDescription": "#### This is release for:\n  - version: \"0.6.4-20260716.1166+81c1ff67\"\n  - revision: \"81c1ff67\"\n  - timestamp: \"Thu Jul 16 21:16:56 2026\"\n\n#### What's Changed:\n- Merge pull request #1241 from dnicolson/patch-4\n- Replace “Log In” with “Sign In” for consistency\n\n#### Full Changelog: [27dfc89f...81c1ff67](https://github.com/SideStore/SideStore/compare/27dfc89fbb0f86ec0417fe5113190c6f61679991...81c1ff67d6f3377cc7a4e4f81c4115443c3847a8)\n",
+              "version": "0.6.4-20260716.1167+6bf9feac",
+              "date": "2026-07-16T22:06:35Z",
+              "localizedDescription": "#### This is release for:\n  - version: \"0.6.4-20260716.1167+6bf9feac\"\n  - revision: \"6bf9feac\"\n  - timestamp: \"Thu Jul 16 22:06:35 2026\"\n\n#### What's Changed:\n- version: added tap to copy so that it is easier when filing bugs in gh.\n\n#### Full Changelog: [81c1ff67...6bf9feac](https://github.com/SideStore/SideStore/compare/81c1ff67d6f3377cc7a4e4f81c4115443c3847a8...6bf9feacf8aeaeae4db73a3eddd407ea6aa1ed8d)\n",
               "downloadURL": "https://github.com/SideStore/SideStore/releases/download/nightly/SideStore.ipa",
-              "size": 27239571,
-              "sha256": "60503b8088989e9e80c916b6762f67238c79da722bf6a6f521b59a5a40819a23"
+              "size": 27241624,
+              "sha256": "1992b995fa5ecf0fa750f1dd21e5c810dd09cc1b3d0dd355971d6a809b75d1d4"
             }
           ]
         },
