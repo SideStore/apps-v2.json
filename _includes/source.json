@@ -140,12 +140,12 @@
           "track": "nightly",
           "releases": [
             {
-              "version": "0.6.4-20260713.1161+805025e8",
-              "date": "2026-07-13T13:51:56Z",
-              "localizedDescription": "#### This is release for:\n  - version: \"0.6.4-20260713.1161+805025e8\"\n  - revision: \"805025e8\"\n  - timestamp: \"Mon Jul 13 13:51:56 2026\"\n\n#### What's Changed:\n- fix ldid assert crashes on parsing mach-o binaries with padding before string segment by doing conditional validation and not using assert\n- improve pairing file check logic - by Huge_Black\n\n#### Full Changelog: [2f2189b0...805025e8](https://github.com/SideStore/SideStore/compare/2f2189b0be981aad1fa018d2550c2fcd3dc986e8...805025e806878a8ebb34cb455c571ff7e3b0e9fe)\n",
+              "version": "0.6.4-20260716.1165+27dfc89f",
+              "date": "2026-07-16T21:02:30Z",
+              "localizedDescription": "#### This is release for:\n  - version: \"0.6.4-20260716.1165+27dfc89f\"\n  - revision: \"27dfc89f\"\n  - timestamp: \"Thu Jul 16 21:02:30 2026\"\n\n#### What's Changed:\n- health-check: restrict network check to wifi only - coz others aren't supported atm\n\n#### Full Changelog: [805025e8...27dfc89f](https://github.com/SideStore/SideStore/compare/805025e806878a8ebb34cb455c571ff7e3b0e9fe...27dfc89fbb0f86ec0417fe5113190c6f61679991)\n",
               "downloadURL": "https://github.com/SideStore/SideStore/releases/download/nightly/SideStore.ipa",
-              "size": 27239880,
-              "sha256": "51a6c3004ffb83a8c9ad21c5d07849d5b5cd6579c94c4750f6361eb31298e734"
+              "size": 27239570,
+              "sha256": "cb034b2c554f7f2885c2a9f33a13240426f43dddf9603916c53e26274b5824aa"
             }
           ]
         },
