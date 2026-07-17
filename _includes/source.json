@@ -140,12 +140,12 @@
           "track": "nightly",
           "releases": [
             {
-              "version": "0.6.4-20260717.1171+20aad2a9",
-              "date": "2026-07-17T01:31:49Z",
-              "localizedDescription": "#### This is release for:\n  - version: \"0.6.4-20260717.1171+20aad2a9\"\n  - revision: \"20aad2a9\"\n  - timestamp: \"Fri Jul 17 01:31:49 2026\"\n\n#### What's Changed:\n- diagnostics: dump sidebackup logs upon failure to return using returnUrl from sidebackup\n\n#### Full Changelog: [46302c0f...20aad2a9](https://github.com/SideStore/SideStore/compare/46302c0f8410edfeea822b445dbe365126705c81...20aad2a9f5e0bd22e1b05ab969727a927bafc1fd)\n",
+              "version": "0.6.4-20260717.1172+cadad9d2",
+              "date": "2026-07-17T02:00:13Z",
+              "localizedDescription": "#### This is release for:\n  - version: \"0.6.4-20260717.1172+cadad9d2\"\n  - revision: \"cadad9d2\"\n  - timestamp: \"Fri Jul 17 02:00:13 2026\"\n\n#### What's Changed:\n- sidebackup-fix: url scheme wasn't set properly into Info.plist when resigining causing sidebackup return URL to be stock bundleID (without teamID suffix) and failure to return back to sidestore.\n\n#### Full Changelog: [20aad2a9...cadad9d2](https://github.com/SideStore/SideStore/compare/20aad2a9f5e0bd22e1b05ab969727a927bafc1fd...cadad9d2c3177a8f967633be37bafe0d13404932)\n",
               "downloadURL": "https://github.com/SideStore/SideStore/releases/download/nightly/SideStore.ipa",
-              "size": 27246108,
-              "sha256": "e992892d630ee395ee1b91ca26a50ec60d3a622c65f36583cdba317a01d694b8"
+              "size": 27247854,
+              "sha256": "62b06e4633f703e6f75374172f1e97c332130460ef33ee26799166759623f08a"
             }
           ]
         },
