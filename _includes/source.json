@@ -140,12 +140,12 @@
           "track": "nightly",
           "releases": [
             {
-              "version": "0.6.4-20260717.1169+46302c0f",
-              "date": "2026-07-17T00:59:51Z",
-              "localizedDescription": "#### This is release for:\n  - version: \"0.6.4-20260717.1169+46302c0f\"\n  - revision: \"46302c0f\"\n  - timestamp: \"Fri Jul 17 00:59:51 2026\"\n\n#### What's Changed:\n- explain better about only reason for requesting local network access (diagnostics bonjour mDNS services discovery)\n\n#### Full Changelog: [3b7edc71...46302c0f](https://github.com/SideStore/SideStore/compare/3b7edc71869de4fac68a7d7e91b65515cdc870f9...46302c0f8410edfeea822b445dbe365126705c81)\n",
+              "version": "0.6.4-20260717.1171+20aad2a9",
+              "date": "2026-07-17T01:31:49Z",
+              "localizedDescription": "#### This is release for:\n  - version: \"0.6.4-20260717.1171+20aad2a9\"\n  - revision: \"20aad2a9\"\n  - timestamp: \"Fri Jul 17 01:31:49 2026\"\n\n#### What's Changed:\n- diagnostics: dump sidebackup logs upon failure to return using returnUrl from sidebackup\n\n#### Full Changelog: [46302c0f...20aad2a9](https://github.com/SideStore/SideStore/compare/46302c0f8410edfeea822b445dbe365126705c81...20aad2a9f5e0bd22e1b05ab969727a927bafc1fd)\n",
               "downloadURL": "https://github.com/SideStore/SideStore/releases/download/nightly/SideStore.ipa",
-              "size": 27245113,
-              "sha256": "df42c3d0ffabf8789b065e06083c7392d7d984a8e8353d714c1eddbda8a41955"
+              "size": 27246108,
+              "sha256": "e992892d630ee395ee1b91ca26a50ec60d3a622c65f36583cdba317a01d694b8"
             }
           ]
         },
