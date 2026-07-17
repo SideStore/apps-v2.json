@@ -140,12 +140,12 @@
           "track": "nightly",
           "releases": [
             {
-              "version": "0.6.4-20260717.1175+63c17f33",
-              "date": "2026-07-17T03:12:18Z",
-              "localizedDescription": "#### This is release for:\n  - version: \"0.6.4-20260717.1175+63c17f33\"\n  - revision: \"63c17f33\"\n  - timestamp: \"Fri Jul 17 03:12:18 2026\"\n\n#### What's Changed:\n- sources-add: lets keep it a bit forgiving for icon decoding and screenshot decoding and using placeholders if available. also show error prompt when encountering errors during sources processing.\n- fix: lets be more descriptive on json decoding errors when processing sources\n\n#### Full Changelog: [01de84ab...63c17f33](https://github.com/SideStore/SideStore/compare/01de84ab6b1a95dd09b6df190c18122542dc4f34...63c17f331f76f0e93616fd4171cb10c27a83894b)\n",
+              "version": "0.6.4-20260717.1176+230a6278",
+              "date": "2026-07-17T04:22:03Z",
+              "localizedDescription": "#### This is release for:\n  - version: \"0.6.4-20260717.1176+230a6278\"\n  - revision: \"230a6278\"\n  - timestamp: \"Fri Jul 17 04:22:03 2026\"\n\n#### What's Changed:\n- skip the app extensions customizations if user prefers\n\n#### Full Changelog: [63c17f33...230a6278](https://github.com/SideStore/SideStore/compare/63c17f331f76f0e93616fd4171cb10c27a83894b...230a62785078f82c58516dd56f47cb58ad6f55cf)\n",
               "downloadURL": "https://github.com/SideStore/SideStore/releases/download/nightly/SideStore.ipa",
-              "size": 27263199,
-              "sha256": "cde890f6fef64fa7dffcce02ee2a046ac36cd1bb2e4e0cd4c6a00ea1e58d11d8"
+              "size": 27263466,
+              "sha256": "0897ced1c9c8512457f0e603458385526ece9c0a7cc9d900ff78fc43d86154e7"
             }
           ]
         },
