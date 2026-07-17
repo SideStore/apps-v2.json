@@ -140,12 +140,12 @@
           "track": "nightly",
           "releases": [
             {
-              "version": "0.6.4-20260717.1173+fbc7c783",
-              "date": "2026-07-17T02:30:40Z",
-              "localizedDescription": "#### This is release for:\n  - version: \"0.6.4-20260717.1173+fbc7c783\"\n  - revision: \"fbc7c783\"\n  - timestamp: \"Fri Jul 17 02:30:40 2026\"\n\n#### What's Changed:\n- openUrl(): must use resigned id over original if available (since now resignApp operation embeds the resigned id into url scheme)\n\n#### Full Changelog: [cadad9d2...fbc7c783](https://github.com/SideStore/SideStore/compare/cadad9d2c3177a8f967633be37bafe0d13404932...fbc7c7831f3ed24416c6f6e11b6c898d4f033c38)\n",
+              "version": "0.6.4-20260717.1174+01de84ab",
+              "date": "2026-07-17T02:50:07Z",
+              "localizedDescription": "#### This is release for:\n  - version: \"0.6.4-20260717.1174+01de84ab\"\n  - revision: \"01de84ab\"\n  - timestamp: \"Fri Jul 17 02:50:07 2026\"\n\n#### What's Changed:\n- fix: StoreApp.size: Int32 was not wide enough to store app sizes of 3+ GB in an Int32 field. expanded now to Int64. migrations not required (since coredata will do auto lightweight migration)\n\n#### Full Changelog: [fbc7c783...01de84ab](https://github.com/SideStore/SideStore/compare/fbc7c7831f3ed24416c6f6e11b6c898d4f033c38...01de84ab6b1a95dd09b6df190c18122542dc4f34)\n",
               "downloadURL": "https://github.com/SideStore/SideStore/releases/download/nightly/SideStore.ipa",
-              "size": 27247686,
-              "sha256": "1bf486d6cca67e89e4d1aa89ba1c4d26e16455b6800400db3b3521dc10d2cc5e"
+              "size": 27262430,
+              "sha256": "4635236f45d46bbb007ef4d2c5a2c5725de556fa5bef3d7938a901efb73cfdb6"
             }
           ]
         },
