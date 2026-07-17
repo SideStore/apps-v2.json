@@ -140,12 +140,12 @@
           "track": "nightly",
           "releases": [
             {
-              "version": "0.6.4-20260717.1176+230a6278",
-              "date": "2026-07-17T04:22:03Z",
-              "localizedDescription": "#### This is release for:\n  - version: \"0.6.4-20260717.1176+230a6278\"\n  - revision: \"230a6278\"\n  - timestamp: \"Fri Jul 17 04:22:03 2026\"\n\n#### What's Changed:\n- skip the app extensions customizations if user prefers\n\n#### Full Changelog: [63c17f33...230a6278](https://github.com/SideStore/SideStore/compare/63c17f331f76f0e93616fd4171cb10c27a83894b...230a62785078f82c58516dd56f47cb58ad6f55cf)\n",
+              "version": "0.6.4-20260717.1177+2f348ea9",
+              "date": "2026-07-17T04:39:28Z",
+              "localizedDescription": "#### This is release for:\n  - version: \"0.6.4-20260717.1177+2f348ea9\"\n  - revision: \"2f348ea9\"\n  - timestamp: \"Fri Jul 17 04:39:28 2026\"\n\n#### What's Changed:\n- fix: for markdown parsing in \"AppIDs\" view causing NSRangeException\n\n#### Full Changelog: [230a6278...2f348ea9](https://github.com/SideStore/SideStore/compare/230a62785078f82c58516dd56f47cb58ad6f55cf...2f348ea97659a7b5ba5203f814183a116cec6733)\n",
               "downloadURL": "https://github.com/SideStore/SideStore/releases/download/nightly/SideStore.ipa",
-              "size": 27263466,
-              "sha256": "0897ced1c9c8512457f0e603458385526ece9c0a7cc9d900ff78fc43d86154e7"
+              "size": 27265311,
+              "sha256": "b0988f863ad4d54a9d6b7b0165593444eb758c16e71e0e68980eda87c284560b"
             }
           ]
         },
