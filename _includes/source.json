@@ -140,12 +140,12 @@
           "track": "nightly",
           "releases": [
             {
-              "version": "0.6.4-20260717.1168+3b7edc71",
-              "date": "2026-07-17T00:45:33Z",
-              "localizedDescription": "#### This is release for:\n  - version: \"0.6.4-20260717.1168+3b7edc71\"\n  - revision: \"3b7edc71\"\n  - timestamp: \"Fri Jul 17 00:45:33 2026\"\n\n#### What's Changed:\n- fix: keychain access group issue entitlement (with teamID suffix) which was dropped unintentionally during signing.\n\n#### Full Changelog: [6bf9feac...3b7edc71](https://github.com/SideStore/SideStore/compare/6bf9feacf8aeaeae4db73a3eddd407ea6aa1ed8d...3b7edc71869de4fac68a7d7e91b65515cdc870f9)\n",
+              "version": "0.6.4-20260717.1169+46302c0f",
+              "date": "2026-07-17T00:59:51Z",
+              "localizedDescription": "#### This is release for:\n  - version: \"0.6.4-20260717.1169+46302c0f\"\n  - revision: \"46302c0f\"\n  - timestamp: \"Fri Jul 17 00:59:51 2026\"\n\n#### What's Changed:\n- explain better about only reason for requesting local network access (diagnostics bonjour mDNS services discovery)\n\n#### Full Changelog: [3b7edc71...46302c0f](https://github.com/SideStore/SideStore/compare/3b7edc71869de4fac68a7d7e91b65515cdc870f9...46302c0f8410edfeea822b445dbe365126705c81)\n",
               "downloadURL": "https://github.com/SideStore/SideStore/releases/download/nightly/SideStore.ipa",
-              "size": 27245093,
-              "sha256": "095faacee80418215c361e00b8d76ada2ac6a4f5493e752fb83eda7aa7dcb53a"
+              "size": 27245113,
+              "sha256": "df42c3d0ffabf8789b065e06083c7392d7d984a8e8353d714c1eddbda8a41955"
             }
           ]
         },
