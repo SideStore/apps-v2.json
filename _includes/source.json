@@ -140,12 +140,12 @@
           "track": "nightly",
           "releases": [
             {
-              "version": "0.6.4-20260716.1167+6bf9feac",
-              "date": "2026-07-16T22:06:35Z",
-              "localizedDescription": "#### This is release for:\n  - version: \"0.6.4-20260716.1167+6bf9feac\"\n  - revision: \"6bf9feac\"\n  - timestamp: \"Thu Jul 16 22:06:35 2026\"\n\n#### What's Changed:\n- version: added tap to copy so that it is easier when filing bugs in gh.\n\n#### Full Changelog: [81c1ff67...6bf9feac](https://github.com/SideStore/SideStore/compare/81c1ff67d6f3377cc7a4e4f81c4115443c3847a8...6bf9feacf8aeaeae4db73a3eddd407ea6aa1ed8d)\n",
+              "version": "0.6.4-20260717.1168+3b7edc71",
+              "date": "2026-07-17T00:45:33Z",
+              "localizedDescription": "#### This is release for:\n  - version: \"0.6.4-20260717.1168+3b7edc71\"\n  - revision: \"3b7edc71\"\n  - timestamp: \"Fri Jul 17 00:45:33 2026\"\n\n#### What's Changed:\n- fix: keychain access group issue entitlement (with teamID suffix) which was dropped unintentionally during signing.\n\n#### Full Changelog: [6bf9feac...3b7edc71](https://github.com/SideStore/SideStore/compare/6bf9feacf8aeaeae4db73a3eddd407ea6aa1ed8d...3b7edc71869de4fac68a7d7e91b65515cdc870f9)\n",
               "downloadURL": "https://github.com/SideStore/SideStore/releases/download/nightly/SideStore.ipa",
-              "size": 27241624,
-              "sha256": "1992b995fa5ecf0fa750f1dd21e5c810dd09cc1b3d0dd355971d6a809b75d1d4"
+              "size": 27245093,
+              "sha256": "095faacee80418215c361e00b8d76ada2ac6a4f5493e752fb83eda7aa7dcb53a"
             }
           ]
         },
