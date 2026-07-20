@@ -140,12 +140,12 @@
           "track": "nightly",
           "releases": [
             {
-              "version": "0.6.4-20260720.1185+95874643",
-              "date": "2026-07-20T15:18:39Z",
-              "localizedDescription": "#### This is release for:\n  - version: \"0.6.4-20260720.1185+95874643\"\n  - revision: \"95874643\"\n  - timestamp: \"Mon Jul 20 15:18:39 2026\"\n\n#### What's Changed:\n- fixed 2FA not receiving on iPad - locale issue causing apple servers not send 2FA code valid-ex: en_US invalid-ex: en_US@rg=inzzzz (iPad  sends this and so it doesn't get the 2FA codes) others like macos, macos (designed for ipad), ios etc work just fine.\n\n#### Full Changelog: [4b1a7a97...95874643](https://github.com/SideStore/SideStore/compare/4b1a7a9731758bb8ceefce18d027deb596eca960...95874643484b4f70f8302999f126240df11ab25e)\n",
+              "version": "0.6.4-20260720.1186+1c586388",
+              "date": "2026-07-20T15:45:36Z",
+              "localizedDescription": "#### This is release for:\n  - version: \"0.6.4-20260720.1186+1c586388\"\n  - revision: \"1c586388\"\n  - timestamp: \"Mon Jul 20 15:45:36 2026\"\n\n#### What's Changed:\n- fix: altsign wasn't trimming leading/trailing spaces in userid\n\n#### Full Changelog: [95874643...1c586388](https://github.com/SideStore/SideStore/compare/95874643484b4f70f8302999f126240df11ab25e...1c586388cd37a53e3d76df45a4d5608d2e3f98ad)\n",
               "downloadURL": "https://github.com/SideStore/SideStore/releases/download/nightly/SideStore.ipa",
-              "size": 27269897,
-              "sha256": "43ea677e5f55b7608b4396767b07fae40828c71d576dfa9ac17b25ee22b854ff"
+              "size": 27270367,
+              "sha256": "0579241b3ad2ae9c5288ca3711204af1163325c03bd9172d96ad43da54a7d9c3"
             }
           ]
         },
