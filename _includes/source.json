@@ -140,12 +140,12 @@
           "track": "nightly",
           "releases": [
             {
-              "version": "0.6.4-20260720.1183+97fbd220",
-              "date": "2026-07-20T14:31:59Z",
-              "localizedDescription": "#### This is release for:\n  - version: \"0.6.4-20260720.1183+97fbd220\"\n  - revision: \"97fbd220\"\n  - timestamp: \"Mon Jul 20 14:31:59 2026\"\n\n#### What's Changed:\n- fix compile issues in altsign\n- improve gsa server error response logging instead of vague - \"The data couldn't be read because not in correct format\"\n\n#### Full Changelog: [392fd530...97fbd220](https://github.com/SideStore/SideStore/compare/392fd530df1d7dc83c1c409bdf2c30f2e5499c34...97fbd220274de77b77e01995c423b90178399bef)\n",
+              "version": "0.6.4-20260720.1184+4b1a7a97",
+              "date": "2026-07-20T14:50:06Z",
+              "localizedDescription": "#### This is release for:\n  - version: \"0.6.4-20260720.1184+4b1a7a97\"\n  - revision: \"4b1a7a97\"\n  - timestamp: \"Mon Jul 20 14:50:06 2026\"\n\n#### What's Changed:\n- improve server timeout logging in altsign\n\n#### Full Changelog: [97fbd220...4b1a7a97](https://github.com/SideStore/SideStore/compare/97fbd220274de77b77e01995c423b90178399bef...4b1a7a9731758bb8ceefce18d027deb596eca960)\n",
               "downloadURL": "https://github.com/SideStore/SideStore/releases/download/nightly/SideStore.ipa",
-              "size": 27268939,
-              "sha256": "a87bd420bad662cadc505040cd09fcb0f6359016eb0e04e5aaf7f4076f94493c"
+              "size": 27268508,
+              "sha256": "0a0e9d6758e7e1568fa3c3b1fa41a41fd6419d2e906e2c2287c3148bde58ef2a"
             }
           ]
         },
