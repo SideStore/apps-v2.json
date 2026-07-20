@@ -140,12 +140,12 @@
           "track": "nightly",
           "releases": [
             {
-              "version": "0.6.4-20260720.1184+4b1a7a97",
-              "date": "2026-07-20T14:50:06Z",
-              "localizedDescription": "#### This is release for:\n  - version: \"0.6.4-20260720.1184+4b1a7a97\"\n  - revision: \"4b1a7a97\"\n  - timestamp: \"Mon Jul 20 14:50:06 2026\"\n\n#### What's Changed:\n- improve server timeout logging in altsign\n\n#### Full Changelog: [97fbd220...4b1a7a97](https://github.com/SideStore/SideStore/compare/97fbd220274de77b77e01995c423b90178399bef...4b1a7a9731758bb8ceefce18d027deb596eca960)\n",
+              "version": "0.6.4-20260720.1185+95874643",
+              "date": "2026-07-20T15:18:39Z",
+              "localizedDescription": "#### This is release for:\n  - version: \"0.6.4-20260720.1185+95874643\"\n  - revision: \"95874643\"\n  - timestamp: \"Mon Jul 20 15:18:39 2026\"\n\n#### What's Changed:\n- fixed 2FA not receiving on iPad - locale issue causing apple servers not send 2FA code valid-ex: en_US invalid-ex: en_US@rg=inzzzz (iPad  sends this and so it doesn't get the 2FA codes) others like macos, macos (designed for ipad), ios etc work just fine.\n\n#### Full Changelog: [4b1a7a97...95874643](https://github.com/SideStore/SideStore/compare/4b1a7a9731758bb8ceefce18d027deb596eca960...95874643484b4f70f8302999f126240df11ab25e)\n",
               "downloadURL": "https://github.com/SideStore/SideStore/releases/download/nightly/SideStore.ipa",
-              "size": 27268508,
-              "sha256": "0a0e9d6758e7e1568fa3c3b1fa41a41fd6419d2e906e2c2287c3148bde58ef2a"
+              "size": 27269897,
+              "sha256": "43ea677e5f55b7608b4396767b07fae40828c71d576dfa9ac17b25ee22b854ff"
             }
           ]
         },
