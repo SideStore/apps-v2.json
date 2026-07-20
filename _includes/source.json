@@ -140,12 +140,12 @@
           "track": "nightly",
           "releases": [
             {
-              "version": "0.6.4-20260719.1180+392fd530",
-              "date": "2026-07-19T04:08:19Z",
-              "localizedDescription": "#### This is release for:\n  - version: \"0.6.4-20260719.1180+392fd530\"\n  - revision: \"392fd530\"\n  - timestamp: \"Sun Jul 19 04:08:19 2026\"\n\n#### What's Changed:\n- update ci\n- Temporarily fix LiveContainer/LiveContainer#1458  by removing the error\n- fix: avoid reloading an initialized persistent store\n- feat: add LiveContainer support\n\n#### Full Changelog: [2f348ea9...392fd530](https://github.com/SideStore/SideStore/compare/2f348ea97659a7b5ba5203f814183a116cec6733...392fd530df1d7dc83c1c409bdf2c30f2e5499c34)\n",
+              "version": "0.6.4-20260720.1183+97fbd220",
+              "date": "2026-07-20T14:31:59Z",
+              "localizedDescription": "#### This is release for:\n  - version: \"0.6.4-20260720.1183+97fbd220\"\n  - revision: \"97fbd220\"\n  - timestamp: \"Mon Jul 20 14:31:59 2026\"\n\n#### What's Changed:\n- fix compile issues in altsign\n- improve gsa server error response logging instead of vague - \"The data couldn't be read because not in correct format\"\n\n#### Full Changelog: [392fd530...97fbd220](https://github.com/SideStore/SideStore/compare/392fd530df1d7dc83c1c409bdf2c30f2e5499c34...97fbd220274de77b77e01995c423b90178399bef)\n",
               "downloadURL": "https://github.com/SideStore/SideStore/releases/download/nightly/SideStore.ipa",
-              "size": 27275137,
-              "sha256": "ea618b2e12c2173f8f4091faceba182a00ed217e39377ddb73454f2aa7786c7d"
+              "size": 27268939,
+              "sha256": "a87bd420bad662cadc505040cd09fcb0f6359016eb0e04e5aaf7f4076f94493c"
             }
           ]
         },
