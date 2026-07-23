@@ -140,12 +140,12 @@
           "track": "nightly",
           "releases": [
             {
-              "version": "0.6.4-20260721.1188+89904c62",
-              "date": "2026-07-21T08:10:14Z",
-              "localizedDescription": "#### This is release for:\n  - version: \"0.6.4-20260721.1188+89904c62\"\n  - revision: \"89904c62\"\n  - timestamp: \"Tue Jul 21 08:10:14 2026\"\n\n#### What's Changed:\n- revert: restored manual VPN peer overriding capability\n\n#### Full Changelog: [1c586388...89904c62](https://github.com/SideStore/SideStore/compare/1c586388cd37a53e3d76df45a4d5608d2e3f98ad...89904c621de967823db85fbbd20705e31d809206)\n",
+              "version": "0.6.4-20260723.1192+fa08ba5f",
+              "date": "2026-07-23T07:29:28Z",
+              "localizedDescription": "#### This is release for:\n  - version: \"0.6.4-20260723.1192+fa08ba5f\"\n  - revision: \"fa08ba5f\"\n  - timestamp: \"Thu Jul 23 07:29:28 2026\"\n\n#### What's Changed:\n- fix: custom app-icon changing requires resign, not refresh (which doesn't reinstall the updated bundle)\n\n#### Full Changelog: [89904c62...fa08ba5f](https://github.com/SideStore/SideStore/compare/89904c621de967823db85fbbd20705e31d809206...fa08ba5f9e945230eef3be02c8ad0c03275c4f88)\n",
               "downloadURL": "https://github.com/SideStore/SideStore/releases/download/nightly/SideStore.ipa",
-              "size": 27291319,
-              "sha256": "c3a83d564530e40e2ed18377460396124312d1130d10162fe4bf3055b70a0719"
+              "size": 27295555,
+              "sha256": "1052c1f1a6529c6a9a616a9c34647286d0e261c282fc184ddcb4e6404662a8a3"
             }
           ]
         },
