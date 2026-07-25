@@ -140,12 +140,12 @@
           "track": "nightly",
           "releases": [
             {
-              "version": "0.6.4-20260723.1192+fa08ba5f",
-              "date": "2026-07-23T07:29:28Z",
-              "localizedDescription": "#### This is release for:\n  - version: \"0.6.4-20260723.1192+fa08ba5f\"\n  - revision: \"fa08ba5f\"\n  - timestamp: \"Thu Jul 23 07:29:28 2026\"\n\n#### What's Changed:\n- fix: custom app-icon changing requires resign, not refresh (which doesn't reinstall the updated bundle)\n\n#### Full Changelog: [89904c62...fa08ba5f](https://github.com/SideStore/SideStore/compare/89904c621de967823db85fbbd20705e31d809206...fa08ba5f9e945230eef3be02c8ad0c03275c4f88)\n",
+              "version": "0.6.4-20260725.1197+4fa7d594",
+              "date": "2026-07-25T19:16:17Z",
+              "localizedDescription": "#### This is release for:\n  - version: \"0.6.4-20260725.1197+4fa7d594\"\n  - revision: \"4fa7d594\"\n  - timestamp: \"Sat Jul 25 19:16:17 2026\"\n\n#### What's Changed:\n- fix: widget bundle id customization wasn't handled properly\n- fix typo\n- fix: custom bundle id override feature was a bit broken coz many places weren't using proper override after initial install - streamlined the flow everywhere to use custom bundle id if present\n\n#### Full Changelog: [fa08ba5f...4fa7d594](https://github.com/SideStore/SideStore/compare/fa08ba5f9e945230eef3be02c8ad0c03275c4f88...4fa7d59453a33cf10039490df44e3e6e70cefa90)\n",
               "downloadURL": "https://github.com/SideStore/SideStore/releases/download/nightly/SideStore.ipa",
-              "size": 27295555,
-              "sha256": "1052c1f1a6529c6a9a616a9c34647286d0e261c282fc184ddcb4e6404662a8a3"
+              "size": 27313965,
+              "sha256": "3cc7879b56a8bc04927ab56fba510db7cd46641d525bf26b9d2fb549b66759b5"
             }
           ]
         },
