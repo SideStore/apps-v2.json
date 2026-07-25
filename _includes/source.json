@@ -140,12 +140,12 @@
           "track": "nightly",
           "releases": [
             {
-              "version": "0.6.4-20260725.1198+43568d0b",
-              "date": "2026-07-25T19:26:09Z",
-              "localizedDescription": "#### This is release for:\n  - version: \"0.6.4-20260725.1198+43568d0b\"\n  - revision: \"43568d0b\"\n  - timestamp: \"Sat Jul 25 19:26:09 2026\"\n\n#### What's Changed:\n- fix: relationship issues in 17.3 coredata migration to support customBundleIdentifier\n\n#### Full Changelog: [4fa7d594...43568d0b](https://github.com/SideStore/SideStore/compare/4fa7d59453a33cf10039490df44e3e6e70cefa90...43568d0b680b726264220b658ef3876273bd7e35)\n",
+              "version": "0.6.4-20260725.1199+221de972",
+              "date": "2026-07-25T21:40:47Z",
+              "localizedDescription": "#### This is release for:\n  - version: \"0.6.4-20260725.1199+221de972\"\n  - revision: \"221de972\"\n  - timestamp: \"Sat Jul 25 21:40:47 2026\"\n\n#### What's Changed:\n- fix: sidestore icon in my apps screen wasn't using alt icon if set\n- fix: keep icon change commits near to install and not during request processing.\n\n#### Full Changelog: [43568d0b...221de972](https://github.com/SideStore/SideStore/compare/43568d0b680b726264220b658ef3876273bd7e35...221de9726a1e41583ecfb983e7a7ea786ac7345b)\n",
               "downloadURL": "https://github.com/SideStore/SideStore/releases/download/nightly/SideStore.ipa",
-              "size": 27313877,
-              "sha256": "8ab6b605a104d399a766d6831918c361b6c5e1ca2be007c7e565b61b8de5b763"
+              "size": 27318574,
+              "sha256": "fb333de425dfcc0d58a925d10a98cbb1623d0a5b9310aa35d040ff44a5d7e040"
             }
           ]
         },
