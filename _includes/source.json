@@ -140,12 +140,12 @@
           "track": "nightly",
           "releases": [
             {
-              "version": "0.6.4-20260727.1212+108a6d7c",
-              "date": "2026-07-27T20:50:38Z",
-              "localizedDescription": "#### This is release for:\n  - version: \"0.6.4-20260727.1212+108a6d7c\"\n  - revision: \"108a6d7c\"\n  - timestamp: \"Mon Jul 27 20:50:38 2026\"\n\n#### What's Changed:\n- fix optional binding for self.adapter and self.handshake that was missed\n- fix: added auto-retry once if the connection in idevice failed due to staleness (should fix or not run into UDID error anymore)\n- cleanup: log download status cleanly\n\n#### Full Changelog: [a7d9a8b2...108a6d7c](https://github.com/SideStore/SideStore/compare/a7d9a8b23da5e0e66f78f46a60414141341d8820...108a6d7cacaf31c71294e248161a43b429fce838)\n",
+              "version": "0.6.4-20260727.1213+baba1274",
+              "date": "2026-07-27T21:09:58Z",
+              "localizedDescription": "#### This is release for:\n  - version: \"0.6.4-20260727.1213+baba1274\"\n  - revision: \"baba1274\"\n  - timestamp: \"Mon Jul 27 21:09:58 2026\"\n\n#### What's Changed:\n- fix: health check wasn't respecting muxer status and was directly doing tcpping where ios sometimes caches old tunnel ips even though routes changed resulting in false positives.\n\n#### Full Changelog: [108a6d7c...baba1274](https://github.com/SideStore/SideStore/compare/108a6d7cacaf31c71294e248161a43b429fce838...baba12748ad07968431d3cd48308c1710798c1ee)\n",
               "downloadURL": "https://github.com/SideStore/SideStore/releases/download/nightly/SideStore.ipa",
-              "size": 27331938,
-              "sha256": "be82be95528605fdb002896004c4b51222d4cf09735a45197a1c434390bbd0c8"
+              "size": 27330818,
+              "sha256": "d799ed672105d8423196a6e0bdcc413dbf06c4bba2ceef94c67ab83062c28e3b"
             }
           ]
         },
