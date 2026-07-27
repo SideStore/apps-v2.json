@@ -140,12 +140,12 @@
           "track": "nightly",
           "releases": [
             {
-              "version": "0.6.4-20260727.1208+ba1da6b9",
-              "date": "2026-07-27T19:45:27Z",
-              "localizedDescription": "#### This is release for:\n  - version: \"0.6.4-20260727.1208+ba1da6b9\"\n  - revision: \"ba1da6b9\"\n  - timestamp: \"Mon Jul 27 19:45:27 2026\"\n\n#### What's Changed:\n- cellular-refresh: make it configurable in settings but only for ios < 26.4\n\n#### Full Changelog: [b26f49ab...ba1da6b9](https://github.com/SideStore/SideStore/compare/b26f49ab21f3ac1359f14b002828a4b2ae49c8ba...ba1da6b9c51e104b1ff713d252045b1b4f0b53dd)\n",
+              "version": "0.6.4-20260727.1209+d7e23195",
+              "date": "2026-07-27T20:29:01Z",
+              "localizedDescription": "#### This is release for:\n  - version: \"0.6.4-20260727.1209+d7e23195\"\n  - revision: \"d7e23195\"\n  - timestamp: \"Mon Jul 27 20:29:01 2026\"\n\n#### What's Changed:\n- fix: handle 401 error json decoding more gracefully\n- fix: anisette server ring buffer search was not handling urlerror causing it to abort before trying next server + added safe timeouts of 5 secs for ping, 15 secs for fetch\n\n#### Full Changelog: [ba1da6b9...d7e23195](https://github.com/SideStore/SideStore/compare/ba1da6b9c51e104b1ff713d252045b1b4f0b53dd...d7e231950979c7787c03d8f9febc3e58cad826ba)\n",
               "downloadURL": "https://github.com/SideStore/SideStore/releases/download/nightly/SideStore.ipa",
-              "size": 27326171,
-              "sha256": "2a248b69bd4caa27358ec0cd162c122402cac6a17e7fc4326d13e8c1986e2aea"
+              "size": 27327773,
+              "sha256": "9a0d8365d012e0bb7c4a183a93dfc9ba7260afba06fa4c5dac65dcd5f5034a8e"
             }
           ]
         },
