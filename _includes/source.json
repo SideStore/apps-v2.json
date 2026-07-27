@@ -140,12 +140,12 @@
           "track": "nightly",
           "releases": [
             {
-              "version": "0.6.4-20260727.1213+baba1274",
-              "date": "2026-07-27T21:09:58Z",
-              "localizedDescription": "#### This is release for:\n  - version: \"0.6.4-20260727.1213+baba1274\"\n  - revision: \"baba1274\"\n  - timestamp: \"Mon Jul 27 21:09:58 2026\"\n\n#### What's Changed:\n- fix: health check wasn't respecting muxer status and was directly doing tcpping where ios sometimes caches old tunnel ips even though routes changed resulting in false positives.\n\n#### Full Changelog: [108a6d7c...baba1274](https://github.com/SideStore/SideStore/compare/108a6d7cacaf31c71294e248161a43b429fce838...baba12748ad07968431d3cd48308c1710798c1ee)\n",
+              "version": "0.6.4-20260727.1214+37161826",
+              "date": "2026-07-27T23:24:32Z",
+              "localizedDescription": "#### This is release for:\n  - version: \"0.6.4-20260727.1214+37161826\"\n  - revision: \"37161826\"\n  - timestamp: \"Mon Jul 27 23:24:32 2026\"\n\n#### What's Changed:\n- anisette-servers: more refinements on loading, retry mechanism, showing error etc.\n- anisette-servers: improve UI controls\n- cleanup: more refinements\n- rework: anisette servers screen - full rework (now includes offline json import of servers list, export servers list, rearrange servers, hide servers, also export customized current servers list, dump currently resolved server-list json)\n\n#### Full Changelog: [baba1274...37161826](https://github.com/SideStore/SideStore/compare/baba12748ad07968431d3cd48308c1710798c1ee...3716182678af66ae6b2c75dfb52ba0c6f60d616b)\n",
               "downloadURL": "https://github.com/SideStore/SideStore/releases/download/nightly/SideStore.ipa",
-              "size": 27330818,
-              "sha256": "d799ed672105d8423196a6e0bdcc413dbf06c4bba2ceef94c67ab83062c28e3b"
+              "size": 27380315,
+              "sha256": "c28a50b5d226e4416e7a2568d60819558973f11d7227816fc7736f196943643c"
             }
           ]
         },
