@@ -140,12 +140,12 @@
           "track": "nightly",
           "releases": [
             {
-              "version": "0.6.4-20260727.1209+d7e23195",
-              "date": "2026-07-27T20:29:01Z",
-              "localizedDescription": "#### This is release for:\n  - version: \"0.6.4-20260727.1209+d7e23195\"\n  - revision: \"d7e23195\"\n  - timestamp: \"Mon Jul 27 20:29:01 2026\"\n\n#### What's Changed:\n- fix: handle 401 error json decoding more gracefully\n- fix: anisette server ring buffer search was not handling urlerror causing it to abort before trying next server + added safe timeouts of 5 secs for ping, 15 secs for fetch\n\n#### Full Changelog: [ba1da6b9...d7e23195](https://github.com/SideStore/SideStore/compare/ba1da6b9c51e104b1ff713d252045b1b4f0b53dd...d7e231950979c7787c03d8f9febc3e58cad826ba)\n",
+              "version": "0.6.4-20260727.1210+a7d9a8b2",
+              "date": "2026-07-27T20:34:30Z",
+              "localizedDescription": "#### This is release for:\n  - version: \"0.6.4-20260727.1210+a7d9a8b2\"\n  - revision: \"a7d9a8b2\"\n  - timestamp: \"Mon Jul 27 20:34:30 2026\"\n\n#### What's Changed:\n- added ability to share console log from console Log screen.\n\n#### Full Changelog: [d7e23195...a7d9a8b2](https://github.com/SideStore/SideStore/compare/d7e231950979c7787c03d8f9febc3e58cad826ba...a7d9a8b23da5e0e66f78f46a60414141341d8820)\n",
               "downloadURL": "https://github.com/SideStore/SideStore/releases/download/nightly/SideStore.ipa",
-              "size": 27327773,
-              "sha256": "9a0d8365d012e0bb7c4a183a93dfc9ba7260afba06fa4c5dac65dcd5f5034a8e"
+              "size": 27327368,
+              "sha256": "e8fd949270461f0ca75abe738ff7c30f292986606e825f6026ff4bd4bec0ca92"
             }
           ]
         },
