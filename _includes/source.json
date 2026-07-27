@@ -140,12 +140,12 @@
           "track": "nightly",
           "releases": [
             {
-              "version": "0.6.4-20260727.1207+b26f49ab",
-              "date": "2026-07-27T19:02:05Z",
-              "localizedDescription": "#### This is release for:\n  - version: \"0.6.4-20260727.1207+b26f49ab\"\n  - revision: \"b26f49ab\"\n  - timestamp: \"Mon Jul 27 19:02:05 2026\"\n\n#### What's Changed:\n- cleanup: disable the explicit import/export cert under signing settings (in favour of certificate management screen)\n\n#### Full Changelog: [bab2be30...b26f49ab](https://github.com/SideStore/SideStore/compare/bab2be30fa65ac6faecc991adcabcc03e568ed73...b26f49ab21f3ac1359f14b002828a4b2ae49c8ba)\n",
+              "version": "0.6.4-20260727.1208+ba1da6b9",
+              "date": "2026-07-27T19:45:27Z",
+              "localizedDescription": "#### This is release for:\n  - version: \"0.6.4-20260727.1208+ba1da6b9\"\n  - revision: \"ba1da6b9\"\n  - timestamp: \"Mon Jul 27 19:45:27 2026\"\n\n#### What's Changed:\n- cellular-refresh: make it configurable in settings but only for ios < 26.4\n\n#### Full Changelog: [b26f49ab...ba1da6b9](https://github.com/SideStore/SideStore/compare/b26f49ab21f3ac1359f14b002828a4b2ae49c8ba...ba1da6b9c51e104b1ff713d252045b1b4f0b53dd)\n",
               "downloadURL": "https://github.com/SideStore/SideStore/releases/download/nightly/SideStore.ipa",
-              "size": 27325874,
-              "sha256": "b95e8f6fb86967a24f9f960eecb037841cef707e7b2d9270a98355b0da658a5c"
+              "size": 27326171,
+              "sha256": "2a248b69bd4caa27358ec0cd162c122402cac6a17e7fc4326d13e8c1986e2aea"
             }
           ]
         },
