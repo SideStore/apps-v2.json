@@ -140,12 +140,12 @@
           "track": "nightly",
           "releases": [
             {
-              "version": "0.6.4-20260727.1210+a7d9a8b2",
-              "date": "2026-07-27T20:34:30Z",
-              "localizedDescription": "#### This is release for:\n  - version: \"0.6.4-20260727.1210+a7d9a8b2\"\n  - revision: \"a7d9a8b2\"\n  - timestamp: \"Mon Jul 27 20:34:30 2026\"\n\n#### What's Changed:\n- added ability to share console log from console Log screen.\n\n#### Full Changelog: [d7e23195...a7d9a8b2](https://github.com/SideStore/SideStore/compare/d7e231950979c7787c03d8f9febc3e58cad826ba...a7d9a8b23da5e0e66f78f46a60414141341d8820)\n",
+              "version": "0.6.4-20260727.1212+108a6d7c",
+              "date": "2026-07-27T20:50:38Z",
+              "localizedDescription": "#### This is release for:\n  - version: \"0.6.4-20260727.1212+108a6d7c\"\n  - revision: \"108a6d7c\"\n  - timestamp: \"Mon Jul 27 20:50:38 2026\"\n\n#### What's Changed:\n- fix optional binding for self.adapter and self.handshake that was missed\n- fix: added auto-retry once if the connection in idevice failed due to staleness (should fix or not run into UDID error anymore)\n- cleanup: log download status cleanly\n\n#### Full Changelog: [a7d9a8b2...108a6d7c](https://github.com/SideStore/SideStore/compare/a7d9a8b23da5e0e66f78f46a60414141341d8820...108a6d7cacaf31c71294e248161a43b429fce838)\n",
               "downloadURL": "https://github.com/SideStore/SideStore/releases/download/nightly/SideStore.ipa",
-              "size": 27327368,
-              "sha256": "e8fd949270461f0ca75abe738ff7c30f292986606e825f6026ff4bd4bec0ca92"
+              "size": 27331938,
+              "sha256": "be82be95528605fdb002896004c4b51222d4cf09735a45197a1c434390bbd0c8"
             }
           ]
         },
