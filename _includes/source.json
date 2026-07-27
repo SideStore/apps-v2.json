@@ -140,12 +140,12 @@
           "track": "nightly",
           "releases": [
             {
-              "version": "0.6.4-20260727.1204+0f884dc5",
-              "date": "2026-07-27T18:20:24Z",
-              "localizedDescription": "#### This is release for:\n  - version: \"0.6.4-20260727.1204+0f884dc5\"\n  - revision: \"0f884dc5\"\n  - timestamp: \"Mon Jul 27 18:20:24 2026\"\n\n#### What's Changed:\n- minimuxer: updated submodule to latest\n- minimuxer-readme: updated to reflect latest repo state\n\n#### Full Changelog: [12494540...0f884dc5](https://github.com/SideStore/SideStore/compare/12494540450fdb8817c4e707edc2c0d4bd32493c...0f884dc596addf52d06968ea7e9f1b6bc29fc747)\n",
+              "version": "0.6.4-20260727.1206+bab2be30",
+              "date": "2026-07-27T18:55:16Z",
+              "localizedDescription": "#### This is release for:\n  - version: \"0.6.4-20260727.1206+bab2be30\"\n  - revision: \"bab2be30\"\n  - timestamp: \"Mon Jul 27 18:55:16 2026\"\n\n#### What's Changed:\n- fix: use \"remote server\" naming when in remote server mode\n- fix: improve error handling - use not reachable error instead of .noConnection which was misleading\n\n#### Full Changelog: [0f884dc5...bab2be30](https://github.com/SideStore/SideStore/compare/0f884dc596addf52d06968ea7e9f1b6bc29fc747...bab2be30fa65ac6faecc991adcabcc03e568ed73)\n",
               "downloadURL": "https://github.com/SideStore/SideStore/releases/download/nightly/SideStore.ipa",
-              "size": 27325840,
-              "sha256": "a29911e2993ac50898c7cf11cc9471106bf5398c0b90870ba54893f12e8dd98c"
+              "size": 27329366,
+              "sha256": "8757320429b688a8e929ddfcc603f3b8c47d96405ffa24b24f853016c11e3073"
             }
           ]
         },
