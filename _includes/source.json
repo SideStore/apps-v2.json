@@ -140,12 +140,12 @@
           "track": "nightly",
           "releases": [
             {
-              "version": "0.6.4-20260727.1206+bab2be30",
-              "date": "2026-07-27T18:55:16Z",
-              "localizedDescription": "#### This is release for:\n  - version: \"0.6.4-20260727.1206+bab2be30\"\n  - revision: \"bab2be30\"\n  - timestamp: \"Mon Jul 27 18:55:16 2026\"\n\n#### What's Changed:\n- fix: use \"remote server\" naming when in remote server mode\n- fix: improve error handling - use not reachable error instead of .noConnection which was misleading\n\n#### Full Changelog: [0f884dc5...bab2be30](https://github.com/SideStore/SideStore/compare/0f884dc596addf52d06968ea7e9f1b6bc29fc747...bab2be30fa65ac6faecc991adcabcc03e568ed73)\n",
+              "version": "0.6.4-20260727.1207+b26f49ab",
+              "date": "2026-07-27T19:02:05Z",
+              "localizedDescription": "#### This is release for:\n  - version: \"0.6.4-20260727.1207+b26f49ab\"\n  - revision: \"b26f49ab\"\n  - timestamp: \"Mon Jul 27 19:02:05 2026\"\n\n#### What's Changed:\n- cleanup: disable the explicit import/export cert under signing settings (in favour of certificate management screen)\n\n#### Full Changelog: [bab2be30...b26f49ab](https://github.com/SideStore/SideStore/compare/bab2be30fa65ac6faecc991adcabcc03e568ed73...b26f49ab21f3ac1359f14b002828a4b2ae49c8ba)\n",
               "downloadURL": "https://github.com/SideStore/SideStore/releases/download/nightly/SideStore.ipa",
-              "size": 27329366,
-              "sha256": "8757320429b688a8e929ddfcc603f3b8c47d96405ffa24b24f853016c11e3073"
+              "size": 27325874,
+              "sha256": "b95e8f6fb86967a24f9f960eecb037841cef707e7b2d9270a98355b0da658a5c"
             }
           ]
         },
