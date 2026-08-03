@@ -140,12 +140,12 @@
           "track": "nightly",
           "releases": [
             {
-              "version": "0.6.4-20260803.1227+96589b99",
-              "date": "2026-08-03T19:28:17Z",
-              "localizedDescription": "#### This is release for:\n  - version: \"0.6.4-20260803.1227+96589b99\"\n  - revision: \"96589b99\"\n  - timestamp: \"Mon Aug  3 19:28:17 2026\"\n\n#### What's Changed:\n- fix: entitlement of sidebackup.app patching should be done during staging the sidebackup app itself by injecting the entitlements taken from target app + altstoreGroup\n- refactor: move operations into SideStore/SideStore/Core/Operations\n\n#### Full Changelog: [5b4c15d1...96589b99](https://github.com/SideStore/SideStore/compare/5b4c15d13f77d9a317f4462b415bb0467b974955...96589b992ae9d4d2d75991a4c0c9b1b53c0e1b11)\n",
+              "version": "0.6.4-20260803.1228+cd91dedd",
+              "date": "2026-08-03T23:02:04Z",
+              "localizedDescription": "#### This is release for:\n  - version: \"0.6.4-20260803.1228+cd91dedd\"\n  - revision: \"cd91dedd\"\n  - timestamp: \"Mon Aug  3 23:02:04 2026\"\n\n#### What's Changed:\n- fix: sidebackup staging step should use additionalEntitlements to provide the target appgroup as override by replacing the value on .appGroup key so that FetchProvisioning will use it as override if same key\n- refactor: rename appBundle in context to targetAppBundle to represent what it means\n- fix: since sidebackup stages itself for install using targetAppBundle due to flat pipeline constraints, we are handling it here to check if it is sidebackup, if so use existing installedApp's data else continue assuming current appbundle is the target\n- refactor: disambiguate bundle read from coredata installed app by naming bundle(aka ALTApplication) references from app to appBundle and similar\n\n#### Full Changelog: [96589b99...cd91dedd](https://github.com/SideStore/SideStore/compare/96589b992ae9d4d2d75991a4c0c9b1b53c0e1b11...cd91deddf4337bac10a0a4563dc795190cea28b5)\n",
               "downloadURL": "https://github.com/SideStore/SideStore/releases/download/nightly/SideStore.ipa",
-              "size": 27755044,
-              "sha256": "db094aeb9c0fc56d5d1098f8dc1dacd5de1bc1b9c4313861e89c34acfdfdb47a"
+              "size": 27755335,
+              "sha256": "9ff04cdb421548538201997d7db95577194dd837072f1e379baf4272fe532e32"
             }
           ]
         },
