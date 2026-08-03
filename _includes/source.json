@@ -140,12 +140,12 @@
           "track": "nightly",
           "releases": [
             {
-              "version": "0.6.4-20260803.1226+5b4c15d1",
-              "date": "2026-08-03T18:48:45Z",
-              "localizedDescription": "#### This is release for:\n  - version: \"0.6.4-20260803.1226+5b4c15d1\"\n  - revision: \"5b4c15d1\"\n  - timestamp: \"Mon Aug  3 18:48:45 2026\"\n\n#### What's Changed:\n- rework: move AppManager pipeline executioner into own Runner component and invoke using that - minimize the scope of AppManager direct involvement in unrelated areas\n\n#### Full Changelog: [b3ba86cd...5b4c15d1](https://github.com/SideStore/SideStore/compare/b3ba86cd107806dbf2aed10bcc06a3ffe6e62473...5b4c15d13f77d9a317f4462b415bb0467b974955)\n",
+              "version": "0.6.4-20260803.1227+96589b99",
+              "date": "2026-08-03T19:28:17Z",
+              "localizedDescription": "#### This is release for:\n  - version: \"0.6.4-20260803.1227+96589b99\"\n  - revision: \"96589b99\"\n  - timestamp: \"Mon Aug  3 19:28:17 2026\"\n\n#### What's Changed:\n- fix: entitlement of sidebackup.app patching should be done during staging the sidebackup app itself by injecting the entitlements taken from target app + altstoreGroup\n- refactor: move operations into SideStore/SideStore/Core/Operations\n\n#### Full Changelog: [5b4c15d1...96589b99](https://github.com/SideStore/SideStore/compare/5b4c15d13f77d9a317f4462b415bb0467b974955...96589b992ae9d4d2d75991a4c0c9b1b53c0e1b11)\n",
               "downloadURL": "https://github.com/SideStore/SideStore/releases/download/nightly/SideStore.ipa",
-              "size": 27760884,
-              "sha256": "627c7376b860479eb7aa7c4839e1ea2ebf5dbdd4c2eafa791eec2fec7d330a93"
+              "size": 27755044,
+              "sha256": "db094aeb9c0fc56d5d1098f8dc1dacd5de1bc1b9c4313861e89c34acfdfdb47a"
             }
           ]
         },
