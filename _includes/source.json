@@ -140,12 +140,12 @@
           "track": "nightly",
           "releases": [
             {
-              "version": "0.6.4-20260803.1228+cd91dedd",
-              "date": "2026-08-03T23:02:04Z",
-              "localizedDescription": "#### This is release for:\n  - version: \"0.6.4-20260803.1228+cd91dedd\"\n  - revision: \"cd91dedd\"\n  - timestamp: \"Mon Aug  3 23:02:04 2026\"\n\n#### What's Changed:\n- fix: sidebackup staging step should use additionalEntitlements to provide the target appgroup as override by replacing the value on .appGroup key so that FetchProvisioning will use it as override if same key\n- refactor: rename appBundle in context to targetAppBundle to represent what it means\n- fix: since sidebackup stages itself for install using targetAppBundle due to flat pipeline constraints, we are handling it here to check if it is sidebackup, if so use existing installedApp's data else continue assuming current appbundle is the target\n- refactor: disambiguate bundle read from coredata installed app by naming bundle(aka ALTApplication) references from app to appBundle and similar\n\n#### Full Changelog: [96589b99...cd91dedd](https://github.com/SideStore/SideStore/compare/96589b992ae9d4d2d75991a4c0c9b1b53c0e1b11...cd91deddf4337bac10a0a4563dc795190cea28b5)\n",
+              "version": "0.6.4-20260803.1229+54122467",
+              "date": "2026-08-03T23:12:21Z",
+              "localizedDescription": "#### This is release for:\n  - version: \"0.6.4-20260803.1229+54122467\"\n  - revision: \"54122467\"\n  - timestamp: \"Mon Aug  3 23:12:21 2026\"\n\n#### What's Changed:\n- cleanup: use \"any Sendable\" since values are expected to be primitives for entitlements and those primitives are already Sendable usually. (fixes for swift 6)\n\n#### Full Changelog: [cd91dedd...54122467](https://github.com/SideStore/SideStore/compare/cd91deddf4337bac10a0a4563dc795190cea28b5...54122467902b73ed55291287113dec59c46c50e0)\n",
               "downloadURL": "https://github.com/SideStore/SideStore/releases/download/nightly/SideStore.ipa",
-              "size": 27755335,
-              "sha256": "9ff04cdb421548538201997d7db95577194dd837072f1e379baf4272fe532e32"
+              "size": 27756443,
+              "sha256": "de01dc32f7a3ce83280ab6f58611772c6a1b255041ca7fc3a6ea936a0c6352bd"
             }
           ]
         },
