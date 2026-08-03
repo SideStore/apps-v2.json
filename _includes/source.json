@@ -140,12 +140,12 @@
           "track": "nightly",
           "releases": [
             {
-              "version": "0.6.4-20260803.1225+b3ba86cd",
-              "date": "2026-08-03T17:40:46Z",
-              "localizedDescription": "#### This is release for:\n  - version: \"0.6.4-20260803.1225+b3ba86cd\"\n  - revision: \"b3ba86cd\"\n  - timestamp: \"Mon Aug  3 17:40:46 2026\"\n\n#### What's Changed:\n- fix: progress reset should happen before context save so that upon save the views already see progress was cleared without having to call reload when subscribed to fetching\n- fix: show userfriendly error in toast\n\n#### Full Changelog: [5ca7f190...b3ba86cd](https://github.com/SideStore/SideStore/compare/5ca7f190af948f669b715c86219143e887a657d5...b3ba86cd107806dbf2aed10bcc06a3ffe6e62473)\n",
+              "version": "0.6.4-20260803.1226+5b4c15d1",
+              "date": "2026-08-03T18:48:45Z",
+              "localizedDescription": "#### This is release for:\n  - version: \"0.6.4-20260803.1226+5b4c15d1\"\n  - revision: \"5b4c15d1\"\n  - timestamp: \"Mon Aug  3 18:48:45 2026\"\n\n#### What's Changed:\n- rework: move AppManager pipeline executioner into own Runner component and invoke using that - minimize the scope of AppManager direct involvement in unrelated areas\n\n#### Full Changelog: [b3ba86cd...5b4c15d1](https://github.com/SideStore/SideStore/compare/b3ba86cd107806dbf2aed10bcc06a3ffe6e62473...5b4c15d13f77d9a317f4462b415bb0467b974955)\n",
               "downloadURL": "https://github.com/SideStore/SideStore/releases/download/nightly/SideStore.ipa",
-              "size": 27756481,
-              "sha256": "6582c98045ee97db81d25bda52cd72149f253f43378d44b2e87ce92466b6ce23"
+              "size": 27760884,
+              "sha256": "627c7376b860479eb7aa7c4839e1ea2ebf5dbdd4c2eafa791eec2fec7d330a93"
             }
           ]
         },
