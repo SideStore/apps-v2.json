@@ -140,12 +140,12 @@
           "track": "nightly",
           "releases": [
             {
-              "version": "0.6.4-20260803.1229+54122467",
-              "date": "2026-08-03T23:12:21Z",
-              "localizedDescription": "#### This is release for:\n  - version: \"0.6.4-20260803.1229+54122467\"\n  - revision: \"54122467\"\n  - timestamp: \"Mon Aug  3 23:12:21 2026\"\n\n#### What's Changed:\n- cleanup: use \"any Sendable\" since values are expected to be primitives for entitlements and those primitives are already Sendable usually. (fixes for swift 6)\n\n#### Full Changelog: [cd91dedd...54122467](https://github.com/SideStore/SideStore/compare/cd91deddf4337bac10a0a4563dc795190cea28b5...54122467902b73ed55291287113dec59c46c50e0)\n",
+              "version": "0.6.4-20260804.1230+fdae07d5",
+              "date": "2026-08-04T00:58:11Z",
+              "localizedDescription": "#### This is release for:\n  - version: \"0.6.4-20260804.1230+fdae07d5\"\n  - revision: \"fdae07d5\"\n  - timestamp: \"Tue Aug  4 00:58:11 2026\"\n\n#### What's Changed:\n- submodule: updated to latest\n- feat: gate app verification behind experimental features\n- cleanup: remove -DDEBUG, -DBETA flags in compilation actions coz this is a release build!\n\n#### Full Changelog: [54122467...fdae07d5](https://github.com/SideStore/SideStore/compare/54122467902b73ed55291287113dec59c46c50e0...fdae07d50fc55ddc2eb8c46634ab3e5818af6266)\n",
               "downloadURL": "https://github.com/SideStore/SideStore/releases/download/nightly/SideStore.ipa",
-              "size": 27756443,
-              "sha256": "de01dc32f7a3ce83280ab6f58611772c6a1b255041ca7fc3a6ea936a0c6352bd"
+              "size": 27586846,
+              "sha256": "ed8defc26176b9c1e1421b292e056e0989a94448584d1017d642399945059fa5"
             }
           ]
         },
