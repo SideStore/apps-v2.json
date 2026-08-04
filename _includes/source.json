@@ -140,12 +140,12 @@
           "track": "nightly",
           "releases": [
             {
-              "version": "0.6.4-20260804.1232+afeb1fc4",
-              "date": "2026-08-04T03:32:33Z",
-              "localizedDescription": "#### This is release for:\n  - version: \"0.6.4-20260804.1232+afeb1fc4\"\n  - revision: \"afeb1fc4\"\n  - timestamp: \"Tue Aug  4 03:32:33 2026\"\n\n#### What's Changed:\n- enable userdefaults setter logging in DEBUG mode (for developer testing)\n- improve the server rotation logic based on provisioning endpoint ping response (handles websocket errors too)\n- fix: added error processing\n- fix: anisette server ping check should be based on final endoint not server main url\n- use safe continuation since throwing should always continue\n- remove this temporary fix which was to help with migrating away from roxas\n- replace roxas based (gcd based) concurrency with swift concurrency\n- refactor: switch to using swift tasks\n\n#### Full Changelog: [fdae07d5...afeb1fc4](https://github.com/SideStore/SideStore/compare/fdae07d50fc55ddc2eb8c46634ab3e5818af6266...afeb1fc4bd61228250b8f84a4010670fba27e009)\n",
+              "version": "0.6.4-20260804.1233+17350b16",
+              "date": "2026-08-04T05:10:16Z",
+              "localizedDescription": "#### This is release for:\n  - version: \"0.6.4-20260804.1233+17350b16\"\n  - revision: \"17350b16\"\n  - timestamp: \"Tue Aug  4 05:10:16 2026\"\n\n#### What's Changed:\n- fix: improved error handling\n- rename to proper *StepDefinition naming\n- rework: make releaseTrack a proper stored property in installedApp + fix coredata relationships between them\n\n#### Full Changelog: [afeb1fc4...17350b16](https://github.com/SideStore/SideStore/compare/afeb1fc4bd61228250b8f84a4010670fba27e009...17350b16b8178f0e29335c6c18d7935f10e39d11)\n",
               "downloadURL": "https://github.com/SideStore/SideStore/releases/download/nightly/SideStore.ipa",
-              "size": 27566855,
-              "sha256": "12bfb5ed8f02d3b4af84f0fb0181ed1f0cba674b6c1c090c9641c32aeabce3ef"
+              "size": 27585432,
+              "sha256": "50dd51e78c1557f63d5d97bf79585bd97f918716656fe13edf877a583184b1b5"
             }
           ]
         },
