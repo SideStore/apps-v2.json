@@ -140,12 +140,12 @@
           "track": "nightly",
           "releases": [
             {
-              "version": "0.6.4-20260804.1233+17350b16",
-              "date": "2026-08-04T05:10:16Z",
-              "localizedDescription": "#### This is release for:\n  - version: \"0.6.4-20260804.1233+17350b16\"\n  - revision: \"17350b16\"\n  - timestamp: \"Tue Aug  4 05:10:16 2026\"\n\n#### What's Changed:\n- fix: improved error handling\n- rename to proper *StepDefinition naming\n- rework: make releaseTrack a proper stored property in installedApp + fix coredata relationships between them\n\n#### Full Changelog: [afeb1fc4...17350b16](https://github.com/SideStore/SideStore/compare/afeb1fc4bd61228250b8f84a4010670fba27e009...17350b16b8178f0e29335c6c18d7935f10e39d11)\n",
+              "version": "0.6.4-20260804.1234+e0c8a46a",
+              "date": "2026-08-04T06:20:38Z",
+              "localizedDescription": "#### This is release for:\n  - version: \"0.6.4-20260804.1234+e0c8a46a\"\n  - revision: \"e0c8a46a\"\n  - timestamp: \"Tue Aug  4 06:20:38 2026\"\n\n#### What's Changed:\n- cleanup: fix health check view to subscribe to minimuxer status updates\n- cleanup: keep MinimuxerStatus impl encapsulated\n- cleanup: fix my apps view to subscribe to minimuxer status updates\n- feature: show minimuxer status as a red dot next to \"My Apps\" title similar to apple hw access bubble\n\n#### Full Changelog: [17350b16...e0c8a46a](https://github.com/SideStore/SideStore/compare/17350b16b8178f0e29335c6c18d7935f10e39d11...e0c8a46abe82b59d53b1518e3b10016a034e8195)\n",
               "downloadURL": "https://github.com/SideStore/SideStore/releases/download/nightly/SideStore.ipa",
-              "size": 27585432,
-              "sha256": "50dd51e78c1557f63d5d97bf79585bd97f918716656fe13edf877a583184b1b5"
+              "size": 27590999,
+              "sha256": "7d4099151ac766f166d249c3ec86649193299b74def9a64fac278c56a4ec19f3"
             }
           ]
         },
