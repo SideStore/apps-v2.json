@@ -140,12 +140,12 @@
           "track": "nightly",
           "releases": [
             {
-              "version": "0.6.4-20260804.1234+e0c8a46a",
-              "date": "2026-08-04T06:20:38Z",
-              "localizedDescription": "#### This is release for:\n  - version: \"0.6.4-20260804.1234+e0c8a46a\"\n  - revision: \"e0c8a46a\"\n  - timestamp: \"Tue Aug  4 06:20:38 2026\"\n\n#### What's Changed:\n- cleanup: fix health check view to subscribe to minimuxer status updates\n- cleanup: keep MinimuxerStatus impl encapsulated\n- cleanup: fix my apps view to subscribe to minimuxer status updates\n- feature: show minimuxer status as a red dot next to \"My Apps\" title similar to apple hw access bubble\n\n#### Full Changelog: [17350b16...e0c8a46a](https://github.com/SideStore/SideStore/compare/17350b16b8178f0e29335c6c18d7935f10e39d11...e0c8a46abe82b59d53b1518e3b10016a034e8195)\n",
+              "version": "0.6.4-20260804.1235+85309961",
+              "date": "2026-08-04T07:44:47Z",
+              "localizedDescription": "#### This is release for:\n  - version: \"0.6.4-20260804.1235+85309961\"\n  - revision: \"85309961\"\n  - timestamp: \"Tue Aug  4 07:44:47 2026\"\n\n#### What's Changed:\n- fix: minimuxer getStatus was in viewDidLoad/willAppear without being cached in a one time task and asyncstream emission based updates...causing it to overload idevice and crash\n- fix: added support for ignoring non-copyable backup files\n\n#### Full Changelog: [e0c8a46a...85309961](https://github.com/SideStore/SideStore/compare/e0c8a46abe82b59d53b1518e3b10016a034e8195...8530996161f0182643beb46301b6a14fa41f31fe)\n",
               "downloadURL": "https://github.com/SideStore/SideStore/releases/download/nightly/SideStore.ipa",
-              "size": 27590999,
-              "sha256": "7d4099151ac766f166d249c3ec86649193299b74def9a64fac278c56a4ec19f3"
+              "size": 27594070,
+              "sha256": "ecfba24c091419d36c5d0068f765f288719891b37d30cc6f20be182ab92178d7"
             }
           ]
         },
