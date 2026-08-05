@@ -140,12 +140,12 @@
           "track": "nightly",
           "releases": [
             {
-              "version": "0.6.4-20260804.1235+85309961",
-              "date": "2026-08-04T07:44:47Z",
-              "localizedDescription": "#### This is release for:\n  - version: \"0.6.4-20260804.1235+85309961\"\n  - revision: \"85309961\"\n  - timestamp: \"Tue Aug  4 07:44:47 2026\"\n\n#### What's Changed:\n- fix: minimuxer getStatus was in viewDidLoad/willAppear without being cached in a one time task and asyncstream emission based updates...causing it to overload idevice and crash\n- fix: added support for ignoring non-copyable backup files\n\n#### Full Changelog: [e0c8a46a...85309961](https://github.com/SideStore/SideStore/compare/e0c8a46abe82b59d53b1518e3b10016a034e8195...8530996161f0182643beb46301b6a14fa41f31fe)\n",
+              "version": "0.6.4-20260805.1237+a9238cb9",
+              "date": "2026-08-05T03:01:49Z",
+              "localizedDescription": "#### This is release for:\n  - version: \"0.6.4-20260805.1237+a9238cb9\"\n  - revision: \"a9238cb9\"\n  - timestamp: \"Wed Aug  5 03:01:49 2026\"\n\n#### What's Changed:\n- fix: do not overwrite user choice of certificate set in certmanager.activecertificate with auth'd certficate always, lets respect the user by returning cache + in verify if we get errors from the custom cert, show it properly\n- rename authContext.certificate to authContext.signingCertificate\n- macho read for signing cert was on cachedApp, so ditched it for a explicit cached cert if present going forward else fallback to active signing cert as default\n- make logger public so that it is reusable\n- fixed all issues with verifyCertificateAppOperation and any other cert verification areas + added certStatus to InstalledApp entity\n- clenaup: use verbose log for noisy ones\n- fix: make health check report unknown on unknown states\n- reduce splash time to 0.5 sec\n- fix: pairing loaded loaded to be propagated from minimuxer as error\n- fix: if pairing was skipped, minimuxer wont start - mark it\n- added missing import\n- fix: getSigningCert should read from machO header for the actual cert used by the binary.\n- implemented reading actual signing certificate read using machO and ASN1 parser to get to the CMS signature block and read the signing certificate and get leaf in the cert chain in CertificateManager.getSigningCertificate - updated all call sites to use this properly from now for single source of truth\n- fix: update cert should get signable certificates only when trying to lookup based on provided override cert serial\n\n#### Full Changelog: [85309961...a9238cb9](https://github.com/SideStore/SideStore/compare/8530996161f0182643beb46301b6a14fa41f31fe...a9238cb974ae56cf0f17d14dc517d5e06e21b52a)\n",
               "downloadURL": "https://github.com/SideStore/SideStore/releases/download/nightly/SideStore.ipa",
-              "size": 27594070,
-              "sha256": "ecfba24c091419d36c5d0068f765f288719891b37d30cc6f20be182ab92178d7"
+              "size": 27629982,
+              "sha256": "cb22e023f01c3b65781abf2a3e0837269aba92cb5c4c85645f787ad713b9c42d"
             }
           ]
         },
