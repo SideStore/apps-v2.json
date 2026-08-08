@@ -140,12 +140,12 @@
           "track": "nightly",
           "releases": [
             {
-              "version": "0.6.4-20260806.1239+e1524a3a",
-              "date": "2026-08-06T23:33:39Z",
-              "localizedDescription": "#### This is release for:\n  - version: \"0.6.4-20260806.1239+e1524a3a\"\n  - revision: \"e1524a3a\"\n  - timestamp: \"Thu Aug  6 23:33:39 2026\"\n\n#### What's Changed:\n- fix: widgets not loading (#1415)\n\n#### Full Changelog: [a9238cb9...e1524a3a](https://github.com/SideStore/SideStore/compare/a9238cb974ae56cf0f17d14dc517d5e06e21b52a...e1524a3a71e2e4a76f33463cd543ac7c29a2ec94)\n",
+              "version": "0.6.4-20260808.1242+5ec68ed9",
+              "date": "2026-08-08T05:54:48Z",
+              "localizedDescription": "#### This is release for:\n  - version: \"0.6.4-20260808.1242+5ec68ed9\"\n  - revision: \"5ec68ed9\"\n  - timestamp: \"Sat Aug  8 05:54:48 2026\"\n\n#### What's Changed:\n- fix: wrap reload in if-let since context is optional\n- fix: accessoryCircular missing in ios 15\n- cleanup: cleanup types\n- fix compile issues and missing imports\n- cleanup: cleanup types\n- cleanup: cleanup types and added icon fallback when nil\n- widget-rework: remove any and all coredata stuff from widgets and use push-pull architecture\n- Revert \"fix: widgets not loading (#1415)\"\n\n#### Full Changelog: [e1524a3a...5ec68ed9](https://github.com/SideStore/SideStore/compare/e1524a3a71e2e4a76f33463cd543ac7c29a2ec94...5ec68ed9f2b34c9cbb6b5f3fba5b21f7b3216750)\n",
               "downloadURL": "https://github.com/SideStore/SideStore/releases/download/nightly/SideStore.ipa",
-              "size": 27637730,
-              "sha256": "152d792d42bb097c6dbb0ef2e477b04b7dc258d68f12198bc0e3c24c4742ff4c"
+              "size": 27644829,
+              "sha256": "f7ed23ed5f2200b4452c50f2b3228cd3f052ace32709e776f01497f6cb73e8e1"
             }
           ]
         },
