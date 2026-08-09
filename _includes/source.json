@@ -140,12 +140,12 @@
           "track": "nightly",
           "releases": [
             {
-              "version": "0.6.4-20260809.1257+6be226a2",
-              "date": "2026-08-09T09:12:18Z",
-              "localizedDescription": "#### This is release for:\n  - version: \"0.6.4-20260809.1257+6be226a2\"\n  - revision: \"6be226a2\"\n  - timestamp: \"Sun Aug  9 09:12:18 2026\"\n\n#### What's Changed:\n- fix: typo in validCrossSigned\n\n#### Full Changelog: [c2b969fd...6be226a2](https://github.com/SideStore/SideStore/compare/c2b969fde76974aeb502e257c6d144a060893857...6be226a2280aff477841316591ee7a3dfa812f6c)\n",
+              "version": "0.6.4-20260809.1258+e121d4d6",
+              "date": "2026-08-09T17:26:33Z",
+              "localizedDescription": "#### This is release for:\n  - version: \"0.6.4-20260809.1258+e121d4d6\"\n  - revision: \"e121d4d6\"\n  - timestamp: \"Sun Aug  9 17:26:33 2026\"\n\n#### What's Changed:\n- cleanup: fix formatting\n- added progressReset support for standalone steps that could be run infinite, ex: anisette fetching during auth that would be retried when user clicks sign-in again\n\n#### Full Changelog: [6be226a2...e121d4d6](https://github.com/SideStore/SideStore/compare/6be226a2280aff477841316591ee7a3dfa812f6c...e121d4d6c4a852823ecdf75d4c6ad74a7e4554a4)\n",
               "downloadURL": "https://github.com/SideStore/SideStore/releases/download/nightly/SideStore.ipa",
-              "size": 27681048,
-              "sha256": "907338647a2034392199fdb7119169eb861726fc70ca1a09ddfc6b4f6c3514a8"
+              "size": 27685070,
+              "sha256": "c3844150dd292b3e52847d2104300d4aad3f762b417e3a31e634cab92c1901c5"
             }
           ]
         },
