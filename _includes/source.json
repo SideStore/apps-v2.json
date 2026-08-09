@@ -140,12 +140,12 @@
           "track": "nightly",
           "releases": [
             {
-              "version": "0.6.4-20260808.1243+195d93b8",
-              "date": "2026-08-08T22:08:05Z",
-              "localizedDescription": "#### This is release for:\n  - version: \"0.6.4-20260808.1243+195d93b8\"\n  - revision: \"195d93b8\"\n  - timestamp: \"Sat Aug  8 22:08:05 2026\"\n\n#### What's Changed:\n- revert: fetch cert does seem to requires anisette headers to talk to apple dev portal services\n- fix: disconnect client only when async task is complete + guard using nil check\n- feat: added developer option to clear keychain items\n- fix: use \"off\" as default verbose logging state for operations\n- fix: pass xcode version to AltSign (use the one set by user in override or fallback to xcode 26.0)\n- fix: fetching cert probably doesn't require anisette data - will revert if needed or will leave it if it works.\n- fix: rework progress weight consumption to reuse same step's progress only in standalone Operations.\n\n#### Full Changelog: [5ec68ed9...195d93b8](https://github.com/SideStore/SideStore/compare/5ec68ed9f2b34c9cbb6b5f3fba5b21f7b3216750...195d93b8a0c0deee66a715c4d021f2bd1ea96d9f)\n",
+              "version": "0.6.4-20260809.1245+f6d8fd49",
+              "date": "2026-08-09T01:25:27Z",
+              "localizedDescription": "#### This is release for:\n  - version: \"0.6.4-20260809.1245+f6d8fd49\"\n  - revision: \"f6d8fd49\"\n  - timestamp: \"Sun Aug  9 01:25:27 2026\"\n\n#### What's Changed:\n- restore the instructions viewing at end of auth irrespective of resign disagreed or not shown\n- restored the verification code alert dialog which got changed during refactor.\n- rework: move all UI handling code or external dependencies into respective handlers/delegates so that operations are not aware of who the actual delegate/handlers are - decouples UI from backend and issues where UI didn't properly call completion stalling auth flow upon errors.\n- move altInvertedPrimary into UIColor\n- renamed authDetails to authHandler\n- rework: remove UI concerns from auth operation and make it accept a authDetails protocol so UI layer can define the delegate/controller\n\n#### Full Changelog: [195d93b8...f6d8fd49](https://github.com/SideStore/SideStore/compare/195d93b8a0c0deee66a715c4d021f2bd1ea96d9f...f6d8fd49a4651d9a79331adbc5b497f30570d52f)\n",
               "downloadURL": "https://github.com/SideStore/SideStore/releases/download/nightly/SideStore.ipa",
-              "size": 27648509,
-              "sha256": "43eee735c55a648418d358c28c4c0f0dea5f6e68821450cf177a0afea820b86f"
+              "size": 27647826,
+              "sha256": "abe2bf2025f851e159317a55c3f00c7d9d381e9c7fabbc2834372b73d8cd65a3"
             }
           ]
         },
