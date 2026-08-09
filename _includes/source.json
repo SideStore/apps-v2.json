@@ -140,12 +140,12 @@
           "track": "nightly",
           "releases": [
             {
-              "version": "0.6.4-20260809.1246+282c6da4",
-              "date": "2026-08-09T02:09:55Z",
-              "localizedDescription": "#### This is release for:\n  - version: \"0.6.4-20260809.1246+282c6da4\"\n  - revision: \"282c6da4\"\n  - timestamp: \"Sun Aug  9 02:09:55 2026\"\n\n#### What's Changed:\n- fix: account for external signers placed certificate as in 0.6.3\n\n#### Full Changelog: [f6d8fd49...282c6da4](https://github.com/SideStore/SideStore/compare/f6d8fd49a4651d9a79331adbc5b497f30570d52f...282c6da4504572f2e59cb51cf8c173bfbeecf23f)\n",
+              "version": "0.6.4-20260809.1247+61673896",
+              "date": "2026-08-09T02:32:37Z",
+              "localizedDescription": "#### This is release for:\n  - version: \"0.6.4-20260809.1247+61673896\"\n  - revision: \"61673896\"\n  - timestamp: \"Sun Aug  9 02:32:37 2026\"\n\n#### What's Changed:\n- fix: use machineId as cert pass as in 0.6.3\n\n#### Full Changelog: [282c6da4...61673896](https://github.com/SideStore/SideStore/compare/282c6da4504572f2e59cb51cf8c173bfbeecf23f...6167389670b850a58cf86069ed94b9a7bef2592a)\n",
               "downloadURL": "https://github.com/SideStore/SideStore/releases/download/nightly/SideStore.ipa",
-              "size": 27648174,
-              "sha256": "cf2f89d3e452891623bf4550d0329a6b3a9365483b0a533d6c2a158a76d47423"
+              "size": 27649001,
+              "sha256": "09cd3d056a978b1c08ac772b968d6ba165caada07ecaacee13d9d9b370590467"
             }
           ]
         },
