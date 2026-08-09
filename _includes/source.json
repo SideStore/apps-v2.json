@@ -140,12 +140,12 @@
           "track": "nightly",
           "releases": [
             {
-              "version": "0.6.4-20260809.1248+76d3ad3d",
-              "date": "2026-08-09T03:07:30Z",
-              "localizedDescription": "#### This is release for:\n  - version: \"0.6.4-20260809.1248+76d3ad3d\"\n  - revision: \"76d3ad3d\"\n  - timestamp: \"Sun Aug  9 03:07:30 2026\"\n\n#### What's Changed:\n- restore missed serial check from active portal certs before using its machinId as pass\n\n#### Full Changelog: [61673896...76d3ad3d](https://github.com/SideStore/SideStore/compare/6167389670b850a58cf86069ed94b9a7bef2592a...76d3ad3d9d71bdfc197f3dd69b355656c6b31982)\n",
+              "version": "0.6.4-20260809.1249+d5cd0da9",
+              "date": "2026-08-09T05:43:27Z",
+              "localizedDescription": "#### This is release for:\n  - version: \"0.6.4-20260809.1249+d5cd0da9\"\n  - revision: \"d5cd0da9\"\n  - timestamp: \"Sun Aug  9 05:43:27 2026\"\n\n#### What's Changed:\n- rework: using obj-c based direct open bundle private api and using common urlscheme to properly send to handler in the target app.\n\n#### Full Changelog: [76d3ad3d...d5cd0da9](https://github.com/SideStore/SideStore/compare/76d3ad3d9d71bdfc197f3dd69b355656c6b31982...d5cd0da97613718c392a2024d5f6a663d27ab111)\n",
               "downloadURL": "https://github.com/SideStore/SideStore/releases/download/nightly/SideStore.ipa",
-              "size": 27649666,
-              "sha256": "a7024a9d4fbf714af245b49e39292a4f38805a67b0a217353397be941fbaf8f1"
+              "size": 27651820,
+              "sha256": "4e211cc1940a6e4e28b9d08bcc8b7b0e0e2c53ded1218d14b0a2181dd45ee235"
             }
           ]
         },
