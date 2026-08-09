@@ -140,12 +140,12 @@
           "track": "nightly",
           "releases": [
             {
-              "version": "0.6.4-20260809.1262+9e654761",
-              "date": "2026-08-09T19:45:40Z",
-              "localizedDescription": "#### This is release for:\n  - version: \"0.6.4-20260809.1262+9e654761\"\n  - revision: \"9e654761\"\n  - timestamp: \"Sun Aug  9 19:45:40 2026\"\n\n#### What's Changed:\n- feat: added certificate only export ie .der/.pem not the full .p12 which we already support\n\n#### Full Changelog: [d7343980...9e654761](https://github.com/SideStore/SideStore/compare/d734398066270e9743e3a95e298a1250461b6513...9e6547610de5135f20e1bf4410802d708318cea9)\n",
+              "version": "0.6.4-20260809.1263+31b88085",
+              "date": "2026-08-09T22:39:09Z",
+              "localizedDescription": "#### This is release for:\n  - version: \"0.6.4-20260809.1263+31b88085\"\n  - revision: \"31b88085\"\n  - timestamp: \"Sun Aug  9 22:39:09 2026\"\n\n#### What's Changed:\n- fix: use cert serial as password for consistency (NOTE: imported certs lose their pass and when exporting it will ask for password)\n- cleanup\n- fix: bring back cachedSigningCert coz we cannot inspect other app's bundle though we now embed signing cert into them.\n- fix: remove caching signing cert and move to embedding signing cert\n- fix: remove caching signing cert and move to embedding signing cert\n- fix: ensure handling bundle.main is proper in the getSigningCertificate\n- fix: clear states during cell reuse and properly update them.\n- fix: always convert to .der type before processing in ocsp validate\n\n#### Full Changelog: [9e654761...31b88085](https://github.com/SideStore/SideStore/compare/9e6547610de5135f20e1bf4410802d708318cea9...31b8808587fd0540e692a0784fce4de9f6306f9e)\n",
               "downloadURL": "https://github.com/SideStore/SideStore/releases/download/nightly/SideStore.ipa",
-              "size": 27696941,
-              "sha256": "2477eb259041a10d98aa98bd9bed087f2b2131b8ba3866829e256322f189a876"
+              "size": 27703172,
+              "sha256": "fa4c44d96b5f4d037cb8cc5c3c19a42f319beff87ac97c70303b36756f97a08a"
             }
           ]
         },
