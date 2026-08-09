@@ -140,12 +140,12 @@
           "track": "nightly",
           "releases": [
             {
-              "version": "0.6.4-20260809.1255+9114e777",
-              "date": "2026-08-09T07:29:56Z",
-              "localizedDescription": "#### This is release for:\n  - version: \"0.6.4-20260809.1255+9114e777\"\n  - revision: \"9114e777\"\n  - timestamp: \"Sun Aug  9 07:29:56 2026\"\n\n#### What's Changed:\n- rename: change all trusted (sources) to default (sources)\n\n#### Full Changelog: [9d2e3b29...9114e777](https://github.com/SideStore/SideStore/compare/9d2e3b29a0ffd6326985102388fea6be942b6ac9...9114e77732ed37939610cc1c41554ac83f8a69b8)\n",
+              "version": "0.6.4-20260809.1256+c2b969fd",
+              "date": "2026-08-09T08:08:33Z",
+              "localizedDescription": "#### This is release for:\n  - version: \"0.6.4-20260809.1256+c2b969fd\"\n  - revision: \"c2b969fd\"\n  - timestamp: \"Sun Aug  9 08:08:33 2026\"\n\n#### What's Changed:\n- fix: restore auth handler nav controller properly in other areas than auth\n\n#### Full Changelog: [9114e777...c2b969fd](https://github.com/SideStore/SideStore/compare/9114e77732ed37939610cc1c41554ac83f8a69b8...c2b969fde76974aeb502e257c6d144a060893857)\n",
               "downloadURL": "https://github.com/SideStore/SideStore/releases/download/nightly/SideStore.ipa",
-              "size": 27682331,
-              "sha256": "70b41da0883d9056433d3f97ad36c7428c8b5c7691159328cab5fb7e389e16f5"
+              "size": 27682616,
+              "sha256": "ea9a21f2942dce5c104645324e34880487a742d5363448610b7fd5f47fd23b53"
             }
           ]
         },
