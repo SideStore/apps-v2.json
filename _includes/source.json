@@ -140,12 +140,12 @@
           "track": "nightly",
           "releases": [
             {
-              "version": "0.6.4-20260809.1247+61673896",
-              "date": "2026-08-09T02:32:37Z",
-              "localizedDescription": "#### This is release for:\n  - version: \"0.6.4-20260809.1247+61673896\"\n  - revision: \"61673896\"\n  - timestamp: \"Sun Aug  9 02:32:37 2026\"\n\n#### What's Changed:\n- fix: use machineId as cert pass as in 0.6.3\n\n#### Full Changelog: [282c6da4...61673896](https://github.com/SideStore/SideStore/compare/282c6da4504572f2e59cb51cf8c173bfbeecf23f...6167389670b850a58cf86069ed94b9a7bef2592a)\n",
+              "version": "0.6.4-20260809.1248+76d3ad3d",
+              "date": "2026-08-09T03:07:30Z",
+              "localizedDescription": "#### This is release for:\n  - version: \"0.6.4-20260809.1248+76d3ad3d\"\n  - revision: \"76d3ad3d\"\n  - timestamp: \"Sun Aug  9 03:07:30 2026\"\n\n#### What's Changed:\n- restore missed serial check from active portal certs before using its machinId as pass\n\n#### Full Changelog: [61673896...76d3ad3d](https://github.com/SideStore/SideStore/compare/6167389670b850a58cf86069ed94b9a7bef2592a...76d3ad3d9d71bdfc197f3dd69b355656c6b31982)\n",
               "downloadURL": "https://github.com/SideStore/SideStore/releases/download/nightly/SideStore.ipa",
-              "size": 27649001,
-              "sha256": "09cd3d056a978b1c08ac772b968d6ba165caada07ecaacee13d9d9b370590467"
+              "size": 27649666,
+              "sha256": "a7024a9d4fbf714af245b49e39292a4f38805a67b0a217353397be941fbaf8f1"
             }
           ]
         },
