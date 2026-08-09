@@ -140,12 +140,12 @@
           "track": "nightly",
           "releases": [
             {
-              "version": "0.6.4-20260809.1251+f32ab7a4",
-              "date": "2026-08-09T06:15:42Z",
-              "localizedDescription": "#### This is release for:\n  - version: \"0.6.4-20260809.1251+f32ab7a4\"\n  - revision: \"f32ab7a4\"\n  - timestamp: \"Sun Aug  9 06:15:42 2026\"\n\n#### What's Changed:\n- fix: a bunch of issues in auth flow 1. resign title shouldn't be hidden 2. instructions should be shown after resign only if in user ininited auth flow via settings 3. do not resume a continuation more than once\n\n#### Full Changelog: [b613182b...f32ab7a4](https://github.com/SideStore/SideStore/compare/b613182b5e6a23c2cf726b5956f129845f95768b...f32ab7a43a6f51acc709984b81698c255ed2b1d9)\n",
+              "version": "0.6.4-20260809.1252+720668f4",
+              "date": "2026-08-09T06:32:49Z",
+              "localizedDescription": "#### This is release for:\n  - version: \"0.6.4-20260809.1252+720668f4\"\n  - revision: \"720668f4\"\n  - timestamp: \"Sun Aug  9 06:32:49 2026\"\n\n#### What's Changed:\n- fix: updated reconcile to use bundlePath which will always change after re-install as a reliable way to detect installation completed or not after a resign/update was done thru in-app\n\n#### Full Changelog: [f32ab7a4...720668f4](https://github.com/SideStore/SideStore/compare/f32ab7a43a6f51acc709984b81698c255ed2b1d9...720668f4216c1b8c5eaf96f7dc781502ddf7a8df)\n",
               "downloadURL": "https://github.com/SideStore/SideStore/releases/download/nightly/SideStore.ipa",
-              "size": 27651158,
-              "sha256": "4efbcb3d08a3a0c77b135d953ce8081c104d4d8466077e9d45c13a5fe62703a0"
+              "size": 27651687,
+              "sha256": "28021852918d36a136fd691d83cd4f2a4d45559c07234be18e01d68067bb0c3f"
             }
           ]
         },
