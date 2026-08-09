@@ -140,12 +140,12 @@
           "track": "nightly",
           "releases": [
             {
-              "version": "0.6.4-20260809.1259+19bfd24d",
-              "date": "2026-08-09T18:05:47Z",
-              "localizedDescription": "#### This is release for:\n  - version: \"0.6.4-20260809.1259+19bfd24d\"\n  - revision: \"19bfd24d\"\n  - timestamp: \"Sun Aug  9 18:05:47 2026\"\n\n#### What's Changed:\n- fix: read binaryCert if our own bundle coz we have access to bundle and its binary so use machO parser to extract leaf cert which is ground truth - tested to be working now (issue was that issuerDN was rejecting valid apple leaf cert coz it was assuming it to be root/ca, but then all developer certs are issued by apple so removed issuerDN checks and kept only subjectDN checks)\n\n#### Full Changelog: [e121d4d6...19bfd24d](https://github.com/SideStore/SideStore/compare/e121d4d6c4a852823ecdf75d4c6ad74a7e4554a4...19bfd24deac89d8b2f090f6d6bc4e42c77f0af8c)\n",
+              "version": "0.6.4-20260809.1261+d7343980",
+              "date": "2026-08-09T19:34:47Z",
+              "localizedDescription": "#### This is release for:\n  - version: \"0.6.4-20260809.1261+d7343980\"\n  - revision: \"d7343980\"\n  - timestamp: \"Sun Aug  9 19:34:47 2026\"\n\n#### What's Changed:\n- fix compile issues - forgot to add the new file into pbxproj\n- fix: lets keep secTrust based results for revocation checks first coz if the os already flagged we can be sure to mark it revoked, and fallback to livequery if it didnt flag as revoked.\n- fix: use tested ocsp live check using url and not using secTrust which is reported by OS when it sees if revoked or not... (actually if secTrust reported as revoked, then obviously AMFI won't even let app open) since secTrust data is cached and fetched as required, we prefer live version from apple ocsp servers\n- fix: remove redundant instance field activeCertificates\n- make cross signed cert apps have a blue border instead of red around the pill button.\n\n#### Full Changelog: [19bfd24d...d7343980](https://github.com/SideStore/SideStore/compare/19bfd24deac89d8b2f090f6d6bc4e42c77f0af8c...d734398066270e9743e3a95e298a1250461b6513)\n",
               "downloadURL": "https://github.com/SideStore/SideStore/releases/download/nightly/SideStore.ipa",
-              "size": 27688491,
-              "sha256": "6913f75006ca53cc1f29a25def42657c44a8443f073e4bbd67a10afcc5b69eab"
+              "size": 27694826,
+              "sha256": "c7724b4705cbb83b289b3778d57e325d92a0fa7a40af77ae45f1689ee55c0ba5"
             }
           ]
         },
