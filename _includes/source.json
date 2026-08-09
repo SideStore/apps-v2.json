@@ -140,12 +140,12 @@
           "track": "nightly",
           "releases": [
             {
-              "version": "0.6.4-20260809.1254+9d2e3b29",
-              "date": "2026-08-09T07:20:56Z",
-              "localizedDescription": "#### This is release for:\n  - version: \"0.6.4-20260809.1254+9d2e3b29\"\n  - revision: \"9d2e3b29\"\n  - timestamp: \"Sun Aug  9 07:20:56 2026\"\n\n#### What's Changed:\n- fix: save the dbBackgroundContext instead of just the returned object.\n\n#### Full Changelog: [0cf9b150...9d2e3b29](https://github.com/SideStore/SideStore/compare/0cf9b15035f071328558f3ddfa67a5f1b2a29599...9d2e3b29a0ffd6326985102388fea6be942b6ac9)\n",
+              "version": "0.6.4-20260809.1255+9114e777",
+              "date": "2026-08-09T07:29:56Z",
+              "localizedDescription": "#### This is release for:\n  - version: \"0.6.4-20260809.1255+9114e777\"\n  - revision: \"9114e777\"\n  - timestamp: \"Sun Aug  9 07:29:56 2026\"\n\n#### What's Changed:\n- rename: change all trusted (sources) to default (sources)\n\n#### Full Changelog: [9d2e3b29...9114e777](https://github.com/SideStore/SideStore/compare/9d2e3b29a0ffd6326985102388fea6be942b6ac9...9114e77732ed37939610cc1c41554ac83f8a69b8)\n",
               "downloadURL": "https://github.com/SideStore/SideStore/releases/download/nightly/SideStore.ipa",
-              "size": 27681886,
-              "sha256": "9af0a7a17c1e685fe8d520fc18a02b59a673b11b6ceb6ac5822b5dcf5d8bb6ba"
+              "size": 27682331,
+              "sha256": "70b41da0883d9056433d3f97ad36c7428c8b5c7691159328cab5fb7e389e16f5"
             }
           ]
         },
