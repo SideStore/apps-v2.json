@@ -140,12 +140,12 @@
           "track": "nightly",
           "releases": [
             {
-              "version": "0.6.4-20260809.1258+e121d4d6",
-              "date": "2026-08-09T17:26:33Z",
-              "localizedDescription": "#### This is release for:\n  - version: \"0.6.4-20260809.1258+e121d4d6\"\n  - revision: \"e121d4d6\"\n  - timestamp: \"Sun Aug  9 17:26:33 2026\"\n\n#### What's Changed:\n- cleanup: fix formatting\n- added progressReset support for standalone steps that could be run infinite, ex: anisette fetching during auth that would be retried when user clicks sign-in again\n\n#### Full Changelog: [6be226a2...e121d4d6](https://github.com/SideStore/SideStore/compare/6be226a2280aff477841316591ee7a3dfa812f6c...e121d4d6c4a852823ecdf75d4c6ad74a7e4554a4)\n",
+              "version": "0.6.4-20260809.1259+19bfd24d",
+              "date": "2026-08-09T18:05:47Z",
+              "localizedDescription": "#### This is release for:\n  - version: \"0.6.4-20260809.1259+19bfd24d\"\n  - revision: \"19bfd24d\"\n  - timestamp: \"Sun Aug  9 18:05:47 2026\"\n\n#### What's Changed:\n- fix: read binaryCert if our own bundle coz we have access to bundle and its binary so use machO parser to extract leaf cert which is ground truth - tested to be working now (issue was that issuerDN was rejecting valid apple leaf cert coz it was assuming it to be root/ca, but then all developer certs are issued by apple so removed issuerDN checks and kept only subjectDN checks)\n\n#### Full Changelog: [e121d4d6...19bfd24d](https://github.com/SideStore/SideStore/compare/e121d4d6c4a852823ecdf75d4c6ad74a7e4554a4...19bfd24deac89d8b2f090f6d6bc4e42c77f0af8c)\n",
               "downloadURL": "https://github.com/SideStore/SideStore/releases/download/nightly/SideStore.ipa",
-              "size": 27685070,
-              "sha256": "c3844150dd292b3e52847d2104300d4aad3f762b417e3a31e634cab92c1901c5"
+              "size": 27688491,
+              "sha256": "6913f75006ca53cc1f29a25def42657c44a8443f073e4bbd67a10afcc5b69eab"
             }
           ]
         },
