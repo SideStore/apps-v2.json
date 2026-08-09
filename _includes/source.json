@@ -140,12 +140,12 @@
           "track": "nightly",
           "releases": [
             {
-              "version": "0.6.4-20260809.1250+b613182b",
-              "date": "2026-08-09T05:50:46Z",
-              "localizedDescription": "#### This is release for:\n  - version: \"0.6.4-20260809.1250+b613182b\"\n  - revision: \"b613182b\"\n  - timestamp: \"Sun Aug  9 05:50:46 2026\"\n\n#### What's Changed:\n- fix: refresh cells that have moved from active <-> inactive\n\n#### Full Changelog: [d5cd0da9...b613182b](https://github.com/SideStore/SideStore/compare/d5cd0da97613718c392a2024d5f6a663d27ab111...b613182b5e6a23c2cf726b5956f129845f95768b)\n",
+              "version": "0.6.4-20260809.1251+f32ab7a4",
+              "date": "2026-08-09T06:15:42Z",
+              "localizedDescription": "#### This is release for:\n  - version: \"0.6.4-20260809.1251+f32ab7a4\"\n  - revision: \"f32ab7a4\"\n  - timestamp: \"Sun Aug  9 06:15:42 2026\"\n\n#### What's Changed:\n- fix: a bunch of issues in auth flow 1. resign title shouldn't be hidden 2. instructions should be shown after resign only if in user ininited auth flow via settings 3. do not resume a continuation more than once\n\n#### Full Changelog: [b613182b...f32ab7a4](https://github.com/SideStore/SideStore/compare/b613182b5e6a23c2cf726b5956f129845f95768b...f32ab7a43a6f51acc709984b81698c255ed2b1d9)\n",
               "downloadURL": "https://github.com/SideStore/SideStore/releases/download/nightly/SideStore.ipa",
-              "size": 27651866,
-              "sha256": "d8181d7e76d4450741597e1108aac172ff7dd8b22314a3e8fc65225f664bc7bc"
+              "size": 27651158,
+              "sha256": "4efbcb3d08a3a0c77b135d953ce8081c104d4d8466077e9d45c13a5fe62703a0"
             }
           ]
         },
