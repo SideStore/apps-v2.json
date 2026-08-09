@@ -140,12 +140,12 @@
           "track": "nightly",
           "releases": [
             {
-              "version": "0.6.4-20260809.1253+0cf9b150",
-              "date": "2026-08-09T07:12:24Z",
-              "localizedDescription": "#### This is release for:\n  - version: \"0.6.4-20260809.1253+0cf9b150\"\n  - revision: \"0cf9b150\"\n  - timestamp: \"Sun Aug  9 07:12:24 2026\"\n\n#### What's Changed:\n- fix: certificates - do not lose machine name, id when importing same cert\n- fix: title color in light theme for backupAndRestore, userCustomization\n- feat: theme support (initial prototype)\n\n#### Full Changelog: [720668f4...0cf9b150](https://github.com/SideStore/SideStore/compare/720668f4216c1b8c5eaf96f7dc781502ddf7a8df...0cf9b15035f071328558f3ddfa67a5f1b2a29599)\n",
+              "version": "0.6.4-20260809.1254+9d2e3b29",
+              "date": "2026-08-09T07:20:56Z",
+              "localizedDescription": "#### This is release for:\n  - version: \"0.6.4-20260809.1254+9d2e3b29\"\n  - revision: \"9d2e3b29\"\n  - timestamp: \"Sun Aug  9 07:20:56 2026\"\n\n#### What's Changed:\n- fix: save the dbBackgroundContext instead of just the returned object.\n\n#### Full Changelog: [0cf9b150...9d2e3b29](https://github.com/SideStore/SideStore/compare/0cf9b15035f071328558f3ddfa67a5f1b2a29599...9d2e3b29a0ffd6326985102388fea6be942b6ac9)\n",
               "downloadURL": "https://github.com/SideStore/SideStore/releases/download/nightly/SideStore.ipa",
-              "size": 27682207,
-              "sha256": "f2348d0c67e86213570a9b08efc449f6ec81729ac985e8de224f5ce05f0a7710"
+              "size": 27681886,
+              "sha256": "9af0a7a17c1e685fe8d520fc18a02b59a673b11b6ceb6ac5822b5dcf5d8bb6ba"
             }
           ]
         },
