@@ -140,12 +140,12 @@
           "track": "nightly",
           "releases": [
             {
-              "version": "0.6.4-20260810.1266+d2eca936",
-              "date": "2026-08-10T05:53:51Z",
-              "localizedDescription": "#### This is release for:\n  - version: \"0.6.4-20260810.1266+d2eca936\"\n  - revision: \"d2eca936\"\n  - timestamp: \"Mon Aug 10 05:53:51 2026\"\n\n#### What's Changed:\n- auth operation refinements - review phase 3 complete - need more CI build testing once pushed\n- added shared context for pipeline to share/reuse results if in group\n- fix: auth doesnt need to fetch appid just so it is shared (will define new shared context)\n- auth operation refinements - review phase 2\n- fix: postAuthHandling (instructions) should be only if resign was skipped/dismissed\n- auth operation refinements - review phase 1\n- remove duplicate target membership of ASN1 parser\n- cleanup spam logs\n- refactor: authoperation cleanup\n\n#### Full Changelog: [366fb169...d2eca936](https://github.com/SideStore/SideStore/compare/366fb169f21226b613a39ebc5ccc3c971d668e6e...d2eca936e5e68128aabb694fc0155b8394730c44)\n",
+              "version": "0.6.4-20260810.1268+28d44430",
+              "date": "2026-08-10T06:39:24Z",
+              "localizedDescription": "#### This is release for:\n  - version: \"0.6.4-20260810.1268+28d44430\"\n  - revision: \"28d44430\"\n  - timestamp: \"Mon Aug 10 06:39:24 2026\"\n\n#### What's Changed:\n- fix typo\n- auth: backward compat for iloader embedded cert password as machineId\n- design: added design doc (for now added auth flow in mermaid control flow graph)\n\n#### Full Changelog: [d2eca936...28d44430](https://github.com/SideStore/SideStore/compare/d2eca936e5e68128aabb694fc0155b8394730c44...28d444306ee2071cefa1aa41ff76ecc8e0ec0d01)\n",
               "downloadURL": "https://github.com/SideStore/SideStore/releases/download/nightly/SideStore.ipa",
-              "size": 27698474,
-              "sha256": "f5deb187eeed355b49912ec33002a65bc851a32d2a484b09042567899089d96b"
+              "size": 27699237,
+              "sha256": "79b428b0028e3154beaa62bf1be96752e71e5c04dc8d4518fd4be7a5d7af7b5f"
             }
           ]
         },
