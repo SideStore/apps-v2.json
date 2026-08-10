@@ -140,12 +140,12 @@
           "track": "nightly",
           "releases": [
             {
-              "version": "0.6.4-20260809.1263+31b88085",
-              "date": "2026-08-09T22:39:09Z",
-              "localizedDescription": "#### This is release for:\n  - version: \"0.6.4-20260809.1263+31b88085\"\n  - revision: \"31b88085\"\n  - timestamp: \"Sun Aug  9 22:39:09 2026\"\n\n#### What's Changed:\n- fix: use cert serial as password for consistency (NOTE: imported certs lose their pass and when exporting it will ask for password)\n- cleanup\n- fix: bring back cachedSigningCert coz we cannot inspect other app's bundle though we now embed signing cert into them.\n- fix: remove caching signing cert and move to embedding signing cert\n- fix: remove caching signing cert and move to embedding signing cert\n- fix: ensure handling bundle.main is proper in the getSigningCertificate\n- fix: clear states during cell reuse and properly update them.\n- fix: always convert to .der type before processing in ocsp validate\n\n#### Full Changelog: [9e654761...31b88085](https://github.com/SideStore/SideStore/compare/9e6547610de5135f20e1bf4410802d708318cea9...31b8808587fd0540e692a0784fce4de9f6306f9e)\n",
+              "version": "0.6.4-20260810.1265+366fb169",
+              "date": "2026-08-10T01:07:54Z",
+              "localizedDescription": "#### This is release for:\n  - version: \"0.6.4-20260810.1265+366fb169\"\n  - revision: \"366fb169\"\n  - timestamp: \"Mon Aug 10 01:07:54 2026\"\n\n#### What's Changed:\n- refactor: move auth stuff into AuthManager, DeveloperPortalService which deal with AltSign and app layer only deals with AuthManager ex: AuthenticationOperation\n- rework: split signable and signing cert using ALTX509Certificate which is raw .der and ALTCertificate which now requires privateKey mandatorily\n- rework: split signable and signing cert using ALTX509Certificate which is raw .der and ALTCertificate which now requires privateKey mandatorily\n- fix: auth was supposed to check if private key is valid before accepting\n- use ALTX509Certificate to differentiate between cert and p12 container\n\n#### Full Changelog: [31b88085...366fb169](https://github.com/SideStore/SideStore/compare/31b8808587fd0540e692a0784fce4de9f6306f9e...366fb169f21226b613a39ebc5ccc3c971d668e6e)\n",
               "downloadURL": "https://github.com/SideStore/SideStore/releases/download/nightly/SideStore.ipa",
-              "size": 27703172,
-              "sha256": "fa4c44d96b5f4d037cb8cc5c3c19a42f319beff87ac97c70303b36756f97a08a"
+              "size": 27717560,
+              "sha256": "0e6cae9b80201d8bae4c519ff4b991232c3d7632a3d3e950cd3a73e7eb80f21a"
             }
           ]
         },
