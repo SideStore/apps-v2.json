@@ -140,12 +140,12 @@
           "track": "nightly",
           "releases": [
             {
-              "version": "0.6.4-20260810.1274+78111ee9",
-              "date": "2026-08-10T16:33:07Z",
-              "localizedDescription": "#### This is release for:\n  - version: \"0.6.4-20260810.1274+78111ee9\"\n  - revision: \"78111ee9\"\n  - timestamp: \"Mon Aug 10 16:33:07 2026\"\n\n#### What's Changed:\n- cleanup\n- fix: during fast path, we dont fetch portal certs, so we return whatever context had if any.\n- updated auth flow\n\n#### Full Changelog: [08d9fc50...78111ee9](https://github.com/SideStore/SideStore/compare/08d9fc5051a79a8e20a301dae94fce06669129b6...78111ee9d7df1aab039059b7005f6b94ec52cc16)\n",
+              "version": "0.6.4-20260810.1277+3ca7ba26",
+              "date": "2026-08-10T22:53:34Z",
+              "localizedDescription": "#### This is release for:\n  - version: \"0.6.4-20260810.1277+3ca7ba26\"\n  - revision: \"3ca7ba26\"\n  - timestamp: \"Mon Aug 10 22:53:34 2026\"\n\n#### What's Changed:\n- phase-2: added the revokeVC to show the revoke prompt properly (complete)\n- phase-1: refine revoke flow during auth with more enhanced flow that is suitable for free/other acct types [WIP]\n- added #if DEBUG for release build for methods that use debug methods\n- enable registerDevices at end of auth after cert provision\n- diag: improved logging + altsign updates\n- diag: added logging for registerDevice calls\n- fix: after requesting new cert addition into portal, fetch again to get updated list of X509 certs\n- refine post auth flow so that any errors could be retried\n- cleanup\n- fix ui not refreshing when signin complete in settings + change SignIn button to Authenticated after successful signin\n- fix: finalizer should be invoked for both success or failure paths\n- optimize: coalesce the appIDs fetch using single fetch multi results\n- signOut: ask viewContext to be refreshed post persistence so UI gets updated in settings\n- settingsVC should call AuthManager for signout\n- streamline the signout to always go thru AuthManager + ensure import .sideconf shows password prompt for decryption\n\n#### Full Changelog: [78111ee9...3ca7ba26](https://github.com/SideStore/SideStore/compare/78111ee9d7df1aab039059b7005f6b94ec52cc16...3ca7ba261a49fec10cabc522763161d224cd615c)\n",
               "downloadURL": "https://github.com/SideStore/SideStore/releases/download/nightly/SideStore.ipa",
-              "size": 27696775,
-              "sha256": "5d7668efdc4bfe974fd97832bdcfecd19608c1c6bb5269e55839e2e25c9b7a0e"
+              "size": 27713632,
+              "sha256": "6b55e0eecc3ff8937dfb85eedf09b65269ad7e4d19a8fac16931d780f80e7ac1"
             }
           ]
         },
