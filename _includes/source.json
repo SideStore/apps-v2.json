@@ -140,12 +140,12 @@
           "track": "nightly",
           "releases": [
             {
-              "version": "0.6.4-20260810.1277+3ca7ba26",
-              "date": "2026-08-10T22:53:34Z",
-              "localizedDescription": "#### This is release for:\n  - version: \"0.6.4-20260810.1277+3ca7ba26\"\n  - revision: \"3ca7ba26\"\n  - timestamp: \"Mon Aug 10 22:53:34 2026\"\n\n#### What's Changed:\n- phase-2: added the revokeVC to show the revoke prompt properly (complete)\n- phase-1: refine revoke flow during auth with more enhanced flow that is suitable for free/other acct types [WIP]\n- added #if DEBUG for release build for methods that use debug methods\n- enable registerDevices at end of auth after cert provision\n- diag: improved logging + altsign updates\n- diag: added logging for registerDevice calls\n- fix: after requesting new cert addition into portal, fetch again to get updated list of X509 certs\n- refine post auth flow so that any errors could be retried\n- cleanup\n- fix ui not refreshing when signin complete in settings + change SignIn button to Authenticated after successful signin\n- fix: finalizer should be invoked for both success or failure paths\n- optimize: coalesce the appIDs fetch using single fetch multi results\n- signOut: ask viewContext to be refreshed post persistence so UI gets updated in settings\n- settingsVC should call AuthManager for signout\n- streamline the signout to always go thru AuthManager + ensure import .sideconf shows password prompt for decryption\n\n#### Full Changelog: [78111ee9...3ca7ba26](https://github.com/SideStore/SideStore/compare/78111ee9d7df1aab039059b7005f6b94ec52cc16...3ca7ba261a49fec10cabc522763161d224cd615c)\n",
+              "version": "0.6.4-20260810.1278+8ff66b8d",
+              "date": "2026-08-10T23:22:20Z",
+              "localizedDescription": "#### This is release for:\n  - version: \"0.6.4-20260810.1278+8ff66b8d\"\n  - revision: \"8ff66b8d\"\n  - timestamp: \"Mon Aug 10 23:22:20 2026\"\n\n#### What's Changed:\n- fix: codesign validator sequence should flag team change first - so reverted to as it was before\n\n#### Full Changelog: [3ca7ba26...8ff66b8d](https://github.com/SideStore/SideStore/compare/3ca7ba261a49fec10cabc522763161d224cd615c...8ff66b8d2e3b31e53e26765ff7f5aaca36f6eed2)\n",
               "downloadURL": "https://github.com/SideStore/SideStore/releases/download/nightly/SideStore.ipa",
-              "size": 27713632,
-              "sha256": "6b55e0eecc3ff8937dfb85eedf09b65269ad7e4d19a8fac16931d780f80e7ac1"
+              "size": 27714155,
+              "sha256": "fc091fa9f6db07f7e89be572888ed47c7d000e926b483f23eb333d850d072e19"
             }
           ]
         },
