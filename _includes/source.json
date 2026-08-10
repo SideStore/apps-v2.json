@@ -140,12 +140,12 @@
           "track": "nightly",
           "releases": [
             {
-              "version": "0.6.4-20260810.1270+837273dd",
-              "date": "2026-08-10T07:24:03Z",
-              "localizedDescription": "#### This is release for:\n  - version: \"0.6.4-20260810.1270+837273dd\"\n  - revision: \"837273dd\"\n  - timestamp: \"Mon Aug 10 07:24:03 2026\"\n\n#### What's Changed:\n- attempt to fix machO Parser to find all certificates properly\n\n#### Full Changelog: [2d1e8fc4...837273dd](https://github.com/SideStore/SideStore/compare/2d1e8fc479ef865ad1835609d7fde6c46cf85e8f...837273ddc2354cd867606c7388bead37b3574be8)\n",
+              "version": "0.6.4-20260810.1271+5bba057e",
+              "date": "2026-08-10T15:40:37Z",
+              "localizedDescription": "#### This is release for:\n  - version: \"0.6.4-20260810.1271+5bba057e\"\n  - revision: \"5bba057e\"\n  - timestamp: \"Mon Aug 10 15:40:37 2026\"\n\n#### What's Changed:\n- centralize main bundle, main bundleid, mainbundleURL thru Bundle.Info\n- cleanup: dedup isSelf/isAltStoreApp check using one place\n- remaining authOp cleanup complete\n- fix: improve error messaging\n\n#### Full Changelog: [837273dd...5bba057e](https://github.com/SideStore/SideStore/compare/837273ddc2354cd867606c7388bead37b3574be8...5bba057e269143253f5a1f773846b83d53e52f00)\n",
               "downloadURL": "https://github.com/SideStore/SideStore/releases/download/nightly/SideStore.ipa",
-              "size": 27698835,
-              "sha256": "fe657dfcfa11b2efa22fdaee70c83a2d30f4c1e72b567e46206f69c5bb2afa76"
+              "size": 27695735,
+              "sha256": "efbaaccaedcf9258cc3367bb6da025d868f4d3c4ed6807d3229e7b1e650bce52"
             }
           ]
         },
