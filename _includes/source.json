@@ -140,12 +140,12 @@
           "track": "nightly",
           "releases": [
             {
-              "version": "0.6.4-20260810.1265+366fb169",
-              "date": "2026-08-10T01:07:54Z",
-              "localizedDescription": "#### This is release for:\n  - version: \"0.6.4-20260810.1265+366fb169\"\n  - revision: \"366fb169\"\n  - timestamp: \"Mon Aug 10 01:07:54 2026\"\n\n#### What's Changed:\n- refactor: move auth stuff into AuthManager, DeveloperPortalService which deal with AltSign and app layer only deals with AuthManager ex: AuthenticationOperation\n- rework: split signable and signing cert using ALTX509Certificate which is raw .der and ALTCertificate which now requires privateKey mandatorily\n- rework: split signable and signing cert using ALTX509Certificate which is raw .der and ALTCertificate which now requires privateKey mandatorily\n- fix: auth was supposed to check if private key is valid before accepting\n- use ALTX509Certificate to differentiate between cert and p12 container\n\n#### Full Changelog: [31b88085...366fb169](https://github.com/SideStore/SideStore/compare/31b8808587fd0540e692a0784fce4de9f6306f9e...366fb169f21226b613a39ebc5ccc3c971d668e6e)\n",
+              "version": "0.6.4-20260810.1266+d2eca936",
+              "date": "2026-08-10T05:53:51Z",
+              "localizedDescription": "#### This is release for:\n  - version: \"0.6.4-20260810.1266+d2eca936\"\n  - revision: \"d2eca936\"\n  - timestamp: \"Mon Aug 10 05:53:51 2026\"\n\n#### What's Changed:\n- auth operation refinements - review phase 3 complete - need more CI build testing once pushed\n- added shared context for pipeline to share/reuse results if in group\n- fix: auth doesnt need to fetch appid just so it is shared (will define new shared context)\n- auth operation refinements - review phase 2\n- fix: postAuthHandling (instructions) should be only if resign was skipped/dismissed\n- auth operation refinements - review phase 1\n- remove duplicate target membership of ASN1 parser\n- cleanup spam logs\n- refactor: authoperation cleanup\n\n#### Full Changelog: [366fb169...d2eca936](https://github.com/SideStore/SideStore/compare/366fb169f21226b613a39ebc5ccc3c971d668e6e...d2eca936e5e68128aabb694fc0155b8394730c44)\n",
               "downloadURL": "https://github.com/SideStore/SideStore/releases/download/nightly/SideStore.ipa",
-              "size": 27717560,
-              "sha256": "0e6cae9b80201d8bae4c519ff4b991232c3d7632a3d3e950cd3a73e7eb80f21a"
+              "size": 27698474,
+              "sha256": "f5deb187eeed355b49912ec33002a65bc851a32d2a484b09042567899089d96b"
             }
           ]
         },
