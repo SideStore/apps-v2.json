@@ -140,12 +140,12 @@
           "track": "nightly",
           "releases": [
             {
-              "version": "0.6.4-20260810.1272+08d9fc50",
-              "date": "2026-08-10T16:06:24Z",
-              "localizedDescription": "#### This is release for:\n  - version: \"0.6.4-20260810.1272+08d9fc50\"\n  - revision: \"08d9fc50\"\n  - timestamp: \"Mon Aug 10 16:06:24 2026\"\n\n#### What's Changed:\n- cleanup\n- fix: always show version from active bundle not the coredata one\n\n#### Full Changelog: [5bba057e...08d9fc50](https://github.com/SideStore/SideStore/compare/5bba057e269143253f5a1f773846b83d53e52f00...08d9fc5051a79a8e20a301dae94fce06669129b6)\n",
+              "version": "0.6.4-20260810.1274+78111ee9",
+              "date": "2026-08-10T16:33:07Z",
+              "localizedDescription": "#### This is release for:\n  - version: \"0.6.4-20260810.1274+78111ee9\"\n  - revision: \"78111ee9\"\n  - timestamp: \"Mon Aug 10 16:33:07 2026\"\n\n#### What's Changed:\n- cleanup\n- fix: during fast path, we dont fetch portal certs, so we return whatever context had if any.\n- updated auth flow\n\n#### Full Changelog: [08d9fc50...78111ee9](https://github.com/SideStore/SideStore/compare/08d9fc5051a79a8e20a301dae94fce06669129b6...78111ee9d7df1aab039059b7005f6b94ec52cc16)\n",
               "downloadURL": "https://github.com/SideStore/SideStore/releases/download/nightly/SideStore.ipa",
-              "size": 27697091,
-              "sha256": "806b9bd9155951cbeadf35bd97b72088abecb04159033519ad689b67dd8a6eb9"
+              "size": 27696775,
+              "sha256": "5d7668efdc4bfe974fd97832bdcfecd19608c1c6bb5269e55839e2e25c9b7a0e"
             }
           ]
         },
