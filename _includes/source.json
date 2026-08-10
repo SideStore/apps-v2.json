@@ -140,12 +140,12 @@
           "track": "nightly",
           "releases": [
             {
-              "version": "0.6.4-20260810.1268+28d44430",
-              "date": "2026-08-10T06:39:24Z",
-              "localizedDescription": "#### This is release for:\n  - version: \"0.6.4-20260810.1268+28d44430\"\n  - revision: \"28d44430\"\n  - timestamp: \"Mon Aug 10 06:39:24 2026\"\n\n#### What's Changed:\n- fix typo\n- auth: backward compat for iloader embedded cert password as machineId\n- design: added design doc (for now added auth flow in mermaid control flow graph)\n\n#### Full Changelog: [d2eca936...28d44430](https://github.com/SideStore/SideStore/compare/d2eca936e5e68128aabb694fc0155b8394730c44...28d444306ee2071cefa1aa41ff76ecc8e0ec0d01)\n",
+              "version": "0.6.4-20260810.1269+2d1e8fc4",
+              "date": "2026-08-10T07:18:04Z",
+              "localizedDescription": "#### This is release for:\n  - version: \"0.6.4-20260810.1269+2d1e8fc4\"\n  - revision: \"2d1e8fc4\"\n  - timestamp: \"Mon Aug 10 07:18:04 2026\"\n\n#### What's Changed:\n- cleanup: use proper messaging in verifyCert error\n\n#### Full Changelog: [28d44430...2d1e8fc4](https://github.com/SideStore/SideStore/compare/28d444306ee2071cefa1aa41ff76ecc8e0ec0d01...2d1e8fc479ef865ad1835609d7fde6c46cf85e8f)\n",
               "downloadURL": "https://github.com/SideStore/SideStore/releases/download/nightly/SideStore.ipa",
-              "size": 27699237,
-              "sha256": "79b428b0028e3154beaa62bf1be96752e71e5c04dc8d4518fd4be7a5d7af7b5f"
+              "size": 27699316,
+              "sha256": "3aa447459b4e35bf2fc7cba3676dec581f0d1586b4b1481b73cf732ce5fcd4ab"
             }
           ]
         },
