@@ -140,12 +140,12 @@
           "track": "nightly",
           "releases": [
             {
-              "version": "0.6.4-20260811.1281+349e35b1",
-              "date": "2026-08-11T07:26:31Z",
-              "localizedDescription": "#### This is release for:\n  - version: \"0.6.4-20260811.1281+349e35b1\"\n  - revision: \"349e35b1\"\n  - timestamp: \"Tue Aug 11 07:26:31 2026\"\n\n#### What's Changed:\n- optimization: switch minizip v1.1 for minizip-ng with ZIP64 support (should massively improve our zip unpack speeds and/or massive zip upto 2-4gb capacities + make unzipping use file-to-file streaming and zipping use FAST Deflate L1 mode than default STANDARD Deflate L6 mode\n\n#### Full Changelog: [42421743...349e35b1](https://github.com/SideStore/SideStore/compare/42421743ac2f3058f91c7516903b296cd75cb93e...349e35b16d3cfab08eb12ffc1eb0c271fd265aba)\n",
+              "version": "0.6.4-20260811.1282+70eb49b5",
+              "date": "2026-08-11T08:14:30Z",
+              "localizedDescription": "#### This is release for:\n  - version: \"0.6.4-20260811.1282+70eb49b5\"\n  - revision: \"70eb49b5\"\n  - timestamp: \"Tue Aug 11 08:14:30 2026\"\n\n#### What's Changed:\n- fix: report zip errors more accurately\n\n#### Full Changelog: [349e35b1...70eb49b5](https://github.com/SideStore/SideStore/compare/349e35b16d3cfab08eb12ffc1eb0c271fd265aba...70eb49b5207659bdde09ba4ae1f322b41b08199e)\n",
               "downloadURL": "https://github.com/SideStore/SideStore/releases/download/nightly/SideStore.ipa",
-              "size": 27761835,
-              "sha256": "2f5758b73df3a4e33e7bd0a915f329dd8c092f0663b7cbae88d0e026519a64ce"
+              "size": 27763373,
+              "sha256": "0469288b2937c1092c940801b99ee9ec9f50d7f92429a10b4cf7476d8ea1bedd"
             }
           ]
         },
