@@ -140,12 +140,12 @@
           "track": "nightly",
           "releases": [
             {
-              "version": "0.6.4-20260812.1285+372a7088",
-              "date": "2026-08-12T02:31:46Z",
-              "localizedDescription": "#### This is release for:\n  - version: \"0.6.4-20260812.1285+372a7088\"\n  - revision: \"372a7088\"\n  - timestamp: \"Wed Aug 12 02:31:46 2026\"\n\n#### What's Changed:\n- improve lables in user cust screen\n- refine EMP lifecycle and configurability + developer menu for EMP based testing etc\n- refactor: ditch em_proxy submodule coz now minimuxer owns it and exposes EMProxyApi\n- emp is now fully self contained in minimuxer!\n\n#### Full Changelog: [70eb49b5...372a7088](https://github.com/SideStore/SideStore/compare/70eb49b5207659bdde09ba4ae1f322b41b08199e...372a7088f66679e72aee860a6242c3f867d4b628)\n",
+              "version": "0.6.4-20260812.1286+a8c74f36",
+              "date": "2026-08-12T09:11:46Z",
+              "localizedDescription": "#### This is release for:\n  - version: \"0.6.4-20260812.1286+a8c74f36\"\n  - revision: \"a8c74f36\"\n  - timestamp: \"Wed Aug 12 09:11:46 2026\"\n\n#### What's Changed:\n- emp: rework start() to await handshake completion\n\n#### Full Changelog: [372a7088...a8c74f36](https://github.com/SideStore/SideStore/compare/372a7088f66679e72aee860a6242c3f867d4b628...a8c74f369d4c63c95bb471c56adabff3006f5288)\n",
               "downloadURL": "https://github.com/SideStore/SideStore/releases/download/nightly/SideStore.ipa",
-              "size": 27582575,
-              "sha256": "5ea84f0fbd805d6148b9d03b329bd38f9df46aecda66eff18f7d5db90609b5a5"
+              "size": 27586666,
+              "sha256": "67b177356de0efe81b29c00d752bef386c4532f0c70d60dda4ff690862f8bf4a"
             }
           ]
         },
