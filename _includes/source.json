@@ -140,12 +140,12 @@
           "track": "nightly",
           "releases": [
             {
-              "version": "0.6.4-20260812.1286+a8c74f36",
-              "date": "2026-08-12T09:11:46Z",
-              "localizedDescription": "#### This is release for:\n  - version: \"0.6.4-20260812.1286+a8c74f36\"\n  - revision: \"a8c74f36\"\n  - timestamp: \"Wed Aug 12 09:11:46 2026\"\n\n#### What's Changed:\n- emp: rework start() to await handshake completion\n\n#### Full Changelog: [372a7088...a8c74f36](https://github.com/SideStore/SideStore/compare/372a7088f66679e72aee860a6242c3f867d4b628...a8c74f369d4c63c95bb471c56adabff3006f5288)\n",
+              "version": "0.6.4-20260812.1287+b7de7c0c",
+              "date": "2026-08-12T09:41:27Z",
+              "localizedDescription": "#### This is release for:\n  - version: \"0.6.4-20260812.1287+b7de7c0c\"\n  - revision: \"b7de7c0c\"\n  - timestamp: \"Wed Aug 12 09:41:27 2026\"\n\n#### What's Changed:\n- improve error messaging for vpn errors when active but unusable\n\n#### Full Changelog: [a8c74f36...b7de7c0c](https://github.com/SideStore/SideStore/compare/a8c74f369d4c63c95bb471c56adabff3006f5288...b7de7c0c297099480d7c03c87cd127ee885edb20)\n",
               "downloadURL": "https://github.com/SideStore/SideStore/releases/download/nightly/SideStore.ipa",
-              "size": 27586666,
-              "sha256": "67b177356de0efe81b29c00d752bef386c4532f0c70d60dda4ff690862f8bf4a"
+              "size": 27586557,
+              "sha256": "5acd0ec5b1b10927d53596aa512b0d5c705595164634397dca38193113113e5b"
             }
           ]
         },
