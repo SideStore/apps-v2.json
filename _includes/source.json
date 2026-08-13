@@ -140,12 +140,12 @@
           "track": "nightly",
           "releases": [
             {
-              "version": "0.6.4-20260812.1287+b7de7c0c",
-              "date": "2026-08-12T09:41:27Z",
-              "localizedDescription": "#### This is release for:\n  - version: \"0.6.4-20260812.1287+b7de7c0c\"\n  - revision: \"b7de7c0c\"\n  - timestamp: \"Wed Aug 12 09:41:27 2026\"\n\n#### What's Changed:\n- improve error messaging for vpn errors when active but unusable\n\n#### Full Changelog: [a8c74f36...b7de7c0c](https://github.com/SideStore/SideStore/compare/a8c74f369d4c63c95bb471c56adabff3006f5288...b7de7c0c297099480d7c03c87cd127ee885edb20)\n",
+              "version": "0.6.4-20260813.1290+52d19492",
+              "date": "2026-08-13T08:50:34Z",
+              "localizedDescription": "#### This is release for:\n  - version: \"0.6.4-20260813.1290+52d19492\"\n  - revision: \"52d19492\"\n  - timestamp: \"Thu Aug 13 08:50:34 2026\"\n\n#### What's Changed:\n- use altsign dynamic to prevent symbol clash with minimuxer's idevice plist components\n- refactor: gut remanants of altstorecore\n- cleanup: removed legacy bridging header\n- refactor: gut altstorecore completely now that we have moved shared stuff into Shared dir and removed stale references in pbxproj\n- refactor: more moving things out of altstore core and keeping shared stuff in Shared\n- cleanup: move more stuff out of altstorecore\n- cleanup: prepare for moving altstorecore into altStore (keep shared parts separate)\n- fixed for locating nib after moving out of AltStoreCore\n- refactor: moved whatever we could out of AltStoreCore as-is to flatten the structure futher\n- cleanup: gate auth stuff via authmanager\n- cleanup - apart from auth for anything else directly reference DeveloperPortalService\n- cleanup - merge dbmanager extensions into 1 class.\n\n#### Full Changelog: [b7de7c0c...52d19492](https://github.com/SideStore/SideStore/compare/b7de7c0c297099480d7c03c87cd127ee885edb20...52d19492ee75e4164ecb60d2838d2bca6dcb32ff)\n",
               "downloadURL": "https://github.com/SideStore/SideStore/releases/download/nightly/SideStore.ipa",
-              "size": 27586557,
-              "sha256": "5acd0ec5b1b10927d53596aa512b0d5c705595164634397dca38193113113e5b"
+              "size": 27464917,
+              "sha256": "ceb12a22bd1d4cba55d8a5ba231c0010dc16ca0a489433d0769e519978af67fd"
             }
           ]
         },
