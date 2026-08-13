@@ -140,12 +140,12 @@
           "track": "nightly",
           "releases": [
             {
-              "version": "0.6.4-20260813.1292+29a3f17e",
-              "date": "2026-08-13T09:18:40Z",
-              "localizedDescription": "#### This is release for:\n  - version: \"0.6.4-20260813.1292+29a3f17e\"\n  - revision: \"29a3f17e\"\n  - timestamp: \"Thu Aug 13 09:18:40 2026\"\n\n#### What's Changed:\n- optimize: removed all dependency in sidebackup ipa since it doesn't require any (reduced size back to 170kB)\n\n#### Full Changelog: [e6f7a44c...29a3f17e](https://github.com/SideStore/SideStore/compare/e6f7a44cfc5a3d65a40f89a9a084153dbdff8aff...29a3f17eb015478b062e8094928c1a947df8a032)\n",
+              "version": "0.6.4-20260813.1296+140c70d9",
+              "date": "2026-08-13T18:56:58Z",
+              "localizedDescription": "#### This is release for:\n  - version: \"0.6.4-20260813.1296+140c70d9\"\n  - revision: \"140c70d9\"\n  - timestamp: \"Thu Aug 13 18:56:58 2026\"\n\n#### What's Changed:\n- removed entitlements file from bundle\n- cleanup\n- feat: added widget logging and widget log viewing in console log + viewing imported logs too\n- cleanup: fix a few warnings\n- fix: source.isAdded was updated to be method so that it could be nonisolated async\n- cleanup: fix a few warnings\n- cleanup: fix a few warnings\n- pbxproj: disabled linker warnings coz of spam from idevice deployment target being 17 while ours is 15. + disable sidebackup script run warnings by setting alwaysOutOfDate = 1\n- fixed typo coredata inverse relationship for releaseTrack <-> installedApp (typo as installedApps)\n- updated submodule to latest\n- cleanup: removed deadcode coments and fix a few warnings\n- pbproj: removed accent color from asset catalog\n- revert: userscript sandboxing cannot be enabled since we use Makefile to build sidebackup ipa\n- sidebackup: fix warnings (use withCheckedCont) to bridge sync/async worlds\n- pbxproj: updated to recommended settings by xcode 26\n- cleanup: removed deadcode and fix a few warnings\n\n#### Full Changelog: [29a3f17e...140c70d9](https://github.com/SideStore/SideStore/compare/29a3f17eb015478b062e8094928c1a947df8a032...140c70d9a1dcb72fae8b03f4e2de524ade90f796)\n",
               "downloadURL": "https://github.com/SideStore/SideStore/releases/download/nightly/SideStore.ipa",
-              "size": 25022335,
-              "sha256": "011774069806649bef33e1853ecb182313ff228c1f4fd66d3c9f1881bd095ecc"
+              "size": 25067932,
+              "sha256": "eb7f22068762c2965b73a1e363b6af16c4e623197e1038c152810ed834c7a506"
             }
           ]
         },
