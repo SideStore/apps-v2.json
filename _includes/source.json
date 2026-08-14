@@ -140,12 +140,12 @@
           "track": "nightly",
           "releases": [
             {
-              "version": "0.6.4-20260814.1304+c30553a6",
-              "date": "2026-08-14T03:28:23Z",
-              "localizedDescription": "#### This is release for:\n  - version: \"0.6.4-20260814.1304+c30553a6\"\n  - revision: \"c30553a6\"\n  - timestamp: \"Fri Aug 14 03:28:23 2026\"\n\n#### What's Changed:\n- fix compile issues and incorrect change\n- fix: lockscreen widget wasn't using the resigned bundleid and was referencing static ids\n\n#### Full Changelog: [10660919...c30553a6](https://github.com/SideStore/SideStore/compare/10660919f719664ae2d6f5f26b31c3ecda82e04d...c30553a63c7a76dd51127a59c94f63ffa3c4e8ca)\n",
+              "version": "0.6.4-20260814.1305+a627228e",
+              "date": "2026-08-14T06:50:46Z",
+              "localizedDescription": "#### This is release for:\n  - version: \"0.6.4-20260814.1305+a627228e\"\n  - revision: \"a627228e\"\n  - timestamp: \"Fri Aug 14 06:50:46 2026\"\n\n#### What's Changed:\n- feat: make some fixed variables dynamic so SideStore can be bundled with other apps\n- feat: limit max commit count in release message to 100 to not exceed GitHub limit\n\n#### Full Changelog: [c30553a6...a627228e](https://github.com/SideStore/SideStore/compare/c30553a63c7a76dd51127a59c94f63ffa3c4e8ca...a627228edc8a5fc07141d59b2062dc04e4224651)\n",
               "downloadURL": "https://github.com/SideStore/SideStore/releases/download/nightly/SideStore.ipa",
-              "size": 25082715,
-              "sha256": "e69d3bbbfee300f5be780d777eeb1d9e36e14f31592e9d45aae468ebb242a590"
+              "size": 25083407,
+              "sha256": "0a475f179b4e1e905c1d62a6173be89a9c345e580dd960d4a3b5bba12ef27597"
             }
           ]
         },
