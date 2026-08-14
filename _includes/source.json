@@ -140,12 +140,12 @@
           "track": "nightly",
           "releases": [
             {
-              "version": "0.6.4-20260814.1298+266e5e3a",
-              "date": "2026-08-14T00:19:29Z",
-              "localizedDescription": "#### This is release for:\n  - version: \"0.6.4-20260814.1298+266e5e3a\"\n  - revision: \"266e5e3a\"\n  - timestamp: \"Fri Aug 14 00:19:29 2026\"\n\n#### What's Changed:\n- cleanup: fix warnings and minor issues\n- refactor: move the sidejit, pairing, splashview all into own files\n- auth.registerdevice fallback to static udid from pairing file if required\n- move pairing file concerns into PairingFileManager\n- use a dummy UUID that should be filled in by the signers/resigners when they sign the app by patching this info.plist attrib\n- fix all glitches in my apps view when refreshing/activate/deactivate etc\n- fix: use cell reconfigure instead of full reload causing screen flickers\n- ensure sources view has rounded count ui element for sources\n- remove drag and drop in my apps vc\n- fix: appids should show cancel when in select mode despite showing delete\n- fix: do signout on first launch after db is ready\n- try to catch signals if we are about to crash and log the errors into log\n- fix the exclamation mark in sources screen\n- do not spam toast for sources error\n- fix detail view banners\n- added a reload button to the images if failed to load\n- fix: browse view shouldn't run heavy ops on main\n- fix: browse view \"see all\" text wasn't centered\n\n#### Full Changelog: [25e8d9ac...266e5e3a](https://github.com/SideStore/SideStore/compare/25e8d9ac3817aa56d1f222eaabff90f1d4155800...266e5e3a34659ad3d7bae358cf130545ecb158fa)\n",
+              "version": "0.6.4-20260814.1300+279888e7",
+              "date": "2026-08-14T00:53:18Z",
+              "localizedDescription": "#### This is release for:\n  - version: \"0.6.4-20260814.1300+279888e7\"\n  - revision: \"279888e7\"\n  - timestamp: \"Fri Aug 14 00:53:18 2026\"\n\n#### What's Changed:\n- cleanup - remove debugging sleep (now splash is responsive)\n- added progres in splash to show activity\n\n#### Full Changelog: [266e5e3a...279888e7](https://github.com/SideStore/SideStore/compare/266e5e3a34659ad3d7bae358cf130545ecb158fa...279888e76c1ff62d5dc135f17bbd557bd3b38b3d)\n",
               "downloadURL": "https://github.com/SideStore/SideStore/releases/download/nightly/SideStore.ipa",
-              "size": 25077223,
-              "sha256": "140b0cf7b61973fe505574e84048b99912c9d9f909cc5f4520925d11d8622ec4"
+              "size": 25079862,
+              "sha256": "3062b7a70b2d11e4eda32d5ce97131b959bbb2ef31c23b8cc20a067e9bdd2d64"
             }
           ]
         },
