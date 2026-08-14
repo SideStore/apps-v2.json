@@ -140,12 +140,12 @@
           "track": "nightly",
           "releases": [
             {
-              "version": "0.6.4-20260814.1306+10317c13",
-              "date": "2026-08-14T06:57:16Z",
-              "localizedDescription": "#### This is release for:\n  - version: \"0.6.4-20260814.1306+10317c13\"\n  - revision: \"10317c13\"\n  - timestamp: \"Fri Aug 14 06:57:16 2026\"\n\n#### What's Changed:\n- try fixing appgroup case sensitivity mismatch issue during registration\n- splash: removed the ugly spinner\n\n#### Full Changelog: [a627228e...10317c13](https://github.com/SideStore/SideStore/compare/a627228edc8a5fc07141d59b2062dc04e4224651...10317c1320311cb5863577583fa0d94aed517415)\n",
+              "version": "0.6.4-20260814.1307+1d724187",
+              "date": "2026-08-14T07:28:18Z",
+              "localizedDescription": "#### This is release for:\n  - version: \"0.6.4-20260814.1307+1d724187\"\n  - revision: \"1d724187\"\n  - timestamp: \"Fri Aug 14 07:28:18 2026\"\n\n#### What's Changed:\n- mark all lc related hooks with // @livecontainer line comment\n- fix: make appgroup case mismatch fixer work for both free and paid accts with customization for paid accts\n\n#### Full Changelog: [10317c13...1d724187](https://github.com/SideStore/SideStore/compare/10317c1320311cb5863577583fa0d94aed517415...1d7241870b80bd1c18ab7128596db6154bfcdd5f)\n",
               "downloadURL": "https://github.com/SideStore/SideStore/releases/download/nightly/SideStore.ipa",
-              "size": 25084898,
-              "sha256": "d5d4ec2e53cc0eb6545111ba83f5a75eafaca2bd5385f75c88137381943e360f"
+              "size": 25087838,
+              "sha256": "aca974e9020831073a3080587d2988705ca242e89e6f37e1e3015f9e0725c7b2"
             }
           ]
         },
