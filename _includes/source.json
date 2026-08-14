@@ -140,12 +140,12 @@
           "track": "nightly",
           "releases": [
             {
-              "version": "0.6.4-20260814.1305+a627228e",
-              "date": "2026-08-14T06:50:46Z",
-              "localizedDescription": "#### This is release for:\n  - version: \"0.6.4-20260814.1305+a627228e\"\n  - revision: \"a627228e\"\n  - timestamp: \"Fri Aug 14 06:50:46 2026\"\n\n#### What's Changed:\n- feat: make some fixed variables dynamic so SideStore can be bundled with other apps\n- feat: limit max commit count in release message to 100 to not exceed GitHub limit\n\n#### Full Changelog: [c30553a6...a627228e](https://github.com/SideStore/SideStore/compare/c30553a63c7a76dd51127a59c94f63ffa3c4e8ca...a627228edc8a5fc07141d59b2062dc04e4224651)\n",
+              "version": "0.6.4-20260814.1306+10317c13",
+              "date": "2026-08-14T06:57:16Z",
+              "localizedDescription": "#### This is release for:\n  - version: \"0.6.4-20260814.1306+10317c13\"\n  - revision: \"10317c13\"\n  - timestamp: \"Fri Aug 14 06:57:16 2026\"\n\n#### What's Changed:\n- try fixing appgroup case sensitivity mismatch issue during registration\n- splash: removed the ugly spinner\n\n#### Full Changelog: [a627228e...10317c13](https://github.com/SideStore/SideStore/compare/a627228edc8a5fc07141d59b2062dc04e4224651...10317c1320311cb5863577583fa0d94aed517415)\n",
               "downloadURL": "https://github.com/SideStore/SideStore/releases/download/nightly/SideStore.ipa",
-              "size": 25083407,
-              "sha256": "0a475f179b4e1e905c1d62a6173be89a9c345e580dd960d4a3b5bba12ef27597"
+              "size": 25084898,
+              "sha256": "d5d4ec2e53cc0eb6545111ba83f5a75eafaca2bd5385f75c88137381943e360f"
             }
           ]
         },
