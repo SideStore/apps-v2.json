@@ -140,12 +140,12 @@
           "track": "nightly",
           "releases": [
             {
-              "version": "0.6.4-20260814.1301+a5aecedb",
-              "date": "2026-08-14T02:09:14Z",
-              "localizedDescription": "#### This is release for:\n  - version: \"0.6.4-20260814.1301+a5aecedb\"\n  - revision: \"a5aecedb\"\n  - timestamp: \"Fri Aug 14 02:09:14 2026\"\n\n#### What's Changed:\n- fixed widget issues by asking to open sidestore when not signed in or opened sidestore yet after install (basically widgetdata.json missing)\n\n#### Full Changelog: [279888e7...a5aecedb](https://github.com/SideStore/SideStore/compare/279888e76c1ff62d5dc135f17bbd557bd3b38b3d...a5aecedbfdc666688b2949834651e20ac1988097)\n",
+              "version": "0.6.4-20260814.1302+10660919",
+              "date": "2026-08-14T02:33:03Z",
+              "localizedDescription": "#### This is release for:\n  - version: \"0.6.4-20260814.1302+10660919\"\n  - revision: \"10660919\"\n  - timestamp: \"Fri Aug 14 02:33:03 2026\"\n\n#### What's Changed:\n- fix: add source view + button wasn't of proper size\n\n#### Full Changelog: [a5aecedb...10660919](https://github.com/SideStore/SideStore/compare/a5aecedbfdc666688b2949834651e20ac1988097...10660919f719664ae2d6f5f26b31c3ecda82e04d)\n",
               "downloadURL": "https://github.com/SideStore/SideStore/releases/download/nightly/SideStore.ipa",
-              "size": 25083109,
-              "sha256": "8eda266546b955e141ca523952b1d0af6d94c4d45e048189e5cb50ad3b75bdab"
+              "size": 25082786,
+              "sha256": "6fb8541923f0d375a97673703741717dcfecd06363bb5dff07dc54aa2bba268b"
             }
           ]
         },
