@@ -140,12 +140,12 @@
           "track": "nightly",
           "releases": [
             {
-              "version": "0.6.4-20260814.1302+10660919",
-              "date": "2026-08-14T02:33:03Z",
-              "localizedDescription": "#### This is release for:\n  - version: \"0.6.4-20260814.1302+10660919\"\n  - revision: \"10660919\"\n  - timestamp: \"Fri Aug 14 02:33:03 2026\"\n\n#### What's Changed:\n- fix: add source view + button wasn't of proper size\n\n#### Full Changelog: [a5aecedb...10660919](https://github.com/SideStore/SideStore/compare/a5aecedbfdc666688b2949834651e20ac1988097...10660919f719664ae2d6f5f26b31c3ecda82e04d)\n",
+              "version": "0.6.4-20260814.1304+c30553a6",
+              "date": "2026-08-14T03:28:23Z",
+              "localizedDescription": "#### This is release for:\n  - version: \"0.6.4-20260814.1304+c30553a6\"\n  - revision: \"c30553a6\"\n  - timestamp: \"Fri Aug 14 03:28:23 2026\"\n\n#### What's Changed:\n- fix compile issues and incorrect change\n- fix: lockscreen widget wasn't using the resigned bundleid and was referencing static ids\n\n#### Full Changelog: [10660919...c30553a6](https://github.com/SideStore/SideStore/compare/10660919f719664ae2d6f5f26b31c3ecda82e04d...c30553a63c7a76dd51127a59c94f63ffa3c4e8ca)\n",
               "downloadURL": "https://github.com/SideStore/SideStore/releases/download/nightly/SideStore.ipa",
-              "size": 25082786,
-              "sha256": "6fb8541923f0d375a97673703741717dcfecd06363bb5dff07dc54aa2bba268b"
+              "size": 25082715,
+              "sha256": "e69d3bbbfee300f5be780d777eeb1d9e36e14f31592e9d45aae468ebb242a590"
             }
           ]
         },
