@@ -140,12 +140,12 @@
           "track": "nightly",
           "releases": [
             {
-              "version": "0.6.4-20260814.1300+279888e7",
-              "date": "2026-08-14T00:53:18Z",
-              "localizedDescription": "#### This is release for:\n  - version: \"0.6.4-20260814.1300+279888e7\"\n  - revision: \"279888e7\"\n  - timestamp: \"Fri Aug 14 00:53:18 2026\"\n\n#### What's Changed:\n- cleanup - remove debugging sleep (now splash is responsive)\n- added progres in splash to show activity\n\n#### Full Changelog: [266e5e3a...279888e7](https://github.com/SideStore/SideStore/compare/266e5e3a34659ad3d7bae358cf130545ecb158fa...279888e76c1ff62d5dc135f17bbd557bd3b38b3d)\n",
+              "version": "0.6.4-20260814.1301+a5aecedb",
+              "date": "2026-08-14T02:09:14Z",
+              "localizedDescription": "#### This is release for:\n  - version: \"0.6.4-20260814.1301+a5aecedb\"\n  - revision: \"a5aecedb\"\n  - timestamp: \"Fri Aug 14 02:09:14 2026\"\n\n#### What's Changed:\n- fixed widget issues by asking to open sidestore when not signed in or opened sidestore yet after install (basically widgetdata.json missing)\n\n#### Full Changelog: [279888e7...a5aecedb](https://github.com/SideStore/SideStore/compare/279888e76c1ff62d5dc135f17bbd557bd3b38b3d...a5aecedbfdc666688b2949834651e20ac1988097)\n",
               "downloadURL": "https://github.com/SideStore/SideStore/releases/download/nightly/SideStore.ipa",
-              "size": 25079862,
-              "sha256": "3062b7a70b2d11e4eda32d5ce97131b959bbb2ef31c23b8cc20a067e9bdd2d64"
+              "size": 25083109,
+              "sha256": "8eda266546b955e141ca523952b1d0af6d94c4d45e048189e5cb50ad3b75bdab"
             }
           ]
         },
