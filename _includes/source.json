@@ -140,12 +140,12 @@
           "track": "nightly",
           "releases": [
             {
-              "version": "0.6.4-20260814.1307+1d724187",
-              "date": "2026-08-14T07:28:18Z",
-              "localizedDescription": "#### This is release for:\n  - version: \"0.6.4-20260814.1307+1d724187\"\n  - revision: \"1d724187\"\n  - timestamp: \"Fri Aug 14 07:28:18 2026\"\n\n#### What's Changed:\n- mark all lc related hooks with // @livecontainer line comment\n- fix: make appgroup case mismatch fixer work for both free and paid accts with customization for paid accts\n\n#### Full Changelog: [10317c13...1d724187](https://github.com/SideStore/SideStore/compare/10317c1320311cb5863577583fa0d94aed517415...1d7241870b80bd1c18ab7128596db6154bfcdd5f)\n",
+              "version": "0.6.4-20260815.1309+a91ed646",
+              "date": "2026-08-15T05:24:40Z",
+              "localizedDescription": "#### This is release for:\n  - version: \"0.6.4-20260815.1309+a91ed646\"\n  - revision: \"a91ed646\"\n  - timestamp: \"Sat Aug 15 05:24:40 2026\"\n\n#### What's Changed:\n- fix: make baseAltStoreAppGroupID dynamic to fix lc+ss resign issue\n\n#### Full Changelog: [1d724187...a91ed646](https://github.com/SideStore/SideStore/compare/1d7241870b80bd1c18ab7128596db6154bfcdd5f...a91ed64606ea383bd6ffc4c557e8523b8c3b3c59)\n",
               "downloadURL": "https://github.com/SideStore/SideStore/releases/download/nightly/SideStore.ipa",
-              "size": 25087838,
-              "sha256": "aca974e9020831073a3080587d2988705ca242e89e6f37e1e3015f9e0725c7b2"
+              "size": 25087502,
+              "sha256": "c554bd82b1e21a5ed32170846d88c54357c40157ba31a894f4a6c1a8b0483dc2"
             }
           ]
         },
