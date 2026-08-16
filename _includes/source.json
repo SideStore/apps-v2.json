@@ -140,12 +140,12 @@
           "track": "nightly",
           "releases": [
             {
-              "version": "0.6.4-20260816.1320+eb02ca65",
-              "date": "2026-08-16T12:58:31Z",
-              "localizedDescription": "#### This is release for:\n  - version: \"0.6.4-20260816.1320+eb02ca65\"\n  - revision: \"eb02ca65\"\n  - timestamp: \"Sun Aug 16 12:58:31 2026\"\n\n#### What's Changed:\n- added ability to show subnet mask on the deviceIP\n\n#### Full Changelog: [a15f2f3a...eb02ca65](https://github.com/SideStore/SideStore/compare/a15f2f3a190f08727c7f4bad8562e1dac3b64f91...eb02ca656d77f94ece2aa5bf0f161218c988f1df)\n",
+              "version": "0.6.4-20260816.1321+b9e6201b",
+              "date": "2026-08-16T13:11:17Z",
+              "localizedDescription": "#### This is release for:\n  - version: \"0.6.4-20260816.1321+b9e6201b\"\n  - revision: \"b9e6201b\"\n  - timestamp: \"Sun Aug 16 13:11:17 2026\"\n\n#### What's Changed:\n- fix: cert view doesnt need full auth so explicitly ignore provisioning, device registration\n\n#### Full Changelog: [eb02ca65...b9e6201b](https://github.com/SideStore/SideStore/compare/eb02ca656d77f94ece2aa5bf0f161218c988f1df...b9e6201b9eab31712f7be8de7cd632977427c6a5)\n",
               "downloadURL": "https://github.com/SideStore/SideStore/releases/download/nightly/SideStore.ipa",
-              "size": 25153870,
-              "sha256": "417806fa1dabc6e28a6278d27f4c1bdb09d82a19ac9c06d5530f134bd9e8b075"
+              "size": 25153876,
+              "sha256": "f6e509df614fcaa10f6482ecfbae454f4b3e041e8d784052233fab0284b4a62a"
             }
           ]
         },
