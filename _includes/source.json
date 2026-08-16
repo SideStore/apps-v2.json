@@ -140,12 +140,12 @@
           "track": "nightly",
           "releases": [
             {
-              "version": "0.6.4-20260815.1309+a91ed646",
-              "date": "2026-08-15T05:24:40Z",
-              "localizedDescription": "#### This is release for:\n  - version: \"0.6.4-20260815.1309+a91ed646\"\n  - revision: \"a91ed646\"\n  - timestamp: \"Sat Aug 15 05:24:40 2026\"\n\n#### What's Changed:\n- fix: make baseAltStoreAppGroupID dynamic to fix lc+ss resign issue\n\n#### Full Changelog: [1d724187...a91ed646](https://github.com/SideStore/SideStore/compare/1d7241870b80bd1c18ab7128596db6154bfcdd5f...a91ed64606ea383bd6ffc4c557e8523b8c3b3c59)\n",
+              "version": "0.6.4-20260816.1310+8d793445",
+              "date": "2026-08-16T00:12:52Z",
+              "localizedDescription": "#### This is release for:\n  - version: \"0.6.4-20260816.1310+8d793445\"\n  - revision: \"8d793445\"\n  - timestamp: \"Sun Aug 16 00:12:52 2026\"\n\n#### What's Changed:\n- minimuxer: use refined apis newly added in minimuxer for push based networking changes\n\n#### Full Changelog: [a91ed646...8d793445](https://github.com/SideStore/SideStore/compare/a91ed64606ea383bd6ffc4c557e8523b8c3b3c59...8d7934452c9bf08dad9cb372028d51ff5ed27aa9)\n",
               "downloadURL": "https://github.com/SideStore/SideStore/releases/download/nightly/SideStore.ipa",
-              "size": 25087502,
-              "sha256": "c554bd82b1e21a5ed32170846d88c54357c40157ba31a894f4a6c1a8b0483dc2"
+              "size": 25122046,
+              "sha256": "0b4c5ced6dcf7e4ae596fa83077e0b9a6b09d25e826a85b4baa79c5c5d296ff4"
             }
           ]
         },
