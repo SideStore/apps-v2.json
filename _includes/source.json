@@ -140,12 +140,12 @@
           "track": "nightly",
           "releases": [
             {
-              "version": "0.6.4-20260816.1310+8d793445",
-              "date": "2026-08-16T00:12:52Z",
-              "localizedDescription": "#### This is release for:\n  - version: \"0.6.4-20260816.1310+8d793445\"\n  - revision: \"8d793445\"\n  - timestamp: \"Sun Aug 16 00:12:52 2026\"\n\n#### What's Changed:\n- minimuxer: use refined apis newly added in minimuxer for push based networking changes\n\n#### Full Changelog: [a91ed646...8d793445](https://github.com/SideStore/SideStore/compare/a91ed64606ea383bd6ffc4c557e8523b8c3b3c59...8d7934452c9bf08dad9cb372028d51ff5ed27aa9)\n",
+              "version": "0.6.4-20260816.1312+669774eb",
+              "date": "2026-08-16T01:03:26Z",
+              "localizedDescription": "#### This is release for:\n  - version: \"0.6.4-20260816.1312+669774eb\"\n  - revision: \"669774eb\"\n  - timestamp: \"Sun Aug 16 01:03:26 2026\"\n\n#### What's Changed:\n- fix: make ddi mount error not criticial\n\n#### Full Changelog: [8d793445...669774eb](https://github.com/SideStore/SideStore/compare/8d7934452c9bf08dad9cb372028d51ff5ed27aa9...669774ebac7e1e44a7c0341228cb1f9c1aeb709e)\n",
               "downloadURL": "https://github.com/SideStore/SideStore/releases/download/nightly/SideStore.ipa",
-              "size": 25122046,
-              "sha256": "0b4c5ced6dcf7e4ae596fa83077e0b9a6b09d25e826a85b4baa79c5c5d296ff4"
+              "size": 25123684,
+              "sha256": "0ad96a9abe66aa616f9024a5b81cd1f2c990183b7e2226dc5287b72a5024418b"
             }
           ]
         },
