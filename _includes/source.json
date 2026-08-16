@@ -140,12 +140,12 @@
           "track": "nightly",
           "releases": [
             {
-              "version": "0.6.4-20260816.1314+5ed10511",
-              "date": "2026-08-16T02:22:41Z",
-              "localizedDescription": "#### This is release for:\n  - version: \"0.6.4-20260816.1314+5ed10511\"\n  - revision: \"5ed10511\"\n  - timestamp: \"Sun Aug 16 02:22:41 2026\"\n\n#### What's Changed:\n- fix: emp - should invoke bind before we do intial handshake so that config is ready to be used in handshake.\n- emp toggling requires a restart - so enforce it, by asking user, otherwise do not accept changes if they dont wanna do it now\n\n#### Full Changelog: [a6b080e0...5ed10511](https://github.com/SideStore/SideStore/compare/a6b080e0680fd738d933b1239d967ebf5440f04b...5ed10511515d6de1bf1e2c7589ca68e3f35ea830)\n",
+              "version": "0.6.4-20260816.1316+499c2e99",
+              "date": "2026-08-16T06:32:24Z",
+              "localizedDescription": "#### This is release for:\n  - version: \"0.6.4-20260816.1316+499c2e99\"\n  - revision: \"499c2e99\"\n  - timestamp: \"Sun Aug 16 06:32:24 2026\"\n\n#### What's Changed:\n- promote permissions check from experimental to user cust\n- fix: removebackup shouldnt throw if backup not found coz we fine\n- refine the delete app dialog\n- feat: added remove only (from sidestore) option when deleting app\n- feat: added remove only (from sidestore) option when deleting app\n- fix: widget reload was not invoked after resign causing issue coz we skip reload at end during resign/self install.\n- moved export wireguard config into user customizations screen to be more accessible\n- minimuxer: cpu 3% hog issue fix\n\n#### Full Changelog: [5ed10511...499c2e99](https://github.com/SideStore/SideStore/compare/5ed10511515d6de1bf1e2c7589ca68e3f35ea830...499c2e9918f4c743e569ef1705eb0ee815321487)\n",
               "downloadURL": "https://github.com/SideStore/SideStore/releases/download/nightly/SideStore.ipa",
-              "size": 25129628,
-              "sha256": "1f720a0852dc0378b007a2eef6e26f0cc42941b85dc90258c4081036c912649a"
+              "size": 25138245,
+              "sha256": "675ee800f33fa06789e4004afc21c4187f262cc114440b5a14d9d8c8ba05c892"
             }
           ]
         },
