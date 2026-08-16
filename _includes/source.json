@@ -140,12 +140,12 @@
           "track": "nightly",
           "releases": [
             {
-              "version": "0.6.4-20260816.1312+669774eb",
-              "date": "2026-08-16T01:03:26Z",
-              "localizedDescription": "#### This is release for:\n  - version: \"0.6.4-20260816.1312+669774eb\"\n  - revision: \"669774eb\"\n  - timestamp: \"Sun Aug 16 01:03:26 2026\"\n\n#### What's Changed:\n- fix: make ddi mount error not criticial\n\n#### Full Changelog: [8d793445...669774eb](https://github.com/SideStore/SideStore/compare/8d7934452c9bf08dad9cb372028d51ff5ed27aa9...669774ebac7e1e44a7c0341228cb1f9c1aeb709e)\n",
+              "version": "0.6.4-20260816.1313+a6b080e0",
+              "date": "2026-08-16T02:05:47Z",
+              "localizedDescription": "#### This is release for:\n  - version: \"0.6.4-20260816.1313+a6b080e0\"\n  - revision: \"a6b080e0\"\n  - timestamp: \"Sun Aug 16 02:05:47 2026\"\n\n#### What's Changed:\n- show reachability yes/no only when valid otherwise N/A\n- improve messaging in footer (connection config)\n- fix: removed defaultOverrideIP so that auto discovery may kick in\n- qol: in connection config show override active or not only when present + show reachability\n\n#### Full Changelog: [669774eb...a6b080e0](https://github.com/SideStore/SideStore/compare/669774ebac7e1e44a7c0341228cb1f9c1aeb709e...a6b080e0680fd738d933b1239d967ebf5440f04b)\n",
               "downloadURL": "https://github.com/SideStore/SideStore/releases/download/nightly/SideStore.ipa",
-              "size": 25123684,
-              "sha256": "0ad96a9abe66aa616f9024a5b81cd1f2c990183b7e2226dc5287b72a5024418b"
+              "size": 25129134,
+              "sha256": "6bcf53fc75c310eab8314fa93cb1c270fb68fb09a056048a8a7b1e2192e24227"
             }
           ]
         },
