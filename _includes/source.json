@@ -140,12 +140,12 @@
           "track": "nightly",
           "releases": [
             {
-              "version": "0.6.4-20260816.1313+a6b080e0",
-              "date": "2026-08-16T02:05:47Z",
-              "localizedDescription": "#### This is release for:\n  - version: \"0.6.4-20260816.1313+a6b080e0\"\n  - revision: \"a6b080e0\"\n  - timestamp: \"Sun Aug 16 02:05:47 2026\"\n\n#### What's Changed:\n- show reachability yes/no only when valid otherwise N/A\n- improve messaging in footer (connection config)\n- fix: removed defaultOverrideIP so that auto discovery may kick in\n- qol: in connection config show override active or not only when present + show reachability\n\n#### Full Changelog: [669774eb...a6b080e0](https://github.com/SideStore/SideStore/compare/669774ebac7e1e44a7c0341228cb1f9c1aeb709e...a6b080e0680fd738d933b1239d967ebf5440f04b)\n",
+              "version": "0.6.4-20260816.1314+5ed10511",
+              "date": "2026-08-16T02:22:41Z",
+              "localizedDescription": "#### This is release for:\n  - version: \"0.6.4-20260816.1314+5ed10511\"\n  - revision: \"5ed10511\"\n  - timestamp: \"Sun Aug 16 02:22:41 2026\"\n\n#### What's Changed:\n- fix: emp - should invoke bind before we do intial handshake so that config is ready to be used in handshake.\n- emp toggling requires a restart - so enforce it, by asking user, otherwise do not accept changes if they dont wanna do it now\n\n#### Full Changelog: [a6b080e0...5ed10511](https://github.com/SideStore/SideStore/compare/a6b080e0680fd738d933b1239d967ebf5440f04b...5ed10511515d6de1bf1e2c7589ca68e3f35ea830)\n",
               "downloadURL": "https://github.com/SideStore/SideStore/releases/download/nightly/SideStore.ipa",
-              "size": 25129134,
-              "sha256": "6bcf53fc75c310eab8314fa93cb1c270fb68fb09a056048a8a7b1e2192e24227"
+              "size": 25129628,
+              "sha256": "1f720a0852dc0378b007a2eef6e26f0cc42941b85dc90258c4081036c912649a"
             }
           ]
         },
