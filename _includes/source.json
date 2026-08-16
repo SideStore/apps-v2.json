@@ -140,12 +140,12 @@
           "track": "nightly",
           "releases": [
             {
-              "version": "0.6.4-20260816.1317+1182058c",
-              "date": "2026-08-16T06:57:03Z",
-              "localizedDescription": "#### This is release for:\n  - version: \"0.6.4-20260816.1317+1182058c\"\n  - revision: \"1182058c\"\n  - timestamp: \"Sun Aug 16 06:57:03 2026\"\n\n#### What's Changed:\n- cleanup\n- fix: move out widget shared defaults into widged manager\n- bug-fix: app layer should be using Userdefaults.standard and not shared, unless it wants to share data with only other component being widgets\n\n#### Full Changelog: [499c2e99...1182058c](https://github.com/SideStore/SideStore/compare/499c2e9918f4c743e569ef1705eb0ee815321487...1182058c2568ed1a426426cdc16e35a5e3c7b336)\n",
+              "version": "0.6.4-20260816.1319+a15f2f3a",
+              "date": "2026-08-16T07:30:45Z",
+              "localizedDescription": "#### This is release for:\n  - version: \"0.6.4-20260816.1319+a15f2f3a\"\n  - revision: \"a15f2f3a\"\n  - timestamp: \"Sun Aug 16 07:30:45 2026\"\n\n#### What's Changed:\n- fix: temporarily reverting the no default overrideIP coz though our auto discovery works perfectly, localDevVPN is flawed in its routing table - so until it is fixed, to reduce friction we are okay with this\n- refine more\n- refined master switch for disabling app checks\n- added master switch for disabling app checks\n- more refinements in user cust screen icons\n- fix button sizing in the source detail vc which shows \"Free\" for sources such as StikNES\n- group few customizations stuff into own sections\n- promote app verification into user cust + tie permission checks to app verification\n\n#### Full Changelog: [1182058c...a15f2f3a](https://github.com/SideStore/SideStore/compare/1182058c2568ed1a426426cdc16e35a5e3c7b336...a15f2f3a190f08727c7f4bad8562e1dac3b64f91)\n",
               "downloadURL": "https://github.com/SideStore/SideStore/releases/download/nightly/SideStore.ipa",
-              "size": 25136984,
-              "sha256": "dd91f7d1c970a02f287e48e0b121f75ca711ae94027ce5127ea90e37ce23aa6a"
+              "size": 25151693,
+              "sha256": "d0ba15a9eca3b7bc7db5fd47890ca190efa961d0b5433737a7490be0933a1298"
             }
           ]
         },
