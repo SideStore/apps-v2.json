@@ -140,12 +140,12 @@
           "track": "nightly",
           "releases": [
             {
-              "version": "0.6.4-20260816.1316+499c2e99",
-              "date": "2026-08-16T06:32:24Z",
-              "localizedDescription": "#### This is release for:\n  - version: \"0.6.4-20260816.1316+499c2e99\"\n  - revision: \"499c2e99\"\n  - timestamp: \"Sun Aug 16 06:32:24 2026\"\n\n#### What's Changed:\n- promote permissions check from experimental to user cust\n- fix: removebackup shouldnt throw if backup not found coz we fine\n- refine the delete app dialog\n- feat: added remove only (from sidestore) option when deleting app\n- feat: added remove only (from sidestore) option when deleting app\n- fix: widget reload was not invoked after resign causing issue coz we skip reload at end during resign/self install.\n- moved export wireguard config into user customizations screen to be more accessible\n- minimuxer: cpu 3% hog issue fix\n\n#### Full Changelog: [5ed10511...499c2e99](https://github.com/SideStore/SideStore/compare/5ed10511515d6de1bf1e2c7589ca68e3f35ea830...499c2e9918f4c743e569ef1705eb0ee815321487)\n",
+              "version": "0.6.4-20260816.1317+1182058c",
+              "date": "2026-08-16T06:57:03Z",
+              "localizedDescription": "#### This is release for:\n  - version: \"0.6.4-20260816.1317+1182058c\"\n  - revision: \"1182058c\"\n  - timestamp: \"Sun Aug 16 06:57:03 2026\"\n\n#### What's Changed:\n- cleanup\n- fix: move out widget shared defaults into widged manager\n- bug-fix: app layer should be using Userdefaults.standard and not shared, unless it wants to share data with only other component being widgets\n\n#### Full Changelog: [499c2e99...1182058c](https://github.com/SideStore/SideStore/compare/499c2e9918f4c743e569ef1705eb0ee815321487...1182058c2568ed1a426426cdc16e35a5e3c7b336)\n",
               "downloadURL": "https://github.com/SideStore/SideStore/releases/download/nightly/SideStore.ipa",
-              "size": 25138245,
-              "sha256": "675ee800f33fa06789e4004afc21c4187f262cc114440b5a14d9d8c8ba05c892"
+              "size": 25136984,
+              "sha256": "dd91f7d1c970a02f287e48e0b121f75ca711ae94027ce5127ea90e37ce23aa6a"
             }
           ]
         },
