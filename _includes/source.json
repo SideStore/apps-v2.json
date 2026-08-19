@@ -140,12 +140,12 @@
           "track": "nightly",
           "releases": [
             {
-              "version": "0.6.4-20260818.1326+0f3ef006",
-              "date": "2026-08-18T02:21:07Z",
-              "localizedDescription": "#### This is release for:\n  - version: \"0.6.4-20260818.1326+0f3ef006\"\n  - revision: \"0f3ef006\"\n  - timestamp: \"Tue Aug 18 02:21:07 2026\"\n\n#### What's Changed:\n- feat: added ondevice anisette data generation\n\n#### Full Changelog: [63228a5b...0f3ef006](https://github.com/SideStore/SideStore/compare/63228a5b4f649893132245d81b9263fd6b63866d...0f3ef0065167abe0c1e5071c47bdc1c19c8b4cb1)\n",
+              "version": "0.6.4-20260819.1328+adf730f6",
+              "date": "2026-08-19T05:15:02Z",
+              "localizedDescription": "#### This is release for:\n  - version: \"0.6.4-20260819.1328+adf730f6\"\n  - revision: \"adf730f6\"\n  - timestamp: \"Wed Aug 19 05:15:02 2026\"\n\n#### What's Changed:\n- disabled ondevice ani flow for now - to not cause trouble to users\n\n#### Full Changelog: [0f3ef006...adf730f6](https://github.com/SideStore/SideStore/compare/0f3ef0065167abe0c1e5071c47bdc1c19c8b4cb1...adf730f62136f22d889f1491c4ed0766f8655484)\n",
               "downloadURL": "https://github.com/SideStore/SideStore/releases/download/nightly/SideStore.ipa",
-              "size": 25743495,
-              "sha256": "9c1959733a3f16f5a7a07eb1280b60d1da2c529f2f18d98bf99827733d060278"
+              "size": 25746098,
+              "sha256": "5699eccb6b6942ae63e319be95cdc22f29fb81360f8b9f34af74988109034f71"
             }
           ]
         },
