@@ -140,12 +140,12 @@
           "track": "nightly",
           "releases": [
             {
-              "version": "0.6.4-20260819.1328+adf730f6",
-              "date": "2026-08-19T05:15:02Z",
-              "localizedDescription": "#### This is release for:\n  - version: \"0.6.4-20260819.1328+adf730f6\"\n  - revision: \"adf730f6\"\n  - timestamp: \"Wed Aug 19 05:15:02 2026\"\n\n#### What's Changed:\n- disabled ondevice ani flow for now - to not cause trouble to users\n\n#### Full Changelog: [0f3ef006...adf730f6](https://github.com/SideStore/SideStore/compare/0f3ef0065167abe0c1e5071c47bdc1c19c8b4cb1...adf730f62136f22d889f1491c4ed0766f8655484)\n",
+              "version": "0.6.4-20260822.1332+dbccc11c",
+              "date": "2026-08-22T10:08:46Z",
+              "localizedDescription": "#### This is release for:\n  - version: \"0.6.4-20260822.1332+dbccc11c\"\n  - revision: \"dbccc11c\"\n  - timestamp: \"Sat Aug 22 10:08:46 2026\"\n\n#### What's Changed:\n- added maintenance manager that could be used for performing maintenance (currently clears keychain so that OnDeviceAnisette take work properly - will initiate a fresh sign in)\n- ensure signout doesn't crash if db isn't ready\n- Revert \"disabled ondevice ani flow for now - to not cause trouble to users\"\n\n#### Full Changelog: [adf730f6...dbccc11c](https://github.com/SideStore/SideStore/compare/adf730f62136f22d889f1491c4ed0766f8655484...dbccc11c8561ee2db8bef911ac0ffabf1d0271dd)\n",
               "downloadURL": "https://github.com/SideStore/SideStore/releases/download/nightly/SideStore.ipa",
-              "size": 25746098,
-              "sha256": "5699eccb6b6942ae63e319be95cdc22f29fb81360f8b9f34af74988109034f71"
+              "size": 25747740,
+              "sha256": "813ea08e625821c46d24088b42ffc66a705ab767f6e81ab80b98b381cfb4824a"
             }
           ]
         },
