@@ -140,12 +140,12 @@
           "track": "nightly",
           "releases": [
             {
-              "version": "0.6.4-20260823.1338+e560ad6a",
-              "date": "2026-08-23T14:37:40Z",
-              "localizedDescription": "#### This is release for:\n  - version: \"0.6.4-20260823.1338+e560ad6a\"\n  - revision: \"e560ad6a\"\n  - timestamp: \"Sun Aug 23 14:37:40 2026\"\n\n#### What's Changed:\n- fix all sidejit issues and use bonjour sergices to look up remote server on lan\n- fix: restored JIT functionality - tested with remote server on LAN\n- freeze anisetteKit to latest\n\n#### Full Changelog: [20655d1e...e560ad6a](https://github.com/SideStore/SideStore/compare/20655d1e7da911a70bb0e9ccd27a29a7db36a13e...e560ad6a6ff8e2d62aef375ae878d95f1a5a2c3d)\n",
+              "version": "0.6.4-20260823.1339+98093039",
+              "date": "2026-08-23T15:43:28Z",
+              "localizedDescription": "#### This is release for:\n  - version: \"0.6.4-20260823.1339+98093039\"\n  - revision: \"98093039\"\n  - timestamp: \"Sun Aug 23 15:43:28 2026\"\n\n#### What's Changed:\n- make bonjour scan for rppairing port run only on failure as a one time retry per failure.\n- wip - implemented bonjour based rppairing port discovery - this is costly eating 4% cpu, so gotta need to only try if a failure occured as a retry and if we detect a port change\n\n#### Full Changelog: [e560ad6a...98093039](https://github.com/SideStore/SideStore/compare/e560ad6a6ff8e2d62aef375ae878d95f1a5a2c3d...98093039ef1c29dfaac44c2fd13260c884ea9b29)\n",
               "downloadURL": "https://github.com/SideStore/SideStore/releases/download/nightly/SideStore.ipa",
-              "size": 26715190,
-              "sha256": "164acf6bf7582de5098f471802e1d088d4e2101340d0437a97efa4843077b8be"
+              "size": 26722664,
+              "sha256": "21a1dd717be5fb77d8b53adaae6158aa24c5d2947488059f4171df79c69f3d3b"
             }
           ]
         },
