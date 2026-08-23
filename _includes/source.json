@@ -140,12 +140,12 @@
           "track": "nightly",
           "releases": [
             {
-              "version": "0.6.4-20260823.1335+e7b27010",
-              "date": "2026-08-23T10:57:23Z",
-              "localizedDescription": "#### This is release for:\n  - version: \"0.6.4-20260823.1335+e7b27010\"\n  - revision: \"e7b27010\"\n  - timestamp: \"Sun Aug 23 10:57:23 2026\"\n\n#### What's Changed:\n- updated submodule to latest\n- feat: added capability to switch between idevice (rust) or limd+remotepair (cpp)\n- prepare minimuxer wrapper for adding capability to switch backend (idevice/limd based)\n- shared ipa on cold lauch/boot doesn't show install prompt\n- fix certificates import with password not having securityScopedAccess\n- fix: updated altsign back to use static linking now that minimuxer's device gateways are dynamic to prevent symbol collision during static linking + limd/rsd in cpp based devicegateway\n- enable dignostics menu for all\n- updated operations to print elapsed time\n\n#### Full Changelog: [dbccc11c...e7b27010](https://github.com/SideStore/SideStore/compare/dbccc11c8561ee2db8bef911ac0ffabf1d0271dd...e7b27010fe76df19f0947fd01f47e5c10c8ec410)\n",
+              "version": "0.6.4-20260823.1337+20655d1e",
+              "date": "2026-08-23T12:03:23Z",
+              "localizedDescription": "#### This is release for:\n  - version: \"0.6.4-20260823.1337+20655d1e\"\n  - revision: \"20655d1e\"\n  - timestamp: \"Sun Aug 23 12:03:23 2026\"\n\n#### What's Changed:\n- keep fetch sources timeout to 5 secs\n- updated minimuxer to latest\n- fix-oda: handle with server's UUID if our current uuid instatiation failed\n- recommended sources - reduce timeout to 10 secs, coz let them retry if required\n\n#### Full Changelog: [e7b27010...20655d1e](https://github.com/SideStore/SideStore/compare/e7b27010fe76df19f0947fd01f47e5c10c8ec410...20655d1e7da911a70bb0e9ccd27a29a7db36a13e)\n",
               "downloadURL": "https://github.com/SideStore/SideStore/releases/download/nightly/SideStore.ipa",
-              "size": 26676740,
-              "sha256": "bbae075ca176ecb9b2f82b447d603e1e77fb8a747077a2f889f7c1820cefc473"
+              "size": 26677582,
+              "sha256": "456bccdfbe13db84a93d4ab22e664805329b0350ff7f568e4103f4c6a8a74076"
             }
           ]
         },
