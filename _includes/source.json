@@ -140,12 +140,12 @@
           "track": "nightly",
           "releases": [
             {
-              "version": "0.6.4-20260822.1332+dbccc11c",
-              "date": "2026-08-22T10:08:46Z",
-              "localizedDescription": "#### This is release for:\n  - version: \"0.6.4-20260822.1332+dbccc11c\"\n  - revision: \"dbccc11c\"\n  - timestamp: \"Sat Aug 22 10:08:46 2026\"\n\n#### What's Changed:\n- added maintenance manager that could be used for performing maintenance (currently clears keychain so that OnDeviceAnisette take work properly - will initiate a fresh sign in)\n- ensure signout doesn't crash if db isn't ready\n- Revert \"disabled ondevice ani flow for now - to not cause trouble to users\"\n\n#### Full Changelog: [adf730f6...dbccc11c](https://github.com/SideStore/SideStore/compare/adf730f62136f22d889f1491c4ed0766f8655484...dbccc11c8561ee2db8bef911ac0ffabf1d0271dd)\n",
+              "version": "0.6.4-20260823.1335+e7b27010",
+              "date": "2026-08-23T10:57:23Z",
+              "localizedDescription": "#### This is release for:\n  - version: \"0.6.4-20260823.1335+e7b27010\"\n  - revision: \"e7b27010\"\n  - timestamp: \"Sun Aug 23 10:57:23 2026\"\n\n#### What's Changed:\n- updated submodule to latest\n- feat: added capability to switch between idevice (rust) or limd+remotepair (cpp)\n- prepare minimuxer wrapper for adding capability to switch backend (idevice/limd based)\n- shared ipa on cold lauch/boot doesn't show install prompt\n- fix certificates import with password not having securityScopedAccess\n- fix: updated altsign back to use static linking now that minimuxer's device gateways are dynamic to prevent symbol collision during static linking + limd/rsd in cpp based devicegateway\n- enable dignostics menu for all\n- updated operations to print elapsed time\n\n#### Full Changelog: [dbccc11c...e7b27010](https://github.com/SideStore/SideStore/compare/dbccc11c8561ee2db8bef911ac0ffabf1d0271dd...e7b27010fe76df19f0947fd01f47e5c10c8ec410)\n",
               "downloadURL": "https://github.com/SideStore/SideStore/releases/download/nightly/SideStore.ipa",
-              "size": 25747740,
-              "sha256": "813ea08e625821c46d24088b42ffc66a705ab767f6e81ab80b98b381cfb4824a"
+              "size": 26676740,
+              "sha256": "bbae075ca176ecb9b2f82b447d603e1e77fb8a747077a2f889f7c1820cefc473"
             }
           ]
         },
