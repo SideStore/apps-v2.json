@@ -140,12 +140,12 @@
           "track": "nightly",
           "releases": [
             {
-              "version": "0.6.4-20260823.1337+20655d1e",
-              "date": "2026-08-23T12:03:23Z",
-              "localizedDescription": "#### This is release for:\n  - version: \"0.6.4-20260823.1337+20655d1e\"\n  - revision: \"20655d1e\"\n  - timestamp: \"Sun Aug 23 12:03:23 2026\"\n\n#### What's Changed:\n- keep fetch sources timeout to 5 secs\n- updated minimuxer to latest\n- fix-oda: handle with server's UUID if our current uuid instatiation failed\n- recommended sources - reduce timeout to 10 secs, coz let them retry if required\n\n#### Full Changelog: [e7b27010...20655d1e](https://github.com/SideStore/SideStore/compare/e7b27010fe76df19f0947fd01f47e5c10c8ec410...20655d1e7da911a70bb0e9ccd27a29a7db36a13e)\n",
+              "version": "0.6.4-20260823.1338+e560ad6a",
+              "date": "2026-08-23T14:37:40Z",
+              "localizedDescription": "#### This is release for:\n  - version: \"0.6.4-20260823.1338+e560ad6a\"\n  - revision: \"e560ad6a\"\n  - timestamp: \"Sun Aug 23 14:37:40 2026\"\n\n#### What's Changed:\n- fix all sidejit issues and use bonjour sergices to look up remote server on lan\n- fix: restored JIT functionality - tested with remote server on LAN\n- freeze anisetteKit to latest\n\n#### Full Changelog: [20655d1e...e560ad6a](https://github.com/SideStore/SideStore/compare/20655d1e7da911a70bb0e9ccd27a29a7db36a13e...e560ad6a6ff8e2d62aef375ae878d95f1a5a2c3d)\n",
               "downloadURL": "https://github.com/SideStore/SideStore/releases/download/nightly/SideStore.ipa",
-              "size": 26677582,
-              "sha256": "456bccdfbe13db84a93d4ab22e664805329b0350ff7f568e4103f4c6a8a74076"
+              "size": 26715190,
+              "sha256": "164acf6bf7582de5098f471802e1d088d4e2101340d0437a97efa4843077b8be"
             }
           ]
         },
