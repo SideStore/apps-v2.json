@@ -140,12 +140,12 @@
           "track": "nightly",
           "releases": [
             {
-              "version": "0.6.4-20260823.1339+98093039",
-              "date": "2026-08-23T15:43:28Z",
-              "localizedDescription": "#### This is release for:\n  - version: \"0.6.4-20260823.1339+98093039\"\n  - revision: \"98093039\"\n  - timestamp: \"Sun Aug 23 15:43:28 2026\"\n\n#### What's Changed:\n- make bonjour scan for rppairing port run only on failure as a one time retry per failure.\n- wip - implemented bonjour based rppairing port discovery - this is costly eating 4% cpu, so gotta need to only try if a failure occured as a retry and if we detect a port change\n\n#### Full Changelog: [e560ad6a...98093039](https://github.com/SideStore/SideStore/compare/e560ad6a6ff8e2d62aef375ae878d95f1a5a2c3d...98093039ef1c29dfaac44c2fd13260c884ea9b29)\n",
+              "version": "0.6.4-20260823.1341+829ad849",
+              "date": "2026-08-23T15:54:26Z",
+              "localizedDescription": "#### This is release for:\n  - version: \"0.6.4-20260823.1341+829ad849\"\n  - revision: \"829ad849\"\n  - timestamp: \"Sun Aug 23 15:54:26 2026\"\n\n#### What's Changed:\n- fix compile issues\n- optimize: handle onFailure bonjour scan to not be doing timeouts when nw is down or other types of issues.\n\n#### Full Changelog: [98093039...829ad849](https://github.com/SideStore/SideStore/compare/98093039ef1c29dfaac44c2fd13260c884ea9b29...829ad849fc31d1344f13601cb6a0200472052e03)\n",
               "downloadURL": "https://github.com/SideStore/SideStore/releases/download/nightly/SideStore.ipa",
-              "size": 26722664,
-              "sha256": "21a1dd717be5fb77d8b53adaae6158aa24c5d2947488059f4171df79c69f3d3b"
+              "size": 26727663,
+              "sha256": "43d256535c580a03f6b5fbb458a61ad4d3f824bcc483b3e17dfff20ace7d5b29"
             }
           ]
         },
