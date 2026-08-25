@@ -140,12 +140,12 @@
           "track": "nightly",
           "releases": [
             {
-              "version": "0.6.4-20260825.1345+8917d997",
-              "date": "2026-08-25T10:45:21Z",
-              "localizedDescription": "#### This is release for:\n  - version: \"0.6.4-20260825.1345+8917d997\"\n  - revision: \"8917d997\"\n  - timestamp: \"Tue Aug 25 10:45:21 2026\"\n\n#### What's Changed:\n- move to bg thread on getaddrinfo, removed invalid host probing\n- make json response in sidejit manager to be pretty printed\n- fix the bonjour discovery, formatting issues + sidejit mdns validation\n- added logging + refine constants for bonjour\n- added more logging for sidejit diagnostics\n- jit: added alias domain for sidejit server in mDNS discovery\n- fix most of bonjour issues and reduced unncessary scans + added more info in detail view\n- added toolbar button to turn off auto-refresh\n- fix: bonjour service entries weren't cleared for old/out of date ones.\n- bonjour: bring back period refresh\n- restored wireless pair coz it was too clunky - will redo properly in next few commits (+bonjour view make it manual for now)\n- refine and consolidate the wireless pairing flow + manual pair trigger (+ some bonjour services enhancements)\n- added more mdns addrs that we scan for including apple tv's remotepairing manual tcp\n- attempt integrating wireless pair setup properly\n- mDNS-sd: Fixes for infinite resolving issue in bonjour manager\n\n#### Full Changelog: [b6cd85c1...8917d997](https://github.com/SideStore/SideStore/compare/b6cd85c1c4c5ea53088303a6979410ad497b58d7...8917d9972c558347309d57a83d66fc360da9d4d0)\n",
+              "version": "0.6.4-20260825.1346+50cbedfc",
+              "date": "2026-08-25T14:28:42Z",
+              "localizedDescription": "#### This is release for:\n  - version: \"0.6.4-20260825.1346+50cbedfc\"\n  - revision: \"50cbedfc\"\n  - timestamp: \"Tue Aug 25 14:28:42 2026\"\n\n#### What's Changed:\n- updated minimuxer to latest\n- fixes for wireless pairing + validated on apple tv manually end-to-end\n- rework wiring for both wireless pairing server and manually triggered client-pairing mode\n\n#### Full Changelog: [8917d997...50cbedfc](https://github.com/SideStore/SideStore/compare/8917d9972c558347309d57a83d66fc360da9d4d0...50cbedfc571fc7368f0f8fbb31d2e8b6fd01f721)\n",
               "downloadURL": "https://github.com/SideStore/SideStore/releases/download/nightly/SideStore.ipa",
-              "size": 26818471,
-              "sha256": "ee9340c669a0345bf607ed9d2e2196fe5afd7ca2a4d75b44180b4464d4665638"
+              "size": 26909165,
+              "sha256": "ee69c8f60deda6895beab7da468ac57ffc83999861efcf5ae1f3d8bf09625a63"
             }
           ]
         },
