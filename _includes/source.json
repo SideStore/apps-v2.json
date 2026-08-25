@@ -140,12 +140,12 @@
           "track": "nightly",
           "releases": [
             {
-              "version": "0.6.4-20260823.1342+b6cd85c1",
-              "date": "2026-08-23T16:04:33Z",
-              "localizedDescription": "#### This is release for:\n  - version: \"0.6.4-20260823.1342+b6cd85c1\"\n  - revision: \"b6cd85c1\"\n  - timestamp: \"Sun Aug 23 16:04:33 2026\"\n\n#### What's Changed:\n- ensure config changes for rppairing port are reflected asap\n\n#### Full Changelog: [829ad849...b6cd85c1](https://github.com/SideStore/SideStore/compare/829ad849fc31d1344f13601cb6a0200472052e03...b6cd85c1c4c5ea53088303a6979410ad497b58d7)\n",
+              "version": "0.6.4-20260825.1345+8917d997",
+              "date": "2026-08-25T10:45:21Z",
+              "localizedDescription": "#### This is release for:\n  - version: \"0.6.4-20260825.1345+8917d997\"\n  - revision: \"8917d997\"\n  - timestamp: \"Tue Aug 25 10:45:21 2026\"\n\n#### What's Changed:\n- move to bg thread on getaddrinfo, removed invalid host probing\n- make json response in sidejit manager to be pretty printed\n- fix the bonjour discovery, formatting issues + sidejit mdns validation\n- added logging + refine constants for bonjour\n- added more logging for sidejit diagnostics\n- jit: added alias domain for sidejit server in mDNS discovery\n- fix most of bonjour issues and reduced unncessary scans + added more info in detail view\n- added toolbar button to turn off auto-refresh\n- fix: bonjour service entries weren't cleared for old/out of date ones.\n- bonjour: bring back period refresh\n- restored wireless pair coz it was too clunky - will redo properly in next few commits (+bonjour view make it manual for now)\n- refine and consolidate the wireless pairing flow + manual pair trigger (+ some bonjour services enhancements)\n- added more mdns addrs that we scan for including apple tv's remotepairing manual tcp\n- attempt integrating wireless pair setup properly\n- mDNS-sd: Fixes for infinite resolving issue in bonjour manager\n\n#### Full Changelog: [b6cd85c1...8917d997](https://github.com/SideStore/SideStore/compare/b6cd85c1c4c5ea53088303a6979410ad497b58d7...8917d9972c558347309d57a83d66fc360da9d4d0)\n",
               "downloadURL": "https://github.com/SideStore/SideStore/releases/download/nightly/SideStore.ipa",
-              "size": 26728484,
-              "sha256": "6add8bdc0f46abcb48e9b9042ef02a096b28bcfa8e104492e81ce8edc772eeca"
+              "size": 26818471,
+              "sha256": "ee9340c669a0345bf607ed9d2e2196fe5afd7ca2a4d75b44180b4464d4665638"
             }
           ]
         },
