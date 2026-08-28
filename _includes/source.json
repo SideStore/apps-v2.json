@@ -140,12 +140,12 @@
           "track": "nightly",
           "releases": [
             {
-              "version": "0.6.4-20260827.1349+10d27446",
-              "date": "2026-08-27T20:00:30Z",
-              "localizedDescription": "#### This is release for:\n  - version: \"0.6.4-20260827.1349+10d27446\"\n  - revision: \"10d27446\"\n  - timestamp: \"Thu Aug 27 20:00:30 2026\"\n\n#### What's Changed:\n- tvOS compiles, runs + signs-in + minimuxer works lol (check-in point)\n- attempt tvOS compilation\n- attempt tvOS compilation\n- attempt tvOS compilation\n- attempt tvOS compilation\n- attempt tvOS compilation\n- attempt tvOS compilation\n- cleanup - removed obsolete files\n- cleanup - remove any and all #if available(ios, xx) checks for anything less than 16 coz we are current default min ios 15\n- attempt tvOS compilation\n- cleanup - removed vc previews which we dont use\n- attempt tvOS compilation\n- cleanup: removed pre-ios15 stuff since our miniOSVer is ios 15\n- cleanup - removed unused obsolete webviewcontroller\n- added bg processing entitlement\n- moved things around + use topshelf provider instead of widgets\n- import cleanup\n\n#### Full Changelog: [50cbedfc...10d27446](https://github.com/SideStore/SideStore/compare/50cbedfc571fc7368f0f8fbb31d2e8b6fd01f721...10d27446ccf89f3579fba1f044ddbe2af14b88c8)\n",
+              "version": "0.6.4-20260828.1351+ecaa50c4",
+              "date": "2026-08-28T09:45:24Z",
+              "localizedDescription": "#### This is release for:\n  - version: \"0.6.4-20260828.1351+ecaa50c4\"\n  - revision: \"ecaa50c4\"\n  - timestamp: \"Fri Aug 28 09:45:24 2026\"\n\n#### What's Changed:\n- cleanup: xcode's constant pbxproj woes\n- fix: removed redundant stuff which sideloadApp() was doing despite already present in pipeline (moved all to appmanager).\n- fix: customAppID feature was broken coz installedApp was still using bundleId instead of resignedbundleid/custombundleId\n\n#### Full Changelog: [10d27446...ecaa50c4](https://github.com/SideStore/SideStore/compare/10d27446ccf89f3579fba1f044ddbe2af14b88c8...ecaa50c4001082b8a8b0aa7d70d7654e32e051a1)\n",
               "downloadURL": "https://github.com/SideStore/SideStore/releases/download/nightly/SideStore.ipa",
-              "size": 27005010,
-              "sha256": "9d252b49e729f4acd3c1e051549021187bf4c5a9266060355e556f3e9af2ff2d"
+              "size": 27003707,
+              "sha256": "65b7b4235d284dc56cee285c4a075e55ab3dda3cf3daa108ee340354f85eec79"
             }
           ]
         },
