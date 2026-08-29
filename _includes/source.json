@@ -140,12 +140,12 @@
           "track": "nightly",
           "releases": [
             {
-              "version": "0.6.4-20260828.1351+ecaa50c4",
-              "date": "2026-08-28T09:45:24Z",
-              "localizedDescription": "#### This is release for:\n  - version: \"0.6.4-20260828.1351+ecaa50c4\"\n  - revision: \"ecaa50c4\"\n  - timestamp: \"Fri Aug 28 09:45:24 2026\"\n\n#### What's Changed:\n- cleanup: xcode's constant pbxproj woes\n- fix: removed redundant stuff which sideloadApp() was doing despite already present in pipeline (moved all to appmanager).\n- fix: customAppID feature was broken coz installedApp was still using bundleId instead of resignedbundleid/custombundleId\n\n#### Full Changelog: [10d27446...ecaa50c4](https://github.com/SideStore/SideStore/compare/10d27446ccf89f3579fba1f044ddbe2af14b88c8...ecaa50c4001082b8a8b0aa7d70d7654e32e051a1)\n",
+              "version": "0.6.4-20260829.1352+f3a18d61",
+              "date": "2026-08-29T00:58:45Z",
+              "localizedDescription": "#### This is release for:\n  - version: \"0.6.4-20260829.1352+f3a18d61\"\n  - revision: \"f3a18d61\"\n  - timestamp: \"Sat Aug 29 00:58:45 2026\"\n\n#### What's Changed:\n- fixes for appIds customization overwriting the existing entity instead of creating new for different appid + added appending teamID to be optional/selectable\n- refine archive/zip fingerprinting for ipa sharing if nothing changed in the input interms of bundle contents\n- updated submodules to latest + api updates to make them match\n- remove unused security imports\n- move cache ownership to CacheAppOperation\n- cleanup: fix the log messages format\n\n#### Full Changelog: [ecaa50c4...f3a18d61](https://github.com/SideStore/SideStore/compare/ecaa50c4001082b8a8b0aa7d70d7654e32e051a1...f3a18d61efae65b05dc935fff75b89225efdb0ff)\n",
               "downloadURL": "https://github.com/SideStore/SideStore/releases/download/nightly/SideStore.ipa",
-              "size": 27003707,
-              "sha256": "65b7b4235d284dc56cee285c4a075e55ab3dda3cf3daa108ee340354f85eec79"
+              "size": 28045206,
+              "sha256": "809a8f1004965bc694bf19f151e7218001e4290f497509d70b2dd2ac5400f192"
             }
           ]
         },
