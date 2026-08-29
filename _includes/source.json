@@ -140,12 +140,12 @@
           "track": "nightly",
           "releases": [
             {
-              "version": "0.6.4-20260829.1352+f3a18d61",
-              "date": "2026-08-29T00:58:45Z",
-              "localizedDescription": "#### This is release for:\n  - version: \"0.6.4-20260829.1352+f3a18d61\"\n  - revision: \"f3a18d61\"\n  - timestamp: \"Sat Aug 29 00:58:45 2026\"\n\n#### What's Changed:\n- fixes for appIds customization overwriting the existing entity instead of creating new for different appid + added appending teamID to be optional/selectable\n- refine archive/zip fingerprinting for ipa sharing if nothing changed in the input interms of bundle contents\n- updated submodules to latest + api updates to make them match\n- remove unused security imports\n- move cache ownership to CacheAppOperation\n- cleanup: fix the log messages format\n\n#### Full Changelog: [ecaa50c4...f3a18d61](https://github.com/SideStore/SideStore/compare/ecaa50c4001082b8a8b0aa7d70d7654e32e051a1...f3a18d61efae65b05dc935fff75b89225efdb0ff)\n",
+              "version": "0.6.4-20260829.1354+1dfd5b99",
+              "date": "2026-08-29T16:15:10Z",
+              "localizedDescription": "#### This is release for:\n  - version: \"0.6.4-20260829.1354+1dfd5b99\"\n  - revision: \"1dfd5b99\"\n  - timestamp: \"Sat Aug 29 16:15:10 2026\"\n\n#### What's Changed:\n- fix: auth srp client implementation had gaps in GSACryptoKit preventing sign-in with incorrect password\n\n#### Full Changelog: [f3a18d61...1dfd5b99](https://github.com/SideStore/SideStore/compare/f3a18d61efae65b05dc935fff75b89225efdb0ff...1dfd5b99227d6cb39969f235feba47fea72f3592)\n",
               "downloadURL": "https://github.com/SideStore/SideStore/releases/download/nightly/SideStore.ipa",
-              "size": 28045206,
-              "sha256": "809a8f1004965bc694bf19f151e7218001e4290f497509d70b2dd2ac5400f192"
+              "size": 28079232,
+              "sha256": "ab0ff1c7c63b2d7158de982cc011894c626b67beb2b0b189af31ff565493d0c6"
             }
           ]
         },
