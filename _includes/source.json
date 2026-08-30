@@ -140,12 +140,12 @@
           "track": "nightly",
           "releases": [
             {
-              "version": "0.6.4-20260830.1356+1506b3d2",
-              "date": "2026-08-30T14:53:26Z",
-              "localizedDescription": "#### This is release for:\n  - version: \"0.6.4-20260830.1356+1506b3d2\"\n  - revision: \"1506b3d2\"\n  - timestamp: \"Sun Aug 30 14:53:26 2026\"\n\n#### What's Changed:\n- fix: added capability to show errors during 2fa sequence and before prompting another retry\n- 2FA rework - added fully support for all types of 2FA handling and error responses + added guards to handlers so that when UI context is necessary but is not present let it error out so callers can handle properly\n- more compilation fixes + cleanup\n- updated to latest sidesign + cleanup of things\n- fix: ensure email field doesn't auto correct and tab puts curor onto password or next field\n- switch import statements from altsign to sidesign\n- updated submodules to latest\n- switch from altsign to sidesign\n\n#### Full Changelog: [1dfd5b99...1506b3d2](https://github.com/SideStore/SideStore/compare/1dfd5b99227d6cb39969f235feba47fea72f3592...1506b3d29f415b2ce713277829ea14caee44a1c7)\n",
+              "version": "0.6.4-20260830.1357+02b41c2d",
+              "date": "2026-08-30T16:30:54Z",
+              "localizedDescription": "#### This is release for:\n  - version: \"0.6.4-20260830.1357+02b41c2d\"\n  - revision: \"02b41c2d\"\n  - timestamp: \"Sun Aug 30 16:30:54 2026\"\n\n#### What's Changed:\n- streamline anisette operations by directly delegating to sidesign\n- updated submodule to latest\n\n#### Full Changelog: [1506b3d2...02b41c2d](https://github.com/SideStore/SideStore/compare/1506b3d29f415b2ce713277829ea14caee44a1c7...02b41c2d40cd4a34250bb15407cff74ac0c000d6)\n",
               "downloadURL": "https://github.com/SideStore/SideStore/releases/download/nightly/SideStore.ipa",
-              "size": 27273548,
-              "sha256": "7bd005f01a0376f3ae8a118a1e54096eda708edb291af5f8aab5ea2bbaa1bc99"
+              "size": 27241101,
+              "sha256": "4b1d3f0fbdd065d277db9cf79265606c2c8b5810b38aebad1173820b45b40406"
             }
           ]
         },
