@@ -140,12 +140,12 @@
           "track": "nightly",
           "releases": [
             {
-              "version": "0.6.4-20260830.1357+02b41c2d",
-              "date": "2026-08-30T16:30:54Z",
-              "localizedDescription": "#### This is release for:\n  - version: \"0.6.4-20260830.1357+02b41c2d\"\n  - revision: \"02b41c2d\"\n  - timestamp: \"Sun Aug 30 16:30:54 2026\"\n\n#### What's Changed:\n- streamline anisette operations by directly delegating to sidesign\n- updated submodule to latest\n\n#### Full Changelog: [1506b3d2...02b41c2d](https://github.com/SideStore/SideStore/compare/1506b3d29f415b2ce713277829ea14caee44a1c7...02b41c2d40cd4a34250bb15407cff74ac0c000d6)\n",
+              "version": "0.6.4-20260831.1359+b51bafa8",
+              "date": "2026-08-31T11:59:41Z",
+              "localizedDescription": "#### This is release for:\n  - version: \"0.6.4-20260831.1359+b51bafa8\"\n  - revision: \"b51bafa8\"\n  - timestamp: \"Mon Aug 31 11:59:41 2026\"\n\n#### What's Changed:\n- fix: was unconditionally processing appgroup\n- updated to latest sidesign\n- updated submodule to latest\n- updated submodule to latest\n\n#### Full Changelog: [02b41c2d...b51bafa8](https://github.com/SideStore/SideStore/compare/02b41c2d40cd4a34250bb15407cff74ac0c000d6...b51bafa8add8c8a6f83e016ff7dce384a0f615ea)\n",
               "downloadURL": "https://github.com/SideStore/SideStore/releases/download/nightly/SideStore.ipa",
-              "size": 27241101,
-              "sha256": "4b1d3f0fbdd065d277db9cf79265606c2c8b5810b38aebad1173820b45b40406"
+              "size": 27235920,
+              "sha256": "810cf4dc4e98335e3bb5dc60a8d19eaa9186d301ac076a5bbae3fe3771dd0717"
             }
           ]
         },
