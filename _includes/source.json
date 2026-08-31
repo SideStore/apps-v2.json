@@ -140,12 +140,12 @@
           "track": "nightly",
           "releases": [
             {
-              "version": "0.6.4-20260831.1359+b51bafa8",
-              "date": "2026-08-31T11:59:41Z",
-              "localizedDescription": "#### This is release for:\n  - version: \"0.6.4-20260831.1359+b51bafa8\"\n  - revision: \"b51bafa8\"\n  - timestamp: \"Mon Aug 31 11:59:41 2026\"\n\n#### What's Changed:\n- fix: was unconditionally processing appgroup\n- updated to latest sidesign\n- updated submodule to latest\n- updated submodule to latest\n\n#### Full Changelog: [02b41c2d...b51bafa8](https://github.com/SideStore/SideStore/compare/02b41c2d40cd4a34250bb15407cff74ac0c000d6...b51bafa8add8c8a6f83e016ff7dce384a0f615ea)\n",
+              "version": "0.6.4-20260831.1360+3dc127ee",
+              "date": "2026-08-31T14:00:17Z",
+              "localizedDescription": "#### This is release for:\n  - version: \"0.6.4-20260831.1360+3dc127ee\"\n  - revision: \"3dc127ee\"\n  - timestamp: \"Mon Aug 31 14:00:17 2026\"\n\n#### What's Changed:\n- fix updateAppIDs in fetch profiles to operate on applicable features only\n- ensure errors from app layer do not use upstream error as their own\n\n#### Full Changelog: [b51bafa8...3dc127ee](https://github.com/SideStore/SideStore/compare/b51bafa8add8c8a6f83e016ff7dce384a0f615ea...3dc127ee6f17aa20f0863becd07c0c6043d8dddd)\n",
               "downloadURL": "https://github.com/SideStore/SideStore/releases/download/nightly/SideStore.ipa",
-              "size": 27235920,
-              "sha256": "810cf4dc4e98335e3bb5dc60a8d19eaa9186d301ac076a5bbae3fe3771dd0717"
+              "size": 27239361,
+              "sha256": "c29ab09cad219d487b46f05f4f45b1fe274c93cb17d9bb6d48a93c8ac12de9dc"
             }
           ]
         },
