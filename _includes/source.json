@@ -140,12 +140,12 @@
           "track": "nightly",
           "releases": [
             {
-              "version": "0.6.4-20260902.1364+49cc2f46",
-              "date": "2026-09-02T18:38:16Z",
-              "localizedDescription": "#### This is release for:\n  - version: \"0.6.4-20260902.1364+49cc2f46\"\n  - revision: \"49cc2f46\"\n  - timestamp: \"Wed Sep  2 18:38:16 2026\"\n\n#### What's Changed:\n- logging improvements and updated submodules to latest\n- updated to latest\n- cleanup timestamp method to remove unused formatter input\n- added fast formatter + remove massive binary bloat which was due to inlining log calls\n- added fast formatter + remove massive binary bloat which was due to inlining log calls\n- fix toast on portal services + fixes for appgrp/devices detail view not showing data\n\n#### Full Changelog: [3192040c...49cc2f46](https://github.com/SideStore/SideStore/compare/3192040c0dc2a0bd2eb77b7b29722b3409325b31...49cc2f46914c68685f7201cd5cd2f761af55e34f)\n",
+              "version": "0.6.4-20260902.1365+cba4a52f",
+              "date": "2026-09-02T21:04:46Z",
+              "localizedDescription": "#### This is release for:\n  - version: \"0.6.4-20260902.1365+cba4a52f\"\n  - revision: \"cba4a52f\"\n  - timestamp: \"Wed Sep  2 21:04:46 2026\"\n\n#### What's Changed:\n- updated submodule to latest - fixes the codesign issues within sidesign/codesignkit\n\n#### Full Changelog: [49cc2f46...cba4a52f](https://github.com/SideStore/SideStore/compare/49cc2f46914c68685f7201cd5cd2f761af55e34f...cba4a52ff8170c3faf8c1ff5426e1e077ccad1fb)\n",
               "downloadURL": "https://github.com/SideStore/SideStore/releases/download/nightly/SideStore.ipa",
-              "size": 27379842,
-              "sha256": "c971685cad4a6c78caabc21b46ad38ea27832371911b1e7e3a32385faea09025"
+              "size": 27379661,
+              "sha256": "ad6b22ab31792924a02bff12b41a2e9fc3e673d83c6368da8f5fd2999be537c2"
             }
           ]
         },
