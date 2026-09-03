@@ -140,12 +140,12 @@
           "track": "nightly",
           "releases": [
             {
-              "version": "0.6.4-20260903.1371+ea18671d",
-              "date": "2026-09-03T09:55:47Z",
-              "localizedDescription": "#### This is release for:\n  - version: \"0.6.4-20260903.1371+ea18671d\"\n  - revision: \"ea18671d\"\n  - timestamp: \"Thu Sep  3 09:55:47 2026\"\n\n#### What's Changed:\n- cleanup all other left over error types\n- rework operations logging\n- cleanup unused errors\n\n#### Full Changelog: [33bf9d98...ea18671d](https://github.com/SideStore/SideStore/compare/33bf9d989051efdb1b744437c3c26a285ffa1d26...ea18671d4d96eaabd9019f42bee055e0777855fa)\n",
+              "version": "0.6.4-20260903.1372+26d7bc26",
+              "date": "2026-09-03T10:08:18Z",
+              "localizedDescription": "#### This is release for:\n  - version: \"0.6.4-20260903.1372+26d7bc26\"\n  - revision: \"26d7bc26\"\n  - timestamp: \"Thu Sep  3 10:08:18 2026\"\n\n#### What's Changed:\n- fix: removed ddi mount from minimuxer start and restrict it to only debugApp() api\n\n#### Full Changelog: [ea18671d...26d7bc26](https://github.com/SideStore/SideStore/compare/ea18671d4d96eaabd9019f42bee055e0777855fa...26d7bc26b12609f47fe2fc774390fe39726cfea9)\n",
               "downloadURL": "https://github.com/SideStore/SideStore/releases/download/nightly/SideStore.ipa",
-              "size": 27379562,
-              "sha256": "3fa1cdbbc4edbc7fe2fa676fed25387cc33b72a8c66cc078e147fc06482d3eea"
+              "size": 27380036,
+              "sha256": "d58aebaf0893076ae8f7d25b09a87d3e529e0e57e3c92cdc30816be662497399"
             }
           ]
         },
