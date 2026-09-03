@@ -140,12 +140,12 @@
           "track": "nightly",
           "releases": [
             {
-              "version": "0.6.4-20260903.1369+f9d93651",
-              "date": "2026-09-03T09:09:52Z",
-              "localizedDescription": "#### This is release for:\n  - version: \"0.6.4-20260903.1369+f9d93651\"\n  - revision: \"f9d93651\"\n  - timestamp: \"Thu Sep  3 09:09:52 2026\"\n\n#### What's Changed:\n- fix the minimuxer tcp connection probing + pairing file handling sequence\n\n#### Full Changelog: [346b5dd0...f9d93651](https://github.com/SideStore/SideStore/compare/346b5dd07b53f945286fa765bb573d25003d95ad...f9d93651f58fefc0227f71b6fb398b50de74afa4)\n",
+              "version": "0.6.4-20260903.1370+33bf9d98",
+              "date": "2026-09-03T09:42:34Z",
+              "localizedDescription": "#### This is release for:\n  - version: \"0.6.4-20260903.1370+33bf9d98\"\n  - revision: \"33bf9d98\"\n  - timestamp: \"Thu Sep  3 09:42:34 2026\"\n\n#### What's Changed:\n- cleanup: removed unused errors in minimuxer and replaced with original wherever possible\n- cleanup the minimuxer wrapper's unused error extensions\n- cleanup: ditch wrapper extension for minimuxerError since minimuxer layer error handling is more robust and we dont wanna mask it with app level extension wrapper\n\n#### Full Changelog: [f9d93651...33bf9d98](https://github.com/SideStore/SideStore/compare/f9d93651f58fefc0227f71b6fb398b50de74afa4...33bf9d989051efdb1b744437c3c26a285ffa1d26)\n",
               "downloadURL": "https://github.com/SideStore/SideStore/releases/download/nightly/SideStore.ipa",
-              "size": 27394338,
-              "sha256": "3195656d932e26547f986c6472e9c073f4425a81d95aff4430601bdd0be4def4"
+              "size": 27392961,
+              "sha256": "1150576bdfdde7818f2161856316d2d480abd3bd1c32961f0db65bc721d24d43"
             }
           ]
         },
