@@ -140,12 +140,12 @@
           "track": "nightly",
           "releases": [
             {
-              "version": "0.6.4-20260903.1370+33bf9d98",
-              "date": "2026-09-03T09:42:34Z",
-              "localizedDescription": "#### This is release for:\n  - version: \"0.6.4-20260903.1370+33bf9d98\"\n  - revision: \"33bf9d98\"\n  - timestamp: \"Thu Sep  3 09:42:34 2026\"\n\n#### What's Changed:\n- cleanup: removed unused errors in minimuxer and replaced with original wherever possible\n- cleanup the minimuxer wrapper's unused error extensions\n- cleanup: ditch wrapper extension for minimuxerError since minimuxer layer error handling is more robust and we dont wanna mask it with app level extension wrapper\n\n#### Full Changelog: [f9d93651...33bf9d98](https://github.com/SideStore/SideStore/compare/f9d93651f58fefc0227f71b6fb398b50de74afa4...33bf9d989051efdb1b744437c3c26a285ffa1d26)\n",
+              "version": "0.6.4-20260903.1371+ea18671d",
+              "date": "2026-09-03T09:55:47Z",
+              "localizedDescription": "#### This is release for:\n  - version: \"0.6.4-20260903.1371+ea18671d\"\n  - revision: \"ea18671d\"\n  - timestamp: \"Thu Sep  3 09:55:47 2026\"\n\n#### What's Changed:\n- cleanup all other left over error types\n- rework operations logging\n- cleanup unused errors\n\n#### Full Changelog: [33bf9d98...ea18671d](https://github.com/SideStore/SideStore/compare/33bf9d989051efdb1b744437c3c26a285ffa1d26...ea18671d4d96eaabd9019f42bee055e0777855fa)\n",
               "downloadURL": "https://github.com/SideStore/SideStore/releases/download/nightly/SideStore.ipa",
-              "size": 27392961,
-              "sha256": "1150576bdfdde7818f2161856316d2d480abd3bd1c32961f0db65bc721d24d43"
+              "size": 27379562,
+              "sha256": "3fa1cdbbc4edbc7fe2fa676fed25387cc33b72a8c66cc078e147fc06482d3eea"
             }
           ]
         },
