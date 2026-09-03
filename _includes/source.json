@@ -140,12 +140,12 @@
           "track": "nightly",
           "releases": [
             {
-              "version": "0.6.4-20260903.1367+2c42340c",
-              "date": "2026-09-03T06:09:15Z",
-              "localizedDescription": "#### This is release for:\n  - version: \"0.6.4-20260903.1367+2c42340c\"\n  - revision: \"2c42340c\"\n  - timestamp: \"Thu Sep  3 06:09:15 2026\"\n\n#### What's Changed:\n- added diag logging for the testDeviceConnection\n\n#### Full Changelog: [cba4a52f...2c42340c](https://github.com/SideStore/SideStore/compare/cba4a52ff8170c3faf8c1ff5426e1e077ccad1fb...2c42340c6fea9ca03255bb6f2a9a7a86300d1330)\n",
+              "version": "0.6.4-20260903.1368+346b5dd0",
+              "date": "2026-09-03T07:17:24Z",
+              "localizedDescription": "#### This is release for:\n  - version: \"0.6.4-20260903.1368+346b5dd0\"\n  - revision: \"346b5dd0\"\n  - timestamp: \"Thu Sep  3 07:17:24 2026\"\n\n#### What's Changed:\n- fix: appboot sequence for startminimuxer after loading pairing file was incorrect\n\n#### Full Changelog: [2c42340c...346b5dd0](https://github.com/SideStore/SideStore/compare/2c42340c6fea9ca03255bb6f2a9a7a86300d1330...346b5dd07b53f945286fa765bb573d25003d95ad)\n",
               "downloadURL": "https://github.com/SideStore/SideStore/releases/download/nightly/SideStore.ipa",
-              "size": 27385426,
-              "sha256": "d302968999b16793303f0e2d89f8b761207733a19645d6862fe479536970d062"
+              "size": 27385035,
+              "sha256": "1e5e080cbb6259cbf94d79012782f59e8375c183932c049cda950d279f5d1774"
             }
           ]
         },
