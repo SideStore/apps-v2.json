@@ -140,12 +140,12 @@
           "track": "nightly",
           "releases": [
             {
-              "version": "0.6.4-20260903.1374+142de8c4",
-              "date": "2026-09-03T12:34:24Z",
-              "localizedDescription": "#### This is release for:\n  - version: \"0.6.4-20260903.1374+142de8c4\"\n  - revision: \"142de8c4\"\n  - timestamp: \"Thu Sep  3 12:34:24 2026\"\n\n#### What's Changed:\n- updated dev portal screen title\n- fix the revoke alert button color\n- add more words so that the revoke alert shows buttons stacked instead of cramped on same row\n- make revoke alert skip for paid accts since they can create new certs and not always need to revoke at least 1 existing as free accts\n- make revoke alert scrollable\n- added version number priting in console log header\n\n#### Full Changelog: [8dd1c301...142de8c4](https://github.com/SideStore/SideStore/compare/8dd1c301443c66a8ff11f47993c4d85898603769...142de8c4014881e849489f13f6b9b9f3f546ca5a)\n",
+              "version": "0.6.4-20260903.1375+394bb4eb",
+              "date": "2026-09-03T22:24:21Z",
+              "localizedDescription": "#### This is release for:\n  - version: \"0.6.4-20260903.1375+394bb4eb\"\n  - revision: \"394bb4eb\"\n  - timestamp: \"Thu Sep  3 22:24:21 2026\"\n\n#### What's Changed:\n- added support for viewing mach-O + embedded.mobileprovision info dumps\n- updated dependencies to latest\n- added mach-O parser display in bundle browser of app-info view\n\n#### Full Changelog: [142de8c4...394bb4eb](https://github.com/SideStore/SideStore/compare/142de8c4014881e849489f13f6b9b9f3f546ca5a...394bb4eb331cb4afc23517af2fc847ec103af57f)\n",
               "downloadURL": "https://github.com/SideStore/SideStore/releases/download/nightly/SideStore.ipa",
-              "size": 27379599,
-              "sha256": "526dd1633633c9c129772007cca1146c90d03911803a463f9fe1c669b9ac8f5b"
+              "size": 27506318,
+              "sha256": "5c836df866b2aa757287c91d4516fdcf088933338304235de1868653f7811cd8"
             }
           ]
         },
