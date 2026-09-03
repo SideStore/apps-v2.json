@@ -140,12 +140,12 @@
           "track": "nightly",
           "releases": [
             {
-              "version": "0.6.4-20260903.1368+346b5dd0",
-              "date": "2026-09-03T07:17:24Z",
-              "localizedDescription": "#### This is release for:\n  - version: \"0.6.4-20260903.1368+346b5dd0\"\n  - revision: \"346b5dd0\"\n  - timestamp: \"Thu Sep  3 07:17:24 2026\"\n\n#### What's Changed:\n- fix: appboot sequence for startminimuxer after loading pairing file was incorrect\n\n#### Full Changelog: [2c42340c...346b5dd0](https://github.com/SideStore/SideStore/compare/2c42340c6fea9ca03255bb6f2a9a7a86300d1330...346b5dd07b53f945286fa765bb573d25003d95ad)\n",
+              "version": "0.6.4-20260903.1369+f9d93651",
+              "date": "2026-09-03T09:09:52Z",
+              "localizedDescription": "#### This is release for:\n  - version: \"0.6.4-20260903.1369+f9d93651\"\n  - revision: \"f9d93651\"\n  - timestamp: \"Thu Sep  3 09:09:52 2026\"\n\n#### What's Changed:\n- fix the minimuxer tcp connection probing + pairing file handling sequence\n\n#### Full Changelog: [346b5dd0...f9d93651](https://github.com/SideStore/SideStore/compare/346b5dd07b53f945286fa765bb573d25003d95ad...f9d93651f58fefc0227f71b6fb398b50de74afa4)\n",
               "downloadURL": "https://github.com/SideStore/SideStore/releases/download/nightly/SideStore.ipa",
-              "size": 27385035,
-              "sha256": "1e5e080cbb6259cbf94d79012782f59e8375c183932c049cda950d279f5d1774"
+              "size": 27394338,
+              "sha256": "3195656d932e26547f986c6472e9c073f4425a81d95aff4430601bdd0be4def4"
             }
           ]
         },
