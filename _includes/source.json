@@ -140,12 +140,12 @@
           "track": "nightly",
           "releases": [
             {
-              "version": "0.6.4-20260903.1375+394bb4eb",
-              "date": "2026-09-03T22:24:21Z",
-              "localizedDescription": "#### This is release for:\n  - version: \"0.6.4-20260903.1375+394bb4eb\"\n  - revision: \"394bb4eb\"\n  - timestamp: \"Thu Sep  3 22:24:21 2026\"\n\n#### What's Changed:\n- added support for viewing mach-O + embedded.mobileprovision info dumps\n- updated dependencies to latest\n- added mach-O parser display in bundle browser of app-info view\n\n#### Full Changelog: [142de8c4...394bb4eb](https://github.com/SideStore/SideStore/compare/142de8c4014881e849489f13f6b9b9f3f546ca5a...394bb4eb331cb4afc23517af2fc847ec103af57f)\n",
+              "version": "0.6.4-20260904.1377+c2c22c5b",
+              "date": "2026-09-04T09:26:55Z",
+              "localizedDescription": "#### This is release for:\n  - version: \"0.6.4-20260904.1377+c2c22c5b\"\n  - revision: \"c2c22c5b\"\n  - timestamp: \"Fri Sep  4 09:26:55 2026\"\n\n#### What's Changed:\n- skip strict checking for wifi when in cellular refresh mode\n- disable notif coz we dont need it anymore since our exit to suspend strategy and self install is robust\n- fixed the self-reinstall suspend to home lifecycle by using a bgTask and letting installd to do the job so that only part pending is kill and is now deterministic\n- some more cleanup\n- some cleanup\n- mvoe cellular refresh shortcut management into own component\n- switched to app bundle for installation - removed unnecessary repackaging step into ipa\n- cleanup + update to latest\n\n#### Full Changelog: [394bb4eb...c2c22c5b](https://github.com/SideStore/SideStore/compare/394bb4eb331cb4afc23517af2fc847ec103af57f...c2c22c5b10bb42d26e18f2aa982222cdc298eeef)\n",
               "downloadURL": "https://github.com/SideStore/SideStore/releases/download/nightly/SideStore.ipa",
-              "size": 27506318,
-              "sha256": "5c836df866b2aa757287c91d4516fdcf088933338304235de1868653f7811cd8"
+              "size": 27516630,
+              "sha256": "eb67525fb771c373c574a28d7dde83d0b2a94c01eefbb9239a431187eef66a71"
             }
           ]
         },
