@@ -140,12 +140,12 @@
           "track": "nightly",
           "releases": [
             {
-              "version": "0.6.4-20260904.1377+c2c22c5b",
-              "date": "2026-09-04T09:26:55Z",
-              "localizedDescription": "#### This is release for:\n  - version: \"0.6.4-20260904.1377+c2c22c5b\"\n  - revision: \"c2c22c5b\"\n  - timestamp: \"Fri Sep  4 09:26:55 2026\"\n\n#### What's Changed:\n- skip strict checking for wifi when in cellular refresh mode\n- disable notif coz we dont need it anymore since our exit to suspend strategy and self install is robust\n- fixed the self-reinstall suspend to home lifecycle by using a bgTask and letting installd to do the job so that only part pending is kill and is now deterministic\n- some more cleanup\n- some cleanup\n- mvoe cellular refresh shortcut management into own component\n- switched to app bundle for installation - removed unnecessary repackaging step into ipa\n- cleanup + update to latest\n\n#### Full Changelog: [394bb4eb...c2c22c5b](https://github.com/SideStore/SideStore/compare/394bb4eb331cb4afc23517af2fc847ec103af57f...c2c22c5b10bb42d26e18f2aa982222cdc298eeef)\n",
+              "version": "0.6.4-20260904.1378+367bd8c9",
+              "date": "2026-09-04T15:29:52Z",
+              "localizedDescription": "#### This is release for:\n  - version: \"0.6.4-20260904.1378+367bd8c9\"\n  - revision: \"367bd8c9\"\n  - timestamp: \"Fri Sep  4 15:29:52 2026\"\n\n#### What's Changed:\n- cleanup the api\n- fix shortcut during register devices didnt have enough time\n- fix: delay was in wrong sequence\n- ensure main thread\n- cleanup - removed the _ prefix in variable naming\n- fixes for cell refresh - fetchUDID etc should be properly setting the state using shortcut\n- fix cellular refresh in refreshAppOperation\n\n#### Full Changelog: [c2c22c5b...367bd8c9](https://github.com/SideStore/SideStore/compare/c2c22c5b10bb42d26e18f2aa982222cdc298eeef...367bd8c98c466cdf335bc59ef6f42e19f7fe0b8f)\n",
               "downloadURL": "https://github.com/SideStore/SideStore/releases/download/nightly/SideStore.ipa",
-              "size": 27516630,
-              "sha256": "eb67525fb771c373c574a28d7dde83d0b2a94c01eefbb9239a431187eef66a71"
+              "size": 27519383,
+              "sha256": "0ae808a3e23a6657f6a053b5926e7c19821cf37f55f647ac2bcd3b2bdca71c27"
             }
           ]
         },
