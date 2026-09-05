@@ -140,12 +140,12 @@
           "track": "nightly",
           "releases": [
             {
-              "version": "0.6.4-20260905.1382+57200a83",
-              "date": "2026-09-05T17:40:01Z",
-              "localizedDescription": "#### This is release for:\n  - version: \"0.6.4-20260905.1382+57200a83\"\n  - revision: \"57200a83\"\n  - timestamp: \"Sat Sep  5 17:40:01 2026\"\n\n#### What's Changed:\n- simplify nw path monitoring my reusing minimuxer's nw api pathPublisher\n- make tcp probe timeout configurable in developer options\n\n#### Full Changelog: [3c20c84d...57200a83](https://github.com/SideStore/SideStore/compare/3c20c84da927e8b147c3331c36caa8b632486d6b...57200a8374a27fecb4c5b1c5b2b1792931c8a118)\n",
+              "version": "0.6.4-20260905.1383+af059281",
+              "date": "2026-09-05T18:20:07Z",
+              "localizedDescription": "#### This is release for:\n  - version: \"0.6.4-20260905.1383+af059281\"\n  - revision: \"af059281\"\n  - timestamp: \"Sat Sep  5 18:20:07 2026\"\n\n#### What's Changed:\n- fix: do not trigger clearActiveCertificate which internally clears keychain certs too during signout if not desired\n\n#### Full Changelog: [57200a83...af059281](https://github.com/SideStore/SideStore/compare/57200a8374a27fecb4c5b1c5b2b1792931c8a118...af059281a3314988e52134457dee57864a658b92)\n",
               "downloadURL": "https://github.com/SideStore/SideStore/releases/download/nightly/SideStore.ipa",
-              "size": 27527964,
-              "sha256": "813655117e3cfea59e69ab937d1c853772c6c387744284058d20183a847f3c7f"
+              "size": 27528174,
+              "sha256": "ac2c00727bb1e5da7b9416ce22c913c12dc6f0a7f816575c6e2c1055487a6a5d"
             }
           ]
         },
