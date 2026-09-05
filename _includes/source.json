@@ -140,12 +140,12 @@
           "track": "nightly",
           "releases": [
             {
-              "version": "0.6.4-20260905.1380+a6ca4d16",
-              "date": "2026-09-05T11:28:29Z",
-              "localizedDescription": "#### This is release for:\n  - version: \"0.6.4-20260905.1380+a6ca4d16\"\n  - revision: \"a6ca4d16\"\n  - timestamp: \"Sat Sep  5 11:28:29 2026\"\n\n#### What's Changed:\n- updated to upstream for lc+ss entitlements processing fixes in SideSign AppBundleSigner.prepare()\n\n#### Full Changelog: [367bd8c9...a6ca4d16](https://github.com/SideStore/SideStore/compare/367bd8c98c466cdf335bc59ef6f42e19f7fe0b8f...a6ca4d1620e619158fa27d4e652e1f865b461f8b)\n",
+              "version": "0.6.4-20260905.1381+3c20c84d",
+              "date": "2026-09-05T15:36:41Z",
+              "localizedDescription": "#### This is release for:\n  - version: \"0.6.4-20260905.1381+3c20c84d\"\n  - revision: \"3c20c84d\"\n  - timestamp: \"Sat Sep  5 15:36:41 2026\"\n\n#### What's Changed:\n- updated minimuxer to latest (tcpprobe is now configurable) + api changes in gateway\n\n#### Full Changelog: [a6ca4d16...3c20c84d](https://github.com/SideStore/SideStore/compare/a6ca4d1620e619158fa27d4e652e1f865b461f8b...3c20c84da927e8b147c3331c36caa8b632486d6b)\n",
               "downloadURL": "https://github.com/SideStore/SideStore/releases/download/nightly/SideStore.ipa",
-              "size": 27518612,
-              "sha256": "09e3437ebc7e75f31ed17ceb7817c6bcead045585f300d3c3cec917c36acbe8f"
+              "size": 27522880,
+              "sha256": "ebd320704908a7ec07ead60421036f1f38f01218b83b7ccc8f0dffb7ce14d895"
             }
           ]
         },
