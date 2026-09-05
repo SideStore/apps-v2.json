@@ -140,12 +140,12 @@
           "track": "nightly",
           "releases": [
             {
-              "version": "0.6.4-20260904.1378+367bd8c9",
-              "date": "2026-09-04T15:29:52Z",
-              "localizedDescription": "#### This is release for:\n  - version: \"0.6.4-20260904.1378+367bd8c9\"\n  - revision: \"367bd8c9\"\n  - timestamp: \"Fri Sep  4 15:29:52 2026\"\n\n#### What's Changed:\n- cleanup the api\n- fix shortcut during register devices didnt have enough time\n- fix: delay was in wrong sequence\n- ensure main thread\n- cleanup - removed the _ prefix in variable naming\n- fixes for cell refresh - fetchUDID etc should be properly setting the state using shortcut\n- fix cellular refresh in refreshAppOperation\n\n#### Full Changelog: [c2c22c5b...367bd8c9](https://github.com/SideStore/SideStore/compare/c2c22c5b10bb42d26e18f2aa982222cdc298eeef...367bd8c98c466cdf335bc59ef6f42e19f7fe0b8f)\n",
+              "version": "0.6.4-20260905.1380+a6ca4d16",
+              "date": "2026-09-05T11:28:29Z",
+              "localizedDescription": "#### This is release for:\n  - version: \"0.6.4-20260905.1380+a6ca4d16\"\n  - revision: \"a6ca4d16\"\n  - timestamp: \"Sat Sep  5 11:28:29 2026\"\n\n#### What's Changed:\n- updated to upstream for lc+ss entitlements processing fixes in SideSign AppBundleSigner.prepare()\n\n#### Full Changelog: [367bd8c9...a6ca4d16](https://github.com/SideStore/SideStore/compare/367bd8c98c466cdf335bc59ef6f42e19f7fe0b8f...a6ca4d1620e619158fa27d4e652e1f865b461f8b)\n",
               "downloadURL": "https://github.com/SideStore/SideStore/releases/download/nightly/SideStore.ipa",
-              "size": 27519383,
-              "sha256": "0ae808a3e23a6657f6a053b5926e7c19821cf37f55f647ac2bcd3b2bdca71c27"
+              "size": 27518612,
+              "sha256": "09e3437ebc7e75f31ed17ceb7817c6bcead045585f300d3c3cec917c36acbe8f"
             }
           ]
         },
