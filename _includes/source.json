@@ -140,12 +140,12 @@
           "track": "nightly",
           "releases": [
             {
-              "version": "0.6.4-20260905.1384+5d9730ba",
-              "date": "2026-09-05T18:42:45Z",
-              "localizedDescription": "#### This is release for:\n  - version: \"0.6.4-20260905.1384+5d9730ba\"\n  - revision: \"5d9730ba\"\n  - timestamp: \"Sat Sep  5 18:42:45 2026\"\n\n#### What's Changed:\n- fix signout flow and refine keychain management with proper ownership in authmanager, certmanager\n\n#### Full Changelog: [af059281...5d9730ba](https://github.com/SideStore/SideStore/compare/af059281a3314988e52134457dee57864a658b92...5d9730ba7e509c6c70f7a7082f93095ddd8951dd)\n",
+              "version": "0.6.4-20260905.1385+55aeaf20",
+              "date": "2026-09-05T20:14:52Z",
+              "localizedDescription": "#### This is release for:\n  - version: \"0.6.4-20260905.1385+55aeaf20\"\n  - revision: \"55aeaf20\"\n  - timestamp: \"Sat Sep  5 20:14:52 2026\"\n\n#### What's Changed:\n- make user friendly by making \"repair\" and \"2fa\" handlers throwable\n- fix \"repair\" type response for non-2fa accts\n- fix: \"repair\" type response during GSA wasn't being handled properly and sent to callers\n\n#### Full Changelog: [5d9730ba...55aeaf20](https://github.com/SideStore/SideStore/compare/5d9730ba7e509c6c70f7a7082f93095ddd8951dd...55aeaf2063707e789d4bb7fedd25c4b50ddc2f25)\n",
               "downloadURL": "https://github.com/SideStore/SideStore/releases/download/nightly/SideStore.ipa",
-              "size": 27528550,
-              "sha256": "baea9f2195d635d00c25b37940d59aeb30049a11d3f50cf2127013a2e3512414"
+              "size": 27533544,
+              "sha256": "a46071b01b29f6eb9d60c0d8840156bf290377b603d2ebfb37375e153e795612"
             }
           ]
         },
