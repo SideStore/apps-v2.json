@@ -140,12 +140,12 @@
           "track": "nightly",
           "releases": [
             {
-              "version": "0.6.4-20260905.1385+55aeaf20",
-              "date": "2026-09-05T20:14:52Z",
-              "localizedDescription": "#### This is release for:\n  - version: \"0.6.4-20260905.1385+55aeaf20\"\n  - revision: \"55aeaf20\"\n  - timestamp: \"Sat Sep  5 20:14:52 2026\"\n\n#### What's Changed:\n- make user friendly by making \"repair\" and \"2fa\" handlers throwable\n- fix \"repair\" type response for non-2fa accts\n- fix: \"repair\" type response during GSA wasn't being handled properly and sent to callers\n\n#### Full Changelog: [5d9730ba...55aeaf20](https://github.com/SideStore/SideStore/compare/5d9730ba7e509c6c70f7a7082f93095ddd8951dd...55aeaf2063707e789d4bb7fedd25c4b50ddc2f25)\n",
+              "version": "0.6.4-20260905.1386+a6675e98",
+              "date": "2026-09-05T22:04:08Z",
+              "localizedDescription": "#### This is release for:\n  - version: \"0.6.4-20260905.1386+a6675e98\"\n  - revision: \"a6675e98\"\n  - timestamp: \"Sat Sep  5 22:04:08 2026\"\n\n#### What's Changed:\n- fixes for the tunnel config auto discovery for device endpoint (more focused on interested ips + parallel probing for device service port)\n\n#### Full Changelog: [55aeaf20...a6675e98](https://github.com/SideStore/SideStore/compare/55aeaf2063707e789d4bb7fedd25c4b50ddc2f25...a6675e98f61d8ee9fb9fdda26bf8a8ad70e141dc)\n",
               "downloadURL": "https://github.com/SideStore/SideStore/releases/download/nightly/SideStore.ipa",
-              "size": 27533544,
-              "sha256": "a46071b01b29f6eb9d60c0d8840156bf290377b603d2ebfb37375e153e795612"
+              "size": 27532563,
+              "sha256": "509a91fe9216df25bfb5a84efb8ca7dee40719d2f7c575b7f70772ed6fe85370"
             }
           ]
         },
