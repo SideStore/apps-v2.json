@@ -140,12 +140,12 @@
           "track": "nightly",
           "releases": [
             {
-              "version": "0.6.4-20260906.1390+dc2e1a97",
-              "date": "2026-09-06T02:29:02Z",
-              "localizedDescription": "#### This is release for:\n  - version: \"0.6.4-20260906.1390+dc2e1a97\"\n  - revision: \"dc2e1a97\"\n  - timestamp: \"Sun Sep  6 02:29:02 2026\"\n\n#### What's Changed:\n- fix auth messaging when doing 2FA\n\n#### Full Changelog: [4a8a37dd...dc2e1a97](https://github.com/SideStore/SideStore/compare/4a8a37dd2b2f42115b8b1c34ae89c79e2475e379...dc2e1a9705d81a982e13ad3fe317355f74124e5d)\n",
+              "version": "0.6.4-20260906.1391+bdafadbf",
+              "date": "2026-09-06T02:44:18Z",
+              "localizedDescription": "#### This is release for:\n  - version: \"0.6.4-20260906.1391+bdafadbf\"\n  - revision: \"bdafadbf\"\n  - timestamp: \"Sun Sep  6 02:44:18 2026\"\n\n#### What's Changed:\n- fix: bg task ids in the info.plist wasn't properly was missing fix-up to account for the resigned ids\n\n#### Full Changelog: [dc2e1a97...bdafadbf](https://github.com/SideStore/SideStore/compare/dc2e1a9705d81a982e13ad3fe317355f74124e5d...bdafadbfc89f50746ac9a588cad5bb9bbb4a51bc)\n",
               "downloadURL": "https://github.com/SideStore/SideStore/releases/download/nightly/SideStore.ipa",
-              "size": 27539602,
-              "sha256": "4d4444528c1214d33127f8a3c810a40648bc0c120ae45ce6b0c8a2505353da4b"
+              "size": 27538642,
+              "sha256": "9bd1b5913fe0cc1ef290cd4f0f5407f4d9a37f59589bb4f387e4effc8979c20c"
             }
           ]
         },
