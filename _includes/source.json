@@ -140,12 +140,12 @@
           "track": "nightly",
           "releases": [
             {
-              "version": "0.6.4-20260905.1386+a6675e98",
-              "date": "2026-09-05T22:04:08Z",
-              "localizedDescription": "#### This is release for:\n  - version: \"0.6.4-20260905.1386+a6675e98\"\n  - revision: \"a6675e98\"\n  - timestamp: \"Sat Sep  5 22:04:08 2026\"\n\n#### What's Changed:\n- fixes for the tunnel config auto discovery for device endpoint (more focused on interested ips + parallel probing for device service port)\n\n#### Full Changelog: [55aeaf20...a6675e98](https://github.com/SideStore/SideStore/compare/55aeaf2063707e789d4bb7fedd25c4b50ddc2f25...a6675e98f61d8ee9fb9fdda26bf8a8ad70e141dc)\n",
+              "version": "0.6.4-20260906.1387+04c1e3d1",
+              "date": "2026-09-06T01:15:58Z",
+              "localizedDescription": "#### This is release for:\n  - version: \"0.6.4-20260906.1387+04c1e3d1\"\n  - revision: \"04c1e3d1\"\n  - timestamp: \"Sun Sep  6 01:15:58 2026\"\n\n#### What's Changed:\n- we don't have available modes so show preferred mode as default and show others too\n\n#### Full Changelog: [a6675e98...04c1e3d1](https://github.com/SideStore/SideStore/compare/a6675e98f61d8ee9fb9fdda26bf8a8ad70e141dc...04c1e3d15ea389c83ca805ff9ad8e92dd0d03309)\n",
               "downloadURL": "https://github.com/SideStore/SideStore/releases/download/nightly/SideStore.ipa",
-              "size": 27532563,
-              "sha256": "509a91fe9216df25bfb5a84efb8ca7dee40719d2f7c575b7f70772ed6fe85370"
+              "size": 27531671,
+              "sha256": "fee4da355d63329eebd8ba7ed0d78428aab001c8479bd6f27112fbdca8394644"
             }
           ]
         },
