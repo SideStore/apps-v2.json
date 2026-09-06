@@ -140,12 +140,12 @@
           "track": "nightly",
           "releases": [
             {
-              "version": "0.6.4-20260906.1391+bdafadbf",
-              "date": "2026-09-06T02:44:18Z",
-              "localizedDescription": "#### This is release for:\n  - version: \"0.6.4-20260906.1391+bdafadbf\"\n  - revision: \"bdafadbf\"\n  - timestamp: \"Sun Sep  6 02:44:18 2026\"\n\n#### What's Changed:\n- fix: bg task ids in the info.plist wasn't properly was missing fix-up to account for the resigned ids\n\n#### Full Changelog: [dc2e1a97...bdafadbf](https://github.com/SideStore/SideStore/compare/dc2e1a9705d81a982e13ad3fe317355f74124e5d...bdafadbfc89f50746ac9a588cad5bb9bbb4a51bc)\n",
+              "version": "0.6.4-20260906.1392+5ea0d7ae",
+              "date": "2026-09-06T03:57:26Z",
+              "localizedDescription": "#### This is release for:\n  - version: \"0.6.4-20260906.1392+5ea0d7ae\"\n  - revision: \"5ea0d7ae\"\n  - timestamp: \"Sun Sep  6 03:57:26 2026\"\n\n#### What's Changed:\n- fix: resign was deadlocked due to coalescer wrapper, moved it inside do catch to always run finalizers\n- make port number not have delimiters\n\n#### Full Changelog: [bdafadbf...5ea0d7ae](https://github.com/SideStore/SideStore/compare/bdafadbfc89f50746ac9a588cad5bb9bbb4a51bc...5ea0d7aed478f94673d735150df0ddcb87172f44)\n",
               "downloadURL": "https://github.com/SideStore/SideStore/releases/download/nightly/SideStore.ipa",
-              "size": 27538642,
-              "sha256": "9bd1b5913fe0cc1ef290cd4f0f5407f4d9a37f59589bb4f387e4effc8979c20c"
+              "size": 27539846,
+              "sha256": "fa6e22b40f44e7de1b42f69d230d5fea1292f790226ab78eccb46e32732bd926"
             }
           ]
         },
