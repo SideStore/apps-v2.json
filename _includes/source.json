@@ -140,12 +140,12 @@
           "track": "nightly",
           "releases": [
             {
-              "version": "0.6.4-20260906.1392+5ea0d7ae",
-              "date": "2026-09-06T03:57:26Z",
-              "localizedDescription": "#### This is release for:\n  - version: \"0.6.4-20260906.1392+5ea0d7ae\"\n  - revision: \"5ea0d7ae\"\n  - timestamp: \"Sun Sep  6 03:57:26 2026\"\n\n#### What's Changed:\n- fix: resign was deadlocked due to coalescer wrapper, moved it inside do catch to always run finalizers\n- make port number not have delimiters\n\n#### Full Changelog: [bdafadbf...5ea0d7ae](https://github.com/SideStore/SideStore/compare/bdafadbfc89f50746ac9a588cad5bb9bbb4a51bc...5ea0d7aed478f94673d735150df0ddcb87172f44)\n",
+              "version": "0.6.4-20260907.1394+ac5bd208",
+              "date": "2026-09-07T12:07:05Z",
+              "localizedDescription": "#### This is release for:\n  - version: \"0.6.4-20260907.1394+ac5bd208\"\n  - revision: \"ac5bd208\"\n  - timestamp: \"Mon Sep  7 12:07:05 2026\"\n\n#### What's Changed:\n- refactors for sidesign and anisetteKit changes (caching anisette is now taken care by sidesign)\n\n#### Full Changelog: [5ea0d7ae...ac5bd208](https://github.com/SideStore/SideStore/compare/5ea0d7aed478f94673d735150df0ddcb87172f44...ac5bd208a80f02953315e4fbc47f7c0ad98b08c6)\n",
               "downloadURL": "https://github.com/SideStore/SideStore/releases/download/nightly/SideStore.ipa",
-              "size": 27539846,
-              "sha256": "fa6e22b40f44e7de1b42f69d230d5fea1292f790226ab78eccb46e32732bd926"
+              "size": 27539770,
+              "sha256": "63761f0117aa8058ffc40a4f437daa6fdc608436a29cffaf63bec84e3d1ab4a6"
             }
           ]
         },
