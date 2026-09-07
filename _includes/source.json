@@ -140,12 +140,12 @@
           "track": "nightly",
           "releases": [
             {
-              "version": "0.6.4-20260907.1395+760203ba",
-              "date": "2026-09-07T20:55:02Z",
-              "localizedDescription": "#### This is release for:\n  - version: \"0.6.4-20260907.1395+760203ba\"\n  - revision: \"760203ba\"\n  - timestamp: \"Mon Sep  7 20:55:02 2026\"\n\n#### What's Changed:\n- rework: remove authContext in favor of AuthManager managing session, use signinOperation for all explicit sign in + cleanup\n- streamline auth session acquire centralized using AuthManager(authOperation) and cleanup contexts\n- more cleanup - keep signin flow strictly to settings screen only while auth flow to all else\n- more cleanup - streamline auth vs signin + keep only required stuff in context\n- rework: split auth vs signIn where auth session is resolved using xcode token, dsid while sign-in is full flow\n- fix: maintenance - logout users\n- run migration v2\n- fix: make changing anisette toggle require a restart\n- updated submodule to latest\n\n#### Full Changelog: [ac5bd208...760203ba](https://github.com/SideStore/SideStore/compare/ac5bd208a80f02953315e4fbc47f7c0ad98b08c6...760203ba9cf3ec14a12b150edb17fb50f85be0dc)\n",
+              "version": "0.6.4-20260907.1396+7195d19a",
+              "date": "2026-09-07T21:14:42Z",
+              "localizedDescription": "#### This is release for:\n  - version: \"0.6.4-20260907.1396+7195d19a\"\n  - revision: \"7195d19a\"\n  - timestamp: \"Mon Sep  7 21:14:42 2026\"\n\n#### What's Changed:\n- ensure all developer portal access goes thru proxy + added pull to refresh for developer services screens\n\n#### Full Changelog: [760203ba...7195d19a](https://github.com/SideStore/SideStore/compare/760203ba9cf3ec14a12b150edb17fb50f85be0dc...7195d19a20df4bcb82b6e4ee020f237222a4686b)\n",
               "downloadURL": "https://github.com/SideStore/SideStore/releases/download/nightly/SideStore.ipa",
-              "size": 27532375,
-              "sha256": "cfeefb3e4f01f82c108a6cbf4a157c0060205452ee8618ccb4c05dd44fa67319"
+              "size": 27531475,
+              "sha256": "e0509525000d1c80817620e40d4b5c400dfc926812626fc60d6d3553795201a5"
             }
           ]
         },
