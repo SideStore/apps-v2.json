@@ -140,12 +140,12 @@
           "track": "nightly",
           "releases": [
             {
-              "version": "0.6.4-20260908.1398+76a65f15",
-              "date": "2026-09-08T08:51:36Z",
-              "localizedDescription": "#### This is release for:\n  - version: \"0.6.4-20260908.1398+76a65f15\"\n  - revision: \"76a65f15\"\n  - timestamp: \"Tue Sep  8 08:51:36 2026\"\n\n#### What's Changed:\n- added swipe to delete for cert management\n- fix: ensure auth doesn't gives back cached session and creates a session based on fresh otp always (if required - meaning it can be cached if otp wasnt expired)\n- fix compile issues\n- streamline auth a bit more - ensure dev portal proxy calls auto get the latest auth session\n- maintenance - added force clearing of override ip coz localdevvpn 1.3.0 is out now\n- cleanup profiles parsing\n\n#### Full Changelog: [7195d19a...76a65f15](https://github.com/SideStore/SideStore/compare/7195d19a20df4bcb82b6e4ee020f237222a4686b...76a65f158e7f9e96c38ac8f117c1251caaa8ebe8)\n",
+              "version": "0.6.4-20260908.1399+69b4bd90",
+              "date": "2026-09-08T23:27:49Z",
+              "localizedDescription": "#### This is release for:\n  - version: \"0.6.4-20260908.1399+69b4bd90\"\n  - revision: \"69b4bd90\"\n  - timestamp: \"Tue Sep  8 23:27:49 2026\"\n\n#### What's Changed:\n- refine operation log summary\n- fix a codesign issue where coderesource builder was incorrectly including ignored files\n- fix: codesign progress was overflowing causign overall progress to backtrack - make codesign not report progress\n- added support for switching between resigned .ipa vs .app based sendAFC, install to eval time vs storage + export resigned app is now resigned ipa export\n- renamed zipApp to createIpa\n- added back zipping and tested again, install times of .ipa vs .app bundle is so drastic where resigned sendApp for .ipa is 10s while .app is 60s for a 130MB ipa isntall.\n- optimize: removed/merged duplicate steps of copy etc during pipeline start\n- cleanup + fixes/optimization for download operation to do a move from tmp to cache instead of doing a copy +  more logging\n- updated log tags\n- transition from roxas + switch prefetch handlers to async + remove redundant queue based completion handlers in db manager + update to nuke 13\n- updated submodule to latest\n- fix minimuxer backend change not being reflected due to caching\n- move appids edits into developer portal - so remove it from other places\n- added profile customizations during edits\n- added capability to create profiles manually if possible (paid accts) + show portal cert management\n- split listed(fetched) profile vs full profile(downloaded)\n- change naming to sidesign\n\n#### Full Changelog: [76a65f15...69b4bd90](https://github.com/SideStore/SideStore/compare/76a65f158e7f9e96c38ac8f117c1251caaa8ebe8...69b4bd90481be696addb91db4eff8adea9397ec9)\n",
               "downloadURL": "https://github.com/SideStore/SideStore/releases/download/nightly/SideStore.ipa",
-              "size": 27538857,
-              "sha256": "8a2bfba8b1911104b4ed9b969279dce7cd20acb5a66823848506a5709ae3bbd2"
+              "size": 27615574,
+              "sha256": "a1b3544a0843b5faed6f400c035d548abbe522eea02ab046c782945d75bbc9a4"
             }
           ]
         },
