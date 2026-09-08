@@ -140,12 +140,12 @@
           "track": "nightly",
           "releases": [
             {
-              "version": "0.6.4-20260907.1396+7195d19a",
-              "date": "2026-09-07T21:14:42Z",
-              "localizedDescription": "#### This is release for:\n  - version: \"0.6.4-20260907.1396+7195d19a\"\n  - revision: \"7195d19a\"\n  - timestamp: \"Mon Sep  7 21:14:42 2026\"\n\n#### What's Changed:\n- ensure all developer portal access goes thru proxy + added pull to refresh for developer services screens\n\n#### Full Changelog: [760203ba...7195d19a](https://github.com/SideStore/SideStore/compare/760203ba9cf3ec14a12b150edb17fb50f85be0dc...7195d19a20df4bcb82b6e4ee020f237222a4686b)\n",
+              "version": "0.6.4-20260908.1398+76a65f15",
+              "date": "2026-09-08T08:51:36Z",
+              "localizedDescription": "#### This is release for:\n  - version: \"0.6.4-20260908.1398+76a65f15\"\n  - revision: \"76a65f15\"\n  - timestamp: \"Tue Sep  8 08:51:36 2026\"\n\n#### What's Changed:\n- added swipe to delete for cert management\n- fix: ensure auth doesn't gives back cached session and creates a session based on fresh otp always (if required - meaning it can be cached if otp wasnt expired)\n- fix compile issues\n- streamline auth a bit more - ensure dev portal proxy calls auto get the latest auth session\n- maintenance - added force clearing of override ip coz localdevvpn 1.3.0 is out now\n- cleanup profiles parsing\n\n#### Full Changelog: [7195d19a...76a65f15](https://github.com/SideStore/SideStore/compare/7195d19a20df4bcb82b6e4ee020f237222a4686b...76a65f158e7f9e96c38ac8f117c1251caaa8ebe8)\n",
               "downloadURL": "https://github.com/SideStore/SideStore/releases/download/nightly/SideStore.ipa",
-              "size": 27531475,
-              "sha256": "e0509525000d1c80817620e40d4b5c400dfc926812626fc60d6d3553795201a5"
+              "size": 27538857,
+              "sha256": "8a2bfba8b1911104b4ed9b969279dce7cd20acb5a66823848506a5709ae3bbd2"
             }
           ]
         },
