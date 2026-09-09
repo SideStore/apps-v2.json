@@ -140,12 +140,12 @@
           "track": "nightly",
           "releases": [
             {
-              "version": "0.6.4-20260909.1403+f93a95c0",
-              "date": "2026-09-09T17:48:13Z",
-              "localizedDescription": "#### This is release for:\n  - version: \"0.6.4-20260909.1403+f93a95c0\"\n  - revision: \"f93a95c0\"\n  - timestamp: \"Wed Sep  9 17:48:13 2026\"\n\n#### What's Changed:\n- keep sources backup and restore wip to debug only\n\n#### Full Changelog: [a60b3343...f93a95c0](https://github.com/SideStore/SideStore/compare/a60b3343ef5af1b5429c5f096ac64ce5355aba26...f93a95c079057090bea355453ef24f6e8668dfa9)\n",
+              "version": "0.6.4-20260909.1404+8dd49df8",
+              "date": "2026-09-09T19:26:25Z",
+              "localizedDescription": "#### This is release for:\n  - version: \"0.6.4-20260909.1404+8dd49df8\"\n  - revision: \"8dd49df8\"\n  - timestamp: \"Wed Sep  9 19:26:25 2026\"\n\n#### What's Changed:\n- fixes for tvOS compile issues\n- fix-tvOS: our min ios is 15\n- v0.6.4-freeze\n\n#### Full Changelog: [0.6.4...8dd49df8](https://github.com/SideStore/SideStore/compare/f93a95c079057090bea355453ef24f6e8668dfa9...8dd49df80a9faad6af341267ad974e87afb7d4e5)\n",
               "downloadURL": "https://github.com/SideStore/SideStore/releases/download/nightly/SideStore.ipa",
-              "size": 27610163,
-              "sha256": "7485a51502efbad6ab78790669272815d8e79a28879c6edf1ac7f34f0298bdf8"
+              "size": 27615705,
+              "sha256": "6b2c16ed7d988fbaf535ded5a0f36982d907c74ef4b1209bcd4fd9cab0190f18"
             }
           ]
         },
