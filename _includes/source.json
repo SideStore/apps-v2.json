@@ -140,12 +140,12 @@
           "track": "nightly",
           "releases": [
             {
-              "version": "0.6.4-20260909.1402+a60b3343",
-              "date": "2026-09-09T17:39:08Z",
-              "localizedDescription": "#### This is release for:\n  - version: \"0.6.4-20260909.1402+a60b3343\"\n  - revision: \"a60b3343\"\n  - timestamp: \"Wed Sep  9 17:39:08 2026\"\n\n#### What's Changed:\n- update sidesign to latest\n- fix maintenance manager to run after db init so that db states to be migrated are also taken care\n- updated submodule to latest\n\n#### Full Changelog: [7eb35191...a60b3343](https://github.com/SideStore/SideStore/compare/7eb35191af5defadf1e72132f618276169ecc3d5...a60b3343ef5af1b5429c5f096ac64ce5355aba26)\n",
+              "version": "0.6.4-20260909.1403+f93a95c0",
+              "date": "2026-09-09T17:48:13Z",
+              "localizedDescription": "#### This is release for:\n  - version: \"0.6.4-20260909.1403+f93a95c0\"\n  - revision: \"f93a95c0\"\n  - timestamp: \"Wed Sep  9 17:48:13 2026\"\n\n#### What's Changed:\n- keep sources backup and restore wip to debug only\n\n#### Full Changelog: [a60b3343...f93a95c0](https://github.com/SideStore/SideStore/compare/a60b3343ef5af1b5429c5f096ac64ce5355aba26...f93a95c079057090bea355453ef24f6e8668dfa9)\n",
               "downloadURL": "https://github.com/SideStore/SideStore/releases/download/nightly/SideStore.ipa",
-              "size": 27616115,
-              "sha256": "867c6599094b30042ed7941b6944d0545fe6d88ce0f3f047bb6e47d1463aee9a"
+              "size": 27610163,
+              "sha256": "7485a51502efbad6ab78790669272815d8e79a28879c6edf1ac7f34f0298bdf8"
             }
           ]
         },
