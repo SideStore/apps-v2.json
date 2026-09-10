@@ -148,12 +148,12 @@
           "track": "nightly",
           "releases": [
             {
-              "version": "0.7.0-20260910.1408+c75fbf09",
-              "date": "2026-09-10T19:52:36Z",
-              "localizedDescription": "#### This is release for:\n  - version: \"0.7.0-20260910.1408+c75fbf09\"\n  - revision: \"c75fbf09\"\n  - timestamp: \"Thu Sep 10 19:52:36 2026\"\n\n#### What's Changed:\n- added a toggle to accept ipv6 connection config in developer options\n- updated sidesign to latest\n- bonjour-services: add v6 ips if available for v4 primary targets\n- handle tvOS profiles properly\n- fixes for tvOS app docs dir unavailability with caches dir\n\n#### Full Changelog: [610f3b16...c75fbf09](https://github.com/SideStore/SideStore/compare/610f3b16f956e1212f539f4a139cb4ad5f6a194a...c75fbf09974b018e13add10da8e2cec39d7712e1)\n",
+              "version": "0.7.0-20260910.1409+d91780c1",
+              "date": "2026-09-10T23:44:17Z",
+              "localizedDescription": "#### This is release for:\n  - version: \"0.7.0-20260910.1409+d91780c1\"\n  - revision: \"d91780c1\"\n  - timestamp: \"Thu Sep 10 23:44:17 2026\"\n\n#### What's Changed:\n- fix: make anisette client config fully customizable and move them together under anisette section of user customizations\n- feature: make anisette client config user customizable (all anisette modes)\n- fix: move out all constants throuought the app into AppConstants a central index + fix the anisette default client from Xcode to akd thereby fixing 5XX errors\n- updated sidesign to latest\n\n#### Full Changelog: [c75fbf09...d91780c1](https://github.com/SideStore/SideStore/compare/c75fbf09974b018e13add10da8e2cec39d7712e1...d91780c1313ca11d3dd06220b80a23a68c167340)\n",
               "downloadURL": "https://github.com/SideStore/SideStore/releases/download/nightly/SideStore.ipa",
-              "size": 27628451,
-              "sha256": "6f880d0aee35a16ae232dcfd0ec761b655c5ef8828193dcaf735dbac1c5d795e"
+              "size": 27663535,
+              "sha256": "7d51b7e77dcc2cb87d02035861f50b9389d0138f78c07eeeec996fa8e83bbbc7"
             }
           ]
         },
