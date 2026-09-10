@@ -343,9 +343,9 @@
       "notify": true
     },
     {
-      "title": "Error 0xe8008024 / 0xe8008018"
+      "title": "Error 0xe8008024 / 0xe8008018",
       "tintColor": "FF0F0F",
-      "caption": "We are aware of the issue and actively investigating it!"
+      "caption": "We are aware of the issue and actively investigating it!",
       "url": "https://github.com/nab138/iloader/issues/653#issuecomment-5600334928",
       "date": "2026-09-11",
       "notify": true
