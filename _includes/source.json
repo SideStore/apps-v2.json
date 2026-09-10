@@ -140,12 +140,12 @@
           "track": "nightly",
           "releases": [
             {
-              "version": "0.7.0-20260909.1406+610f3b16",
-              "date": "2026-09-09T20:10:00Z",
-              "localizedDescription": "#### This is release for:\n  - version: \"0.7.0-20260909.1406+610f3b16\"\n  - revision: \"610f3b16\"\n  - timestamp: \"Wed Sep  9 20:10:00 2026\"\n\n#### What's Changed:\n- bump version to 0.7.0\n\n#### Full Changelog: [b9d26dae...610f3b16](https://github.com/SideStore/SideStore/compare/b9d26daefe844b30a7446e6b8171500f9dbd380d...610f3b16f956e1212f539f4a139cb4ad5f6a194a)\n",
+              "version": "0.7.0-20260910.1408+c75fbf09",
+              "date": "2026-09-10T19:52:36Z",
+              "localizedDescription": "#### This is release for:\n  - version: \"0.7.0-20260910.1408+c75fbf09\"\n  - revision: \"c75fbf09\"\n  - timestamp: \"Thu Sep 10 19:52:36 2026\"\n\n#### What's Changed:\n- added a toggle to accept ipv6 connection config in developer options\n- updated sidesign to latest\n- bonjour-services: add v6 ips if available for v4 primary targets\n- handle tvOS profiles properly\n- fixes for tvOS app docs dir unavailability with caches dir\n\n#### Full Changelog: [610f3b16...c75fbf09](https://github.com/SideStore/SideStore/compare/610f3b16f956e1212f539f4a139cb4ad5f6a194a...c75fbf09974b018e13add10da8e2cec39d7712e1)\n",
               "downloadURL": "https://github.com/SideStore/SideStore/releases/download/nightly/SideStore.ipa",
-              "size": 27615685,
-              "sha256": "dd581d4bb291bded87c7bb2cd41af273eb8c76f0ec9572011eed6804d824dbc8"
+              "size": 27628451,
+              "sha256": "6f880d0aee35a16ae232dcfd0ec761b655c5ef8828193dcaf735dbac1c5d795e"
             }
           ]
         },
