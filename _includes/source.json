@@ -148,12 +148,12 @@
           "track": "nightly",
           "releases": [
             {
-              "version": "0.7.0-20260911.1412+23553472",
-              "date": "2026-09-11T02:49:18Z",
-              "localizedDescription": "#### This is release for:\n  - version: \"0.7.0-20260911.1412+23553472\"\n  - revision: \"23553472\"\n  - timestamp: \"Fri Sep 11 02:49:18 2026\"\n\n#### What's Changed:\n- fixes for profile generate view to properly show all the params during creation\n- updated submodule to latest\n- rewokr profile management in dev portal screen to match it with sidesign's profile management capabilities\n- updated dev portal apis to use updated profile management apis\n\n#### Full Changelog: [a8914028...23553472](https://github.com/SideStore/SideStore/compare/a8914028e7113de5328a7931f7bef5e474623689...235534726240153527c95dc69e95b555f9f00a22)\n",
+              "version": "0.7.0-20260911.1413+1f6c1261",
+              "date": "2026-09-11T03:30:25Z",
+              "localizedDescription": "#### This is release for:\n  - version: \"0.7.0-20260911.1413+1f6c1261\"\n  - revision: \"1f6c1261\"\n  - timestamp: \"Fri Sep 11 03:30:25 2026\"\n\n#### What's Changed:\n- do not limit cert create to specific types and let the apis throw\n- implemented rest of the cert types that are legacy\n- added CSR request type of cert before hand when doing a create\n\n#### Full Changelog: [23553472...1f6c1261](https://github.com/SideStore/SideStore/compare/235534726240153527c95dc69e95b555f9f00a22...1f6c126136cd78cce2af9d22d2ab75d101a0d087)\n",
               "downloadURL": "https://github.com/SideStore/SideStore/releases/download/nightly/SideStore.ipa",
-              "size": 27723776,
-              "sha256": "a322e091df62402164c1960e93c2f98427bb4f67ab6660e56b93bf508d04f985"
+              "size": 27733291,
+              "sha256": "8074966024d570dff7cfda750122e612dc682b66d18a2027217185c5f217adf8"
             }
           ]
         },
