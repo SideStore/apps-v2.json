@@ -148,12 +148,12 @@
           "track": "nightly",
           "releases": [
             {
-              "version": "0.7.0-20260911.1414+a30f68de",
-              "date": "2026-09-11T10:00:44Z",
-              "localizedDescription": "#### This is release for:\n  - version: \"0.7.0-20260911.1414+a30f68de\"\n  - revision: \"a30f68de\"\n  - timestamp: \"Fri Sep 11 10:00:44 2026\"\n\n#### What's Changed:\n- fixes for fetching all certs merged from both sources (developer, developerservices2) in case of paid accts while only developerservices2 in case of free accts\n\n#### Full Changelog: [1f6c1261...a30f68de](https://github.com/SideStore/SideStore/compare/1f6c126136cd78cce2af9d22d2ab75d101a0d087...a30f68de35776f7bd25f14729cead470ae55dedc)\n",
+              "version": "0.7.0-20260911.1415+c6f28864",
+              "date": "2026-09-11T10:17:23Z",
+              "localizedDescription": "#### This is release for:\n  - version: \"0.7.0-20260911.1415+c6f28864\"\n  - revision: \"c6f28864\"\n  - timestamp: \"Fri Sep 11 10:17:23 2026\"\n\n#### What's Changed:\n- added more fields available from api response for display\n- show count in the certificates section header\n\n#### Full Changelog: [a30f68de...c6f28864](https://github.com/SideStore/SideStore/compare/a30f68de35776f7bd25f14729cead470ae55dedc...c6f28864dc99ed03ad35f2ca58967247036b7b53)\n",
               "downloadURL": "https://github.com/SideStore/SideStore/releases/download/nightly/SideStore.ipa",
-              "size": 27754674,
-              "sha256": "1b4965926639c02a4e3c5d1d9ca979cdcd07352b93b431d2c96ebd4954cfad31"
+              "size": 27763911,
+              "sha256": "c40da71241abe4735efb1ac2958c6fd4c575a9675fcd7d319d6f875be6e574bc"
             }
           ]
         },
