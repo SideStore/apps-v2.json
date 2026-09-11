@@ -148,12 +148,12 @@
           "track": "nightly",
           "releases": [
             {
-              "version": "0.7.0-20260911.1413+1f6c1261",
-              "date": "2026-09-11T03:30:25Z",
-              "localizedDescription": "#### This is release for:\n  - version: \"0.7.0-20260911.1413+1f6c1261\"\n  - revision: \"1f6c1261\"\n  - timestamp: \"Fri Sep 11 03:30:25 2026\"\n\n#### What's Changed:\n- do not limit cert create to specific types and let the apis throw\n- implemented rest of the cert types that are legacy\n- added CSR request type of cert before hand when doing a create\n\n#### Full Changelog: [23553472...1f6c1261](https://github.com/SideStore/SideStore/compare/235534726240153527c95dc69e95b555f9f00a22...1f6c126136cd78cce2af9d22d2ab75d101a0d087)\n",
+              "version": "0.7.0-20260911.1414+a30f68de",
+              "date": "2026-09-11T10:00:44Z",
+              "localizedDescription": "#### This is release for:\n  - version: \"0.7.0-20260911.1414+a30f68de\"\n  - revision: \"a30f68de\"\n  - timestamp: \"Fri Sep 11 10:00:44 2026\"\n\n#### What's Changed:\n- fixes for fetching all certs merged from both sources (developer, developerservices2) in case of paid accts while only developerservices2 in case of free accts\n\n#### Full Changelog: [1f6c1261...a30f68de](https://github.com/SideStore/SideStore/compare/1f6c126136cd78cce2af9d22d2ab75d101a0d087...a30f68de35776f7bd25f14729cead470ae55dedc)\n",
               "downloadURL": "https://github.com/SideStore/SideStore/releases/download/nightly/SideStore.ipa",
-              "size": 27733291,
-              "sha256": "8074966024d570dff7cfda750122e612dc682b66d18a2027217185c5f217adf8"
+              "size": 27754674,
+              "sha256": "1b4965926639c02a4e3c5d1d9ca979cdcd07352b93b431d2c96ebd4954cfad31"
             }
           ]
         },
