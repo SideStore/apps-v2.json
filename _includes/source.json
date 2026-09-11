@@ -148,12 +148,12 @@
           "track": "nightly",
           "releases": [
             {
-              "version": "0.7.0-20260911.1410+a8914028",
-              "date": "2026-09-11T00:38:40Z",
-              "localizedDescription": "#### This is release for:\n  - version: \"0.7.0-20260911.1410+a8914028\"\n  - revision: \"a8914028\"\n  - timestamp: \"Fri Sep 11 00:38:40 2026\"\n\n#### What's Changed:\n- added sidesign request headers customizations\n- make all request headers fully customizable\n- include option to erase ani header customizations\n- diag: added dumping request headers in verbose mode\n- updated to latest\n\n#### Full Changelog: [d91780c1...a8914028](https://github.com/SideStore/SideStore/compare/d91780c1313ca11d3dd06220b80a23a68c167340...a8914028e7113de5328a7931f7bef5e474623689)\n",
+              "version": "0.7.0-20260911.1412+23553472",
+              "date": "2026-09-11T02:49:18Z",
+              "localizedDescription": "#### This is release for:\n  - version: \"0.7.0-20260911.1412+23553472\"\n  - revision: \"23553472\"\n  - timestamp: \"Fri Sep 11 02:49:18 2026\"\n\n#### What's Changed:\n- fixes for profile generate view to properly show all the params during creation\n- updated submodule to latest\n- rewokr profile management in dev portal screen to match it with sidesign's profile management capabilities\n- updated dev portal apis to use updated profile management apis\n\n#### Full Changelog: [a8914028...23553472](https://github.com/SideStore/SideStore/compare/a8914028e7113de5328a7931f7bef5e474623689...235534726240153527c95dc69e95b555f9f00a22)\n",
               "downloadURL": "https://github.com/SideStore/SideStore/releases/download/nightly/SideStore.ipa",
-              "size": 27705522,
-              "sha256": "80dee93927b613da4e7d91277dfca40ddb3cd8fb80be4b05f32bf072d192a1f6"
+              "size": 27723776,
+              "sha256": "a322e091df62402164c1960e93c2f98427bb4f67ab6660e56b93bf508d04f985"
             }
           ]
         },
