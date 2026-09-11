@@ -148,12 +148,12 @@
           "track": "nightly",
           "releases": [
             {
-              "version": "0.7.0-20260910.1409+d91780c1",
-              "date": "2026-09-10T23:44:17Z",
-              "localizedDescription": "#### This is release for:\n  - version: \"0.7.0-20260910.1409+d91780c1\"\n  - revision: \"d91780c1\"\n  - timestamp: \"Thu Sep 10 23:44:17 2026\"\n\n#### What's Changed:\n- fix: make anisette client config fully customizable and move them together under anisette section of user customizations\n- feature: make anisette client config user customizable (all anisette modes)\n- fix: move out all constants throuought the app into AppConstants a central index + fix the anisette default client from Xcode to akd thereby fixing 5XX errors\n- updated sidesign to latest\n\n#### Full Changelog: [c75fbf09...d91780c1](https://github.com/SideStore/SideStore/compare/c75fbf09974b018e13add10da8e2cec39d7712e1...d91780c1313ca11d3dd06220b80a23a68c167340)\n",
+              "version": "0.7.0-20260911.1410+a8914028",
+              "date": "2026-09-11T00:38:40Z",
+              "localizedDescription": "#### This is release for:\n  - version: \"0.7.0-20260911.1410+a8914028\"\n  - revision: \"a8914028\"\n  - timestamp: \"Fri Sep 11 00:38:40 2026\"\n\n#### What's Changed:\n- added sidesign request headers customizations\n- make all request headers fully customizable\n- include option to erase ani header customizations\n- diag: added dumping request headers in verbose mode\n- updated to latest\n\n#### Full Changelog: [d91780c1...a8914028](https://github.com/SideStore/SideStore/compare/d91780c1313ca11d3dd06220b80a23a68c167340...a8914028e7113de5328a7931f7bef5e474623689)\n",
               "downloadURL": "https://github.com/SideStore/SideStore/releases/download/nightly/SideStore.ipa",
-              "size": 27663535,
-              "sha256": "7d51b7e77dcc2cb87d02035861f50b9389d0138f78c07eeeec996fa8e83bbbc7"
+              "size": 27705522,
+              "sha256": "80dee93927b613da4e7d91277dfca40ddb3cd8fb80be4b05f32bf072d192a1f6"
             }
           ]
         },
