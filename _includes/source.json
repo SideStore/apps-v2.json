@@ -148,12 +148,12 @@
           "track": "nightly",
           "releases": [
             {
-              "version": "0.7.0-20260912.1426+252a1aa2",
-              "date": "2026-09-12T17:32:51Z",
-              "localizedDescription": "#### This is release for:\n  - version: \"0.7.0-20260912.1426+252a1aa2\"\n  - revision: \"252a1aa2\"\n  - timestamp: \"Sat Sep 12 17:32:51 2026\"\n\n#### What's Changed:\n- fix: cleanup the old mess since we already implemented .install to handle all 3 .app bundle and .ipa archive as AppProtocol and url\n- fix: remove the redundant predownload\n- fix: ensure cancellation is not an error thrown\n\n#### Full Changelog: [3c4b7851...252a1aa2](https://github.com/SideStore/SideStore/compare/3c4b78514e325cf38de04a2de5aa41b54b535840...252a1aa274f4440caef51c128c2f120f3b3523c5)\n",
+              "version": "0.7.0-20260912.1428+dab4f24a",
+              "date": "2026-09-12T17:45:30Z",
+              "localizedDescription": "#### This is release for:\n  - version: \"0.7.0-20260912.1428+dab4f24a\"\n  - revision: \"dab4f24a\"\n  - timestamp: \"Sat Sep 12 17:45:30 2026\"\n\n#### What's Changed:\n- fix: anchor the backup and restore action sheets so they don't crash on iPad\n- fix: do not throw if can't post notitification for expiration warning\n- fix: remove the masked error and rethrow original\n- fix: cleanup the old mess since we already implemented .install to handle all 3 .app bundle and .ipa archive as AppProtocol and url\n- fix: remove the redundant predownload\n- fix: ensure cancellation is not an error thrown\n\n#### Full Changelog: [3c4b7851...dab4f24a](https://github.com/SideStore/SideStore/compare/3c4b78514e325cf38de04a2de5aa41b54b535840...dab4f24ac55f4c01a55b9313e44016ba3a09006c)\n",
               "downloadURL": "https://github.com/SideStore/SideStore/releases/download/nightly/SideStore.ipa",
-              "size": 27781847,
-              "sha256": "504b04159255c75a5023749e10e85855a5bdce8a25830e7de3cca7102a01d81f"
+              "size": 27782586,
+              "sha256": "c8380c6c1e1eceeb66c00b9f127c7e368c0c997d2027bb635b0b6b24d0d91cc6"
             }
           ]
         },
