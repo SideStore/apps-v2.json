@@ -148,12 +148,12 @@
           "track": "nightly",
           "releases": [
             {
-              "version": "0.7.0-20260911.1418+6032424a",
-              "date": "2026-09-11T12:20:41Z",
-              "localizedDescription": "#### This is release for:\n  - version: \"0.7.0-20260911.1418+6032424a\"\n  - revision: \"6032424a\"\n  - timestamp: \"Fri Sep 11 12:20:41 2026\"\n\n#### What's Changed:\n- updated submodule to latest\n\n#### Full Changelog: [619b7b41...6032424a](https://github.com/SideStore/SideStore/compare/619b7b416cfcd0c53fd7375015ae134ef9c96d43...6032424a0e56c1c319762e786099bdd9186a238b)\n",
+              "version": "0.7.0-20260912.1420+029cbfc4",
+              "date": "2026-09-12T10:22:03Z",
+              "localizedDescription": "#### This is release for:\n  - version: \"0.7.0-20260912.1420+029cbfc4\"\n  - revision: \"029cbfc4\"\n  - timestamp: \"Sat Sep 12 10:22:03 2026\"\n\n#### What's Changed:\n- fixes for non-ascii chars in appNames - use transliterated value if available else fallback to bundleid without delimiter\n\n#### Full Changelog: [6032424a...029cbfc4](https://github.com/SideStore/SideStore/compare/6032424a0e56c1c319762e786099bdd9186a238b...029cbfc4adccd18f0605705d0045694099452c18)\n",
               "downloadURL": "https://github.com/SideStore/SideStore/releases/download/nightly/SideStore.ipa",
-              "size": 27763923,
-              "sha256": "d11a0d024b58fd407ede5c8152aa25925126945f5be49530cdfe6faff59cdf9b"
+              "size": 27765047,
+              "sha256": "72463d8f116557798e69326a947a8dbebe7073398fb82b976807e83444b8106b"
             }
           ]
         },
