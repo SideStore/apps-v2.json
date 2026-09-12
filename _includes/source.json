@@ -148,12 +148,12 @@
           "track": "nightly",
           "releases": [
             {
-              "version": "0.7.0-20260912.1420+029cbfc4",
-              "date": "2026-09-12T10:22:03Z",
-              "localizedDescription": "#### This is release for:\n  - version: \"0.7.0-20260912.1420+029cbfc4\"\n  - revision: \"029cbfc4\"\n  - timestamp: \"Sat Sep 12 10:22:03 2026\"\n\n#### What's Changed:\n- fixes for non-ascii chars in appNames - use transliterated value if available else fallback to bundleid without delimiter\n\n#### Full Changelog: [6032424a...029cbfc4](https://github.com/SideStore/SideStore/compare/6032424a0e56c1c319762e786099bdd9186a238b...029cbfc4adccd18f0605705d0045694099452c18)\n",
+              "version": "0.7.0-20260912.1421+9a50d975",
+              "date": "2026-09-12T12:15:23Z",
+              "localizedDescription": "#### This is release for:\n  - version: \"0.7.0-20260912.1421+9a50d975\"\n  - revision: \"9a50d975\"\n  - timestamp: \"Sat Sep 12 12:15:23 2026\"\n\n#### What's Changed:\n- fix: streamline sharesheet handling across swiftUI screens by using native .sheet modifier instead of using popovercontroller borrowed from uikit ViewControllers.\n\n#### Full Changelog: [029cbfc4...9a50d975](https://github.com/SideStore/SideStore/compare/029cbfc4adccd18f0605705d0045694099452c18...9a50d9756ce04bd409f337a73ce71f89eb9b46c2)\n",
               "downloadURL": "https://github.com/SideStore/SideStore/releases/download/nightly/SideStore.ipa",
-              "size": 27765047,
-              "sha256": "72463d8f116557798e69326a947a8dbebe7073398fb82b976807e83444b8106b"
+              "size": 27784849,
+              "sha256": "3e14b9d132cae62c4866dba765063c3ec4c4cbe2f19c07732bd3e00b0116706a"
             }
           ]
         },
