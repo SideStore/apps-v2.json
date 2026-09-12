@@ -148,12 +148,12 @@
           "track": "nightly",
           "releases": [
             {
-              "version": "0.7.0-20260912.1423+950e47e2",
-              "date": "2026-09-12T15:35:11Z",
-              "localizedDescription": "#### This is release for:\n  - version: \"0.7.0-20260912.1423+950e47e2\"\n  - revision: \"950e47e2\"\n  - timestamp: \"Sat Sep 12 15:35:11 2026\"\n\n#### What's Changed:\n- app-ex: make the label a bit shorter\n\n#### Full Changelog: [212d028a...950e47e2](https://github.com/SideStore/SideStore/compare/212d028a07033fc40ada10ffedb3582deafd9d49...950e47e2357c005845e7b39957c0a14c654866f2)\n",
+              "version": "0.7.0-20260912.1424+b2a1ee47",
+              "date": "2026-09-12T16:03:19Z",
+              "localizedDescription": "#### This is release for:\n  - version: \"0.7.0-20260912.1424+b2a1ee47\"\n  - revision: \"b2a1ee47\"\n  - timestamp: \"Sat Sep 12 16:03:19 2026\"\n\n#### What's Changed:\n- fix: improve robustness by trying latin-ascii transliteration else fallback to standard lossy conversion before trying rest of the modes\n\n#### Full Changelog: [950e47e2...b2a1ee47](https://github.com/SideStore/SideStore/compare/950e47e2357c005845e7b39957c0a14c654866f2...b2a1ee47aa2880d1c423ed08ff078f63779b3b22)\n",
               "downloadURL": "https://github.com/SideStore/SideStore/releases/download/nightly/SideStore.ipa",
-              "size": 27784020,
-              "sha256": "131866c4b8044d8d7dc5aa95272b2e08befba56303653989b93c84353ef9f9ed"
+              "size": 27783543,
+              "sha256": "0c849a0cb5f89441a1a071d6cbcc94a864ce0b901fbd2e472e082c35c3e955b3"
             }
           ]
         },
