@@ -148,12 +148,12 @@
           "track": "nightly",
           "releases": [
             {
-              "version": "0.7.0-20260912.1424+b2a1ee47",
-              "date": "2026-09-12T16:03:19Z",
-              "localizedDescription": "#### This is release for:\n  - version: \"0.7.0-20260912.1424+b2a1ee47\"\n  - revision: \"b2a1ee47\"\n  - timestamp: \"Sat Sep 12 16:03:19 2026\"\n\n#### What's Changed:\n- fix: improve robustness by trying latin-ascii transliteration else fallback to standard lossy conversion before trying rest of the modes\n\n#### Full Changelog: [950e47e2...b2a1ee47](https://github.com/SideStore/SideStore/compare/950e47e2357c005845e7b39957c0a14c654866f2...b2a1ee47aa2880d1c423ed08ff078f63779b3b22)\n",
+              "version": "0.7.0-20260912.1425+3c4b7851",
+              "date": "2026-09-12T17:06:26Z",
+              "localizedDescription": "#### This is release for:\n  - version: \"0.7.0-20260912.1425+3c4b7851\"\n  - revision: \"3c4b7851\"\n  - timestamp: \"Sat Sep 12 17:06:26 2026\"\n\n#### What's Changed:\n- feature: add dual sources (files app, url) for import in my apps view with a confirmation whether to install or not.\n\n#### Full Changelog: [b2a1ee47...3c4b7851](https://github.com/SideStore/SideStore/compare/b2a1ee47aa2880d1c423ed08ff078f63779b3b22...3c4b78514e325cf38de04a2de5aa41b54b535840)\n",
               "downloadURL": "https://github.com/SideStore/SideStore/releases/download/nightly/SideStore.ipa",
-              "size": 27783543,
-              "sha256": "0c849a0cb5f89441a1a071d6cbcc94a864ce0b901fbd2e472e082c35c3e955b3"
+              "size": 27789604,
+              "sha256": "3124bbce03c6959dce40815c43e0b57296c4267157dc20a608686efcacfd5933"
             }
           ]
         },
