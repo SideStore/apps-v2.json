@@ -148,12 +148,12 @@
           "track": "nightly",
           "releases": [
             {
-              "version": "0.7.0-20260913.1440+cb9e1313",
-              "date": "2026-09-13T22:38:18Z",
-              "localizedDescription": "#### This is release for:\n  - version: \"0.7.0-20260913.1440+cb9e1313\"\n  - revision: \"cb9e1313\"\n  - timestamp: \"Sun Sep 13 22:38:18 2026\"\n\n#### What's Changed:\n- cleanup the deactivate scan\n- cleanup the mess in the reconcileInstalledApps()\n- cleanup: use isExtension based detection\n- remove all the class based backdoor access in installed app\n- cleanup: remove the backdoor access thru class func in installed app and enforce strict access thru the fields on instance instead of open access thru static/class func\n- fixes for the signing cert caching to use resignedbundleid instead of normal bundleid\n- fix: let the finger printing decide to cache or not ie remove forced caching in debug Mode\n- fix: make reconcile at boot to use the new fingerprinted caching to detect if we really need to cache\n- feature: make cachedApp idempotent by computing merkele tree hash as signature of all collective files so that if same app is used we don't take up more space for caching - useful for cloing or multi-apps like itorrent etc\n- skip resign and how-tos during onboarding sign-in\n\n#### Full Changelog: [ae33c77e...cb9e1313](https://github.com/SideStore/SideStore/compare/ae33c77e980f23c2112b65e13e15e77960fc42df...cb9e1313bf26ab264586392d73b82af1d4f14f18)\n",
+              "version": "0.7.0-20260913.1443+57805920",
+              "date": "2026-09-13T23:10:46Z",
+              "localizedDescription": "#### This is release for:\n  - version: \"0.7.0-20260913.1443+57805920\"\n  - revision: \"57805920\"\n  - timestamp: \"Sun Sep 13 23:10:46 2026\"\n\n#### What's Changed:\n- fix: remove the unconditional setting of global cert as custom cert\n- fix: extension suffix was dropped\n- remove detached task since we are already in detached and a serial prune is fine\n\n#### Full Changelog: [cb9e1313...57805920](https://github.com/SideStore/SideStore/compare/cb9e1313bf26ab264586392d73b82af1d4f14f18...578059202ade8f027399a902fe3b93c6b82a6772)\n",
               "downloadURL": "https://github.com/SideStore/SideStore/releases/download/nightly/SideStore.ipa",
-              "size": 28395765,
-              "sha256": "dd7a55c60c666e784c28700bb04699c41abe71a690851154eca41d0a7977aa31"
+              "size": 28395129,
+              "sha256": "ba975269fc2a983bdf762e200592533e852ac2b8f556f3565c165aa45fbd31c0"
             }
           ]
         },
