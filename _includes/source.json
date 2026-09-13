@@ -148,12 +148,12 @@
           "track": "nightly",
           "releases": [
             {
-              "version": "0.7.0-20260913.1435+95c0d170",
-              "date": "2026-09-13T17:14:05Z",
-              "localizedDescription": "#### This is release for:\n  - version: \"0.7.0-20260913.1435+95c0d170\"\n  - revision: \"95c0d170\"\n  - timestamp: \"Sun Sep 13 17:14:05 2026\"\n\n#### What's Changed:\n- remove compat stuff since final structure is decently stable\n- prefer resigned id for caching\n- removed premature cleanup and prefer resigned bundleid since we just did install\n- merge multiple caching into one and do after install\n- added capability in appInfo to view resigned metadata vs cached bundle metadata based on availability.\n- feature: added .mobileprovision caching so that in appinfo view we can show real last resigned profile data.\n- fix: changes drafts should be held in own container so that edits of app, appex won't be interfering in each other\n\n#### Full Changelog: [31a96a60...95c0d170](https://github.com/SideStore/SideStore/compare/31a96a60c3e7e486af5573e1d7b8152d8350b751...95c0d17010ec7c949286fa4338856b144f2d07fe)\n",
+              "version": "0.7.0-20260913.1437+1ffc8496",
+              "date": "2026-09-13T17:53:03Z",
+              "localizedDescription": "#### This is release for:\n  - version: \"0.7.0-20260913.1437+1ffc8496\"\n  - revision: \"1ffc8496\"\n  - timestamp: \"Sun Sep 13 17:53:03 2026\"\n\n#### What's Changed:\n- fix(CI): Only run first-interaction for first time contributors\n- feat(ui): Add onboarding flow for first launch\n- feat(ui): Rewrite splash screen in SwiftUI\n- fix: remove implicit fallback behavirs (wip)\n\n#### Full Changelog: [95c0d170...1ffc8496](https://github.com/SideStore/SideStore/compare/95c0d17010ec7c949286fa4338856b144f2d07fe...1ffc84969323fc405b6d7ad9243000a39f55ea33)\n",
               "downloadURL": "https://github.com/SideStore/SideStore/releases/download/nightly/SideStore.ipa",
-              "size": 28082664,
-              "sha256": "2c844a2b604fbe053f17cda24f44ede1c41dc7d62ac37f205a3cac4e8ba57c97"
+              "size": 28371920,
+              "sha256": "d08f633b33f8d7500810919285e97ed09862fc792a29dd8ef7c142456b4895f6"
             }
           ]
         },
