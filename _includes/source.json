@@ -148,12 +148,12 @@
           "track": "nightly",
           "releases": [
             {
-              "version": "0.7.0-20260913.1434+31a96a60",
-              "date": "2026-09-13T15:50:52Z",
-              "localizedDescription": "#### This is release for:\n  - version: \"0.7.0-20260913.1434+31a96a60\"\n  - revision: \"31a96a60\"\n  - timestamp: \"Sun Sep 13 15:50:52 2026\"\n\n#### What's Changed:\n- remove identitiy entitlements from being customized coz they will get it right during resign anyways\n- remove redundant fallbacks to be deterministic\n- cleanup duplicate logic and streamline by making installedApp authoritative holder of truth\n- remove custom parsing with standard infoplist parser\n- added capability to patch info.plist of all bundles including main app and extensions\n- cleanup\n- refine the cahe customizations op by handling per appid for both info.plist and entitlements\n- rename to CacheUserCustomizationsOperation\n- handle extensions entitlrments processing properly\n- make the ellipsis in views if were cut short, expandable on tap\n- reorder things in user customizations\n- fixed missing imports and compile issues + remove unicode chars to denote \"...\"\n- fix: update to any sendable instead of any coz our plist data is usually sendable\n- moved up InfoPlistParser into SideSign\n- added entitlements customization feature\n- prep for entitlements and move things a bit around\n- [skip ci] AGENTS.md: Add agent guidelines (#1540)\n\n#### Full Changelog: [9b015d1f...31a96a60](https://github.com/SideStore/SideStore/compare/9b015d1f0fb0bb6e8cb32e218222bdf511e002b0...31a96a60c3e7e486af5573e1d7b8152d8350b751)\n",
+              "version": "0.7.0-20260913.1435+95c0d170",
+              "date": "2026-09-13T17:14:05Z",
+              "localizedDescription": "#### This is release for:\n  - version: \"0.7.0-20260913.1435+95c0d170\"\n  - revision: \"95c0d170\"\n  - timestamp: \"Sun Sep 13 17:14:05 2026\"\n\n#### What's Changed:\n- remove compat stuff since final structure is decently stable\n- prefer resigned id for caching\n- removed premature cleanup and prefer resigned bundleid since we just did install\n- merge multiple caching into one and do after install\n- added capability in appInfo to view resigned metadata vs cached bundle metadata based on availability.\n- feature: added .mobileprovision caching so that in appinfo view we can show real last resigned profile data.\n- fix: changes drafts should be held in own container so that edits of app, appex won't be interfering in each other\n\n#### Full Changelog: [31a96a60...95c0d170](https://github.com/SideStore/SideStore/compare/31a96a60c3e7e486af5573e1d7b8152d8350b751...95c0d17010ec7c949286fa4338856b144f2d07fe)\n",
               "downloadURL": "https://github.com/SideStore/SideStore/releases/download/nightly/SideStore.ipa",
-              "size": 28049763,
-              "sha256": "d6b51f894722c1d9caa16a810ca46c786ce81e044f3b492fd5d3326a346c5d78"
+              "size": 28082664,
+              "sha256": "2c844a2b604fbe053f17cda24f44ede1c41dc7d62ac37f205a3cac4e8ba57c97"
             }
           ]
         },
