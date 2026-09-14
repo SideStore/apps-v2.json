@@ -148,12 +148,12 @@
           "track": "nightly",
           "releases": [
             {
-              "version": "0.7.0-20260914.1444+02f541af",
-              "date": "2026-09-14T00:34:00Z",
-              "localizedDescription": "#### This is release for:\n  - version: \"0.7.0-20260914.1444+02f541af\"\n  - revision: \"02f541af\"\n  - timestamp: \"Mon Sep 14 00:34:00 2026\"\n\n#### What's Changed:\n- feature: update profiles management\n- feature: added profiles management\n\n#### Full Changelog: [57805920...02f541af](https://github.com/SideStore/SideStore/compare/578059202ade8f027399a902fe3b93c6b82a6772...02f541af83f4d37702d71ce03b425e5c9aa23954)\n",
+              "version": "0.7.0-20260914.1446+538a39a8",
+              "date": "2026-09-14T02:18:50Z",
+              "localizedDescription": "#### This is release for:\n  - version: \"0.7.0-20260914.1446+538a39a8\"\n  - revision: \"538a39a8\"\n  - timestamp: \"Mon Sep 14 02:18:50 2026\"\n\n#### What's Changed:\n- relax base delay for tunOnData to 1.0 so that it completes switching\n- restrict batched updates for profiles only when on cellular\n- use dialog for edits\n- use dialog for edits\n- reduce progress to 85% when in batch so that rest is taken care by the batch installer\n- ensure edits for the time delay doesn't accept invalid inputs\n- cleanup ie remove the empty fallback and use default values\n- feature: support group cell refresh\n- make cell refresh shortcut delay configurable\n- cellular refresh shortcuts name customization\n- added cellular guards for device calls\n- guard uninstall with the cell shortcut switching\n- added option to customize the appicon, profile during install\n\n#### Full Changelog: [02f541af...538a39a8](https://github.com/SideStore/SideStore/compare/02f541af83f4d37702d71ce03b425e5c9aa23954...538a39a8d593b804ee9da4821ac96dbea3d8728e)\n",
               "downloadURL": "https://github.com/SideStore/SideStore/releases/download/nightly/SideStore.ipa",
-              "size": 28488769,
-              "sha256": "9767c6b11123a4e3258c1949118360930b5b133b8a7312fb7005555255e44ac1"
+              "size": 28532178,
+              "sha256": "f8f2c6aa223b5048ec235cdfe23ba58ae15d8bbab896b1ff5905531e54a52d20"
             }
           ]
         },
