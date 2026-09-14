@@ -148,12 +148,12 @@
           "track": "nightly",
           "releases": [
             {
-              "version": "0.7.0-20260914.1446+538a39a8",
-              "date": "2026-09-14T02:18:50Z",
-              "localizedDescription": "#### This is release for:\n  - version: \"0.7.0-20260914.1446+538a39a8\"\n  - revision: \"538a39a8\"\n  - timestamp: \"Mon Sep 14 02:18:50 2026\"\n\n#### What's Changed:\n- relax base delay for tunOnData to 1.0 so that it completes switching\n- restrict batched updates for profiles only when on cellular\n- use dialog for edits\n- use dialog for edits\n- reduce progress to 85% when in batch so that rest is taken care by the batch installer\n- ensure edits for the time delay doesn't accept invalid inputs\n- cleanup ie remove the empty fallback and use default values\n- feature: support group cell refresh\n- make cell refresh shortcut delay configurable\n- cellular refresh shortcuts name customization\n- added cellular guards for device calls\n- guard uninstall with the cell shortcut switching\n- added option to customize the appicon, profile during install\n\n#### Full Changelog: [02f541af...538a39a8](https://github.com/SideStore/SideStore/compare/02f541af83f4d37702d71ce03b425e5c9aa23954...538a39a8d593b804ee9da4821ac96dbea3d8728e)\n",
+              "version": "0.7.0-20260914.1447+1fce70de",
+              "date": "2026-09-14T02:53:48Z",
+              "localizedDescription": "#### This is release for:\n  - version: \"0.7.0-20260914.1447+1fce70de\"\n  - revision: \"1fce70de\"\n  - timestamp: \"Mon Sep 14 02:53:48 2026\"\n\n#### What's Changed:\n- skip reconcileInstalledApps if we are in middle of active managing of an app - prevents cleanup of bundle when we use cell refresh and we open shortcuts and jump back and forth ie bg fg switching\n- fix: process from appex from installedApp first if present\n\n#### Full Changelog: [538a39a8...1fce70de](https://github.com/SideStore/SideStore/compare/538a39a8d593b804ee9da4821ac96dbea3d8728e...1fce70deedc7016ced63df5c27b0231eb85803cf)\n",
               "downloadURL": "https://github.com/SideStore/SideStore/releases/download/nightly/SideStore.ipa",
-              "size": 28532178,
-              "sha256": "f8f2c6aa223b5048ec235cdfe23ba58ae15d8bbab896b1ff5905531e54a52d20"
+              "size": 28537675,
+              "sha256": "251a2b0574c83481557a6b7b1b80ca01f4dc9b613a255bf1c3089e936004e615"
             }
           ]
         },
