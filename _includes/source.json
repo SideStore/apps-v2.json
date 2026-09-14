@@ -148,12 +148,12 @@
           "track": "nightly",
           "releases": [
             {
-              "version": "0.7.0-20260914.1447+1fce70de",
-              "date": "2026-09-14T02:53:48Z",
-              "localizedDescription": "#### This is release for:\n  - version: \"0.7.0-20260914.1447+1fce70de\"\n  - revision: \"1fce70de\"\n  - timestamp: \"Mon Sep 14 02:53:48 2026\"\n\n#### What's Changed:\n- skip reconcileInstalledApps if we are in middle of active managing of an app - prevents cleanup of bundle when we use cell refresh and we open shortcuts and jump back and forth ie bg fg switching\n- fix: process from appex from installedApp first if present\n\n#### Full Changelog: [538a39a8...1fce70de](https://github.com/SideStore/SideStore/compare/538a39a8d593b804ee9da4821ac96dbea3d8728e...1fce70deedc7016ced63df5c27b0231eb85803cf)\n",
+              "version": "0.7.0-20260914.1448+5e895d25",
+              "date": "2026-09-14T18:44:12Z",
+              "localizedDescription": "#### This is release for:\n  - version: \"0.7.0-20260914.1448+5e895d25\"\n  - revision: \"5e895d25\"\n  - timestamp: \"Mon Sep 14 18:44:12 2026\"\n\n#### What's Changed:\n- fix: added definitive waits for minimuxer to be ready upon cell shortcuts refresh\n- wg-cell-refresh-update: oops seems apple-wg-client drops connection if wifi or cell is not active on ios but supports without discrimination on macos - a bummer, so will show error message when trying to do cell refresh and is on wg mode\n- updated to latest\n- added diag logging\n- updated submodules to latest\n- fix: since wg is server connection is on-demand and keep-alive is 25 sec, we need to self probe wg client to trigger (ready!!) binding to our emp server from the client before confirming start() is complete\n- cleanup: fix warning\n\n#### Full Changelog: [1fce70de...5e895d25](https://github.com/SideStore/SideStore/compare/1fce70deedc7016ced63df5c27b0231eb85803cf...5e895d257174f38fd7394e7a18d940edd75d2b0f)\n",
               "downloadURL": "https://github.com/SideStore/SideStore/releases/download/nightly/SideStore.ipa",
-              "size": 28537675,
-              "sha256": "251a2b0574c83481557a6b7b1b80ca01f4dc9b613a255bf1c3089e936004e615"
+              "size": 28543286,
+              "sha256": "92e5d3c8df7a1b29dc03af2451d6429aa9b0133feba67a9e55eb55ba9ced9397"
             }
           ]
         },
