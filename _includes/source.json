@@ -148,12 +148,12 @@
           "track": "nightly",
           "releases": [
             {
-              "version": "0.7.0-20260914.1448+5e895d25",
-              "date": "2026-09-14T18:44:12Z",
-              "localizedDescription": "#### This is release for:\n  - version: \"0.7.0-20260914.1448+5e895d25\"\n  - revision: \"5e895d25\"\n  - timestamp: \"Mon Sep 14 18:44:12 2026\"\n\n#### What's Changed:\n- fix: added definitive waits for minimuxer to be ready upon cell shortcuts refresh\n- wg-cell-refresh-update: oops seems apple-wg-client drops connection if wifi or cell is not active on ios but supports without discrimination on macos - a bummer, so will show error message when trying to do cell refresh and is on wg mode\n- updated to latest\n- added diag logging\n- updated submodules to latest\n- fix: since wg is server connection is on-demand and keep-alive is 25 sec, we need to self probe wg client to trigger (ready!!) binding to our emp server from the client before confirming start() is complete\n- cleanup: fix warning\n\n#### Full Changelog: [1fce70de...5e895d25](https://github.com/SideStore/SideStore/compare/1fce70deedc7016ced63df5c27b0231eb85803cf...5e895d257174f38fd7394e7a18d940edd75d2b0f)\n",
+              "version": "0.7.0-20260914.1449+9eb9dc44",
+              "date": "2026-09-14T18:54:44Z",
+              "localizedDescription": "#### This is release for:\n  - version: \"0.7.0-20260914.1449+9eb9dc44\"\n  - revision: \"9eb9dc44\"\n  - timestamp: \"Mon Sep 14 18:54:44 2026\"\n\n#### What's Changed:\n- fix: added safeXXX minimuxer methods so that pre-req missing are handled properly\n\n#### Full Changelog: [5e895d25...9eb9dc44](https://github.com/SideStore/SideStore/compare/5e895d257174f38fd7394e7a18d940edd75d2b0f...9eb9dc447c1112a6cab3449c76dfd589aaf57b0b)\n",
               "downloadURL": "https://github.com/SideStore/SideStore/releases/download/nightly/SideStore.ipa",
-              "size": 28543286,
-              "sha256": "92e5d3c8df7a1b29dc03af2451d6429aa9b0133feba67a9e55eb55ba9ced9397"
+              "size": 28544568,
+              "sha256": "1a6b2dbfe1c8f5e2931d23b721c497782947f6a4ab9211e57c6406dc0b7d409a"
             }
           ]
         },
