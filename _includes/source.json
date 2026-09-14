@@ -148,12 +148,12 @@
           "track": "nightly",
           "releases": [
             {
-              "version": "0.7.0-20260913.1443+57805920",
-              "date": "2026-09-13T23:10:46Z",
-              "localizedDescription": "#### This is release for:\n  - version: \"0.7.0-20260913.1443+57805920\"\n  - revision: \"57805920\"\n  - timestamp: \"Sun Sep 13 23:10:46 2026\"\n\n#### What's Changed:\n- fix: remove the unconditional setting of global cert as custom cert\n- fix: extension suffix was dropped\n- remove detached task since we are already in detached and a serial prune is fine\n\n#### Full Changelog: [cb9e1313...57805920](https://github.com/SideStore/SideStore/compare/cb9e1313bf26ab264586392d73b82af1d4f14f18...578059202ade8f027399a902fe3b93c6b82a6772)\n",
+              "version": "0.7.0-20260914.1444+02f541af",
+              "date": "2026-09-14T00:34:00Z",
+              "localizedDescription": "#### This is release for:\n  - version: \"0.7.0-20260914.1444+02f541af\"\n  - revision: \"02f541af\"\n  - timestamp: \"Mon Sep 14 00:34:00 2026\"\n\n#### What's Changed:\n- feature: update profiles management\n- feature: added profiles management\n\n#### Full Changelog: [57805920...02f541af](https://github.com/SideStore/SideStore/compare/578059202ade8f027399a902fe3b93c6b82a6772...02f541af83f4d37702d71ce03b425e5c9aa23954)\n",
               "downloadURL": "https://github.com/SideStore/SideStore/releases/download/nightly/SideStore.ipa",
-              "size": 28395129,
-              "sha256": "ba975269fc2a983bdf762e200592533e852ac2b8f556f3565c165aa45fbd31c0"
+              "size": 28488769,
+              "sha256": "9767c6b11123a4e3258c1949118360930b5b133b8a7312fb7005555255e44ac1"
             }
           ]
         },
