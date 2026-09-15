@@ -156,12 +156,12 @@
           "track": "nightly",
           "releases": [
             {
-              "version": "0.7.0-20260915.1455+be577b91",
-              "date": "2026-09-15T18:11:04Z",
-              "localizedDescription": "#### This is release for:\n  - version: \"0.7.0-20260915.1455+be577b91\"\n  - revision: \"be577b91\"\n  - timestamp: \"Tue Sep 15 18:11:04 2026\"\n\n#### What's Changed:\n- migrate the cached signing_cert too\n- cleanup alt* keys from info plist including appgroups and replace appgroup lookup with machoparser to read from machO header quickly for active appgroup entilements as ground truth\n- cleanup legacy stuff\n- added pre db startup maintenence + cleanup by moving to sidestore convention\n- added auto migration of cached app to new format\n\n#### Full Changelog: [f6def3d4...be577b91](https://github.com/SideStore/SideStore/compare/f6def3d4782f785cbc1d7696332ca6e52ca72587...be577b91ceb132fa9b63a2697237449931dbb3d0)\n",
+              "version": "0.7.0-20260915.1456+797e0d46",
+              "date": "2026-09-15T18:28:52Z",
+              "localizedDescription": "#### This is release for:\n  - version: \"0.7.0-20260915.1456+797e0d46\"\n  - revision: \"797e0d46\"\n  - timestamp: \"Tue Sep 15 18:28:52 2026\"\n\n#### What's Changed:\n- fix: sidebackup install was dropping host app extensions entries in installedapp during installappoperation\n- updated appExtensions to use targetAppBundle.appExtensions directly since RemoveAppExtensionsOperation runs just before and removes unselected extensions from disk\n\n#### Full Changelog: [be577b91...797e0d46](https://github.com/SideStore/SideStore/compare/be577b91ceb132fa9b63a2697237449931dbb3d0...797e0d46c46491c7fba1192c789c016d24b35591)\n",
               "downloadURL": "https://github.com/SideStore/SideStore/releases/download/nightly/SideStore.ipa",
-              "size": 31118564,
-              "sha256": "689630c6798e674acf13966ab685dded1a4c0c60e563274e4a454066c7cc718a"
+              "size": 31117255,
+              "sha256": "04fd73c5d276023716c7df628941447c50e710f9300d96779ac9a522b794ea58"
             }
           ]
         },
