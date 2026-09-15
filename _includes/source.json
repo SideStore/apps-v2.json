@@ -156,12 +156,12 @@
           "track": "nightly",
           "releases": [
             {
-              "version": "0.7.0-20260915.1453+f6def3d4",
-              "date": "2026-09-15T17:15:53Z",
-              "localizedDescription": "#### This is release for:\n  - version: \"0.7.0-20260915.1453+f6def3d4\"\n  - revision: \"f6def3d4\"\n  - timestamp: \"Tue Sep 15 17:15:53 2026\"\n\n#### What's Changed:\n- missed adding info.plist changes in last commit for bg location services\n- added bg processing modes thru audio and location with choices\n\n#### Full Changelog: [9ee1899a...f6def3d4](https://github.com/SideStore/SideStore/compare/9ee1899a04b03dc0d0f66ebf5a61b41f1b49a68d...f6def3d4782f785cbc1d7696332ca6e52ca72587)\n",
+              "version": "0.7.0-20260915.1455+be577b91",
+              "date": "2026-09-15T18:11:04Z",
+              "localizedDescription": "#### This is release for:\n  - version: \"0.7.0-20260915.1455+be577b91\"\n  - revision: \"be577b91\"\n  - timestamp: \"Tue Sep 15 18:11:04 2026\"\n\n#### What's Changed:\n- migrate the cached signing_cert too\n- cleanup alt* keys from info plist including appgroups and replace appgroup lookup with machoparser to read from machO header quickly for active appgroup entilements as ground truth\n- cleanup legacy stuff\n- added pre db startup maintenence + cleanup by moving to sidestore convention\n- added auto migration of cached app to new format\n\n#### Full Changelog: [f6def3d4...be577b91](https://github.com/SideStore/SideStore/compare/f6def3d4782f785cbc1d7696332ca6e52ca72587...be577b91ceb132fa9b63a2697237449931dbb3d0)\n",
               "downloadURL": "https://github.com/SideStore/SideStore/releases/download/nightly/SideStore.ipa",
-              "size": 28585125,
-              "sha256": "eeeb504d8fd10711f0304f30563388e4d1cbfbaaed31cc47aaca1ca38e11ac28"
+              "size": 31118564,
+              "sha256": "689630c6798e674acf13966ab685dded1a4c0c60e563274e4a454066c7cc718a"
             }
           ]
         },
