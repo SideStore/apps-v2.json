@@ -18,7 +18,7 @@
         "https://sidestore.io/apps-v2.json/apps/sidestore/apps-light.png",
         "https://sidestore.io/apps-v2.json/apps/sidestore/news-light.png"
       ],
-      "version": "0.7.0",
+      "version": "0.7.0-20260911.328+6032424a",
       "localizedDescription": "#### What's Changed:\n- **fixes for 503 during sign-in**: There were some changes from apple server side which broke 0.6.4 and prior versions and prevent them from signing into sidestore. This temporary version addresses the sign-in issue with 503 status code\n\n\n#### Full Changelog: [0.6.3...0.6.4](https://github.com/SideStore/SideStore/compare/239fc7c2b7f3c319d3608bd49c30d1457216d5df...f93a95c079057090bea355453ef24f6e8668dfa9)",
       "date": "2026-09-11T21:25:58Z",
       "downloadURL": "https://github.com/SideStore/SideStore/releases/download/alpha/SideStore.ipa",
@@ -26,7 +26,7 @@
       "sha256": "e334f86e6ceeab2e0d886c07611246533f474bb18838cf13ebc09ed1f0d622b5",
       "versions": [
         {
-          "version": "0.7.0",
+          "version": "0.7.0-20260911.328+6032424a",
           "localizedDescription": "#### What's Changed:\n- **fixes for 503 during sign-in**: There were some changes from apple server side which broke 0.6.4 and prior versions and prevent them from signing into sidestore. This temporary version addresses the sign-in issue with 503 status code\n\n\n#### Full Changelog: [0.6.3...0.6.4](https://github.com/SideStore/SideStore/compare/239fc7c2b7f3c319d3608bd49c30d1457216d5df...f93a95c079057090bea355453ef24f6e8668dfa9)",
           "date": "2026-09-11T21:25:58Z",
           "downloadURL": "https://github.com/SideStore/SideStore/releases/download/alpha/SideStore.ipa",
@@ -182,7 +182,7 @@
           "track": "stable",
           "releases": [
             {
-              "version": "0.7.0",
+              "version": "0.7.0-20260911.328+6032424a",
               "localizedDescription": "#### What's Changed:\n- **fixes for 503 during sign-in**: There were some changes from apple server side which broke 0.6.4 and prior versions and prevent them from signing into sidestore. This temporary version addresses the sign-in issue with 503 status code\n\n\n#### Full Changelog: [0.6.3...0.6.4](https://github.com/SideStore/SideStore/compare/239fc7c2b7f3c319d3608bd49c30d1457216d5df...f93a95c079057090bea355453ef24f6e8668dfa9)",
               "date": "2026-09-11T21:25:58Z",
               "downloadURL": "https://github.com/SideStore/SideStore/releases/download/alpha/SideStore.ipa",
