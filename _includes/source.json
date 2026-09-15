@@ -156,12 +156,12 @@
           "track": "nightly",
           "releases": [
             {
-              "version": "0.7.0-20260915.1450+9ee1899a",
-              "date": "2026-09-15T00:58:18Z",
-              "localizedDescription": "#### This is release for:\n  - version: \"0.7.0-20260915.1450+9ee1899a\"\n  - revision: \"9ee1899a\"\n  - timestamp: \"Tue Sep 15 00:58:18 2026\"\n\n#### What's Changed:\n- updated minimuxer for on-device JIT support\n- fixes for enableJIT notifications - prefer notif and fallback to toast if not avail\n- promote cell refresh into user customizations now that it is stable\n\n#### Full Changelog: [9eb9dc44...9ee1899a](https://github.com/SideStore/SideStore/compare/9eb9dc447c1112a6cab3449c76dfd589aaf57b0b...9ee1899a04b03dc0d0f66ebf5a61b41f1b49a68d)\n",
+              "version": "0.7.0-20260915.1453+f6def3d4",
+              "date": "2026-09-15T17:15:53Z",
+              "localizedDescription": "#### This is release for:\n  - version: \"0.7.0-20260915.1453+f6def3d4\"\n  - revision: \"f6def3d4\"\n  - timestamp: \"Tue Sep 15 17:15:53 2026\"\n\n#### What's Changed:\n- missed adding info.plist changes in last commit for bg location services\n- added bg processing modes thru audio and location with choices\n\n#### Full Changelog: [9ee1899a...f6def3d4](https://github.com/SideStore/SideStore/compare/9ee1899a04b03dc0d0f66ebf5a61b41f1b49a68d...f6def3d4782f785cbc1d7696332ca6e52ca72587)\n",
               "downloadURL": "https://github.com/SideStore/SideStore/releases/download/nightly/SideStore.ipa",
-              "size": 28566698,
-              "sha256": "cca174ea1c1d57d53e530c50d3d2bd0a0d38371bd3d14abd085426659751c5b9"
+              "size": 28585125,
+              "sha256": "eeeb504d8fd10711f0304f30563388e4d1cbfbaaed31cc47aaca1ca38e11ac28"
             }
           ]
         },
