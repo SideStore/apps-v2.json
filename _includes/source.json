@@ -156,12 +156,12 @@
           "track": "nightly",
           "releases": [
             {
-              "version": "0.7.0-20260918.1463+155a9068",
-              "date": "2026-09-18T16:16:16Z",
-              "localizedDescription": "#### This is release for:\n  - version: \"0.7.0-20260918.1463+155a9068\"\n  - revision: \"155a9068\"\n  - timestamp: \"Fri Sep 18 16:16:16 2026\"\n\n#### What's Changed:\n- added option to use a default mode ie file picker vs url vs prompt user\n\n#### Full Changelog: [7864b482...155a9068](https://github.com/SideStore/SideStore/compare/7864b482a8754d7813b1def07649772dc84af483...155a9068f7a727c4b6e87d4361f0704502a10c16)\n",
+              "version": "0.7.0-20260918.1464+aaf63fde",
+              "date": "2026-09-18T16:28:48Z",
+              "localizedDescription": "#### This is release for:\n  - version: \"0.7.0-20260918.1464+aaf63fde\"\n  - revision: \"aaf63fde\"\n  - timestamp: \"Fri Sep 18 16:28:48 2026\"\n\n#### What's Changed:\n- switch to reinstall instead of resign coz we now support reinstall from cache (ie resign) + reinstall from source\n\n#### Full Changelog: [155a9068...aaf63fde](https://github.com/SideStore/SideStore/compare/155a9068f7a727c4b6e87d4361f0704502a10c16...aaf63fde2ca562fc3b032b5008fb3e3ef1f13257)\n",
               "downloadURL": "https://github.com/SideStore/SideStore/releases/download/nightly/SideStore.ipa",
-              "size": 31129027,
-              "sha256": "e04734a92e96f6fc3172663c2c534448bad6ae94ae0f429287df754433ce3e3b"
+              "size": 31130459,
+              "sha256": "2b4d458b356378a8ca7deeebaabd776aa230a60ddd0e6db221c431f6860822f4"
             }
           ]
         },
