@@ -156,12 +156,12 @@
           "track": "nightly",
           "releases": [
             {
-              "version": "0.7.0-20260918.1471+479c2b71",
-              "date": "2026-09-18T19:13:47Z",
-              "localizedDescription": "#### This is release for:\n  - version: \"0.7.0-20260918.1471+479c2b71\"\n  - revision: \"479c2b71\"\n  - timestamp: \"Fri Sep 18 19:13:47 2026\"\n\n#### What's Changed:\n- fix: sidejit server wasn't detecting server disabled and was showing \"resolving...\"\n- promote \"network discovery\" from experimental features into advanced settings\n\n#### Full Changelog: [67173ec4...479c2b71](https://github.com/SideStore/SideStore/compare/67173ec40d21bfc0138b4aedf551f796c967a4e9...479c2b715e77f3237b2c0409f9848bb8e1f2bf62)\n",
+              "version": "0.7.0-20260918.1472+e5d7fe31",
+              "date": "2026-09-18T21:30:59Z",
+              "localizedDescription": "#### This is release for:\n  - version: \"0.7.0-20260918.1472+e5d7fe31\"\n  - revision: \"e5d7fe31\"\n  - timestamp: \"Fri Sep 18 21:30:59 2026\"\n\n#### What's Changed:\n- refine wireless pairing pin view with .sheet\n- fixes for wireless pairing (bumped idevice to v0.1.68)\n\n#### Full Changelog: [479c2b71...e5d7fe31](https://github.com/SideStore/SideStore/compare/479c2b715e77f3237b2c0409f9848bb8e1f2bf62...e5d7fe31a1bb95dd2e3fcfd0f0603fc4d806dfaa)\n",
               "downloadURL": "https://github.com/SideStore/SideStore/releases/download/nightly/SideStore.ipa",
-              "size": 31150395,
-              "sha256": "9dda9d3b299ceb0070b2e7b7e3aee2644026e100248012b5ffd9aac1c88419c0"
+              "size": 31048762,
+              "sha256": "658b547562e6674d4d6a1d2a2592eada180952e75ef5d9330d89f160ec33f3c4"
             }
           ]
         },
