@@ -156,12 +156,12 @@
           "track": "nightly",
           "releases": [
             {
-              "version": "0.7.0-20260918.1470+67173ec4",
-              "date": "2026-09-18T18:55:53Z",
-              "localizedDescription": "#### This is release for:\n  - version: \"0.7.0-20260918.1470+67173ec4\"\n  - revision: \"67173ec4\"\n  - timestamp: \"Fri Sep 18 18:55:53 2026\"\n\n#### What's Changed:\n- implement zip backup export/import in addition to raw\n- fix cache management to reflect new cache structure\n\n#### Full Changelog: [4d88d36b...67173ec4](https://github.com/SideStore/SideStore/compare/4d88d36b0b7a6ef3cef4c9842389d11e0d0a9430...67173ec40d21bfc0138b4aedf551f796c967a4e9)\n",
+              "version": "0.7.0-20260918.1471+479c2b71",
+              "date": "2026-09-18T19:13:47Z",
+              "localizedDescription": "#### This is release for:\n  - version: \"0.7.0-20260918.1471+479c2b71\"\n  - revision: \"479c2b71\"\n  - timestamp: \"Fri Sep 18 19:13:47 2026\"\n\n#### What's Changed:\n- fix: sidejit server wasn't detecting server disabled and was showing \"resolving...\"\n- promote \"network discovery\" from experimental features into advanced settings\n\n#### Full Changelog: [67173ec4...479c2b71](https://github.com/SideStore/SideStore/compare/67173ec40d21bfc0138b4aedf551f796c967a4e9...479c2b715e77f3237b2c0409f9848bb8e1f2bf62)\n",
               "downloadURL": "https://github.com/SideStore/SideStore/releases/download/nightly/SideStore.ipa",
-              "size": 31150078,
-              "sha256": "ed23386858904a40c6e3507c906ba3be9e5db81f2518fff8325e04094a08a47a"
+              "size": 31150395,
+              "sha256": "9dda9d3b299ceb0070b2e7b7e3aee2644026e100248012b5ffd9aac1c88419c0"
             }
           ]
         },
