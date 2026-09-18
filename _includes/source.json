@@ -156,12 +156,12 @@
           "track": "nightly",
           "releases": [
             {
-              "version": "0.7.0-20260918.1466+8cfc525b",
-              "date": "2026-09-18T17:59:32Z",
-              "localizedDescription": "#### This is release for:\n  - version: \"0.7.0-20260918.1466+8cfc525b\"\n  - revision: \"8cfc525b\"\n  - timestamp: \"Fri Sep 18 17:59:32 2026\"\n\n#### What's Changed:\n- added auto-launch after finish of install\n\n#### Full Changelog: [e3cc023a...8cfc525b](https://github.com/SideStore/SideStore/compare/e3cc023aa8f31562f06534a5119be3d3781dfed0...8cfc525ba0b8bc23e9fe235dfe375c591966669b)\n",
+              "version": "0.7.0-20260918.1468+a9a458d9",
+              "date": "2026-09-18T18:31:18Z",
+              "localizedDescription": "#### This is release for:\n  - version: \"0.7.0-20260918.1468+a9a458d9\"\n  - revision: \"a9a458d9\"\n  - timestamp: \"Fri Sep 18 18:31:18 2026\"\n\n#### What's Changed:\n- updated package.resolved to latest\n- handle db downgrades gracefully with a clear message to user\n\n#### Full Changelog: [8cfc525b...a9a458d9](https://github.com/SideStore/SideStore/compare/8cfc525ba0b8bc23e9fe235dfe375c591966669b...a9a458d9bdb3db9041881664be2bdfd77e5eda2f)\n",
               "downloadURL": "https://github.com/SideStore/SideStore/releases/download/nightly/SideStore.ipa",
-              "size": 31138433,
-              "sha256": "b6695398b1bd6226e6e39d3b64505f9f27433313d088e8730f169c239bb339b8"
+              "size": 31144704,
+              "sha256": "091e46dfc5b8ed105e1ebc63a1d37c255a16631ed50f0e5012051b406349acc0"
             }
           ]
         },
