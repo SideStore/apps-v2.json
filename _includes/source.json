@@ -156,12 +156,12 @@
           "track": "nightly",
           "releases": [
             {
-              "version": "0.7.0-20260918.1468+a9a458d9",
-              "date": "2026-09-18T18:31:18Z",
-              "localizedDescription": "#### This is release for:\n  - version: \"0.7.0-20260918.1468+a9a458d9\"\n  - revision: \"a9a458d9\"\n  - timestamp: \"Fri Sep 18 18:31:18 2026\"\n\n#### What's Changed:\n- updated package.resolved to latest\n- handle db downgrades gracefully with a clear message to user\n\n#### Full Changelog: [8cfc525b...a9a458d9](https://github.com/SideStore/SideStore/compare/8cfc525ba0b8bc23e9fe235dfe375c591966669b...a9a458d9bdb3db9041881664be2bdfd77e5eda2f)\n",
+              "version": "0.7.0-20260918.1469+4d88d36b",
+              "date": "2026-09-18T18:41:20Z",
+              "localizedDescription": "#### This is release for:\n  - version: \"0.7.0-20260918.1469+4d88d36b\"\n  - revision: \"4d88d36b\"\n  - timestamp: \"Fri Sep 18 18:41:20 2026\"\n\n#### What's Changed:\n- removed fallback db creation when appgroup is inaccessible and show error\n\n#### Full Changelog: [a9a458d9...4d88d36b](https://github.com/SideStore/SideStore/compare/a9a458d9bdb3db9041881664be2bdfd77e5eda2f...4d88d36b0b7a6ef3cef4c9842389d11e0d0a9430)\n",
               "downloadURL": "https://github.com/SideStore/SideStore/releases/download/nightly/SideStore.ipa",
-              "size": 31144704,
-              "sha256": "091e46dfc5b8ed105e1ebc63a1d37c255a16631ed50f0e5012051b406349acc0"
+              "size": 31145038,
+              "sha256": "a7c2e5011d327fd81799d2e2c20cb22570662083e8f7abba240141342bb93991"
             }
           ]
         },
