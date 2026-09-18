@@ -156,12 +156,12 @@
           "track": "nightly",
           "releases": [
             {
-              "version": "0.7.0-20260918.1469+4d88d36b",
-              "date": "2026-09-18T18:41:20Z",
-              "localizedDescription": "#### This is release for:\n  - version: \"0.7.0-20260918.1469+4d88d36b\"\n  - revision: \"4d88d36b\"\n  - timestamp: \"Fri Sep 18 18:41:20 2026\"\n\n#### What's Changed:\n- removed fallback db creation when appgroup is inaccessible and show error\n\n#### Full Changelog: [a9a458d9...4d88d36b](https://github.com/SideStore/SideStore/compare/a9a458d9bdb3db9041881664be2bdfd77e5eda2f...4d88d36b0b7a6ef3cef4c9842389d11e0d0a9430)\n",
+              "version": "0.7.0-20260918.1470+67173ec4",
+              "date": "2026-09-18T18:55:53Z",
+              "localizedDescription": "#### This is release for:\n  - version: \"0.7.0-20260918.1470+67173ec4\"\n  - revision: \"67173ec4\"\n  - timestamp: \"Fri Sep 18 18:55:53 2026\"\n\n#### What's Changed:\n- implement zip backup export/import in addition to raw\n- fix cache management to reflect new cache structure\n\n#### Full Changelog: [4d88d36b...67173ec4](https://github.com/SideStore/SideStore/compare/4d88d36b0b7a6ef3cef4c9842389d11e0d0a9430...67173ec40d21bfc0138b4aedf551f796c967a4e9)\n",
               "downloadURL": "https://github.com/SideStore/SideStore/releases/download/nightly/SideStore.ipa",
-              "size": 31145038,
-              "sha256": "a7c2e5011d327fd81799d2e2c20cb22570662083e8f7abba240141342bb93991"
+              "size": 31150078,
+              "sha256": "ed23386858904a40c6e3507c906ba3be9e5db81f2518fff8325e04094a08a47a"
             }
           ]
         },
