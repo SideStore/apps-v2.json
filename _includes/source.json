@@ -156,12 +156,12 @@
           "track": "nightly",
           "releases": [
             {
-              "version": "0.7.0-20260918.1464+aaf63fde",
-              "date": "2026-09-18T16:28:48Z",
-              "localizedDescription": "#### This is release for:\n  - version: \"0.7.0-20260918.1464+aaf63fde\"\n  - revision: \"aaf63fde\"\n  - timestamp: \"Fri Sep 18 16:28:48 2026\"\n\n#### What's Changed:\n- switch to reinstall instead of resign coz we now support reinstall from cache (ie resign) + reinstall from source\n\n#### Full Changelog: [155a9068...aaf63fde](https://github.com/SideStore/SideStore/compare/155a9068f7a727c4b6e87d4361f0704502a10c16...aaf63fde2ca562fc3b032b5008fb3e3ef1f13257)\n",
+              "version": "0.7.0-20260918.1465+e3cc023a",
+              "date": "2026-09-18T17:49:42Z",
+              "localizedDescription": "#### This is release for:\n  - version: \"0.7.0-20260918.1465+e3cc023a\"\n  - revision: \"e3cc023a\"\n  - timestamp: \"Fri Sep 18 17:49:42 2026\"\n\n#### What's Changed:\n- added capability to clear customizations when app is detected as uninstalled or is being uninstalled\n- added install confirmation prompt to all possible screens from which install can be triggered including sources\n- added install confirmation settings in user customization\n\n#### Full Changelog: [aaf63fde...e3cc023a](https://github.com/SideStore/SideStore/compare/aaf63fde2ca562fc3b032b5008fb3e3ef1f13257...e3cc023aa8f31562f06534a5119be3d3781dfed0)\n",
               "downloadURL": "https://github.com/SideStore/SideStore/releases/download/nightly/SideStore.ipa",
-              "size": 31130459,
-              "sha256": "2b4d458b356378a8ca7deeebaabd776aa230a60ddd0e6db221c431f6860822f4"
+              "size": 31138487,
+              "sha256": "ef22e2abe88a0e64aa8d25933c6c8b7ca6f6b63e97617a9656bbee7f5727cefd"
             }
           ]
         },
