@@ -156,12 +156,12 @@
           "track": "nightly",
           "releases": [
             {
-              "version": "0.7.0-20260918.1472+e5d7fe31",
-              "date": "2026-09-18T21:30:59Z",
-              "localizedDescription": "#### This is release for:\n  - version: \"0.7.0-20260918.1472+e5d7fe31\"\n  - revision: \"e5d7fe31\"\n  - timestamp: \"Fri Sep 18 21:30:59 2026\"\n\n#### What's Changed:\n- refine wireless pairing pin view with .sheet\n- fixes for wireless pairing (bumped idevice to v0.1.68)\n\n#### Full Changelog: [479c2b71...e5d7fe31](https://github.com/SideStore/SideStore/compare/479c2b715e77f3237b2c0409f9848bb8e1f2bf62...e5d7fe31a1bb95dd2e3fcfd0f0603fc4d806dfaa)\n",
+              "version": "0.7.0-20260918.1473+70fe1602",
+              "date": "2026-09-18T21:43:39Z",
+              "localizedDescription": "#### This is release for:\n  - version: \"0.7.0-20260918.1473+70fe1602\"\n  - revision: \"70fe1602\"\n  - timestamp: \"Fri Sep 18 21:43:39 2026\"\n\n#### What's Changed:\n- moved pairing managment into own row \"Pairing File Management\"\n\n#### Full Changelog: [e5d7fe31...70fe1602](https://github.com/SideStore/SideStore/compare/e5d7fe31a1bb95dd2e3fcfd0f0603fc4d806dfaa...70fe16026838572e9697cd83bbe893dc8878b68f)\n",
               "downloadURL": "https://github.com/SideStore/SideStore/releases/download/nightly/SideStore.ipa",
-              "size": 31048762,
-              "sha256": "658b547562e6674d4d6a1d2a2592eada180952e75ef5d9330d89f160ec33f3c4"
+              "size": 31054071,
+              "sha256": "079ae72464649e7f2da09c2b3bf1a83c0d59b16affd0418e6ee8e246e63d478c"
             }
           ]
         },
