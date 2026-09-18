@@ -156,12 +156,12 @@
           "track": "nightly",
           "releases": [
             {
-              "version": "0.7.0-20260918.1461+2a2f4e1e",
-              "date": "2026-09-18T15:40:35Z",
-              "localizedDescription": "#### This is release for:\n  - version: \"0.7.0-20260918.1461+2a2f4e1e\"\n  - revision: \"2a2f4e1e\"\n  - timestamp: \"Fri Sep 18 15:40:35 2026\"\n\n#### What's Changed:\n- maintenance: added another force clearing of headers to prevent 503\n- gate auto retried port caching for rppairing in userdefault\n- stop bg services before we do self-reinstall to prevent hang coz our process is still alive\n- cache the last discovered rppairing port to use as initial seed in next boot\n\n#### Full Changelog: [87f72718...2a2f4e1e](https://github.com/SideStore/SideStore/compare/87f7271843190f988cd415ca54e47fe7453c73cc...2a2f4e1e313e87286a00227f7a5b9ab184b7fa7b)\n",
+              "version": "0.7.0-20260918.1462+7864b482",
+              "date": "2026-09-18T15:53:25Z",
+              "localizedDescription": "#### This is release for:\n  - version: \"0.7.0-20260918.1462+7864b482\"\n  - revision: \"7864b482\"\n  - timestamp: \"Fri Sep 18 15:53:25 2026\"\n\n#### What's Changed:\n- added custom filtering for resolveFirstService in bonjour manager\n\n#### Full Changelog: [2a2f4e1e...7864b482](https://github.com/SideStore/SideStore/compare/2a2f4e1e313e87286a00227f7a5b9ab184b7fa7b...7864b482a8754d7813b1def07649772dc84af483)\n",
               "downloadURL": "https://github.com/SideStore/SideStore/releases/download/nightly/SideStore.ipa",
-              "size": 31123970,
-              "sha256": "3c0d3506465381b2280be0b3382d2da57ed931c2f4ee4e23a48678e76d258428"
+              "size": 31123913,
+              "sha256": "28552f1c67ceb1390177268d95db75895d773d5d130ed4e3b336c07822cbcdf3"
             }
           ]
         },
