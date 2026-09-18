@@ -156,12 +156,12 @@
           "track": "nightly",
           "releases": [
             {
-              "version": "0.7.0-20260918.1473+70fe1602",
-              "date": "2026-09-18T21:43:39Z",
-              "localizedDescription": "#### This is release for:\n  - version: \"0.7.0-20260918.1473+70fe1602\"\n  - revision: \"70fe1602\"\n  - timestamp: \"Fri Sep 18 21:43:39 2026\"\n\n#### What's Changed:\n- moved pairing managment into own row \"Pairing File Management\"\n\n#### Full Changelog: [e5d7fe31...70fe1602](https://github.com/SideStore/SideStore/compare/e5d7fe31a1bb95dd2e3fcfd0f0603fc4d806dfaa...70fe16026838572e9697cd83bbe893dc8878b68f)\n",
+              "version": "0.7.0-20260918.1474+43e052cd",
+              "date": "2026-09-18T22:51:19Z",
+              "localizedDescription": "#### This is release for:\n  - version: \"0.7.0-20260918.1474+43e052cd\"\n  - revision: \"43e052cd\"\n  - timestamp: \"Fri Sep 18 22:51:19 2026\"\n\n#### What's Changed:\n- restore resign option and keep reinstall as explicit submenu item\n\n#### Full Changelog: [70fe1602...43e052cd](https://github.com/SideStore/SideStore/compare/70fe16026838572e9697cd83bbe893dc8878b68f...43e052cd970cb16fed6b0bb4feeaec5e5d7efae7)\n",
               "downloadURL": "https://github.com/SideStore/SideStore/releases/download/nightly/SideStore.ipa",
-              "size": 31054071,
-              "sha256": "079ae72464649e7f2da09c2b3bf1a83c0d59b16affd0418e6ee8e246e63d478c"
+              "size": 31059754,
+              "sha256": "41cc9e453f0cc328e050bf0be57a3529216a270a14bbafadace4d5407f204f4a"
             }
           ]
         },
