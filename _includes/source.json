@@ -156,12 +156,12 @@
           "track": "nightly",
           "releases": [
             {
-              "version": "0.7.0-20260918.1465+e3cc023a",
-              "date": "2026-09-18T17:49:42Z",
-              "localizedDescription": "#### This is release for:\n  - version: \"0.7.0-20260918.1465+e3cc023a\"\n  - revision: \"e3cc023a\"\n  - timestamp: \"Fri Sep 18 17:49:42 2026\"\n\n#### What's Changed:\n- added capability to clear customizations when app is detected as uninstalled or is being uninstalled\n- added install confirmation prompt to all possible screens from which install can be triggered including sources\n- added install confirmation settings in user customization\n\n#### Full Changelog: [aaf63fde...e3cc023a](https://github.com/SideStore/SideStore/compare/aaf63fde2ca562fc3b032b5008fb3e3ef1f13257...e3cc023aa8f31562f06534a5119be3d3781dfed0)\n",
+              "version": "0.7.0-20260918.1466+8cfc525b",
+              "date": "2026-09-18T17:59:32Z",
+              "localizedDescription": "#### This is release for:\n  - version: \"0.7.0-20260918.1466+8cfc525b\"\n  - revision: \"8cfc525b\"\n  - timestamp: \"Fri Sep 18 17:59:32 2026\"\n\n#### What's Changed:\n- added auto-launch after finish of install\n\n#### Full Changelog: [e3cc023a...8cfc525b](https://github.com/SideStore/SideStore/compare/e3cc023aa8f31562f06534a5119be3d3781dfed0...8cfc525ba0b8bc23e9fe235dfe375c591966669b)\n",
               "downloadURL": "https://github.com/SideStore/SideStore/releases/download/nightly/SideStore.ipa",
-              "size": 31138487,
-              "sha256": "ef22e2abe88a0e64aa8d25933c6c8b7ca6f6b63e97617a9656bbee7f5727cefd"
+              "size": 31138433,
+              "sha256": "b6695398b1bd6226e6e39d3b64505f9f27433313d088e8730f169c239bb339b8"
             }
           ]
         },
