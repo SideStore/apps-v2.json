@@ -156,12 +156,12 @@
           "track": "nightly",
           "releases": [
             {
-              "version": "0.7.0-20260918.1474+43e052cd",
-              "date": "2026-09-18T22:51:19Z",
-              "localizedDescription": "#### This is release for:\n  - version: \"0.7.0-20260918.1474+43e052cd\"\n  - revision: \"43e052cd\"\n  - timestamp: \"Fri Sep 18 22:51:19 2026\"\n\n#### What's Changed:\n- restore resign option and keep reinstall as explicit submenu item\n\n#### Full Changelog: [70fe1602...43e052cd](https://github.com/SideStore/SideStore/compare/70fe16026838572e9697cd83bbe893dc8878b68f...43e052cd970cb16fed6b0bb4feeaec5e5d7efae7)\n",
+              "version": "0.7.0-20260919.1476+d664a90c",
+              "date": "2026-09-19T19:50:25Z",
+              "localizedDescription": "#### This is release for:\n  - version: \"0.7.0-20260919.1476+d664a90c\"\n  - revision: \"d664a90c\"\n  - timestamp: \"Sat Sep 19 19:50:25 2026\"\n\n#### What's Changed:\n- cleanup old stuff\n- added toggle to enable minimuxer backed hotswap in developer options\n- developer-option: dump profiles as zip\n- fetchUDID is now throwing if cannot fetch\n- cleanup of wrapper to reflect latest Minimuxer API changes\n- sidebackup: updated message to reflect current action items possible\n- cleanup - remove old stuff\n\n#### Full Changelog: [43e052cd...d664a90c](https://github.com/SideStore/SideStore/compare/43e052cd970cb16fed6b0bb4feeaec5e5d7efae7...d664a90c3138c567fccc410409d313f1008fbd58)\n",
               "downloadURL": "https://github.com/SideStore/SideStore/releases/download/nightly/SideStore.ipa",
-              "size": 31059754,
-              "sha256": "41cc9e453f0cc328e050bf0be57a3529216a270a14bbafadace4d5407f204f4a"
+              "size": 31037357,
+              "sha256": "c1295b9497606a7303a18af6e84108e40a8f0ef6a76a63ea87fb6cb17f47debd"
             }
           ]
         },
