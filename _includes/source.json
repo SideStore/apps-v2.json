@@ -156,12 +156,12 @@
           "track": "nightly",
           "releases": [
             {
-              "version": "0.7.0-20260919.1477+e1260ada",
-              "date": "2026-09-19T20:08:58Z",
-              "localizedDescription": "#### This is release for:\n  - version: \"0.7.0-20260919.1477+e1260ada\"\n  - revision: \"e1260ada\"\n  - timestamp: \"Sat Sep 19 20:08:58 2026\"\n\n#### What's Changed:\n- updated minimuxer error handling\n- fix: updated pairing error message to reflect proper solution\n- fix: updated pairing error message to reflect proper solution\n\n#### Full Changelog: [d664a90c...e1260ada](https://github.com/SideStore/SideStore/compare/d664a90c3138c567fccc410409d313f1008fbd58...e1260adaaf3d8d84b1afbacc0f8039c5f185a043)\n",
+              "version": "0.7.0-20260920.1479+0dd743f7",
+              "date": "2026-09-20T03:17:25Z",
+              "localizedDescription": "#### This is release for:\n  - version: \"0.7.0-20260920.1479+0dd743f7\"\n  - revision: \"0dd743f7\"\n  - timestamp: \"Sun Sep 20 03:17:25 2026\"\n\n#### What's Changed:\n- fix: should use session level delegate instead of task level delegate\n- fixes for markdown rendering in protcol mismatch vs preferred\n- cleanup + remprompt when loaded pairing isnt the one that is preferred + fixes for clearing\n- cleanup + remprompt when loaded pairing isnt the one that is preferred\n- fix: remove inadvertently overwriting preferred protocol\n- move hotswap into experimental for now\n- pairing flow refinements\n- boot manager cleanup to reflect new pairing flow\n- minimuxer wrapper layer cleanup\n- cleanup\n- split into view + vm\n- cleanup\n- cleanup: move name to separate row\n- reaname pairing file names to be of same length\n- fix: centralize pairing managment stuff into pairing file manager\n- cleanup move the supported pairing types into manager\n- cleanup: move deeplink handling into own files\n- implement dual pairing file support\n- move things around - restructure\n\n#### Full Changelog: [e1260ada...0dd743f7](https://github.com/SideStore/SideStore/compare/e1260adaaf3d8d84b1afbacc0f8039c5f185a043...0dd743f75afc358b0ba4a002feb5f19474492371)\n",
               "downloadURL": "https://github.com/SideStore/SideStore/releases/download/nightly/SideStore.ipa",
-              "size": 31041446,
-              "sha256": "4b45989f3fc2a87b9786e26629caa1eb45510680431177315897a3ca3922e81d"
+              "size": 31135308,
+              "sha256": "853140e900ff8e4174b5c2411dba8065e55b4c269981e36692d8ad00a4718a39"
             }
           ]
         },
