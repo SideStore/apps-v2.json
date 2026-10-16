@@ -156,12 +156,12 @@
           "track": "nightly",
           "releases": [
             {
-              "version": "0.7.0-20261013.1503+12ff39c6",
-              "date": "2026-10-13T20:51:12Z",
-              "localizedDescription": "#### This is release for:\n  - version: \"0.7.0-20261013.1503+12ff39c6\"\n  - revision: \"12ff39c6\"\n  - timestamp: \"Tue Oct 13 20:51:12 2026\"\n\n#### What's Changed:\n- fix: update SideSign\n\n#### Full Changelog: [0dd743f7...12ff39c6](https://github.com/SideStore/SideStore/compare/0dd743f75afc358b0ba4a002feb5f19474492371...12ff39c6b6c0ccd8180f0834a893a4bbaf7bcd31)\n",
+              "version": "0.7.0-20261016.1506+d97ec133",
+              "date": "2026-10-16T05:17:35Z",
+              "localizedDescription": "#### This is release for:\n  - version: \"0.7.0-20261016.1506+d97ec133\"\n  - revision: \"d97ec133\"\n  - timestamp: \"Fri Oct 16 05:17:35 2026\"\n\n#### What's Changed:\n- fix: revert the revert for now until actual investigation\n- fix: attempt to fix pairing file issues\n\n#### Full Changelog: [12ff39c6...d97ec133](https://github.com/SideStore/SideStore/compare/12ff39c6b6c0ccd8180f0834a893a4bbaf7bcd31...d97ec133719d79916675bdaf722b82a8d091d545)\n",
               "downloadURL": "https://github.com/SideStore/SideStore/releases/download/nightly/SideStore.ipa",
-              "size": 31137651,
-              "sha256": "b082a52e2b1949200caeaba9a72767004a99c850b5bcbe964b6edf076535d4ac"
+              "size": 31137643,
+              "sha256": "b6855f5a055e3068e136f2bafb97d6da1cbea188a7d1778dd26d3d8d8a4caad2"
             }
           ]
         },
