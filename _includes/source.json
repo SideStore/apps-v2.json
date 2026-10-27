@@ -156,12 +156,12 @@
           "track": "nightly",
           "releases": [
             {
-              "version": "0.7.0-20261016.1506+d97ec133",
-              "date": "2026-10-16T05:17:35Z",
-              "localizedDescription": "#### This is release for:\n  - version: \"0.7.0-20261016.1506+d97ec133\"\n  - revision: \"d97ec133\"\n  - timestamp: \"Fri Oct 16 05:17:35 2026\"\n\n#### What's Changed:\n- fix: revert the revert for now until actual investigation\n- fix: attempt to fix pairing file issues\n\n#### Full Changelog: [12ff39c6...d97ec133](https://github.com/SideStore/SideStore/compare/12ff39c6b6c0ccd8180f0834a893a4bbaf7bcd31...d97ec133719d79916675bdaf722b82a8d091d545)\n",
+              "version": "0.7.0-20261027.1507+cd260851",
+              "date": "2026-10-27T04:19:32Z",
+              "localizedDescription": "#### This is release for:\n  - version: \"0.7.0-20261027.1507+cd260851\"\n  - revision: \"cd260851\"\n  - timestamp: \"Tue Oct 27 04:19:32 2026\"\n\n#### What's Changed:\n- Update SDK to 27.2 and runner to xcode-27\n\n#### Full Changelog: [d97ec133...cd260851](https://github.com/SideStore/SideStore/compare/d97ec133719d79916675bdaf722b82a8d091d545...cd260851ae99bf1fc946b123db24e89c8cd21dc6)\n",
               "downloadURL": "https://github.com/SideStore/SideStore/releases/download/nightly/SideStore.ipa",
-              "size": 31137643,
-              "sha256": "b6855f5a055e3068e136f2bafb97d6da1cbea188a7d1778dd26d3d8d8a4caad2"
+              "size": 30681634,
+              "sha256": "3423b6296158713d9497cd6c0816c3214e2369abf40d772e1249d7c2096316fc"
             }
           ]
         },
